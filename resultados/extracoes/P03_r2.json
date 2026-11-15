@@ -1,0 +1,54 @@
+{
+  "id": "P03",
+  "processo": "00261.001882/2022-73",
+  "rodada": 2,
+  "modelo": "qwen3:8b",
+  "versao_prompt": "v1",
+  "entrada": "texto_paginas_selecionadas",
+  "segundos": 5.5,
+  "uso": {
+    "tokens_entrada": 20813,
+    "tokens_saida": 352
+  },
+  "data_utc": "2026-11-15T19:10:11+00:00",
+  "extracao": {
+    "papel": "nao_informado",
+    "setor": "publico",
+    "fase": "aplicada_em_despacho",
+    "condutas": [
+      {
+        "dispositivo": "LGPD, art. 48",
+        "descricao": "Falta de comunicação aos titulares de incidente de segurança",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "multa_diaria",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "A CIS aos titulares foi realizada em 16/09/2022, às 15h07 (item [5.29])."
+      },
+      {
+        "dispositivo": "LGPD, art. 49",
+        "descricao": "Falta de medidas de segurança para proteger dados pessoais",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "multa_diaria",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "A vulnerabilidade no sistema SCPA permitia a exposição de dados pessoais sem autenticação prévia (item [5.10])."
+      }
+    ],
+    "evidencia_papel": "não_informado"
+  }
+}

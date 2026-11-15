@@ -1,0 +1,46 @@
+{
+  "id": "P02",
+  "processo": "00261.000456/2022-12",
+  "rodada": 3,
+  "modelo": "gemini-3.8-flash",
+  "versao_prompt": "v1",
+  "entrada": "texto",
+  "segundos": 30.9,
+  "uso": {
+    "tokens_entrada": 36160,
+    "tokens_saida": 412
+  },
+  "data_utc": "2026-11-06T00:36:05+00:00",
+  "extracao": {
+    "papel": "controlador",
+    "setor": "publico",
+    "fase": "sugerida_no_relatorio",
+    "condutas": [
+      {
+        "dispositivo": "LGPD art. 23, III",
+        "descricao": "Nao comprovacao da indicacao de encarregado pelo tratamento de dados pessoais por pessoa juridica de direito publico.",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": null
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "Por violação ao art. 23, Ili, da LGPD, a aplicação da sanção de ADVERTÊNCIA ao Ministério da Saúde, sem a imposição de medida corretiva, nos termos dos itens [Item 7.33] a [Item 7.38] deste Relatório de Instrução."
+      },
+      {
+        "dispositivo": "LGPD art. 38",
+        "descricao": "Ausencia de apresentacao da totalidade dos relatorios de impacto a protecao de dados pessoais apos requisicao da autoridade.",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": null
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "Por violação ao art. 38 da LGPD, a aplicação da sanção de ADVERTÊNCIA ao Ministério da Saúde, com a imposição de duas medidas corretivas (com a possibilidade de adoção de uma medida corretiva alternativa)"
+      }
+    ],
+    "evidencia_papel": "1.3. Agente de tratamento:  (X) Controlador ( ) Operador"
+  }
+}

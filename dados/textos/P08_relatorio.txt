@@ -1,0 +1,954 @@
+[PAGINA 1]
+Processo nº 00261.000574/2022-21
+ 
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+Coordenação-Geral de Fiscalização
+ 
+Nº 3/2023/CGF/ANPD
+[1]
+ 
+1
+.
+IDENTIFICAÇÃO
+1
+.
+1
+.
+Nome/Razão Social do Autuado: 
+Instituto de Pesquisas Jardim Botânico do Rio de Janeiro -
+JBRJ.
+1
+.
+2
+.
+CPF/CNPJ do Autuado: 
+04.936.616/0001-20.
+1
+.
+3
+.
+Agente de tratamento: (x) Controlador ( ) Operador
+1
+.
+4
+.
+Nome do Encarregado ou Responsável Jurídico:
+ Laura Estela Madeira de Carvalho.
+1
+.
+5
+.
+Contato do Encarregado ou Responsável Jurídico:
+ [EMAIL].
+2
+.
+REFERÊNCIAS
+2
+.
+1
+.
+Lei nº 13.709, de 14 de agosto de 2018 – Lei de Geral de Proteção de Dados Pessoais
+(LGPD);
+2
+.
+2
+.
+Regimento Interno da Autoridade Nacional de Proteção de Dados, aprovado pela Portaria nº
+01, de 08/03/2021 (RI-ANPD);
+2
+.
+3
+.
+Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador no
+âmbito da ANPD, aprovado pela Resolução CD/ANPD nº 1, de 28/10/2021 (Regulamento de
+Fiscalização);
+2
+.
+4
+.
+Regulamento de Dosimetria e Aplicação de Sanções Administrativas, aprovado pela
+Resolução CD/ANPD nº 4, de 24/02/2023 (Regulamento de Dosimetria);
+2
+.
+5
+.
+Processo SUPER nº 
+00261.000139/2022-04
+.
+3
+.
+SUMÁRIO EXECUTIVO DO PROCESSO
+3
+.
+1
+.
+Número do Auto de Infração: 
+Auto de Infração nº 4/2022/CGF/ANPD
+ (
+3252081
+).
+3
+.
+2
+.
+Data de lavratura do Auto de Infração: 22/03/2022
+3
+.
+3
+.
+Forma da Intimação: ( ) Meio eletrônico (x) Via postal ( ) Pessoal ( ) Comparecimento
+pessoal ( ) Por edital ( ) Cooperação internacional ( ) Outro meios
+3
+.
+4
+.
+Confirmação da Intimação: Recibo OFÍCIO Nº 93/2022/CGF/ANPD/PR com-anexos
+(
+3258816
+).
+3
+.
+5
+.
+Dados de quem recebeu a intimação: Ana Lúcia Santoro, Presidente do Instituto de
+Pesquisas Jardim Botânico do Rio de Janeiro
+3
+.
+6
+.
+Dispositivo(s) Legal(is) e Regulamentar(es) Infringido(s):
+a) 
+Lei Geral de Proteção de Dados:
+Art. 48 – ausência de comunicado de incidente de segurança (CIS)
+b ) 
+Regulamento do Processo de Fiscalização e do Processo Administrativo
+RELATÓRIO DE INSTRUÇÃO 
+Relatório 3 /2023 de Instrução (4504630)         SEI 00261.000574/2022-21 / pg. 1
+[PAGINA 2]
+Sancionador, aprovado pela Resolução CD/ANPD nº 1, de 28/10/2021
+ (Regulamento de Fiscalização):
+Art. 5º - Não atendimento às requisições da ANPD.
+3
+.
+8
+.
+Data de Apresentação da Defesa: 07/04/2022 - Documento Requerimento Oficio 221/2022
+(3295740) (
+3365828
+); Documento Anexo Portaria de Pessoal 168/2021 (3295741) (
+3365832
+); Documento
+Anexo II - Confirmação de Recebimento de Apoio (
+3365847
+); Documento Anexo III - Nota Técnica
+181/2022 (3295743) (
+3365854
+).
+3
+.
+9
+.
+Produção de Prova(s) pelo Autuado: (x) Não ( )Sim. 
+3
+.
+10
+.
+Produção de Prova(s) pela ANPD: (x) Não ( ) Sim. 
+3
+.
+11
+.
+Terceiro(s) Interessado(s): (x) Não ( ) Sim. 
+3
+.
+12
+.
+Termo de Ajustamento de Conduta: (x) Não ( ) Sim.
+3
+.
+13
+.
+Alegações Finais: ( ) Não (x) Sim - Alegações Alegações Finais - Ofício do JBRJ
+(
+4251013
+); Portaria GT Privacidade do JBRJ (
+4251031
+); Plano Planejamento de adequação Projeto Piloto
+(
+4251053
+); Programa de Governança em Privacidade (
+4251076
+); Portaria Criação Comitê de Privacidade
+(
+4251095
+); Anexo Informações sobre LGPD no JBRJ (
+4251110
+); Anexo Print tela evento capacitação
+(
+4251147
+).
+3
+.
+14
+.
+Medida(s) Preventiva(s) Aplicada(s) com base no Art. 32 do Regulamento de
+Fiscalização: ( ) Não (x) Sim - Aviso 007/2022 (
+3144774
+).
+3
+.
+15
+.
+Medida(s) Preventiva(s) Aplicada(s)  com base no Art. 7º, IV, da Portaria nº 1/2021 (RI-
+ANPD): (x) Não ( ) Sim.
+4
+.
+RELATÓRIO
+4
+.
+1
+.
+Nos termos do art. 54 do Regulamento da Fiscalização aprovado pela Resolução CD/ANPD
+nº 1, de 28/10/2021, este processo foi instaurado pela Coordenação-Geral de Fiscalização (CGF/ANPD)
+para apuração, pela Coordenação de Fiscalização, de existência de conduta em desconformidade com a
+legislação de proteção de dados. À Coordenação de Fiscalização, ao fim da instrução do processo, cabe a
+elaboração do Relatório de Instrução que 
+subsidiará a decisão de primeira instância e este processo
+ 
+seguirá concluso à
+ Coordenação-Geral de Fiscalização (CGF/ANPD)
+ para decisão
+. Assim, em
+ 
+consonância com os ditames normativos aplicáveis ao caso e demais documentos que constam
+ 
+dos autos, passa-se ao detalhamento 
+dos 
+atos processuais até a presente data.
+ 
+4
+.
+2
+.
+Em 26/01/2022, o
+ 
+Processo de Fiscalização nº 
+00261.000139/2022-04
+ foi instaurado 
+para
+apuração de incidente de segurança 
+com base em notícias 
+idôneas - Matéria CNN (
+3144506
+), Matéria O
+TEMPO (
+3144507
+), Matéria O BASTIDOR (
+3144508
+) - de suposto vazamento de dados que teria
+atingido diversos outros órgãos públicos em dezembro de 2021
+, inclusive o 
+Instituto de Pesquisas Jardim
+Botânico do Rio de Janeiro, o autuado
+.
+4
+.
+7
+.
+Em virtude do não recebimento da comunicação prevista no art. 48 da LGPD, em
+27/01/2022, esta CGF expediu o Aviso 007/2022/CGF/ANPD/PR (
+3144774
+), no qual determina o envio
+de Comunicação do Incidente de Segurança à ANPD e aos titulares, de acordo com as orientações da
+ANPD, disponível em seu sítio eletrônico, nos termos do art. 48 da LGPD, ou a apresentação de
+justificativa para não fazê-lo.
+4
+.
+9
+.
+Esta CGF emitiu o Ofício nº 23/2022/CGF/ANPD/PR (
+3149355
+) à encarregada
+pelotratamento de dados pessoais do autuado, com o fim de solicitar esclarecimentos a respeito de
+suposto incidente de segurança envolvendo dados pessoais. Este Ofício foi encaminhado ao encarregado
+conjuntamente ao Aviso 007/2022/CGF/ANPD/PR (
+3144774
+) e anexos, solicitando o envio da
+comunicação do incidente de segurança, ou a apresentação de justificativa para não fazê-lo, no prazo no
+prazo de 30 (trinta) dias corridos do recebimento do aviso. Esta CGF solicitou o envio dos documentos em
+questão, inclusive o Ofício e o Aviso, em 26/01/2022, por meio do Despacho (SEI nº 
+3150008
+).
+4
+.
+11
+.
+Decorrido o prazo estipulado no Aviso, o autuado não se manifestou no processo e nem
+anexou as informações determinadas.
+4
+.
+13
+.
+Em 18/03/2022, foi instaurado, por meio do Despacho Decisório 3 (
+3239105
+), o Processo
+Administrativo Sancionador (PAS) nº 
+00261.000574/2022-21
+ com base na 
+Nota Técnica 26 (
+3239104
+)
+ e
+Relatório 3 /2023 de Instrução (4504630)         SEI 00261.000574/2022-21 / pg. 2
+[PAGINA 3]
+lavrado o ANPD - Auto de Infração 4 (
+3252081
+) por conta de possível violação dos dispositivos a seguir:
+Art. 48, da Lei Geral de Proteção de Dados; e 
+Art. 5º, do Regulamento de Fiscalização
+. Os fundamentos
+do PAS são a falta de comunicação do incidente de segurança à ANPD e aos titulares e o não atendimento
+às requisições da ANPD.
+4
+.
+14
+.
+Em 23/03/2022, o autuado foi intimado para apresentar defesa por meio do OFÍCIO 93
+(
+3253045
+), conforme Recibo OFÍCIO Nº 93/2022/CGF/ANPD/PR com-anexos (
+3258816
+). 
+Em seguida,
+no dia 24/03/2023, com a instauração do PAS, o 
+Processo de Fiscalização nº
+ 
+00261.000139/2022-04
+ foi
+arquivado pelo 
+Despacho (
+3249518
+).
+4
+.
+15
+.
+Em 07/04/2022, sobreveio defesa administrativa Documento Requerimento Oficio
+221/2022 (3295740) (
+3365828
+), seguida de três anexos: Documento Anexo Portaria de Pessoal 168/2021
+(3295741) (
+3365832
+); Documento Anexo II - Confirmação de Recebimento de Apoio (
+3365847
+);
+Documento Anexo III - Nota Técnica 181/2022 (3295743) (
+3365854
+).
+4
+.
+16
+.
+No Documento Requerimento Oficio 221/2022 (3295740) (
+3365828
+), o autuado informa,
+preliminarmente, que:
+"(...) não foi identificado neste Instituto de Pesquisas, quer por meio eletrônico ou físico, o
+recebimento dos expedientes [...] Ofício nº 23/2022/CGF/ANPD/PR, solicitando esclarecimentos,
+juntamente com o Aviso 007/2022/CGF/ANPD/PR. Sendo possível que esses expedientes tenham
+sido enviados para o e-mail da antiga Encarregada, que não pertence ao quadro de servidores do
+JBRJ desde outubro de 2021".
+4
+.
+17
+.
+Quanto à materialidade dos fatos, no Documento Anexo III - Nota Técnica 181/2022
+(3295743) (
+3365854
+), o autuado afirmou o seguinte:
+3.2.1.1. (...) o JBRJ trabalhou alinhado à Policia Federal, (PF) ao Centro de Prevenção,
+Tratamento e Resposta a Incidentes Cibernéticos de Governo (CTIR) do Gabinete de
+Segurança Institucional da Presidência da República (GSI-PR), à Contratada por gestão dos
+serviços em nuvem (Claro/Embratel) e demais órgãos da Administração Pública Federal
+que compuseram a Sala de Guerra criada para tratar do tema.
+3.2.1.2. As ações a que se referem o item anterior foram tratadas em contingenciamento via
+"grupo de whatsapp" denominado "Gestão de Crise Segurança" em que constavam os
+Coordenadores de TIC de toda a APF envolvida no incidente, além de todas as autoridades
+também envolvidas no caso. Todas as orientações foram dadas pelos dirigentes do grupo e
+foram prontamente atendidas por este órgão, sendo elas em resumo:
+a) Informação sobre a afetação sobre o ambiente;
+b) Informação dos pontos focais;
+c) Solicitação dos 
+logs
+ e 
+hashs
+ junto à Contratada;
+d) Reestruturação dos ambientes.
+(...)
+3.2.2. Do ponto de vista dos dados pessoais, informamos que nenhum dado pessoal foi destruído,
+perdido, alterado, comunicado ou tratado de forma inadequada ou ilícita, nos termos do art. 46 da
+LGPD.
+3.2.2.1. O ataque se resumiu à exclusão de máquinas virtuais e volumes de dados dentro da
+nuvem pública da Amazon Web Services gerida no Brasil pela Claro/Embratel.
+3.2.2.2. Os 
+logs 
+e
+ hashs
+ apresentados pela contratada mostra que a destruição se deu em
+milésimos de segundos, o que indica a ação de robôs pré-programados.
+3.2.2.3.O sequestro de dados pressupõem maiores tempos de ação pois é necessário o
+download dos mesmos para a aquisição dos volumes.
+3.2.2.4. Os ataques que tipicamente sensibilizam dados pessoais são os do tipo ransomware,
+em que são cobrados valores para que haja a devolução dos dados.
+3.2.2.5. 
+Os sistemas afetados pelo ataque de 10/12/2021 não são sistemas que carregam
+em seu conteúdo dados pessoais
+. Tratam-se de sistemas de gestão de acervos
+científicos que possuem informações abertas e públicas nos moldes do plano de dados
+abertos ai 
+(sic)
+ qual o JBRJ é signatário
+. Não podemos no entanto disponibilizar os
+nomes dos sistemas pois esta informação se encontra classificada no processo
+02011.000904/2021-74.
+(g.n.)
+4
+.
+18
+.
+Não houve produção de provas conforme disposto no Art. 48 do Regulamento de
+Relatório 3 /2023 de Instrução (4504630)         SEI 00261.000574/2022-21 / pg. 3
+[PAGINA 4]
+Fiscalização.
+4
+.
+19
+.
+Em 28/06/2022, o Despacho (
+3463365
+) sobrestou o processo, sendo levantado em
+19/04/2023 pelo Despacho (
+4175375
+).
+4
+.
+20
+.
+Em 02/05/2023, o ANPD - Ofício 85 (
+4203655
+) intimou o autuado a apresentar alegações
+finais. Estas foram apresentadas por meio dos seguintes documentos: Alegações Alegações Finais - Ofício
+do JBRJ (
+4251013
+); Portaria GT Privacidade do JBRJ (
+4251031
+); Plano Planejamento de adequação
+Projeto Piloto (
+4251053
+); Programa de Governança em Privacidade (
+4251076
+); Portaria Criação Comitê
+de Privacidade (
+4251095
+); Anexo Informações sobre LGPD no JBRJ (
+4251110
+); Anexo Print tela evento
+capacitacao (
+4251147
+).
+4
+.
+21
+.
+O autuado destaca ter reformulado sua atuação frente à LGPD visando corrigir as lacunas e
+priorizar sua adequação à referida Lei, inclusive por meio de projeto piloto de adequação à LGPD, em
+parceria com a Secretaria de Governo Digital do Ministério da Economia, de disponibilização de materiais
+de consultas sobre a LGPD, e de instituição de um Comitê de Privacidade, além de outras medidas.
+4
+.
+22
+.
+É o relatório.
+5
+.
+PRELIMINARES
+Competência da ANPD
+5
+.
+1
+.
+A 
+Lei nº 13.709, de 14/08/2018, conhecida como Lei Geral de Proteção de Dados (LGPD),
+determina, no art. 48, que 
+"o controlador deverá comunicar à autoridade nacional e ao titular a
+ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares"
+. O §1º,
+por sua vez, estabelece que a comunicação deve ocorrer em prazo razoável e indicar a natureza dos dados
+pessoais afetados, os titulares envolvidos, as medidas técnicas e de segurança utilizadas para a proteção
+dos dados, os riscos relacionados ao incidente, os motivos da demora e as medidas que foram ou que serão
+adotadas para reverter ou mitigar os efeitos do prejuízo.
+5
+.
+2
+.
+Ainda, cabe à ANPD, de acordo com o art. 55-J, I e IV, da LGPD, 
+"zelar pela proteção dos
+dados pessoais, nos termos da legislação"
+, bem como 
+"fiscalizar e aplicar sanções em caso de tratamento
+de dados realizado em descumprimento à legislação, mediante processo administrativo que assegure o
+contraditório, a ampla defesa e o direito de recurso"
+.
+5
+.
+3
+.
+De acordo com o Regimento Interno da ANPD:
+5
+.
+4
+.
+Art. 17. São competências da Coordenação-Geral de Fiscalização, sem prejuízo de outras
+previstas na Lei nº 13.709, de 2018, no Decreto nº 10.474, de 2020, e na legislação aplicável:
+I - fiscalizar e aplicar as sanções previstas no artigo 52 da Lei nº 13.709, de 2018, mediante
+processo administrativo que assegure o contraditório, a ampla defesa e o direito de recurso;
+(...)
+III - promover ações de fiscalização sobre as ações de tratamento de dados pessoais efetuadas
+pelos agentes de tratamento, incluído o Poder Público;
+(...)
+IX - requisitar aos agentes de tratamento de dados a apresentação de Relatório de Impacto à
+Proteção de Dados Pessoais;
+5
+.
+5
+.
+O art. 48 do Regimento Interno da ANPD, ainda, determina que as 
+"atividades da ANPD
+obedecerão, além dos princípios estabelecidos na Lei nº 13.709, de 2018, aos princípios da legalidade,
+motivação, moralidade, eficiência, celeridade, interesse público, impessoalidade, igualdade, devido
+processo legal, ampla defesa, contraditório, razoabilidade, proporcionalidade, imparcialidade,
+publicidade, economicidade, segurança jurídica, entre outros". 
+Esta é, portanto, a justificativa para análise
+do suposto incidente de segurança ocorrido nos sistemas do autuado em processo administrativo próprio,
+pois é necessário observar as diretrizes e os princípios incidentes sobre a atuação administrativa no
+cumprimento da atribuição de fiscalização.
+5
+.
+6
+.
+O Regulamento de Fiscalização da ANPD, aprovado pela Resolução CD/ANPD nº 1, de
+28/10/2021, dispõe de forma fundamental sobre a estruturação das atividades previstas no art. 17 do
+Regimento Interno da ANPD. De acordo com o art. 2º do Regulamento, a fiscalização volta-se à
+orientação, à prevenção e à repressão das infrações à LGPD, de sorte a, conforme o art. 3º, proteger os
+direitos dos titulares de dados, promover a implementação da legislação de proteção de dados pessoais e
+Relatório 3 /2023 de Instrução (4504630)         SEI 00261.000574/2022-21 / pg. 4
+[PAGINA 5]
+zelar pelo cumprimento das disposições da LGPD.
+5
+.
+7
+.
+Por força do art. 4º, I, do mencionado Regulamento, o Instituto de Pesquisas Jardim
+Botânico do Rio de Janeiro é considerado agente regulado pela ANPD, haja vista ser um agente de
+tratamento (art. 5º, IX, da LGPD). Cumpre especificar as atividades a que os agentes regulados estão
+submetidos.
+Art. 5º Os agentes regulados submetem-se à fiscalização da ANPD e têm os seguintes deveres,
+dentre outros:
+I - fornecer cópia de documentos, físicos ou digitais, dados e informações relevantes para a
+avaliação das atividades de tratamento de dados pessoais, no prazo, local, formato e demais
+condições estabelecidas pela ANPD;
+II - permitir o acesso às instalações, equipamentos, aplicativos, facilidades, sistemas, ferramentas
+e recursos tecnológicos, documentos, dados e informações de natureza técnica, operacional e
+outras relevantes para a avaliação das atividades de tratamento de dados pessoais, em seu poder
+ou em poder de terceiros;
+III - possibilitar que a ANPD tenha conhecimento dos sistemas de informação utilizados para
+tratamento de dados e informações, bem como de sua rastreabilidade, atualização e substituição,
+disponibilizando os dados e as informações oriundos destes instrumentos;
+IV - submeter-se a auditorias realizadas ou determinadas pela ANPD;
+V - manter os documentos físicos ou digitais, os dados e as informações durante os prazos
+estabelecidos na legislação e em regulamentação específica, bem como durante todo o prazo de
+tramitação de processos administrativos nos quais sejam necessários; e
+VI - disponibilizar, sempre que requisitado, representante apto a oferecer suporte à atuação da
+ANPD, com conhecimento e autonomia para prestar dados, informações e outros aspectos
+relativos a seu objeto.
+5
+.
+8
+.
+Pelo exposto, não há dúvidas quanto à competência da ANPD no caso concreto para avaliar
+a conduta do autuado, controlador de dados e agente regulado, à luz da LGPD.
+5
+.
+9
+.
+No mais, o autuado não arguiu questões prelim
+inares de mérito em sua defesa e a análise
+preliminar não verificou questões relevantes a serem trazidas a este Relatório de Instrução.
+6
+.
+ANÁLISE
+Circunstâncias da infração e autoria
+6
+.
+1
+.
+A partir das reportagens de jornal anexadas ao Processo de Fiscalização (
+3144506
+,
+3144507
+, 
+3144508
+), esta CGF passou a apurar suposto incidente de segurança que teria afetado diversos
+órgãos públicos, inclusive o 
+Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, 
+em dezembro de
+2021,
+ como descrito na 
+Nota Técnica 91 
+(
+3672797
+)
+. A ocorrência do incidente 
+não foi refutada pelo
+autuado durante o Processo 
+de Fiscalização, ou mesmo durante o PAS, 
+por ocasião da apresentação da
+defesa, razão pela qual resta comprovada a ocorrência do incidente.
+Análise da defesa apresentada pelo Autuado
+6
+.
+2
+.
+Por um lado, não há que se falar na desconstituição do incidente de segurança, como
+demonstrado pelas reportagens de jornal e não contestado pelo autuado. Por outro, o autuado afirma que
+"os sistemas afetados pelo ataque de 10/12/2021 
+não são sistemas que carregam em seu conteúdo
+dados pessoais
+. São sistemas de gestão de acervos científicos que possuem informações abertas e públicas
+nos moldes do plano de dados abertos a[o] qual o JBRJ é signatário". (g.n.)
+6
+.
+3
+.
+A partir dessa alegação, o incidente deixaria de estar no escopo da LGPD, já que a lei não
+visa tutelar qualquer tipo de dado, mas apenas os dados pessoais, ou seja, aquelas informações que são ou
+podem ser vinculada a uma pessoa física. Como consequência, nenhuma das obrigações impostas pela
+LGPD, como o dever de comunicar o incidente (art. 48), seriam aplicáveis ao incidente sofrido pelo
+autuado.
+6
+.
+4
+.
+A informação de que o incidente não abrangeu dados pessoais foi apresentada em tese de
+defesa pelo autuado por meio de Nota Técnica elaborada pela Coordenação de Tecnologia da Informação e
+da Comunicação do Instituto (CTIC/JBRJ). Ao mesmo tempo, as reportagens de jornal que deram início
+ao processo de fiscalização não afirmam que o incidente nos sistemas do autuado teria atingido os dados
+pessoais.
+Relatório 3 /2023 de Instrução (4504630)         SEI 00261.000574/2022-21 / pg. 5
+[PAGINA 6]
+6
+.
+5
+.
+Dessa forma, nos autos, não há evidências suficientes de que a ocorrência de incidente de
+segurança envolva dados pessoais e, consequentemente, acarrete risco ou dano relevante aos titulares.
+6
+.
+6
+.
+Ainda que o incidente não esteja no escopo da LGPD, foi montado um grupo de
+autoridades afetadas para fazer frente aos possíveis riscos do incidente. O Documento Anexo III - Nota
+Técnica 181/2022 (3295743) (
+3365854
+) referencia a instauração de processo administrativo para apurar o
+ocorrido, porém indica que não poderia ser apresentado no PAS por ser "tratado em grau de sigilo e foi
+instruído para conduzir as ações relativas ao tema". Apesar de o caso não estar no escopo de atuação da
+ANPD, registre-se que, quando pertinente, a incidência de sigilo não é oponível à ANPD enquanto
+autoridade competente para fiscalizar e garantir o devido tratamento de dados pessoais.
+6
+.
+7
+.
+Quanto aos aspectos processuais, a primeira manifestação do autuado sobre o incidente e o
+dever de comunicar ocorreu apenas neste PAS e não no Processo de Fiscalização, momento anterior em
+que o autuado foi instado a apresentar informações em observância ao Aviso 07/2022 (
+3144774
+), o que
+ensejou a imputação de violação do art. 5º, do Regulamento de Fiscalização.
+6
+.
+8
+.
+Como defesa pela falta de resposta anterior, o autuado afirmou que "
+não foi identificado
+neste Instituto de Pesquisas, quer por meio eletrônico ou físico, o recebimento dos expedientes [...] Ofício
+nº 23/2022/CGF/ANPD/PR, solicitando esclarecimentos, juntamente com o Aviso
+007/2022/CGF/ANPD/PR".
+6
+.
+9
+.
+Em buscas com o protocolo responsável pelo envio do 
+Ofício nº 23/2022/CGF/ANPD/PR
+(
+3149355
+), não houve o retorno do Aviso de Recebimento à ANPD. Não é possível comprovar que o
+autuado recebeu as comunicações desta ANPD ainda no Processo de Fiscalização. Conforme descrito no
+E-mail ANPD e CODOC (SEI nº 
+4541120
+) e na Certidão 46 (SEI nº 
+4541241
+), esta CGF realizou
+diligências por telefone e por e-mail à 
+Coordenação de Documentação do Protocolo Central da
+Presidência da República
+, entidade responsável por auxiliar a ANPD com a expedição de documentos
+físicos à época, e aos Correios, entidade que armazena os avisos de recebimento assinados.
+6
+.
+12
+.
+No entanto, o aviso de recebimento em questão não foi localizado pelos Correios. Logo, n
+ão
+é possível comprovar que o autuado tenha recebido as comunicações desta ANPD ainda no Processo de
+Fiscalização.
+6
+.
+15
+.
+Para além disso, o autuado apresentou diligentemente manifestação neste PAS, o que
+demonstra sua posição cooperativa. O objetivo do OFÍCIO 23 (
+3149355
+) foi atendido, já que esta CGF
+recebeu resposta e informações pertinentes que justificam a não comunicação do incidente à ANPD e aos
+titulares.
+Subsunção do fato ao tipo infracional correspondente
+6
+.
+16
+.
+O Auto de Infração nº 4/2022/CGF/ANPD (
+3252081
+) indicou a possibilidade de violação
+dos art. 48, da LGPD, e art. 5°, do Regulamento de Fiscalização.
+a) 
+Lei Geral de Proteção de Dados:
+Art. 48 - ausência de comunicado de incidente de segurança (CIS);
+6
+.
+17
+.
+Dentre as obrigações previstas na LGPD, o art. 48 da LGPD determina que o controlador
+deve "comunicar à autoridade nacional e ao titular a ocorrência de incidente de segurança que possa
+acarretar risco ou dano relevante aos titulares". O autuado não comunicou à ANPD e aos titulares a
+ocorrência do incidente.
+6
+.
+18
+.
+Porém, conforme descrito na análise da defesa do JBRJ, o incidente de segurança cingiu-se
+a dados de pesquisa e não envolveu dados pessoais. Assim a obrigação de comunicar a ANPD e os
+titulares de dados não incide sobre o incidente de segurança em questão, já que não versa sobre dados
+pessoais. Logo, não restou configurada a violação do art. 48 da LGPD que consiste na obrigação de
+apresentar o Comunicado de Incidente de Segurança.
+b ) 
+Regulamento do Processo de Fiscalização e do Processo Administrativo
+Sancionador, aprovado pela Resolução CD/ANPD nº 1, de 28/10/2021
+ (Regulamento de Fiscalização):
+Art. 5º - Não atendimento às requisições da ANPD.
+6
+.
+19
+.
+Tendo em vista o não atendimento das requisições da ANPD no processo de fiscalização, o
+Auto de Infração 
+nº 4/2022/CGF/ANPD (
+3252081
+) 
+indica a violação do art. 5º, do Regulamento de
+Relatório 3 /2023 de Instrução (4504630)         SEI 00261.000574/2022-21 / pg. 6
+[PAGINA 7]
+Fiscalização.
+6
+.
+20
+.
+No entanto, a infração do artigo em questão não se sustenta, uma vez que o autuado, como
+tese de defesa, diz não ter recebido o 
+Ofício nº 23/2022/CGF/ANPD/PR (
+3149355
+) 
+que determina a
+apresentação de CIS e outros documentos. Esta ANPD envidou os esforços necessários para verificar a
+verossimilhança da alegação do JBRJ e, com efeito, como relatado na 
+Certidão 46 (SEI nº 
+4541241
+), não
+foi possível localizar o aviso de recebimento que poderia comprovar que o JBRJ foi notificado do Ofício
+em tela.
+6
+.
+23
+.
+Diante da ausência de aviso de recebimento nos autos e considerando que esta CGF não
+logrou êxito em localizá-lo junto aos Correios, não há materialidade suficiente para caracterizar o não
+atendimento à requisição da ANPD, dado que a requisição nunca se completou porque ausente elemento
+importante que é a ciência daquele a quem ela se dirige, por conseguinte, entende-se que não ficou
+configurada a infração ao art.5º do Regulamento da Fiscalização conforme apontado no Auto de Infração.
+7
+.
+DOSIMETRIA DAS SANÇÕES
+7
+.
+1
+.
+Considerando que as infrações discriminadas no 
+Auto de Infração nº
+4/2022/CGF/ANPD 
+(
+3252081
+) 
+não restaram configuradas após instrução deste PAS, torna-se incabível,
+portanto, a aplicação de dosimetria de sanções da LGPD uma vez que não há conduta a ser sancionada.
+8
+.
+CONCLUSÃO
+8
+.
+1
+.
+Considerando a análise deste Relatório de Instrução, recomenda-se 
+o arquivamento deste
+Processo Administrativo Sancionador por:
+a
+)
+não configuração da violação do art. 48, da LGPD, considerando que o JBRJ
+comprovou nos autos que o incidente em questão não versava sobre dados pessoais, de
+acordo com o Documento Anexo III - Nota Técnica 181/2022 (3295743) (
+3365854
+).
+b
+)
+não configuração da violação do art. 5º, em vista do não recebimento do 
+Ofício nº
+23/2022/CGF/ANPD/PR (
+3149355
+) conforme alegado pelo JBRJ, corroborado pela pela
+ausência de aviso de recebimento nos autos e pela resposta negativa dos Correios ao ser
+demandado por esta CGF.
+9
+.
+ENCAMINHAMENTOS
+9
+.
+1
+.
+O presente Relatório de Instrução deve ser encaminhado ao Coordenador-Geral de
+Fiscalização para decisão, de acordo com art. 55 do Regulamento de Fiscalização aprovado pela Resolução
+CD/ANPD nº 1/2021.
+9
+.
+2
+.
+A decisão deve ser publicada no DOU, segundo o art. 55 do Regulamento de Fiscalização.
+9
+.
+3
+.
+Considerando que a sugestão de decisão contida nesta Nota Técnica é pelo arquivamento do
+processo sancionador, e considerando que não há terceiros interessados habilitados neste processo nos
+termos do art. 59 do Regulamento da Fiscalização, sugere-se o arquivamento imediato deste processo após
+a decisão do Coordenador-Geral der Fiscalização, caso de acordo com os termos desta Nota Técnica.
+ 
+RAVVI AUGUSTO DE ABREU C. MADRUGA
+Coordenador de Fiscalização
+____________________________
+[1]
+ Este Relatório de Instrução foi elaborado com a participação de Eduarda Costa Almeida, assistente desta
+Coordenação-Geral de Fiscalização.
+Documento assinado eletronicamente por 
+Ravvi Augusto de Abreu Coutinho Madruga
+,
+Coordenador(a)
+, em 15/09/2023, às 15:19, conforme horário oficial de Brasília, com fundamento no §
+3º do art. 4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020
+.
+Relatório 3 /2023 de Instrução (4504630)         SEI 00261.000574/2022-21 / pg. 7
+[PAGINA 8]
+A autenticidade do documento pode ser conferida informando o código verificador 
+4504630
+ e o código
+CRC 
+0DA7556C
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Processo nº 00261.000574/2022-21
+SEI nº 4504630
+Relatório 3 /2023 de Instrução (4504630)         SEI 00261.000574/2022-21 / pg. 8
+[PAGINA 9]
+ 
+ 
+00261.000574/2022-21
+ 
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+Coordenação-Geral de Fiscalização
+Brasília, na data de assinatura.
+DESPACHO DECISÓRIO
+Processo Administrativo Sancionador nº 
+00261.000574/2022-21
+Autuado: 
+Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
+Representante Legal: 
+Laura Estela Madeira de Carvalho
+ 
+O 
+COORDENADOR-GERAL DE FISCALIZAÇÃO DA AUTORIDADE
+NACIONAL DE PROTEÇÃO DE DADOS - ANPD
+, no uso de suas atribuições legais e
+regulamentares, com fundamento no art. 17, inciso I, do Regimento Interno da ANPD, aprovado pela
+Portaria nº 1, de 8 de março de 2021, examinando os autos do processo em epígrafe, instaurado em face do
+Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
+, inscrita no CNPF/MF sob o nº 04.936.616/0001-
+20, autarquia federal, em razão dos indícios de infração à Lei Geral de Proteção de Dados Pessoais
+(LGPD); e
+CONSIDERANDO o teor do Relatório 3/2023 de Instrução (SEI nº 
+4504630
+), cujas razões
+acolho e integro à presente decisão, inclusive como motivação, com fulcro no §1º do art. 50 da Lei nº
+9.784/1999 c/c o art. 55 e seguintes do Regulamento de Fiscalização, aprovado pela Resolução CD/ANPD
+nº 1/2021;
+DECIDE:
+Arquivar o Processo Administrativo Sancionador nº 
+00261.000574/2022-21
+ por não
+restarem configuradas as violações do art. 5º do Regulamento de Fiscalização, e do art. 48 da LGPD, por
+parte do autuado. Publique-se.
+FABRÍCIO
+ GUIMAR
+Ã
+ES MADRUGA LOPES
+Coordenador-Geral de Fiscalização
+Documento assinado eletronicamente por 
+Fabricio Guimarães Madruga Lopes
+, 
+Coordenador(a)-
+Geral
+, em 15/09/2023, às 16:29, conforme horário oficial de Brasília, com fundamento no § 3º do art.
+4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+4504637
+ e o código
+CRC 
+A5F19DED
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Processo nº 00261.000574/2022-21
+SUPER nº 4504637
+Despacho Decisório CGF (4504637)         SEI 00261.000574/2022-21 / pg. 9

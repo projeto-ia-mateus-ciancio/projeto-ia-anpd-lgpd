@@ -1,0 +1,2148 @@
+[PAGINA 1]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 1 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_i…20307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+Processo nº 00261.006648/2024-02
+Agência Nacional de Proteção de Dados
+Superintendência de Fiscalização
+Coordenação-Geral de Sanções
+RELATÓRIO DE INSTRUÇÃO (PUB) Nº 2/2026/CGS/SFI
+Versão pública do Relatório de Instrução 2 (0316190) com restrição de acesso a partes sob sigilo em
+observância ao 7º, §2º da  Lei nº 12.527, de 18 de novembro de 2011.
+1. IDENTIFICAÇÃO
+2. EMENTA
+TRATAMENTO IRREGULAR DE DADOS PESSOAIS DE CRIANÇAS E ADOLESCENTES.
+TRATAMENTO DE DADOS PESSOAIS SEM HIPÓTESE LEGAL VÁLIDA. NÃO ADOÇÃO DE
+MEDIDAS DE PREVENÇÃO E NÃO DEMONSTRAÇÃO DE EFICÁCIA DE MEDIDAS ADOTADAS
+PARA COMPROV AR A OBSERVÂNCIA E O CUMPRIMENTO DAS NORMAS DE PROTEÇÃO DE
+DADOS PESSOAIS. VIOLAÇÃO AOS ARTS. 7º e 6º, VIII e X, DA LGPD. MULTA SIMPLES.
+ELIMINAÇÃO DE DADOS PESSOAIS, CUMULADA COM MULTA DIÁRIA EM CASO DE
+DESCUMPRIMENTO.
+1. O tratamento de dados pessoais sem amparo em pelo menos uma das hipóteses legais do art. 7º da
+LGPD é uma infração que possui contornos de maior gravidade por afrontar um dos fundamentos da própria
+existência da LGPD. A atividade de tratamento com a ﬁnalidade de fornecer a crianças e adolescentes a
+experiência do “feed sem cadastro” e a atividade de tratamento com a ﬁnalidade de realizar o cadastro de
+adolescentes na plataforma não podem ser amparadas na execução de contrato ou de procedimentos preliminares
+relacionados a contrato, diante da respectiva ausência e insuﬁciência de mecanismos adequados para assegurar a
+assistência ou representação legal de crianças e adolescentes.
+2. Estabelecido que a plataforma não é permitida para crianças e adolescentes menores de 13 anos e
+constatada que a personalização no uso da plataforma decorria de tratamento de dados pessoais similar ao “feed
+com cadastro”, a viabilização de acesso amplo e irrestrito à plataforma no “feed sem cadastro” corresponde a
+violação ao princípio da prevenção, por ausência de medidas ex ante que pudessem impedir ou mitigar a
+exposição de crianças e adolescentes menores de 13 anos a tratamento de dados pessoais.
+3. A inércia da autuada em revisar os mecanismos de veriﬁcação de idade[1] adotados no “feed com
+cadastro”, apesar de alerta expresso da ANPD, consubstanciou violação à obrigação de prevenir o cadastro – e,
+consequentemente, o tratamento de dados pessoais – de crianças e adolescentes menores de 13 anos na
+plataforma. A existência de apontamentos prévios pela ANPD, embora não seja condição necessária, é elemento
+suﬁciente para conﬁgurar infração ao princípio da prevenção.
+4. A autuada não foi capaz de demonstrar a eﬁcácia das medidas adotadas e comprovar a
+observância da LGPD ao não fornecer detalhamento técnico necessário à compreensão das atividades e
+ 
+Nome/Razão social do autuadoBytedance Brasil Tecnologia Ltda. (doravante Bytedance Brasil).
+CPF/CNPJ do autuado 27.415.911/0001-36 (0226207)
+Agente de tratamento (X) Controlador ( ) Operador
+Nome do Encarregado setorial Caroline Goulding
+Contato do Encarregado [EMAIL].
+[PAGINA 2]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 2 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_i…20307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+operações de tratamento, inviabilizando a demonstração concreta e veriﬁcável da conformidade das práticas
+adotadas, por isso, viola o princípio da responsabilização e prestação de contas.
+5. Por meio de cinco condutas, a autuada infringiu os arts. 7º, e 6º, VIII e X, da LGPD, ensejando a
+aplicação de 5 (cinco) sanções de multa simples; e uma sanção de eliminação de dados pessoais, cumulada com
+multa diária em caso de não cumprimento. 
+3. REFERÊNCIAS
+3.1. Lei nº 13.709, de 14 de agosto de 2018 - Lei Geral de Proteção de Dados Pessoais (LGPD).
+3.2. Regimento Interno da Agência Nacional de Proteção de Dados, aprovado pela Portaria nº 01, de
+08 de março de 2021.
+3.3. Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador no âmbito
+da ANPD, aprovado pela Resolução CD/ANPD nº 1, de 28 de outubro de 2021 – doravante Regulamento de
+Fiscalização.
+3.4. Regulamento de Dosimetria e Aplicação de Sanções Administrativas, aprovado pela Resolução
+CD/ANPD nº 4, de 24 de fevereiro de 2023 – doravante Regulamento de Dosimetria.
+3.5. Processo Administrativo Sancionador nº 00261.006648/2024-02.
+3.6. Nota Técnica nº 50/2024/FIS/CGF/ANPD (SEI nº 0153897).
+3.7. Despacho Decisório nº 2/2024/CGF (SEI nº 0153898).
+3.8. Auto de Infração nº 1/2024/FIS/CGF (SEI nº 0153899).
+3.9. Defesa Auto de Infração (SEI nº 0157923).
+3.10. Petição ByteDance (SEI nº 0165215).
+3.11. Ofício nº 86/2025/FIS/CGF/ANPD (SEI nº 0176609).
+3.12. Ofício nº 104/2025/FIS/CGF/ANPD (SEI nº 0179895).
+3.13. Petições – Alegações Finais (SEI nº 0189205).
+3.14. Documento – Plano de Conformidade Inicial (SEI nº 0189206).
+3.15. Documento – Novo Plano de Conformidade (SEI nº 0189207).
+3.16. Petição – Instituto Alana (SEI nº 0195980).
+3.17. Ofício nº 312/2025/FIS/CGF/ANPD (SEI nº 0222934).
+3.18. Petição – Aditamento – Alegações Finais (SEI nº 0230319).
+4. SUMÁRIO EXECUTIVO DO PROCESSO
+Auto de Infração Auto de Infração nº 1/2024/FIS/CGF (SEI nº 0153899)
+Data da lavratura do Auto de
+Infração 04/11/2024
+Forma da intimação
+(X) Meio eletrônico
+( ) Via postal
+( ) Pessoal
+( ) Comparecimento pessoal
+( ) Por edital
+( ) Cooperação internacional
+( ) Outro: _____
+Data da intimação 08/11/2024 – Certidão de Intimação Cumprida (SEI nº 0155174)
+[PAGINA 3]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 3 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_i…20307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+5. RELATÓRIO
+5.1. Conforme disposto no art. 37 do Regulamento de Fiscalização, o processo administrativo
+sancionador destina-se à apuração de infrações à legislação de proteção de dados que sejam de competência da
+Agência Nacional de Proteção de Dados (ANPD), nos termos do artigo 55-J, IV , da LGPD. De acordo com o art.
+54 do mencionado Regulamento, o Relatório de Instrução subsidiará a decisão de primeira instância, a ser
+proferida pela Coordenação-Geral de Fiscalização (CGF)[2].
+5.2. Dessa forma, em observância às disposições normativas pertinentes ao caso concreto e aos
+demais elementos documentais constantes dos autos, passa-se ao detalhamento dos atos processuais até a
+presente data, com o objetivo de avaliar os motivos da autuação e os argumentos apresentados pelo autuado face
+à legislação e às normas de proteção de dados.
+5.3. O Processo de Fiscalização 00261.000297/2021-75 foi iniciado a partir de denúncia recebida pela
+Coordenação-Geral de Fiscalização (CGF) (SEI nº 0048720) em face do TikTok, em 23/03/2021.
+5.4. A denúncia relata que o agente regulado coletaria dados pessoais de titulares que usam o
+aplicativo ainda que eles não tenham se cadastrado na plataforma. Assim, aﬁrmou que a atuação do TikTok
+estaria em desacordo com os princípios elencados no art. 6º da LGPD, especialmente os de ﬁnalidade,
+adequação, necessidade, livre acesso e transparência. O TikTok também não teria demonstrado tratar os dados
+pessoais com amparo em uma hipótese legal válida, especialmente no caso de usuários que não têm cadastro na
+rede social. Por ﬁm, alegou que o regulado não possuía medidas de segurança adequadas, o que exigiria a
+atuação da ANPD no caso.
+5.5. Em 03/05/2022, a CGF enviou o Ofício nº 124/2022/CGF/ANPD/PR (SEI nº  0048727) à
+ByteDance Brasil solicitando explicações a respeito do tratamento de dados pessoais realizado pelo TikTok.
+5.6. Em resposta, em 30/05/2022, a regulada apresentou informações relacionadas aos dados pessoais
+que o TikTok trata, com quem compartilha, ﬁnalidades, hipóteses legais usadas, mecanismos de cadastramento,
+segurança de jovens e segurança de dados em geral (SEI nº  0048735). A maior parte das informações
+apresentadas eram oriundas da Política de Privacidade (SEI nº  0152633) e dos Termos de Serviço (SEI
+Dispositivos legais e
+regulamentares infringidos,
+nos termos do auto de
+infração
+Lei Geral de Proteção de Dados (Lei nº 13.709 de 2018)
+Arts. 6º, VIII e X, 7º, V , e 14, caput, §1º – Em relação ao tratamento
+de dados pessoais de crianças e adolescentes por meio da modalidade
+"feed com cadastro".
+Arts. 6º, I, VIII e X, 7º e 14 – Em relação ao tratamento de dados
+pessoais de crianças e adolescentes por meio da modalidade "feed sem
+cadastro”.
+Data da apresentação da
+defesa 26/11/2024 - Recibo Eletrônico de Protocolo (SEI nº 0157926)
+Documentos apresentados
+Defesa do Auto de Infração (SEI nº 0157923); 
+Documento de Substabelecimento (SEI nº 0157924); 
+Documento de Medidas Adotadas (SEI nº 0157925)
+Produção de provas pelo
+autuante (X) Não ( ) Sim – Especiﬁcar: _____
+Produção de provas pela
+ANPD (X) Não ( ) Sim – Especiﬁcar: _____
+Terceiros interessados ( ) Não (X) Sim
+Alegações ﬁnais ( ) Não (X) Sim – Petição de Alegações Finais (SEI nº 0189205) eAditamento (SEI nº 0230319)
+Medidas preventivas (X) Não ( ) Sim
+[PAGINA 4]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 4 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_i…20307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+nº 0152634).
+5.7. Posteriormente, foram enviados os Ofícios nº 10/2022/CGF/ANPD/PR (SEI nº 0048742) e nº
+3/2023/CGF/ANPD (SEI nº 0048763) solicitando maiores informações.
+5.8. Após a apresentação das informações complementares por parte da empresa, foi elaborada a Nota
+Técnica nº 6/2023/CGF/ANPD (SEI nº 0048776), que avaliou, em um primeiro momento, o tratamento de dados
+pessoais de crianças e adolescentes cadastrados na plataforma e a utilização da hipótese legal de execução do
+contrato. A mencionada Nota Técnica teceu considerações acerca da não conformidade do tratamento realizado
+com os dados de crianças e adolescentes e concluiu que a continuidade de tal tratamento pelo TikTok estaria
+condicionada ao cumprimento de determinações.
+5.9. Em 28/08/2023, a empresa encaminhou Petição de Esclarecimentos (SEI nº 0048794), contendo
+informações acerca das questões elencadas na supracitada Nota Técnica, bem como apresentou Relatórios de
+Impacto à Proteção de Dados Pessoais (RIPD) (SEI nº 0048795 e SEI nº 0048796).
+5.10. Em 27/11/2023, foi realizada uma reunião com representantes da empresa para esclarecimentos
+acerca da resposta apresentada previamente (SEI nº  0048798). Foram identiﬁcadas insuﬁciências nas
+informações fornecidas pela empresa. Essas insuﬁciências foram formalmente destacadas no Ofício nº
+50/2023/FIS/CGF/ANPD (SEI nº 0048799), de 29/11/2023, no qual foram enviados à empresa questionamentos
+relativos ao tratamento de dados realizado pela empresa, solicitando as seguintes informações: (i) comprovação
+da eﬁcácia da remoção de contas de crianças da plataforma no Brasil; (ii) esclarecimentos sobre o uso da
+hipótese legal de execução do contrato; (iii) informações sobre o “feed sem cadastro”; e (iv) questões sobre
+compartilhamento, publicidade e transferência internacional de dados. A necessidade de complementação e
+detalhamento das informações foi enfatizada para garantir o andamento do processo de ﬁscalização.
+5.11. Em 05/02/2024, a empresa submeteu petição (SEI nº 0078273) em resposta ao Ofício nº 50 (SEI
+nº 0048799), em que prestou informações para esclarecer os questionamentos apresentados pela CGF. Na
+oportunidade, foi apresentada também versão atualizada dos RIPD (SEI nº 0078275 e SEI nº 0078276), além de
+nova tabela de hipóteses legais para o tratamento de dados pessoais (SEI nº 0078274).
+5.12. Em 01/11/2024, o Coordenador-Geral de Fiscalização, diante das constatações apresentadas pela
+Nota Técnica nº 50/2024/FIS/CGF/ANPD (SEI nº 0153897), nos termos do Despacho Decisório nº 2/2024/CGF
+(SEI nº 0153682), decidiu:
+1.    Determinar, com base no artigo 35 do regulamento de ﬁscalização, que a ByteDance Brasil Tecnologia
+Ltda ("ByteDance Brasil") suspenda integralmente o recurso "feed sem cadastro" da Plataforma TikTok
+no Brasil, a ﬁm de assegurar que nenhuma coleta ou tratamento de dados pessoais de crianças e
+adolescentes ocorra nessa modalidade de navegação, isto é, sem cadastro prévio e sem mecanismos de
+veriﬁcação de idade adequados, dada a incompatibilidade dessa prática com o ordenamento jurídico vigente,
+sobretudo em relação ao princípio do melhor interesse de crianças e adolescentes, conforme assegurado pelo
+ordenamento jurídico brasileiro, em especial no art. 14, caput, da Lei nº 13.709/2018 e no Enunciado
+CD/ANPD nº 1/2023.
+ [...]
+2.    Determinar, com base no artigo 36 da Resolução CD/ANPD nº1/2021, que a ByteDance Brasil
+Tecnologia Ltda ("ByteDance Brasil") elabore plano de conformidade com as seguintes ações: (i)
+implementação de mecanismos eﬁcazes para a veriﬁcação de idade, visando impedir o cadastro indevido de
+crianças e o cadastro desassistido de adolescentes na plataforma; (ii) aprimoramento dos mecanismos
+voltados à veriﬁcação de idade durante o processo de exclusão de contas de crianças identiﬁcadas; (iii)
+implementação de mecanismos de assistência e representação para assegurar que adolescentes sejam
+devidamente assistidos ou representados por um de seus pais ou responsáveis legais durante o procedimento
+de cadastro na plataforma TikTok, de maneira a tornar válida hipótese prevista no art. 7º, V da Lei nº
+13.709/2018 c/c arts. 3º e 4º, I da Lei nº 10.406/2002; e (iv) desenvolvimento de metodologia, acompanhada
+de relatórios periódicos que avaliem de forma contínua a efetividade desses mecanismos e protocolos de
+veriﬁcação.
+ [...]
+3.    Determinar a instauração de processo administrativo sancionador em desfavor de ByteDance Brasil
+Tecnologia Ltda ("ByteDance Brasil"), para apuração de infração à legislação de proteção de dados, e o
+encaminhamento dos autos para a Coordenação de Fiscalização (FIS) desta Coordenação-Geral de
+Fiscalização (CGF).
+5.13. A análise das determinações constantes dos itens 1 e 2 do mencionado Despacho Decisório teve
+[PAGINA 5]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 5 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_i…20307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+continuidade no âmbito do processo nº 00261.000297/2021-75; paralelamente, foi instaurado o Processo
+Administrativo Sancionador nº 00261.006648/2024-02, no qual foi lavrado, em 04/11/2024, o Auto de
+Infração nº 1/2024/FIS/CGF (SEI nº 0153899) em desfavor da ByteDance Brasil. Nele, foram imputadas ao
+agente autuado as seguintes condutas que violariam os arts. 6º, VIII e X, 7º, V , e 14, caput, §1º da Lei nº
+13.709/2018, no que se refere ao tratamento de dados pessoais de crianças e adolescentes por meio da
+modalidade "feed com cadastro", e os arts. 6º, I, VIII e X, 7º e 14 da Lei nº 13.709/2018, quanto ao tratamento
+de dados pessoais de crianças e adolescentes por meio da modalidade "feed sem cadastro":
+Em relação aos mecanismos de veriﬁcação de idade durante o cadastro e após o cadastro, observam-
+se as seguintes condutas do controlador que constituem indícios de violações à Lei Geral de Proteção
+de Dados (LGPD):
+A ByteDance, ao não implementar mecanismos técnicos, administrativos e procedimentais eﬁcazes para
+evitar que crianças e adolescentes burlassem o sistema de veriﬁcação de idade durante a realização do
+cadastro na plataforma TikTok, baseando-se somente no "age gate", método em que basta a declaração de
+idade do usuário para realização do cadastro, deixou de adotar medidas razoavelmente esperadas para
+impedir o acesso de titulares menores de 13 (treze) anos de idade a conteúdo inadequado para essa faixa
+etária. Assim, diante de conduta potencialmente omissiva, a ByteDance Brasil teria: (i) exposto crianças e
+adolescentes à comunicação comercial de seus dados com terceiros, bem como a publicidade
+comportamental direcionada para crianças que burlam a veriﬁcação etária, situação da qual possuía ciência,
+tendo em vista o elevado número de contas excluídas da plataforma, em virtude da utilização de
+mecanismos de veriﬁcação etária após a realização do cadastro pelo usuário; e (ii) deixado de observar o
+melhor interesse de crianças e adolescentes ao não avaliar de maneira pertinente os riscos inerentes ao
+mecanismo de veriﬁcação etária para o cadastro na plataforma TikTok para o exercício de direitos e
+garantias individuais desse grupo de titulares hipervulneráveis, expondo-os a conteúdo inadequado para a
+sua faixa etária, bem como realizando o tratamento de seus dados pessoais para a consecução de ﬁnalidades
+ilegítimas, tendo em vista o seu modelo de negócios.
+A ByteDance, ademais, ao não implementar mecanismos de assistência e representação para assegurar que
+adolescentes sejam devidamente assistidos ou representados por um de seus pais ou responsáveis legais
+durante o procedimento de cadastro na plataforma TikTok, deixou de observar os requerimentos legais
+necessários para realizar o tratamento de dados pessoais desse grupo de titulares com fundamento na
+execução de contrato ou na realização de procedimentos preliminares relacionados ao contrato do qual
+menores de idade relativamente incapazes são parte.
+Em relação ao tratamento de dados pessoais no “feed sem cadastro”, identiﬁcam-se as seguintes
+condutas do controlador que constituem indícios de violações à Lei Geral de Proteção de Dados
+Pessoais (LGPD):
+A ByteDance Brasil, ao permitir o amplo acesso de usuários à plataforma TikTok por meio do "feed sem
+cadastro", sem a implementação de quaisquer mecanismos de veriﬁcação de idade, teria assumido o risco
+razoavelmente esperado de realizar o tratamento de dados pessoais de crianças e adolescentes menores de
+13 (treze) anos de idade, em contraposição às informações dispostas nos Termos de Uso e na Política de
+Privacidade, em virtude do uso intensivo do TikTok por crianças e adolescentes dessa faixa etária. Desse
+modo, compreende-se que a ByteDance Brasil: (i) teria coletado, compartilhado e analisado continuamente
+dados pessoais de crianças e adolescentes com menos de 13 (treze) anos de idade com a ﬁnalidade de
+direcionar conteúdo personalizado a esses titulares, inclusive publicitário, durante a sua interação contínua
+com o feed; (ii) teria realizado o tratamento de dados pessoais de crianças e de adolescentes sem a
+existência de hipótese legal válida; (iii) teria deixado de tomar medidas técnicas, procedimentais e
+administrativas necessárias e esperadas para impedir a utilização da plataforma TikTok por usuários
+menores de 13 (treze) anos de idade, conforme informado nos Termos de Uso e na Política de Privacidade,
+tendo em vista o conhecimento prévio pelo controlador de que a plataforma era utilizada de forma irregular
+por milhões de titulares dentro dessa faixa etária, inclusive por meio do feed com cadastro; e (iv) teria
+deixado de observar o melhor interesse de crianças e adolescentes ao não avaliar de maneira pertinente os
+riscos inerentes à continuidade da interação de usuários com a plataforma TikTok por meio do feed sem
+cadastro para os direitos e garantias individuais desse grupo de titulares hipervulneráveis, expondo-os a
+conteúdo inadequado para a sua faixa etária, bem como realizando o tratamento de seus dados pessoais para
+a consecução de ﬁnalidades ilegítimas, tendo em vista o seu modelo de negócios.
+5.14. Em 26/11/2024, a ByteDance Brasil apresentou Defesa (SEI nº  0157923), bem como o
+Documento de Medidas Adotadas pela empresa (SEI nº 0157925).
+5.15. Em 16/01/2025, a autuada protocolou a Petição (SEI nº  0165215), propondo o início de
+negociações para discussão de um Termo de Ajustamento de Conduta (TAC), baseado, conforme aﬁrmou a
+empresa, no art. 43 do Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador. O
+pedido foi rejeitado, diante da inexistência de regulamentação própria da ANPD para o instituto, conforme
+estabelece o art. 44 do Regulamento de Fiscalização (Ofício nº 86/2025/FIS/CGF/ANPD (SEI nº 0176609).
+[PAGINA 6]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 6 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_i…20307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+5.16. Em 28/03/2025, a autuada foi intimada a apresentar alegações ﬁnais no prazo de 10 (dez) dias
+úteis [Ofício nº 86/2025/FIS/CGF/ANPD (SEI nº 0176609)]. No mesmo dia, a empresa apresentou a Petição
+(SEI nº 0177902), requerendo a reconsideração do prazo para apresentação de alegações ﬁnais e pleiteando 20
+(vinte) dias úteis a contar do término do prazo para apresentação do novo Plano de Conformidade no Processo
+de Fiscalização, previsto para 6 de maio de 2025, para a juntada de novas provas. O pedido que foi deferido nos
+termos solicitados (Ofício nº 104/2025/FIS/CGF/ANPD (SEI nº 0179895).
+5.17. O Instituto Alana, em 10/04/2025, protocolou pedido de habilitação como interessado, nos termos
+dos documentos Petição - Ingresso terceiro interessado (SEI nº 0180333) e foi admitido como tal nos termos do
+Despacho Decisório nº 16/2025/FIS/CGF (SEI nº 0182771). A autuada foi intimada dessa decisão por meio do
+Ofício nº 122/2025/FIS/CGF/ANPD (SEI nº 0182857).
+5.18. Em 03/06/2025, a empresa apresentou Petição - Alegações ﬁnais, bem como os anexos
+Documento - Plano de Conformidade Inicial (SEI nº 0189206) e Documento - Novo Plano de Conformidade
+SEI nº 0189207).
+5.19. Em 04/07/2025, o Instituto Alana apresentou suas contribuições como terceiro interessado através
+da Petição (SEI nº 0195980). Após manifestação do Instituto Alana, a regulada foi intimada a apresentar,
+facultativamente, aditamento às suas alegações ﬁnais através do Ofício nº 312/2025/FIS/CGF/ANPD (SEI
+nº 0222934), no prazo de 10 (dez) dias úteis. Em 02/12/2025, a empresa apresentou o Aditamento das suas
+Alegações Finais por meio da Petição (SEI nº 0230319).
+5.20. É o relatório.
+6. PRELIMINARES
+Competência
+6.1. A Lei nº 13.709, de 14 de agosto de 2018, art. 5º, I, estabelece dado pessoal toda "informação
+relacionada a pessoa natural identiﬁcada ou identiﬁcável". O tratamento realizado na plataforma Tiktok abrange,
+no mínimo, os seguintes dados: idade, nome de usuário e senha, idioma e e-mail ou número de telefone, dados
+da conta, foto de perﬁl, endereço IP, agente de usuário, outras informações técnicas sobre o dispositivo e
+informações de localização com base no cartão SIM e/ou endereço IP [Nota Técnica nº 6/2023/CGF/ANPD (SEI
+nº 0048776)]. Portanto, os dados envolvidos no tratamento são dados pessoais, pois consistem em
+informação relacionada a pessoa natural identiﬁcada ou identiﬁcável.
+6.2. A leitura do processo revelou que a atividade desenvolvida pela autuada conﬁgura tratamento
+de dados pessoais, já que são realizadas, ao menos, a coleta, a classiﬁcação, a utilização, o acesso, o
+armazenamento e a eliminação de dados pessoais para viabilizar o funcionamento da plataforma TikTok. Essas
+atividades se enquadram na previsão do art. 5º, X, da LGPD, que classiﬁca como tratamento "toda operação
+realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classiﬁcação, utilização,
+acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação,
+avaliação ou controle da informação, modiﬁcação, comunicação, transferência, difusão ou extração".
+6.3. A LGPD, ainda, deﬁne a ﬁgura do controlador no art. 5º, VI, como a "pessoa natural ou jurídica,
+de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais". Tendo
+em vista que a empresa ByteDance é a desenvolvedora da ferramenta TikTok, é ela a responsável pelo
+tratamento de dados pessoais realizado no âmbito da plataforma, englobando as atividades de tratamento no
+“feed sem cadastro” e no “feed com cadastro”.[3] Resta, assim, estabelecido que a ela competem as decisões
+referentes ao tratamento de dados pessoais, motivo pelo qual é controladora, estando representada, neste
+processo, por sua representação no Brasil – no caso, a ByteDance Brasil Tecnologia Ltda ("ByteDance Brasil").
+6.4. Ademais, por força do art. 4º, I, do Regulamento de Fiscalização, a Bytedance Brasil é
+considerada agente regulado pela ANPD, haja vista ser um agente de tratamento – no caso, controladora.
+Cumpre especiﬁcar os deveres a que os agentes regulados estão submetidos:
+Art. 5º Os agentes regulados submetem-se à ﬁscalização da ANPD e têm os seguintes deveres, dentre
+outros:
+I - fornecer cópia de documentos, físicos ou digitais, dados e informações relevantes para a avaliação das
+atividades de tratamento de dados pessoais, no prazo, local, formato e demais condições estabelecidas pela
+ANPD;
+[PAGINA 7]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 7 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_i…20307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+II - permitir o acesso às instalações, equipamentos, aplicativos, facilidades, sistemas, ferramentas e recursos
+tecnológicos, documentos, dados e informações de natureza técnica, operacional e outras relevantes para a
+avaliação das atividades de tratamento de dados pessoais, em seu poder ou em poder de terceiros;
+III - possibilitar que a ANPD tenha conhecimento dos sistemas de informação utilizados para tratamento de
+dados e informações, bem como de sua rastreabilidade, atualização e substituição, disponibilizando os
+dados e as informações oriundos destes instrumentos;
+IV - submeter-se a auditorias realizadas ou determinadas pela ANPD;
+V - manter os documentos físicos ou digitais, os dados e as informações durante os prazos estabelecidos na
+legislação e em regulamentação especíﬁca, bem como durante todo o prazo de tramitação de processos
+administrativos nos quais sejam necessários; e
+VI - disponibilizar, sempre que requisitado, representante apto a oferecer suporte à atuação da ANPD, com
+conhecimento e autonomia para prestar dados, informações e outros aspectos relativos a seu objeto.
+6.5. A competência de atuação da ANPD decorre da circunstância de a atividade realizada pela
+Bytedance Brasil no tratamento de dados pessoais que ocorre no âmbito da plataforma TikTok estar inserida nas
+disposições da LGPD, deﬁnida pelo art. 5º, XIX, como "órgão da administração pública responsável por zelar,
+implementar e ﬁscalizar o cumprimento desta Lei em todo o território nacional". Cabe à ANPD, de acordo com
+o art. 55-J, "I - zelar pela proteção dos dados pessoais, nos termos da legislação", bem como "IV - ﬁscalizar e
+aplicar sanções em caso de tratamento de dados realizado em descumprimento à legislação, mediante processo
+administrativo que assegure o contraditório, a ampla defesa e o direito de recurso" e "XX - deliberar, na esfera
+administrativa, em caráter terminativo, sobre a interpretação desta Lei, as suas competências e os casos
+omissos".
+6.6. No âmbito da ANPD, a Superintendência de Fiscalização (SFI), previamente denominada
+Coordenação-Geral de Fiscalização (CGF), é a responsável por identiﬁcar as infrações à LGPD. De acordo com
+o Regimento Interno da ANPD:
+Art. 17. São competências da Coordenação-Geral de Fiscalização, sem prejuízo de outras previstas na Lei nº
+13.709, de 2018, no Decreto nº 10.474, de 2020, e na legislação aplicável:
+I - ﬁscalizar e aplicar as sanções previstas no artigo 52 da Lei nº 13.709, de 2018, mediante processo
+administrativo que assegure o contraditório, a ampla defesa e o direito de recurso;
+II - proferir decisão em primeira instância nos processos administrativos sancionadores da ANPD;
+III - promover ações de ﬁscalização sobre as ações de tratamento de dados pessoais efetuadas pelos agentes
+de tratamento, incluído o Poder Público;
+6.7. Pelo exposto, ﬁca estabelecida a competência da ANPD no caso concreto para avaliar a conduta
+da ByteDance Brasil, controladora de dados e agente regulado, à luz da LGPD.
+ 
+Outras questões preliminares
+6.8. A autuada não arguiu questões preliminares de mérito em sua defesa, tampouco esta CGF
+veriﬁcou a existência de tais questões a serem trazidas a este Relatório de Instrução.
+ 
+7. ANÁLISE
+Conduta 1: tratar dados pessoais de crianças e de adolescentes menores de 18 anos sem a existência de
+hipótese legal válida com a ﬁnalidade de fornecer a experiência do “feed sem cadastro” – art. 7º da LGPD.
+Defesa apresentada pela autuada
+7.1. Diante da acusação de que teria realizado o tratamento de dados pessoais de crianças e de
+adolescentes sem a existência de hipótese legal válida, a autuada sustentou, em síntese, que os dados pessoais
+tratados dentro da experiência não cadastrada seriam mínimos e amparados na execução de contrato ou de
+procedimentos preliminares (SEI nº 0157923, item 139). Isso porque, ao acessar pela primeira vez a plataforma,
+um pop-up solicitando a aceitação dos Termos de Uso seria apresentado ao usuário, o que conﬁguraria um
+contrato válido para a utilização da plataforma nessa experiência (SEI nº 0189205, item 96).
+7.2. No caso de adolescentes, tal hipótese legal seria válida diante da inexistência de forma especíﬁca
+para a validade da representação e assistência; o que permitiria a presunção, segundo alega, da boa-fé de que os
+[PAGINA 8]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 8 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_i…20307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+adolescentes, ao acessarem plataformas digitais, contariam com a supervisão de seus pais ou responsáveis (SEI
+nº 0189205, item 97). Por outro lado, qualquer atividade de tratamento de dados pessoais de crianças seria
+incidental e naturalmente limitada, já que o Tiktok não é destinado a crianças (SEI nº 0157923, item 138; SEI
+nº 0189205, item 98).
+7.3. Por ﬁm, informou que, após o processo de ﬁscalização, realizou análises internas e entendeu que
+o legítimo interesse seria a hipótese legal mais apropriada para o tratamento de dados pessoais na experiência do
+“feed sem cadastro” (SEI nº 0189205, item 99), sendo que a adoção prévia de execução do contrato estava
+amparada em boa-fé da controladora, considerando as características e restrições relacionadas ao serviço, que
+poderiam, a princípio, torná-la válida (SEI nº 0189205, item 106).
+Subsunção do fato ao tipo infracional correspondente
+7.4. A atividade de tratamento de dados pessoais de crianças e adolescentes cuja ﬁnalidade é fornecer
+a experiência no “feed sem cadastro” não pode ser amparada na hipótese legal da execução de contrato ou de
+procedimentos preliminares a contrato (art. 7º, V , da LGPD). Isso ocorre porque o funcionamento da ferramenta
+sem cadastro não cumpre as exigências legais mínimas para que um contrato exista, ou para que os
+procedimentos preliminares a ele estejam conforme as exigências legais.
+7.5. Em primeiro lugar, o TikTok é ampla e reconhecidamente utilizado por crianças. Sobre esse
+último aspecto, cabe lembrar que a pesquisa TIC Kids 2022 apontou o TikTok como a principal rede social
+utilizada por menores de 13 anos[4]. A mesma pesquisa, em sua edição mais recente (2025), sinaliza que a
+referida rede social continua sendo popular entre o público menor de 13 anos [5]. A isso se soma o fato de a
+própria autuada ter removido mais de 7,75 milhões de contas de crianças no Brasil entre outubro de 2022 e
+setembro de 2023 (SEI nº 0078273). Esses dados, embora de usuários cadastrados, reforçam a inferência de que
+a magnitude do acesso de crianças à plataforma, sem qualquer tipo de registro, é  factual e pode ser ainda mais
+elevada. É incontestável, dessa forma, que há acesso de crianças e adolescentes ao “feed sem cadastro”.
+7.6. Em segundo lugar, destaca-se que as exigências estabelecidas no art. 14 da LGPD para o
+tratamento de dados pessoais de crianças e adolescentes conferem a essas operações um nível de
+complexidade incompatível com procedimentos simpliﬁcados, o que inviabiliza a utilização de um simples
+termo de uso para formalizar essa relação – especialmente considerando que a funcionalidade similar prescinde
+de formalização via cadastro. Por esse mesmo motivo, a presunção de “boa fé” de que adolescentes estariam sob
+supervisão ao acessarem a plataforma, consoante defende a autuada, é inconciliável com os ritos especíﬁcos
+previstos pelo mencionado artigo, motivo pelo qual essa presunção é afastada de plano.
+7.7. Em terceiro lugar, a utilização da execução de contrato (art. 7º, V , da LGPD) como hipótese
+legal pressupõe, inexoravelmente, a existência de uma relação jurídica válida.
+7.8. Sob a ótica estrutural do negócio jurídico contratual, para que um contrato ingresse no plano da
+validade, o art. 104, I, do Código Civil exige a presença de um "agente capaz". De acordo com o ordenamento
+brasileiro, crianças (menores de 12 anos) e adolescentes (entre 12 e 18 anos) são, respectivamente,
+absolutamente (até os 16 anos) ou relativamente (entre 16 e 18 anos) incapazes. Portanto, para que a
+formalização do contrato seja válida, é imprescindível a devida representação ou assistência legal por parte dos
+pais ou responsáveis.
+7.9. Consequentemente, a hipótese legal de execução de contrato torna-se inválida (nula ou anulável)
+quando aplicada a esse público de forma isolada. Embora a criança ou o adolescente manifeste vontade ao
+aceitar os Termos de Serviço, falta-lhe a capacidade civil para celebrar o contrato sem a assistência ou
+representação parental. A incapacidade civil não é um mero detalhe formal, mas um pressuposto jurídico central
+que condiciona a validade dos atos praticados e, por extensão, a licitude do próprio tratamento de dados pessoais
+deles decorrente.
+7.10. No caso concreto, restou demonstrado que a ByteDance não implementou mecanismos efetivos
+para assegurar a devida assistência ou representação que permitisse a navegação no “feed sem cadastro”,
+circunstância que compromete a própria existência válida do vínculo contratual alegado e, por consequência,
+inviabiliza a aplicação do art. 7º, V , da LGPD. A condição jurídica da criança e do adolescente como incapaz ou
+relativamente incapaz não pode ser ignorada pelo agente de tratamento ao estruturar seus ﬂuxos de coleta e uso
+de dados pessoais. 
+[PAGINA 9]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 9 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_i…20307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+7.11. Nesse sentido, cabe retomar entendimento já veiculado na Nota Técnica nº
+50/2024/FIS/CGF/ANPD (SEI 0153897):
+6.42. É importante ressaltar que a CGF entende que as práticas de tratamento de dados pessoais possuem
+um elevado grau de complexidade e não podem ser enquadradas como "atos corriqueiros" ,
+especialmente no que tange ao tratamento de dados de adolescentes. A presunção de autorização por
+parte dos responsáveis, conforme defendido pelo TikTok, não encontra respaldo no ordenamento
+jurídico brasileiro, uma vez que o artigo 104, inciso I, do Código Civil é claro ao aﬁrmar que a validade de
+um negócio jurídico depende da capacidade do agente. É necessário lembrar que, segundo o artigo 3º do
+mesmo Código, indivíduos com menos de 16 anos são considerados absolutamente incapazes.
+6.43. Ademais, o artigo 14, §5º da Lei Geral de Proteção de Dados (LGPD) impõe aos controladores o dever
+de "realizar todos os esforços razoáveis para veriﬁcar que o consentimento a que se refere o §1º deste artigo
+foi dado pelo responsável pela criança, consideradas as tecnologias disponíveis". Isso evidencia, que não
+existe qualquer presunção, de que os pais ou responsáveis acompanhem todas as atividades online dos
+ﬁlhos, nem há autorização implícita para que os controladores de dados deixem de averiguar se houve
+anuência parental sobre as ações realizadas por crianças e adolescentes na internet, especialmente
+quando seus serviços são voltados para esse grupo, ainda que em parte.
+6.44. Além disso, há clara inadequação do contrato de adesão, que parece ser direcionado a adultos, sem
+a devida adaptação às exigências da LGPD e do Estatuto da Criança e do Adolescente (ECA), nem à
+compreensão dos adolescentes que utilizam a plataforma. Dessa maneira, a validade desse contrato, no
+contexto apresentado, é altamente contestável e reforça a necessidade de ajustes para assegurar a
+conformidade com as normativas brasileiras.
+(Grifos inexistentes no original).
+7.12. Ratiﬁca-se, nesta ocasião, o entendimento de que contratos de adesão, sem quaisquer adaptações,
+não atendem às exigências da LGPD para amparar o tratamento de dados pessoais de crianças e adolescentes na
+hipótese legal de execução do contrato. Isso se justiﬁca, reitera-se, porque crianças e adolescentes não
+possuem capacidade civil, nos termos do Código Civil brasileiro, para celebrar contratos dessa natureza,
+tampouco para praticar atos preparatórios à formalização de negócios jurídicos; logo, eventual aceite de
+termos de uso ou de documentos semelhantes carece de validade jurídica, invalidando a utilização da hipótese
+legal prevista no art. 7º, V , da LGPD.
+7.13. Assim, no ambiente sem cadastro, não havia relação contratual formada, nem expectativa
+legítima de contratação atribuível ao titular, já que este não detinha capacidade jurídica para manifestar a
+intenção de aderir de forma consciente ou válida a um contrato, nem para praticar atos jurídicos aptos a conferir
+validade à eventual adesão. Enquadrar esse tratamento como etapa pré-contratual revela-se, portanto, uma
+construção incompatível com os pressupostos da LGPD.
+7.14. Outrossim, ainda que o tratamento de dados pessoais de crianças ocorresse de forma incidental (o
+que sequer é o caso, conforme se verá no item 7.119), é incontroverso que tal tratamento efetivamente ocorre.
+Havendo tratamento de dados pessoais, incide a LGPD – independentemente de esse tratamento corresponder,
+ou não, ao objetivo principal do controlador –, o que atrai todas as obrigações previstas no referido diploma
+legal. Nesse sentido, o tratamento de dados pessoais de crianças no “feed sem cadastro” deve, à semelhança de
+qualquer operação de tratamento, estar fundamentado em hipótese legal válida e observar os princípios
+estabelecidos na LGPD, com especial atenção aos da ﬁnalidade, da adequação e da necessidade. 
+7.15. Portanto, o alegado tratamento mínimo ou a suposta ausência de intencionalidade da autuada no
+tratamento de dados pessoais de crianças não afasta a necessidade de deﬁnição de hipótese legal adequada, nem
+exime o controlador do cumprimento das obrigações que a LGPD lhe impõe quanto a esse tratamento.
+7.16. Ademais, a alegação, já em sede de defesa no presente processo, de que o legítimo interesse seria
+a hipótese legal apropriada para o tratamento de dados pessoais no "feed sem cadastro" constitui medida tardia e
+manifestamente insuﬁciente para sanar a irregularidade prévia. Cabe esclarecer que a fase instrutória do
+processo administrativo sancionador não constitui o momento adequado para aferir a eﬁcácia de medidas
+corretivas eventualmente apontadas, especialmente quando tais providências estão em análise no âmbito de
+processo de ﬁscalização especíﬁco. Por isso, a análise acerca da eventual adequação do legítimo interesse para
+amparar a atividade de tratamento em questão extrapola o escopo do presente processo.
+7.17. Dito de outro modo, a alegada alteração da hipótese legal, ainda que visando a uma possível
+adequação à LGPD, não afasta a responsabilidade da autuada pela conduta pretérita, a qual permanece sujeita à
+devida responsabilização.
+[PAGINA 10]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 10 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+7.18. Por todo o exposto, tendo em vista que i) houve o tratamento de dados pessoais de crianças e
+adolescentes com amparo na hipótese legal de execução de contrato ou de procedimentos preliminares a eles; ii)
+crianças e adolescentes menores de 18 anos são absoluta ou relativamente incapazes para celebrar negócios
+jurídicos, nos termos do art. 3º do Código Civil; iii) o “feed sem cadastro” não oferecia qualquer ferramenta para
+averiguar a adequada assistência ou representação para a assinatura de um contrato ou para a realização de atos
+prévios a ele; iv) o suposto tratamento mínimo ou incidental não exime o controlador da obrigação de tratar
+dados pessoais com amparo em hipótese legal adequada; e v) a alteração de hipótese legal após a instauração de
+processo administrativo sancionador não afasta a responsabilidade da autuada pela conduta pretérita; ﬁca
+caracterizado o tratamento de dados pessoais de crianças e adolescentes sem hipótese legal válida para a
+atividade de tratamento que tem como ﬁnalidade fornecer a experiência do “feed sem cadastro”,
+conﬁgurando violação ao art. 7º da LGPD.
+Classiﬁcação da infração
+7.19. O art. 7º da LGPD determina que o tratamento de dados pessoais somente poderá ser realizado
+mediante hipótese legal. Conforme acima explicado, a autuada não cumpriu a mencionada obrigação legal, pois
+realizou o tratamento de dados pessoais de crianças e adolescentes no "feed sem cadastro" sem a existência de
+uma hipótese legal válida.
+7.20. O Regulamento de Dosimetria e Aplicação de Sanções Administrativas (Regulamento de
+Dosimetria), aprovado pela Resolução CD/ANPD nº 4, de 24 de fevereiro de 2023, estabelece, em seu artigo 8º,
+os parâmetros para classiﬁcar as infrações segundo a gravidade e a natureza das infrações e dos direitos pessoais
+afetados, dividindo-as em leve, média ou grave.
+7.21. Segundo prevê o art. 8º, §2º, do Regulamento de Dosimetria[6], a infração pode ser considerada
+média quando puder afetar signiﬁcativamente interesses e direitos fundamentais dos titulares.
+7.22. No presente caso, a ausência de hipótese legal para o tratamento de dados pessoais de crianças e
+adolescentes no "feed sem cadastro" implicou em limitação signiﬁcativa ao exercício de direito por esses
+titulares. Isso porque a hipótese legal de tratamento é condição essencial habilitadora do exercício dos direitos
+pelo titular, uma vez que certos direitos estão diretamente relacionados à hipótese de tratamento utilizada pelo
+controlador. Nesse sentido, ao viabilizar a coleta e o uso de dados pessoais sem hipótese legal e, por isso, sem a
+decorrente observância das respectivas salvaguardas legais aplicáveis – inclusive quanto à necessidade de
+representação e assistência –, a autuada comprometeu, de forma relevante, a capacidade desses titulares de
+exercer controle sobre seus dados pessoais, de exercer os direitos correspondentes a essa hipótese legal e,
+como consequência, de usufruir do serviço em condições compatíveis com a proteção integral que lhes é
+assegurada.
+7.23. Os aspectos acima elencados constituem elemento central do direito fundamental à proteção de
+dados pessoais, na medida em que permitem ao titular decidir, inﬂuenciar e acompanhar as atividades de
+tratamento que lhe dizem respeito (ainda que, conforme o presente caso, por intermédio de representante ou
+assistente legal). Ao tratar dados pessoais sem hipótese legal válida, a autuada não apenas descumpriu uma
+exigência formal da LGPD, como também – e principalmente – atingiu o núcleo essencial desse direito,
+limitando de forma relevante a autodeterminação informativa dos titulares. Essencial lembrar que o art. 7º
+da LGPD é a espinha dorsal da LGPD, sem o qual não existe fundamento legal para um tratamento legítimo de
+dados. Em outras palavras, o tratamento sem amparo em pelo menos uma das hipóteses legais do art. 7º da
+LGPD é uma infração que, isoladamente, possui contornos de maior gravidade, uma vez que afronta um dos
+fundamentos da própria existência da LGPD[7].
+7.24. Por isso, uma atividade de tratamento que não está amparada por uma hipótese legal válida
+prevista na LGPD é ilícita na origem e sequer poderia existir. Ao realizar o tratamento de dados pessoais,
+especialmente de crianças e adolescentes, pautado em um contrato inexistente, a autuada impõe restrições
+severas e concretas ao exercício dos direitos previstos na LGPD, conforme explicado.
+7.25. O exposto acima, somado ao inquestionável fato de que a plataforma é efetivamente acessada por
+crianças e adolescentes em sua versão sem cadastro, evidencia que o tratamento irregular não se deu em caráter
+meramente hipotético, mas incidiu sobre titulares concretos, potencializando a limitação ao exercício de direitos.
+Fica, assim, afastado o argumento da autuada de que suas atividades de tratamento não teriam impedido ou
+limitado o exercício de direitos dos titulares.
+[PAGINA 11]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 11 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+7.26. Pelo exposto, a infração ao art. 7º ora analisada se enquadra nos requisitos do art. 8º, §2º, do
+Regulamento de Dosimetria, atendendo ao critério para ser classiﬁcada como média.
+7.27. Para que uma infração seja considerada grave, ela deve reunir as características de infração média
+e, cumulativamente, enquadrar-se em pelo menos uma das alíneas do inciso I do § 3º do art. 8º do Regulamento
+de Dosimetria. Foram veriﬁcadas as seguintes circunstâncias da infração em tela compatíveis com o inciso I:
+7.27.1. Tratamento de dados pessoais em larga escala (art. 8º, §3º, I, “a”):  as evidências
+constantes dos autos indicam que o tratamento irregular (i) abrangeu número expressivo de titulares, tendo
+em vista que o TikTok é amplamente utilizado por crianças e adolescentes (ver item 7.5); (ii) ocorreu de
+forma contínua e reiterada ao longo do tempo[8]; e (iii) possui alcance nacional, considerando a ampla
+disseminação da plataforma no território brasileiro. Diante do tamanho e alcance da plataforma, veriﬁcou-
+se que o tratamento de dados pessoais de crianças e adolescentes no “feed sem cadastro” afetou um número
+altamente signiﬁcativo de titulares.
+7.27.2. Vantagem econômica auferida ou pretendida (art. 8º, §3º, I, “b”): a autuada coletou e
+tratou continuamente os dados pessoais de crianças e adolescentes no “feed sem cadastro” para, conforme
+será detalhado na Conduta 2, direcionar conteúdo personalizado durante a interação com o feed. Nele, eram
+disponibilizados anúncios, os quais, ainda que alegadamente não personalizados, correspondem a
+monetização no uso da ferramenta. Além disso, a popularidade da plataforma e a atenção retida dos
+usuários são fatores diretos de atração de parceiros comerciais (vide item 7.56) o que evidencia o
+auferimento de vantagem econômica direta ou indiretamente decorrente de seu modelo de negócios.
+7.27.3. Tratamento de dados pessoais de crianças e adolescentes (art. 8º, §3º, I, “d”): as
+condutas apuradas envolvem de forma direta e contínua o tratamento massivo de dados pessoais de crianças
+e adolescentes (os dados tratados no “feed sem cadastro” serão discutidos na Conduta 2). A especial
+proteção conferida a esse grupo, reconhecidamente hipervulnerável, eleva, por si só, o grau de
+reprovabilidade das condutas, nos termos expressos do Regulamento de Dosimetria, estando presente na
+conduta que infringe o art. 7º.
+7.28. Portanto, a infração passa a ser classiﬁcada como grave, nos termos do art. 8º, § 3º, inciso I,
+alíneas 'a', 'b', 'd' do Regulamento de Dosimetria.
+Deﬁnição do tipo de sanção administrativa
+7.29. Uma vez que a infração analisada foi classiﬁcada como de natureza grave, afasta-se de plano a
+possibilidade de aplicação de advertência, restrita a infrações classiﬁcadas como leves ou médias, nos termos do
+art. 9º, inciso I, do Regulamento de Dosimetria.
+7.30. Dadas as circunstâncias do caso concreto, e em atenção ao disposto no art. 10, inciso II, do
+mencionado Regulamento, avalia-se que a aplicação da multa simples é juridicamente necessária, proporcional
+e adequada à luz da legislação vigente.
+Cálculo da multa simples: Apêndice I do Regulamento de Dosimetria
+7.31. Para deﬁnir o valor da multa, deve-se conhecer o faturamento da infratora no último exercício
+disponível anterior à aplicação da sanção (art. 11, II, do Regulamento de Dosimetria). Após diligências
+realizadas pela ANPD junto à Receita Federal, esta informou que, em
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXX XXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXX (SEI nº 0295994) [ACESSO RESTRITO – trechos sombreados
+são de acesso restrito à regulada – sigilo ﬁscal - art. 198, caput, da Lei nº 5.172, de 25 de outubro de 1966].
+Etapa 1: determinação da alíquota-base (Abase)
+7.32. Conforme já mencionado, a infração foi classiﬁcada como grave.
+7.33. O grau do dano, por sua vez, deve ser deﬁnido conforme os critérios estabelecidos na Tabela 2 do
+Apêndice I do Regulamento de Dosimetria e Aplicação de Sanções Administrativas. Nesse sentido, à presente
+infração aplica-se o grau do dano de valor 3, dada a irreversibilidade das restrições a direitos decorrentes do
+[PAGINA 12]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 12 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+tratamento de dados pessoais de crianças e adolescentes sem hipótese legal no “feed sem cadastro”.
+7.34. Deﬁnido o grau do dano, determina-se a alíquota-base de acordo com a seguinte forma:
+7.35. Deve-se considerar que:
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+7.36. Assim:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+ Etapa 2: determinação do valor-base (Vbase)
+7.37. Após, o valor-base da multa é calculado pela multiplicação da alíquota-base pelo faturamento
+bruto, excluídos os tributos, consoante a fórmula:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX
+Vbase = R$ 35.760.388,68
+[ACESSO RESTRITO – trechos sombreados são de acesso restrito à regulada – sigilo ﬁscal - art. 198, caput, da
+Lei nº 5.172, de 25 de outubro de 1966].
+ Etapa 3: determinação do valor da multa (Vmulta)
+7.38. Sobre o valor-base, aplicam-se as circunstâncias agravantes e atenuantes, previstas,
+respectivamente, nos arts. 12 e 13 do Regulamento de Dosimetria, resultando na seguinte fórmula de cálculo:
+7.39. No que tange às circunstâncias agravantes, veriﬁca-se que não há elementos nos autos que
+justiﬁquem a sua incidência. Portanto, afasta-se a aplicação de qualquer percentual de agravamento sobre o
+cálculo da sanção.
+7.40. Por outro lado, a autuada pleiteia a incidência, no cálculo da multa, das circunstâncias atenuante
+previstas no art. 13, I, c[9]; II[10]; e III, b[11], o que atrairia a cumulação do §2º do mesmo artigo[12], todos do
+Regulamento de Dosimetria. Tais atenuantes estariam atreladas à apresentação do novo Plano de Conformidade
+no âmbito do Processo de Fiscalização – o que, argumenta, consubstanciaria a cessação de eventuais infrações e
+a adoção de medidas adequadas de mitigação de quaisquer danos (SEI nº 0189205, item 131).
+7.41. Contudo, tal argumento não merece prosperar. As circunstâncias atenuantes mencionadas – no
+caso, a cessação da infração, a implementação de política de boas práticas e de governança ou de adoção
+reiterada e demonstrada de mecanismos e procedimentos internos, e a implementação de medidas capazes de
+reverter ou mitigar os efeitos da infração sobre os titulares de dados pessoais afetados – possuem um ponto em
+comum: exigem comprovação por parte do infrator. É isso o que preconiza o art. 13, § 3º, ao estabelecer que
+"cabe ao infrator o ônus de comprovar perante a ANPD o cumprimento dos requisitos previstos neste artigo".
+[PAGINA 13]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 13 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+7.42. A empresa argumenta que a apresentação do Plano de Conformidade formal seria suﬁciente para
+atestar essa comprovação. É indispensável, porém que o referido Plano estivesse comprovadamente cumprido e
+implementado na prática, com o devido ateste da ANPD.
+7.43. Esse raciocínio alinha-se de forma sistemática ao disposto no art. 36, § 2º, do Regulamento do
+Processo de Fiscalização e do Processo Administrativo Sancionador (Resolução CD/ANPD nº 1/2021). A norma
+que rege o plano de conformidade determina expressamente que "caberá ao agente de tratamento comprovar o
+atendimento ao resultado esperado, além das medidas adotadas para reversão da situação dentro do prazo
+estabelecido". Portanto, a mera apresentação do Plano – que ainda precisaria ser aprovado pela ANPD,
+executado pelo agente de tratamento e ter seu cumprimento atestado pela Agência – não preenche os requisitos
+legais para a redução da sanção pecuniária.
+7.44. Na ausência de circunstâncias agravantes ou atenuantes, o valor da multa corresponde ao valor-
+base calculado na Etapa 2 – no caso, R$ 35.760.388,68.
+ Etapa 4: adequação aos limites mínimos e máximos da multa
+7.45. O valor ﬁnal da multa deve ater-se aos limites mínimos previstos no Apêndice II do Regulamento
+de Dosimetria, e máximo de 2% do faturamento da pessoa jurídica de direito privado, excluídos os tributos,
+limitada a R$ 50.000.000,00 (cinquenta milhões de reais).
+7.46.  O valor da multa para a infração em análise corresponde a R$ 35.760.388,68 – o qual é superior
+ao montante de R$ 12.000,00 (doze mil reais), estabelecido como mínimo pela Tabela 2 do Apêndice II do
+Regulamento de Dosimetria para os casos de infratores com faturamento.
+7.47. Quanto ao valor máximo, 2% do faturamento da infratora corresponderia
+aXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX que é superior ao valor da multa calculado,
+mostrando foi respeitado o limite estabelecido pela LGPD [ACESSO RESTRITO – trechos sombreados são de
+acesso restrito à regulada – sigilo ﬁscal - art. 198, caput, da Lei nº 5.172, de 25 de outubro de 1966].
+7.48. Considerando o exposto, sugere-se a aplicação de multa no valor de R$ 35.760.388,68 (trinta
+e cinco milhões, setecentos e sessenta mil, trezentos e oitenta e oito reais e sessenta e oito centavos) à
+empresa ByteDance Brasil pela infração relacionada à Conduta 1.
+ 
+Conduta 2: deixar de adotar medidas para prevenir o tratamento de dados pessoais de crianças e
+adolescentes menores de 13 (treze) na experiência do “feed sem cadastro” – art. 6º, VIII, da LGPD.
+Defesa apresentada pela autuada
+7.49. Em resposta à acusação, a autuada alega que o feed sem cadastro corresponde a uma experiência
+de navegação estritamente limitada, que proporciona acesso a conteúdo de maneira controlada, na qual a coleta
+de dados restringe-se, de forma exclusiva, ao nível do dispositivo, sem criar perﬁs e coletar informações de
+registro ou comportamentais. A defesa complementa que não haveria intenção deliberada de permitir ou facilitar
+o acesso de crianças à plataforma (SEI nº 0157923, itens 151 e 154). 
+7.50. Complementa que não realiza direcionamento de publicidade. Segundo a defesa, inexiste
+publicidade segmentada nessa modalidade de acesso e tampouco haveria tratamento de dados pessoais para
+classiﬁcação ou otimização de anúncios. Aﬁrmou que desde o princípio, tratava apenas determinados dados para
+ﬁns de fornecimento de publicidade não personalizada; e que os mecanismos de recomendação operam por
+critérios genéricos e numéricos, sem associação de identiﬁcação individual [13]. Esse tipo de customização
+limitada de conteúdo, defende, seria distinto de uma prática de “perﬁlização”, na medida em que a autuada não
+criaria perﬁs ou segmentaria os usuários não registrados em determinadas categorias para a distribuição e
+recomendação do conteúdo. Assim, restaria afastada a alegação de tratamento em desconformidade com o
+princípio da ﬁnalidade (SEI nº 0157923, itens 128 e 129; SEI nº 0189205 83-84, 86,90; SEI nº 0230319, item
+53). 
+7.51. Nessa experiência, argumenta, seriam aplicadas, por padrão ( privacy by design), rigorosas
+políticas de moderação e diretrizes de comunidade para implementar ambiente seguro e adequado a todas as
+idades. Tais medidas, que considera robustas e razoáveis, mitigariam os riscos oferecidos nessa experiência,
+[PAGINA 14]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 14 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+diferenciando-a signiﬁcativamente da de usuários cadastrados na plataforma. Entre essas medidas, estariam a
+minimização de coleta e tratamento de dados pessoais, a restrição nas possibilidades de interação com a
+plataforma e mecanismos limitados de customização de conteúdo (SEI nº  0157923, itens 133-134; SEI
+nº 0189205, itens 64, 68, 70).
+7.52. Argumentou que em toda plataforma digital existe o risco de usuários utilizarem a plataforma
+sem cumprir os Termos de Uso, mesmo que isso não possa ser presumido. Durante o procedimento de
+ﬁscalização, complementam, teria implementado proteções adicionais à experiência sem cadastro, inclusive o
+“age gate”, o que demonstraria a ausência de violação ao dever de prevenção (SEI nº  0189205, itens 67-68).
+Aﬁrma ter implementado medidas de controle constantes, como mecanismos de veriﬁcação de idade, sendo que
+inexistiria solução técnica que possa garantir, com total eﬁcácia, a prevenção de cadastros de menores de 13
+anos que deliberadamente optam por burlar sua idade (SEI nº 0157923, itens 17 e 150).
+7.53. A autuada aﬁrma, também, que, na ausência de regulamentação especíﬁca da ANPD sobre
+veriﬁcação de idade e mecanismos a serem adotados, não se pode imputar descumprimento de obrigações ainda
+não formalizadas; sustenta, ainda, que tem atuado de boa-fé, com adoção de medidas de conformidade e
+colaboração com a Agência, visando ao aprimoramento da proteção de crianças e adolescentes (SEI nº 0157923,
+item 152). 
+7.54. Por ﬁm, alega que o conjunto de medidas adotadas mesmo antes deste processo administrativo
+sancionador já demonstraria que o feed sem cadastro representaria interferência limitada quanto ao tratamento
+de dados pessoais e quanto às interações do usuário com a plataforma, especialmente tendo em vista os padrões
+da indústria e a ausência de uma diretriz objetiva a respeito dos mecanismos de veriﬁcação etária a serem
+implementados em serviços similares (SEI nº 0189205, item 71).
+ 
+Subsunção do fato ao tipo infracional correspondente
+7.55. A plataforma TikTok é manifestamente inadequada ao público menor de  13 anos (SEI
+nº 0157923, item 18)[14]; logo, o tratamento de dados pessoais de titulares que não atendem a essa classiﬁcação
+etária mínima é, por deﬁnição,  incompatível com a Lei Geral de Proteção de Dados. Embora  a
+autuada argumente que esse tratamento é incidental, tal alegação não se sustenta. Conforme será demonstrado a
+seguir, o tratamento em questão é massivo e estrutural ao ser intencionalmente potencializado pelo modelo de
+negócio que deliberadamente oferece a experiência de “feed sem cadastro”, na qual são tratados dados
+substancialmente equivalentes àqueles coletados e tratados na modalidade com cadastro, conforme será
+apresentado a seguir.
+7.56. O núcleo do modelo de negócio da referida plataforma baseia-se no seu algoritmo de
+recomendação, fato esclarecido pela autuada ao apresentar a funcionalidade do “Feed Para V ocê”,
+voltado a usuário cadastrado: 
+O tratamento de dados pessoais dos Usuários para fornecer a eles conteúdo personalizado no Feed Para
+V ocê é central para a Plataforma e esperado pelos Usuários do TikTok. A personalização de conteúdo é,
+assim, uma característica intrínseca do TikTok, e o TikTok não funcionaria da mesma forma como
+serviço sem ela. 
+- Fornecer aos Usuários uma experiência personalizada com base em seus prováveis interesses e
+preferências; 
+- Gerar e reter uma base de Usuários engajadas, fornecendo conteúdo relevante no Feed Para V ocê; e 
+- Assegurar a viabilidade comercial da Plataforma (uma vez que a popularidade da Plataforma é um fator de
+atração de parceiros comerciais). 
+(Relatório de Impacto à Proteção de Dados Pessoais – Personalização de Conteúdo - SEI nº 0078275, p. 3.
+Grifos inexistentes no original).
+7.57.  O Relatório de Impacto à Proteção de Dados Pessoais do qual foram extraídas as informações
+acima “foca exclusivamente na análise das atividades de tratamento que são essenciais para que o TikTok
+ofereça a Plataforma” (SEI nº 0078275, p. 1). 
+7.58. Para a oferta desse serviço, a empresa aﬁrma que o seu “Sistema de Recomendação” precisa
+restringir o volume de vídeos que serão selecionados para um usuário especíﬁco;  e, para que isso seja
+efetivo, utiliza as seguintes informações: 
+[PAGINA 15]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 15 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+- Interações do Usuário, como Vídeos que o Usuário “curte”, compartilha, comenta, assiste na íntegra ou
+pula, contas que o Usuário segue e que o seguem de volta, e quando o Usuário cria conteúdo. 
+- Informações do Vídeo, como legendas, sons, hashtags, número de exibições do vídeo e o país em que o
+vídeo foi publicado. 
+- Informações do Usuário, como seu dispositivo e conﬁgurações de conta, preferência de idioma, país, fuso
+horário e dia e tipo de dispositivo. 
+Relatório de Impacto à Proteção de Dados Pessoais — RIPD — Personalização de Conteúdo  (SEI
+nº 0078275, p.5). (acesso restrito à regulada. Restrição de acesso decorrente de atividade empresarial, nos
+termos do art. 5º, §2º, do Decreto nº 7.724, de 16 de maio de 2012).
+7.59. Segue descrevendo que, para que a plataforma determine o que vai ser apresentado, é necessário
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX(acesso restrito à regulada. Restrição de acesso decorrente
+de atividade empresarial, nos termos do art. 5º, §2º, do Decreto nº 7.724, de 16 de maio de 2012).
+7.60. Complementa que, na categoria de dados “Informações de Conta”, trata dados pessoais como a
+“idade do Usuário, localização do país (inferida com base no endereço IP) e se o Usuário se cadastrou no TikTok
+há mais de 3 dias” (SEI nº 0078275, p. 9). 
+7.61. Com esses esclarecimentos, parte-se para a análise do que a autuada apresenta sobre o “feed sem
+cadastro”: 
+VIII - Tratamento de dados de titulares não cadastrados 
+g.1) Apresentar informações sobre o tratamento de dados na versão sem cadastro, com comprovação de que
+não é realizado perﬁlamento, inclusive de crianças e adolescentes. O TikTok coleta os seguintes dados
+pessoais de usuários não registrados: 
+- Interações do usuário, incluindo: os vídeos que um usuário assiste na íntegra ou pula; os vídeos que um
+usuário tenta curtir, compartilhar ou comentar; as contas que um usuário tenta seguir; tempo gasto assistindo
+a um vídeo especíﬁco; 
+ - Informações do vídeo, como legendas, sons, hashtags, número de visualizações do vídeo e país em que o
+vídeo foi publicado; e 
+- Informações do usuário como: conﬁgurações do dispositivo; preferência de idioma; país, fuso horário e
+dia; tipo de dispositivo.  
+O TikTok não classiﬁca o usuário não registrado. Existem apenas cálculos numéricos para
+recomendar conteúdo com base no comportamento de usuários não registrados no uso da
+plataforma. 
+(SEI nº 0078273, p. 37. Grifos inexistentes no original).  
+7.62. O trecho acima permite constatar que há tratamento de dados pessoais de usuários não
+cadastrados. Mais do que isso: embora a empresa defenda que haveria experiência e personalização
+severamente limitadas no “feed sem cadastro” – o que, argumenta, abrandaria suas obrigações regulatórias –, o
+que efetivamente se veriﬁca é que  os dados pessoais coletados em ambas as
+experiências são substancialmente semelhantes. A tabela a seguir faz uma análise comparativa sobre o
+tratamento em ambas as experiências:
+Tabela 1: dados pessoais tratados
+Categoria de Dados
+Feed com Cadastro
+(item 7.58)
+Feed sem
+Cadastro
+(item 7.61)
+Dados e Informações
+que se diferem
+Vídeos que o usuário
+curte, compartilha e
+Vídeos que o
+usuário tenta
+curtir,
+No Feed sem
+Cadastro: as curtidas,
+compartilhamentos,
+[PAGINA 16]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 16 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+ 
+7.63. A tabela acima refuta, de maneira incontestável, a alegação da autuada de que há
+tratamento limitado de dados pessoais na modalidade “feed sem cadastro” em comparação com o “feed
+com cadastro”. 
+7.64. Adicionalmente, a mesma tabela explicita que, embora não exista uma conta formalizada na
+versão "feed sem cadastro", o escopo de registros comportamentais e técnicos coletados é quase idêntico ao da
+versão logada. A plataforma substitui o ato consolidado de "curtir" ou "seguir" pela coleta da "tentativa" de
+realizar essas ações. 
+Interações do Usuário
+comenta. compartilhar ou
+comentar.
+comentários e ações de
+seguir são registradas
+como "tentativas" de
+interação (ações
+frustradas pela falta de
+conta), mas que ainda
+assim são coletadas.
+ 
+Métrica Exclusiva: o
+"tempo gasto
+assistindo a um vídeo
+especíﬁco" é
+explicitado
+individualmente no
+feed sem cadastro.
+Vídeos assistidos na
+íntegra ou pulados.
+Vídeos que o
+usuário assiste na
+íntegra ou pula.
+Contas que o usuário
+segue e que o seguem
+de volta.
+Contas que o
+usuário tenta
+seguir.
+Quando o usuário cria
+conteúdo.
+Tempo gasto
+assistindo a um
+vídeo especíﬁco.
+Informações do Vídeo
+Legendas, sons e
+hashtags.
+Legendas, sons e
+hashtags.
+Nenhuma divergência
+Número de exibições
+do vídeo.
+Número de
+exibições do
+vídeo.
+País em que o vídeo
+foi publicado.
+País em que o
+vídeo foi
+publicado.
+Informações do
+Usuário e Dispositivo
+Identiﬁcadores e
+conﬁgurações do
+dispositivo[15].
+Conﬁgurações do
+dispositivo.
+Em razão da ausência
+de cadastro, não há
+coleta de
+"conﬁgurações de
+conta", uma vez que o
+perﬁl formal é
+inexistente nessa
+modalidade.
+ 
+Semelhança Técnica:
+Todos os outros dados
+técnicos (tipo de
+aparelho, idioma, fuso
+horário e localização
+do país) continuam
+sendo extraídos
+normalmente do
+dispositivo do usuário
+sem cadastro.
+Preferência de idioma. Preferência deidioma.
+País, fuso horário e dia.País, fuso horário edia.
+Tipo de dispositivo. Tipo de dispositivo.
+Conﬁgurações de conta. 
+[PAGINA 17]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 17 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+7.65. Nos termos informados pela própria autuada, o tratamento de dados pessoais de usuários
+cadastrados permite personalizar a navegação, de modo a apresentar o que seja de interesse e preferência  do
+titular (ver item 7.56). Considerando que os dados pessoais tratados em  ambas as experiências são
+amplamente coincidentes, conclui-se que há capacidade técnica similar para traçar análise preditiva e
+comportamental da criança e do adolescente que acessam o “feed sem cadastro”. 
+7.66. Para o algoritmo de recomendação da plataforma, o valor preditivo do dado reside no impulso e
+no interesse manifestados pelo usuário ao clicar no botão. Portanto, capturar a "tentativa" de interação confere
+ao sistema uma capacidade técnica similar para rastrear, mapear e traçar o perﬁl preditivo e comportamental da
+criança e do adolescente, sendo equivalente à realização de fato dessas ações. Assim, é possível aﬁrmar que
+o conteúdo exibido aos usuários sem cadastro não decorre de distribuição aleatória ou uniforme, mas de
+um processo de inferência comportamental baseado em dados pessoais coletados durante a navegação. 
+7.67.  Reitere-se que a própria autuada aﬁrma que a personalização é “central para a
+Plataforma" e possui o objetivo explícito de "gerar e reter uma base de Usuários engajadas" e "assegurar a
+viabilidade comercial da Plataforma (uma vez que a popularidade da Plataforma é um fator de atração de
+parceiros comerciais)" (ver item 7.56). Acresce-se que o tratamento dos dados coletados para ﬁns de
+personalização do conteúdo integra a própria lógica econômica da plataforma. 
+7.68. Embora a empresa sustente realizar apenas uma “customização limitada de conteúdo”, reconhece
+a utilização de “um sistema que deﬁne a probabilidade de o usuário se interessar por determinado conteúdo, com
+base em sinais coletados mediante o uso da plataforma” (SEI nº 0230319, item 39). Dito de outro modo: se o
+núcleo da atividade da plataforma é a personalização de conteúdos; se os dados pessoais tratados nas
+experiências com e sem cadastro são substancialmente equivalentes; e se a modalidade sem cadastro se destina à
+experimentação da plataforma, é possível concluir, mais uma vez, pela não limitação relevante no
+tratamento de dados pessoais para ﬁns de direcionamento de conteúdo personalizado.
+7.69. Ainda que a empresa adote terminologia diversa para descrever essa prática, os efeitos concretos
+produzidos pelo tratamento para personalização de conteúdo com base em características inferidas do usuário
+mostram-se materialmente equivalentes aos decorrentes da  perﬁlização. Conforme leciona Bioni[16],
+o proﬁling é a prática na qual os dados pessoais de um indivíduo formam um perﬁl a seu respeito para a tomada
+de decisões, sendo tudo calibrado com base nesses estereótipos, inclusive o próprio conteúdo acessado na
+internet, o que acaba por direcionar,  de forma invisível, a experiência e as interações do usuário na
+rede. Hildebrant (2008)[17], por sua vez, explica que  a perﬁlização (proﬁling) seria caracterizada por
+representações computacionais construídas a partir de padrões identiﬁcados em grandes conjuntos de dados,
+capazes de produzir conhecimento probabilístico sobre indivíduos. 
+7.70. Bioni (2019) continua, nesse mesmo sentido, defendendo que, se a premissa da regulação é
+tutelar o cidadão vulnerável frente à manipulação algorítmica, o critério central para a conﬁguração do dado
+pessoal e do perﬁlamento reside também na relação de causa e efeito – isto é, na capacidade da plataforma de
+individualizar um dispositivo e utilizar seus padrões de interação para inﬂuenciar ativamente o comportamento
+daquela pessoa que está atrás da tela. 
+7.71. No presente caso, não se faz necessária a identiﬁcação completa do indivíduo como pessoa
+natural: basta a relação entre conteúdos e o conjunto de dados especíﬁco referentes ao uso e o dispositivo que
+viabiliza o acesso à plataforma. Chamar este conjunto de dados pelo nome de um indivíduo ou por um número
+de identiﬁcação interna[18]  não altera o fato essencial: o conjunto de dados  pessoais colhido permite
+identiﬁcação de padrões e está relacionado à representação virtual do comportamento de um indivíduo. Propor
+que tal engenho tenha nome diverso de “perﬁlização” não desconﬁgura a correlação inerente entre a atividade da
+autuada de especializar a interação da plataforma com aquele conjunto de dados a partir do tratamento dos dados
+do usuário[19].
+7.72. Essa sistemática de tratamento de dados pessoais que resulta em  personalização de
+navegação ganha relevância crítica ao se tratar do público infantojuvenil,  o qual se encontra em fase de
+desenvolvimento psíquico, cognitivo e social. Isso torna essa parcela da população signiﬁcativamente mais
+vulnerável aos impactos e à moldagem decorrentes do perﬁlamento.
+7.73. Impende registrar que a personalização de conteúdo não constitui, em si mesma, prática ilícita ou
+[PAGINA 18]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 18 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+nociva. Ao contrário: quando acompanhada das salvaguardas adequadas, a personalização pode operar como
+instrumento de proteção, permitindo, por exemplo, a adequação etária de conteúdo e o direcionamento de
+experiências compatíveis com o estágio de desenvolvimento do usuário. O problema não reside, portanto, na
+personalização ou perﬁlização enquanto técnica, mas proceder com estas desacompanhadas de
+salvaguardas adequadas para o tratamento de dados de crianças e adolescentes (item 7.81) — e é justamente esse
+o cenário veriﬁcado no feed sem cadastro da Autuada. 
+7.74. Do ponto de vista regulatório, a LGPD adota uma abordagem baseada em risco, o que impõe aos
+agentes de tratamento o dever de adequar suas medidas de proteção conforme a gravidade e a probabilidade dos
+impactos do seu modelo de negócio, produto ou serviço. No caso de dados de crianças e adolescentes, esse dever
+é ainda mais rigoroso. A personalização do conteúdo ofertado decorre de atividade da plataforma a partir da
+análise de dados pessoais do usuário, inclusive de menores de 13 anos de idade no caso do “feed sem cadastro”.
+Nesse sentido, os riscos decorrentes dessa atividade de tratamento estão na alçada de responsabilidade da
+própria empresa, considerando que: 1) a empresa possui ciência dos riscos e impactos para crianças e
+adolescentes inerentes aos seus modelo de negócio [20]; 2)  outras autoridades internacionais também
+demonstram preocupação com os riscos apresentados pela plataforma ao público infantojuvenil[21]; 3) os riscos
+apresentados no feed do Tiktok são amplamente debatidos e divulgados mundialmente [22]; [23].
+7.75. Além disso, a exploração econômica em ambientes digitais não pode ocorrer mediante a
+transferência integral ou relevante dos riscos aos titulares ou à coletividade, especialmente quando os
+riscos recaem sobre grupos vulneráveis para os quais a LGPD determina cuidados adicionais como
+estipulado no art. 14[24], reforçando que também deve ser observada a legislação pertinente voltada para
+a proteção da infância. 
+7.76. Sob a perspectiva da proporcionalidade de implementação de medidas preventivas, as obrigações
+impostas pela LGPD mostram-se adequadas, necessárias e proporcionais em sentido estrito. São adequadas
+porque contribuem efetivamente para a redução dos riscos inerentes ao tratamento de dados pessoais; são
+necessárias porque não há meios menos gravosos capazes de assegurar o mesmo nível de proteção aos direitos
+fundamentais envolvidos; e são proporcionais em sentido estrito, porque os custos regulatórios impostos aos
+agentes de tratamento são amplamente justiﬁcados pela relevância constitucional dos bens jurídicos protegidos
+de acordo com o risco apresentado pelo seu produto ou serviço. 
+7.77. Ressalte-se, por ﬁm, que a LGPD é norma de eﬁcácia imediata, exigindo dos agentes de
+tratamento a adoção das medidas necessárias para o seu cumprimento. Não subsiste, por isso, o argumento da
+autuada de que não seria possível imputar descumprimento de obrigações em razão de ausência de normativos
+da ANPD – e mais ainda no presente caso, no qual, ao longo do processo de ﬁscalização nº 00261.000297/2021-
+75, a autuada foi exposta a entendimentos reiterados da ANPD sobre como proceder para que sua conduta
+estivesse em conformidade com a LGPD. 
+7.78.  Ainda assim, no decorrer das manifestações da Autuada no processo de ﬁscalização, a empresa
+reiteradamente se esquivou de assumir qualquer responsabilidade protetiva em relação a crianças e adolescentes
+no âmbito do feed sem cadastro, limitando-se a invocar, de forma genérica, políticas de idade mínima  que
+deveria ser respeitada pelos próprios usuários e a indicar que não haveria riscos associados a essa modalidade de
+uso — aﬁrmação que, todavia, não restou veriﬁcada. 
+7.79. Diante desse cenário, a disponibilização do "feed sem cadastro" funciona como um caminho
+ativamente facilitado e ofertado pela empresa, representando uma escolha de design estrutural e consciente
+que viabilizava o acesso amplo e irrestrito à plataforma, conﬁgurando uma verdadeira porta aberta ao
+público infantojuvenil.
+ 
+7.80. A autuada argumenta que o risco de burla aos Termos de Uso não pode ser presumido. Contudo,
+os mecanismos adotados, como o age gate no momento do cadastro e a remoção posterior de contas, se
+aplicavam exclusivamente ao ambiente com cadastro. Nesse sentido, no "feed sem cadastro", o risco não era de
+"burla", pois sequer existiam barreiras para burlar, já que o acesso ao conteúdo e à coleta de dados
+pessoais ocorria de forma direta e irrestrita.
+7.81. Cumpre complementar que a idade do usuário é um dado reconhecidamente essencial para o
+[PAGINA 19]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 19 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+funcionamento adequado da plataforma. O dado etário é utilizado pela Autuada para que o usuário realize o
+cadastro autodeclarando sua idade, para a personalização e adequação do conteúdo, servindo inclusive —
+conforme admitido pela própria autuada (SEI nº 0048743, p. 5) — para evitar o acesso de crianças e
+adolescentes a “publicidade personalizada para os usuários adultos (idade 18+) e para informar os
+algoritmos da Plataforma”. Diante desse cenário, causa extrema surpresa que a Autuada dispense a coleta
+e o conhecimento da informação de idade para a condução segura das atividades no feed sem cadastro,
+sendo razoável esperar que houvesse uma atuação preventiva consistente com os fatos conhecidos da
+presença do público infantojuvenil nos seu produto, por parte da regulada. 
+7.82. Essa contradição é reveladora: a ausência de qualquer mecanismo de controle de idade no feed
+sem cadastro não decorre de limitação técnica, mas convive, no mesmo ambiente, com o tratamento de diversas
+outras informações do usuário voltadas ao encaminhamento de conteúdo adequado interesses particulares desse
+usuário. Ou seja, a Autuada demonstra pleno domínio técnico para identiﬁcar e explorar dados comportamentais
+em tempo real para ﬁns de personalização, mas opta por não aplicar esse mesmo domínio técnico à prevenção do
+acesso de público que ela própria autodeclara não ser adequado a utilizar seu produto.
+7.83. O princípio da prevenção, consagrado no art. 6º, VIII, da LGPD, exige que o agente de tratamento
+atue de forma antecipada, buscando evitar a ocorrência de danos antes que eles se concretizem. Na prática, essa
+diretriz exige que as organizações estruturem seus processos de forma preventiva, adotando medidas proativas
+para evitar ou reduzir impactos negativos aos titulares.
+7.84. É fato a ausência de mecanismos preventivos eﬁcazes no ponto inicial do tratamento de dados
+pessoais. O princípio da prevenção exige uma atuação ex ante, e não apenas respostas corretivas baseadas
+em monitoramento posterior, caso que sequer ocorreu no contexto apresentado.  Trata-se de obrigação
+inerente a toda atividade de tratamento de dados pessoais.
+7.85. No caso de dados de crianças e adolescentes, esse dever é ainda mais rigoroso.
+7.86. É nesse aspecto que a alegação de adoção de práticas alinhadas ao “padrão da indústria” também
+não se sustenta como justiﬁcativa válida. A legislação exige conformidade com os princípios legais, e não a
+adequação ao comportamento médio do mercado. Conforme explicitado, o tratamento envolve crianças, o
+padrão de proteção deve ser necessariamente mais elevado, o que não se veriﬁcou no caso concreto.
+A empresa, ao alegar que adota o “padrão da indústria” - como apontado nos documentos SEI nº 0048735,
+pág. 09 e SEI nº 0048765, pág. 02-, desconsidera que seu tratamento de dados possui impacto em um
+público-alvo de crianças e adolescentes, o que faz com que seu padrão de veriﬁcação de idade tenha que ser
+diferente do "padrão da indústria” e, sobremaneira, mais eﬁcaz. Assim, a regulada deve implementar
+mecanismos eﬁcazes de veriﬁcação de idade, buscando a incorporação de tecnologias que estejam alinhadas
+aos riscos de sua atividade e ao compromisso de adequar suas práticas de tratamento ao seu  público-alvo.
+Nesse sentido, é fundamental que a empresa reconheça que crianças fazem uso dos seus serviços, e a partir
+disso, elabore uma estratégia robusta para regularizar o tratamento de dados pessoais desse público
+vulnerável. Nota Técnica nº 50/2024/FIS/CGF/ANPD (SEI nº 0153895).
+7.87. Pelo exposto, cabe repisar que: i) a plataforma TikTok é incontestavelmente vedada para crianças
+e adolescentes menores de 13 anos (itens 7.55); ii) o TikTok é ampla e reconhecidamente utilizado por crianças
+(item 7.5); iii) há tratamento massivo de dados pessoais no “feed sem cadastro”, na medida em que os dados
+tratados para personalização do conteúdo nessa experiência são substancialmente semelhantes aos tratados após
+o cadastro (item 7.62 e seguintes); iv) a autuada aceitou o risco de realizar o tratamento  massivo de dados
+pessoais de crianças e adolescentes menores de 13 anos, em plataforma vedada para esse público, ao oferecer e
+estimular o “feed sem cadastro”, sem apresentar salvaguardas para o tratamento de dados pessoais desse público,
+como mecanismos de controle de idade.
+7.88. Diante disso, tendo em vista que autuada deixou de adotar medidas para prevenir a
+ocorrência de danos a crianças e adolescentes menores de 13 anos decorrentes de tratamento massivo de
+dados pessoais, ﬁca caracterizada a violação ao art. 6º, VIII, da LGPD[25].
+ 
+Classiﬁcação da infração
+7.89. O art. 6º, VIII, da LGPD determina que o tratamento de dados pessoais deve observar o princípio
+da prevenção, com a adoção de medidas para prevenir a ocorrência de danos em virtude desse tratamento.
+[PAGINA 20]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 20 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+Conforme exposto, a autuada não cumpriu a mencionada obrigação legal, pois optou por um modelo de "porta
+aberta" e deixou de adotar medidas técnicas e administrativas adequadas (atuando ex ante) para prevenir o
+acesso e o tratamento de dados de crianças e adolescentes menores de 13 anos na experiência do “feed sem
+cadastro”.
+7.90. Segundo prevê o art. 8º, §2º, do Regulamento de Dosimetria, a infração pode ser considerada
+média quando puder afetar signiﬁcativamente interesses e direitos fundamentais dos titulares[26].
+7.91.   No presente caso, ao não observar o princípio da prevenção e ao deixar de implementar medidas
+ex ante aptas a impedir ou mitigar o acesso de crianças e adolescentes menores de 13 anos à experiência sem
+cadastro, a autuada limitou signiﬁcativamente o exercício de direitos relacionados à proteção dos titulares
+dessa faixa etária. Destaca-se, em especial, a limitação ao direito de crianças e adolescentes de ter seus
+dados tratados de forma a colocá-los a salvo de toda forma de negligência, discriminação, exploração,
+violência, crueldade e opressão, o que se desdobra em: ter dados pessoais tratados de acordo com salvaguardas
+adequadas; não ter seus dados tratados para a personalização em ambiente que não lhe é adequado.
+7.92. Pelo exposto, a infração ora analisada contempla os requisitos do art. 8º, §2º, do Regulamento de
+Dosimetria, atendendo ao critério para ser classiﬁcada como média.
+7.93.  Ainda, para que a infração seja classiﬁcada como grave nos termos do art. 8º, § 3º, inciso I, do
+Regulamento de Dosimetria, é requisito normativo indispensável que a conduta preencha alguma das alíneas do
+inciso I.
+7.94. Na presente conduta, veriﬁca-se que há tratamento de dados pessoais em larga escala (art. 8º,
+§3º, I, “a”), vantagem econômica auferida ou pretendida (art. 8º, §3º, I, “b”) e tratamento de dados
+pessoais de crianças e adolescentes (art. 8º, §3º, I, “d”), pelos mesmos fundamentados elencados nos itens
+7.27.1, 7.27.2 e 7.27.3, respectivamente.
+7.95. Estão presentes, portanto, os elementos que alçam a infração à classiﬁcação de grave.
+Deﬁnição do tipo de sanção administrativa
+7.96. Diante da natureza grave da infração, o artigo 10, inciso II, da Resolução impõe obrigatoriamente
+a aplicação da multa simples, que corresponde à medida juridicamente necessária e proporcional ao caso.
+Cálculo da multa simples: Apêndice I do Regulamento de Dosimetria
+Etapa 1: determinação da alíquota-base (Abase)
+7.97. A infração em análise foi classiﬁcada como grave; parte-se, em seguida, para a identiﬁcação do
+grau do dano.
+7.98. O dano em questão enquadra-se no grau 3, por seu impacto irreversível ou de difícil reversão.
+A justiﬁcativa reside no fato de que a conduta provoca lesão a direitos de crianças e adolescentes de forma
+ampla e difusa, com potencial impacto moral signiﬁcativo e de difícil reversão, prejudicando especialmente a
+privacidade e o livre desenvolvimento da personalidade, de maneira decorrente do tratamento inadequado de
+dados.
+7.99. Deﬁnido o grau do dano, determina-se a alíquota-base de acordo com a seguinte forma:
+7.100. Deve-se considerar que:
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+7.101. 7.106.    Assim:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[PAGINA 21]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 21 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+ Etapa 2: determinação do valor-base (Vbase)
+7.102. Após, o valor-base da multa é calculado pela multiplicação da alíquota-base pelo faturamento
+bruto, excluídos os tributos, consoante a fórmula:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Vbase = R$ 35.760.388,68
+[ACESSO RESTRITO – trechos sombreados são de acesso restrito à regulada – sigilo ﬁscal - art. 198, caput, da
+Lei nº 5.172, de 25 de outubro de 1966].
+ Etapa 3: determinação do valor da multa (Vmulta)
+7.103. Sobre o valor-base, aplicam-se as circunstâncias agravantes e atenuantes, previstas,
+respectivamente, nos arts. 12 e 13 do Regulamento de Dosimetria, resultando na seguinte fórmula de cálculo:
+7.104. Não foram identiﬁcados elementos nos autos que justiﬁquem a incidência de circunstâncias
+agravantes.
+7.105. No âmbito da incidência de atenuantes, aplica-se o exposto nos itens 7.40 a 7.43.
+7.106. Na ausência de circunstâncias agravantes ou atenuantes, o valor da multa corresponde ao valor-
+base calculado na Etapa 2 – no caso, R$ 35.760.388,68.
+Etapa 4: adequação aos limites mínimos e máximos da multa
+7.107. O valor ﬁnal da multa deve ater-se aos limites mínimos previstos no Apêndice II do Regulamento
+de Dosimetria, e máximo de 2% do faturamento da pessoa jurídica de direito privado, excluídos os tributos,
+limitada a R$ 50.000.000,00 (cinquenta milhões de reais).
+7.108. O valor da multa para a infração em análise corresponde a R$ 35.760.388,68 – o qual é superior
+ao montante de R$ 12.000,00 (doze mil reais), estabelecido como mínimo pela Tabela 2 do Apêndice II do
+Regulamento de Dosimetria para os casos de infratores com faturamento.
+7.109. Quanto ao valor máximo, 2% do faturamento da infratora corresponderia a
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX que é superior ao
+valor da multa calculado, mostrando foi respeitado o limite estabelecido pela LGPD [ACESSO RESTRITO –
+trechos sombreados são de acesso restrito à regulada – sigilo ﬁscal - art. 198, caput, da Lei nº 5.172, de 25 de
+outubro de 1966].
+7.110. Considerando o exposto, sugere-se a aplicação de multa no valor de R$ 35.760.388,68 (trinta
+e cinco milhões, setecentos e sessenta mil, trezentos e oitenta e oito reais e sessenta e oito centavos) à
+empresa ByteDance Brasil pela infração relacionada à Conduta 2.
+ 
+ 
+Conduta 3: tratar dados pessoais de crianças e de adolescentes menores de 18 anos com a ﬁnalidade de
+realizar o cadastro na plataforma Tiktok sem hipótese legal válida, diante da inexistência de um contrato
+válido – art. 7º da LGPD.
+[PAGINA 22]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 22 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+Defesa apresentada pela autuada
+7.111. A autuada refutou que seria inválida a aceitação dos Termos de Uso por ausência de mecanismos
+formais de assistência ou representação parental para adolescentes no cadastro do TikTok. Argumenta que não
+há, no ordenamento jurídico brasileiro, exigência de forma especíﬁca – especialmente no ambiente digital – para
+a manifestação de assistência ou representação, prevalecendo o princípio da liberdade das formas previsto no
+Código Civil (SEI nº 0157923, itens 50, 61, 63).
+7.112. Defendeu que a aceitação por meio eletrônico seria válida, reconhecida pelo direito brasileiro e
+compatível com a lógica da LGPD, que distingue crianças de adolescentes e não exige consentimento parental
+obrigatório para o tratamento de dados pessoais destes últimos. Inexistindo exigência legal quanto à forma de
+representação ou assistência, estas poderiam ser manifestadas por qualquer meio, incluindo cliques em ambiente
+digital (SEI nº 0157923, itens 55, 66).
+7.113. Acrescenta que presumir a invalidade genérica dos cadastros implicaria presunção de má-fé dos
+adolescentes e de descumprimento do dever de vigilância pelos pais, além de representar intervenção estatal
+desproporcional na autoridade parental. Defende, ainda, que o acesso de crianças e adolescentes à internet
+pressupõe a aquisição de dispositivos eletrônicos que, em regra, depende de seus pais ou responsáveis, o que
+permitiria a presunção de existência de supervisão ou autorização para esse acesso (SEI nº 0157923, itens 67-69,
+70, 72, 79).
+7.114. Também sustentou que a “teoria do comportamento socialmente típico” confere validade a atos
+cotidianos praticados por crianças e adolescentes (como compras em lanchonetes e uso de transporte público)
+independentemente de manifestação formal de vontade. Isso seria ainda mais aplicável no ambiente digital,
+especialmente no caso de plataforma que, aﬁrma a autuada, não imporia obrigação patrimonial aos usuários (SEI
+nº 0157923, itens 96-99).
+7.115. Aﬁrmou, ademais, que o art. 14, §1º, da LGPD, ao mencionar apenas crianças, teria estipulado
+que os adolescentes seriam capazes de consentir por si mesmos, sem a necessidade dos pais ou responsáveis
+legais, quando a hipótese legal do tratamento fosse o consentimento (SEI nº 0157923, item 88). Por isso, alega,
+seria incoerente considerar a adesão de adolescentes maiores de 13 anos aos Termos de Uso do TikTok inválida
+se a LGPD teria reconhecido sua autonomia ao retirar o consentimento parental obrigatório para o tratamento de
+dados pessoais de adolescentes (SEI nº 0157923, item 90).
+7.116. Complementa a autuada que a exigência de instrumentos formais de representação e assistência
+representaria ônus desproporcional para a plataforma, o que inviabilizaria o acesso de adolescentes ao ambiente
+digital; e que adota, como salvaguarda, aviso expresso quanto à necessidade de assistência ou representação
+(SEI nº 0157923, itens 75-76).
+Subsunção do fato ao tipo infracional correspondente
+7.117. A atividade de tratamento de dados pessoais de crianças e adolescentes que tem por ﬁnalidade
+realizar o cadastro de usuário na plataforma TikTok tampouco pode ser amparada na hipótese legal da execução
+de contrato ou de procedimentos preliminares a contrato (art. 7º, V , da LGPD).
+7.118. Conforme já anteriormente mencionado, i) a utilização da hipótese legal prevista no art. 7º, V , da
+LGPD pressupõe, necessariamente, a existência de uma relação jurídica válida (item 7.7); ii) crianças e
+adolescentes são, pelo Código Civil, absoluta ou relativamente incapazes, o que exige a devida representação ou
+assistência legal por parte dos pais ou responsáveis (item 7.8); e iii) considerando a hipótese legal em questão, a
+incapacidade civil se torna pressuposto jurídico central que condiciona a licitude do tratamento de dados
+pessoais (item 7.9).
+7.119. No caso concreto, a Nota Técnica nº 6/2023/CGF/ANPD (SEI nº 0048776), assentou, de forma
+categórica, que "o contrato entre o adolescente e o TikTok é inválido, a menos que sejam apresentadas as
+comprovações de que houve representação ou assistência dos pais ou responsáveis no momento do cadastro".
+Nessa mesma linha, o Ofício nº 50/2023/FIS/CGF/ANPD (SEI nº 0048799) foi taxativo ao determinar, no item
+e.1, que a controladora apresentasse "mecanismo que possa comprovar que os titulares adolescentes tiveram a
+representação ou assistência do responsável competente para tanto, a depender da idade do titular, quando a
+hipótese legal de tratamento de dados é execução de contrato".
+7.120. Restou, portanto, demonstrado que a ByteDance não implementou mecanismos efetivos para
+[PAGINA 23]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 23 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+assegurar que adolescentes fossem devidamente assistidos ou representados por seus pais ou responsáveis
+legais no momento do cadastro – mesmo após instada a tanto. Essa circunstância compromete a validade do
+suposto vínculo contratual, o que inviabiliza a aplicação do art. 7º, V , da LGPD. Isso porque a incapacidade civil
+não é um instituto jurídico meramente formal, mas um elemento central que condiciona a validade dos atos
+praticados e, consequentemente, do próprio tratamento de dados pessoais deles decorrente.
+7.121. A autuada invoca a "teoria do comportamento socialmente típico" e a noção de "atos
+corriqueiros" (item 7.114) para equiparar o cadastro em sua plataforma digital a atos cotidianos de crianças e
+adolescentes, como a compra de um lanche ou o uso de transporte público. Tal paralelo carece de qualquer
+sustentação jurídica ou técnica.
+7.122. Ao contrário dos exemplos pontuais e instantâneos citados pela regulada, o cadastro em uma rede
+social estabelece uma relação jurídica que perdura no tempo, gerando um ﬂuxo contínuo e massivo de coleta
+de dados, perﬁlamento comportamental e direcionamento de publicidade personalizada.
+7.123. Longe de ser um ato isolado, essa operação acompanha o próprio desenvolvimento da
+personalidade do indivíduo em uma fase de reconhecida vulnerabilidade psicológica e social, além de viabilizar
+interações sociais complexas e moldar a forma como o jovem percebe e é percebido no ambiente digital. Desse
+modo, o enquadramento dessas operações recorrentes e complexas como meros atos cotidianos informais
+subverte o ônus de responsabilidade para o adolescente.
+7.124. Cumpre acrescentar que, apesar de a ByteDance Brasil indicar que os Termos de Serviço
+continham informações capazes de suprir a ciência do adolescente ao realizar o cadastro na plataforma, a Nota
+Técnica nº 6/2023/CGF/ANPD (SEI nº 0048776, item 7.67) apresenta que, na prática, no momento do cadastro,
+não era apresentada a suposta mensagem completa sobre representação e assistência [27], e sim a mensagem
+abrangente e inespecíﬁca "Ao continuar, você concorda com os Termos de Uso do TikTok e conﬁrma que leu a
+Politica de privacidade do TikTok"[28].
+7.125. De forma assertiva, a Nota Técnica nº 6/2023/CGF/ANPD (SEI nº 0048776) reforça que:
+5.67. O TikTok espera, então, que um adolescente não só identiﬁque esse texto, como também clique em
+cada um dos documentos, os leia, chegue até o ﬁnal de cada um deles, onde se encontra a necessidade de
+assistência ou consentimento do responsável, entenda plenamente o texto, e, por ﬁm, busque os pais ou
+responsável legal que o assista ou consinta que ele ﬁrme o contrato. O TikTok supõe, então, que apenas após
+todas essas etapas, o adolescente prosseguirá com o cadastro.
+[...]
+5.69. [...] A simples descrição desse requisito nos Termos de Uso pouco contribui para que ele seja concreta
+e efetivamente atendido pelos usuários, revela-se prática insuﬁciente para garantir que os pais ou
+responsáveis efetivamente representem ou assistam os menores na fase de cadastro/contratação com o
+TikTok, e passem a conhecer seus direitos e obrigações no uso da rede social.
+7.126. Desse modo, a simples previsão contratual, nos Termos de Serviço ou na Política de Privacidade,
+de que o usuário deve atender a determinados requisitos etários ou possuir autorização parental não supre a
+necessidade de mecanismos operacionais capazes de materializar tal exigência . A responsabilização do
+controlador não se afasta por meio de cláusulas declaratórias ou pela transferência do ônus de
+conformidade ao titular, sobretudo quando se trata de público reconhecidamente vulnerável.  N e s s e
+sentido, a alegação de que o adolescente, ao se cadastrar, declara possuir autorização de seus responsáveis não é
+suﬁciente para validar a relação contratual, tampouco para legitimar o tratamento de dados pessoais dela
+decorrente. Contribui para inadequação da simples previsão nos Termos de Serviço ou na Política de
+Privacidade – documento voltado ao público em geral – a inobservância do disposto no art. 14, §6º, que exige
+essas informações sejam “fornecidas de maneira simples.... consideradas as características físico-motoras,
+perceptivas, sensoriais, intelectuais e mentais do usuário ... de forma a proporcionar a informação necessária aos
+pais ou ao responsável legal e adequada ao entendimento da criança”.
+7.127. No que se refere à alegação de que a plataforma não impõe obrigação patrimonial (item 7.114),
+tal linha argumentativa revela uma compreensão equivocada e reducionista sobre a natureza das salvaguardas
+informacionais e sobre a própria dinâmica da economia digital.
+7.128. Nesse sentido, a própria natureza de direito fundamental da proteção de dados (artigo 5º, inciso
+LXXIX, da Constituição Federal) demonstra, e a doutrina civilista contemporânea adverte, que o direito à
+[PAGINA 24]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 24 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+proteção de dados pessoais vincula-se umbilicalmente à tutela da personalidade humana, e não ao direito de
+propriedade; por essa razão, o resguardo desses dados deve receber tratamento preeminente, sobrepondo-se a
+quaisquer lógicas ou conveniências de ordem puramente econômica[29]. O que está em questão na criação de um
+perﬁl na plataforma não é o patrimônio ﬁnanceiro da criança e do adolescente, mas sim a medida em que o
+tratamento de dados pessoais afeta o desenvolvimento de sua personalidade, a sua privacidade e o
+desenvolvimento saudável de sua subjetividade.
+7.129. Ao contrário dos exemplos pontuais e instantâneos citados pela regulada, o cadastro em uma rede
+social estabelece uma relação jurídica que perdura no tempo, gerando um ﬂuxo contínuo e massivo de coleta
+e tratamento de dados pessoais de forma recorrente.  
+7.130. Outrossim, conforme já exposto acima, as atividades de tratamento de dados pessoais que
+ocorrem em plataformas digitais são incompatíveis com procedimentos demasiadamente simpliﬁcados (item
+7.6). Do mesmo modo, a proteção diferenciada estabelecida pela LGPD ao tratamento de dados pessoais de
+crianças e adolescentes afasta o argumento de presunção de boa-fé dos adolescentes no uso da plataforma, ou de
+consentimento dos pais ou responsáveis pelo simples ato de adquirir um equipamento eletrônico para a pessoa
+menor de 18 anos. O ato jurídico e a relação jurídica evidentes na compra do equipamento não se confundem
+com a aquisição de produtos e serviços de terceiros por meio do mesmo aparelho. Embora não exista forma
+especíﬁca para a representação e a assistência, a leitura conjunta do Código Civil e da LGPD inviabiliza a
+adoção dos pressupostos aventados pela autuada. Por ﬁm, o argumento relacionado ao consentimento do art. 14
+da LGPD não se encaixa na discussão, uma vez que a hipótese legal analisada se refere à execução do contrato –
+e não é possível qualquer aplicação analógica que relativize a previsão de capacidade civil do Código Civil a
+partir da modulação feita pela LGPD quanto à hipótese legal do consentimento.
+7.131. Por ﬁm, necessário enfatizar que a escolha de um agente de tratamento por tratar dados pessoais
+de crianças e adolescentes signiﬁca que sobre ele recairão ônus adicionais decorrentes das proteções especíﬁcas
+que a LGPD impõe aos direitos desses titulares; não há, por isso, que se falar em ônus desproporcional para a
+plataforma.
+7.132. A partir da conﬁrmação de que inexistem ferramentas que permitam averiguar a adequada
+assistência ou representação que autorizariam a utilização da hipótese legal de execução do contrato, resta
+demonstrado que o tratamento, cuja ﬁnalidade é viabilizar o cadastro de adolescentes na plataforma
+TikTok, foi realizado sem hipótese legal válida, conﬁgurando descumprimento ao artigo 7º da LGPD.
+Classiﬁcação da infração
+7.133. O tratamento de dados pessoais no âmbito do "feed com cadastro" de usuários menores de 18
+anos pressupõe, para a utilização da hipótese legal de execução de contrato (art. 7º, inciso V , da LGPD), a
+existência de uma relação jurídica plenamente válida. No presente caso, diante da invalidade do negócio jurídico
+contratual por ausência de mecanismos eﬁcazes de assistência ou representação parental exigidos pelo art. 104,
+inciso I, do Código Civil, restou demonstrado que a autuada realizou o tratamento desses dados sem hipótese
+legal válida.
+7.134. Conforme já mencionado, a hipótese legal constitui pressuposto essencial para viabilizar o
+exercício dos direitos pelo titular, na medida em que certos direitos estão diretamente relacionados à hipótese
+jurídica que ampara o tratamento (item 7.22). Assim, e do mesmo modo que na Conduta 1, ao viabilizar o
+tratamento sem amparo em hipótese legal e, consequentemente, sem a observância das salvaguardas jurídicas
+aplicáveis – com destaque, no caso, para a necessidade de representação ou assistência –, a autuada
+comprometeu a capacidade desses titulares de exercer controle sobre seus dados pessoais e de exercer os
+direitos correspondentes à hipótese legal correspondente , o que limita, também, a autodeterminação
+informativa dos titulares (ver itens 7.23 e 7.24).
+7.135. A infração avaliada, portanto, está enquadrada nos requisitos do art. 8º, §2º, do Regulamento de
+Dosimetria, de modo que pode ser classiﬁcada como média.
+7.136. Adicionalmente, foram veriﬁcadas as seguintes circunstâncias da infração em tela compatíveis
+com o inciso I do § 3º do art. 8º do Regulamento de Dosimetria:
+7.136.1. Tratamento de dados pessoais em larga escala (art. 8º, § 3º, I, “a”):  o tratamento
+irregular ocorreu em uma plataforma de acesso massivo e alcance nacional, abrangendo um número
+[PAGINA 25]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 25 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+expressivo e indeterminado de crianças e adolescentes em território brasileiro de forma contínua e reiterada
+ao longo do tempo.
+7.136.2. Vantagem econômica auferida ou pretendida (art. 8º, § 3º, I, “b”): a atividade infracional
+insere-se diretamente no modelo de negócios e na lógica de monetização da plataforma, que utiliza o ﬂuxo
+contínuo de dados pessoais para perﬁlamento comportamental e direcionamento de publicidade
+personalizada, auferindo ou pretendendo auferir vantagem econômica decorrente da infração cometida.
+7.136.3. Tratamento de dados pessoais de crianças e adolescentes (art. 8º, § 3º, I, “d”):  a s
+condutas envolvem o tratamento de dados pessoais de menores de 18 anos.
+7.137. Diante do exposto, ﬁca a infração classiﬁcada como grave.
+ 
+Deﬁnição do tipo de sanção administrativa
+7.138. Diante da classiﬁcação da infração como grave, o artigo 10, inciso II, da do Regulamento de
+Dosimetria é adequada, no caso em análise, a aplicação da multa simples. Veriﬁca-se também a necessidade de
+impor a sanção de eliminação de dados pessoais, prevista no art. 23 do mesmo Regulamento.
+Da sanção de multa simples
+Cálculo da multa simples: Apêndice I do Regulamento de Dosimetria
+Etapa 1: determinação da alíquota-base (Abase)
+7.139. A presente infração foi classiﬁcada como grave; parte-se, em seguida, para a identiﬁcação o grau
+do dano.
+7.140. No caso em análise, embora exista lesão a direitos e interesses de titulares, não se evidencia, nas
+circunstâncias descritas, efeitos de alta gravidade ou de difícil reversão: em comparação com o tratamento no
+“feed sem cadastro”, a experiência com cadastro apresenta parâmetros minimamente mais estruturados na
+proteção dos dados pessoais dos adolescentes envolvidos no tratamento.
+7.141. Afasta-se a incidência dos graus 0 e 1, pois o tratamento envolveu milhões de crianças e
+adolescentes para ﬁns de perﬁlamento algorítmico, o que supera o limiar de impactos irrelevantes ou facilmente
+reversíveis. Por outro lado, justiﬁca-se a não aplicação do grau 3 devido aos contornos fáticos do ambiente com
+cadastro: diferentemente do "feed sem cadastro" (onde há o absoluto anonimato e a total ausência de barreiras de
+entrada), o ﬂuxo com cadastro ocorre em um ambiente onde o usuário passa por algum mecanismo de
+veriﬁcação de idade, ainda que este se mostre falho e insuﬁciente para elidir a responsabilidade da infratora.
+7.142. Portanto, a extensão do dano, embora expressiva, não atinge o mesmo nível de amplitude ou
+irreversibilidade do cenário sem cadastro, sendo apropriada a aplicação do grau de dano 2. Sobretudo
+considerando que crianças e adolescentes menores de 13 anos de idade, quando detectados, tinham suas contas
+excluídas.
+7.143. Deﬁnido o grau do dano, determina-se a alíquota-base de acordo com a seguinte forma:
+7.144. Deve-se considerar que:
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+7.145. Assim:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+[PAGINA 26]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 26 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+ 
+Etapa 2: determinação do valor-base (Vbase)
+7.146. Após, o valor-base da multa é calculado pela multiplicação da alíquota-base pelo faturamento
+bruto, excluídos os tributos, consoante a fórmula:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Vbase = R$ 27.416.297,99
+[ACESSO RESTRITO – trechos sombreados são de acesso restrito à regulada – sigilo ﬁscal - art. 198, caput, da
+Lei nº 5.172, de 25 de outubro de 1966].
+Etapa 3: determinação do valor da multa (Vmulta)
+7.147. Sobre o valor-base, aplicam-se as circunstâncias agravantes e atenuantes, previstas,
+respectivamente, nos arts. 12 e 13 do Regulamento de Dosimetria, resultando na seguinte fórmula de cálculo:
+7.148. Não foram identiﬁcados elementos nos autos que justiﬁquem a incidência de circunstâncias
+agravantes.
+7.149. No âmbito da incidência de atenuantes, aplica-se o exposto nos itens 7.40 a 7.43.
+7.150. Na ausência de circunstâncias agravantes ou atenuantes, o valor da multa corresponde ao valor-
+base calculado na Etapa 2 – no caso, R$ 27.416.297,99.
+Etapa 4: adequação aos limites mínimos e máximos da multa
+7.151. O valor ﬁnal da multa deve ater-se aos limites mínimos previstos no Apêndice II do Regulamento
+de Dosimetria, e máximo de 2% do faturamento da pessoa jurídica de direito privado, excluídos os tributos,
+limitada a R$ 50.000.000,00 (cinquenta milhões de reais).
+7.152. O valor da multa para a infração em análise corresponde a R$ 27.416.297,99 – o qual é superior
+ao montante de R$ 12.000,00 (doze mil reais), estabelecido como mínimo pela Tabela 2 do Apêndice II do
+Regulamento de Dosimetria para os casos de infratores com faturamento.
+7.153. Quanto ao valor máximo, 2% do faturamento da infratora corresponderia a
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX que é superior ao
+valor da multa calculado, mostrando foi respeitado o limite estabelecido pela LGPD [ACESSO RESTRITO –
+trechos sombreados são de acesso restrito à regulada – sigilo ﬁscal - art. 198, caput, da Lei nº 5.172, de 25 de
+outubro de 1966].
+7.154. Considerando o exposto, sugere-se a aplicação de multa no valor de R$ 27.416.297,99 (vinte e
+sete milhões, quatrocentos e dezesseis mil, duzentos e noventa e sete reais e noventa e nove centavos) à
+empresa ByteDance Brasil pela infração relacionada à Conduta 3.
+A sanção de eliminação de dados pessoais
+7.155. O art. 3º do Regulamento de Dosimetria prevê que as sanções administrativas podem ser
+aplicadas de forma isolada ou cumulativa. Diante da magnitude dos danos potenciais e da necessidade
+imperativa de proteger os direitos de crianças inseridas no ambiente logado da plataforma, entende-se cabível e
+[PAGINA 27]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 27 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+proporcional a cumulação da sanção de multa simples com a de eliminação dos dados pessoais relacionados à
+infração, com fulcro no art. 3º, inciso VI, do Regulamento de Dosimetria.
+7.156. A sanção se aplica aos dados pessoais de titulares que se enquadram como adolescentes maiores
+de 13 anos e menores de 18 anos, em que a ilicitude do tratamento decorre da ausência de assistência ou
+representação parental válida no momento da contratação e cadastro, o que vicia a base legal de execução de
+contrato (art. 7º, inciso V , da LGPD).
+7.157. Diante disso, determina-se a eliminação dos dados pessoais de adolescentes maiores de 13
+anos coletados no âmbito da operação do "feed com cadastro", cuja regularização da representação ou
+assistência legal não seja realizada no prazo de 60 (sessenta) dias úteis , contados da notiﬁcação desta
+decisão.
+7.158. Uma vez que a própria coleta inicial e a formalização do vínculo na plataforma ocorreram de
+forma ilícita, ignorando a incapacidade civil e a ausência de mecanismos efetivos de participação parental, o
+acervo gerado a partir dessas contas (histórico de navegação, perﬁs comportamentais, métricas de engajamento e
+identiﬁcadores) encontra-se acompanhado da ilicitude.
+7.159. A concessão deste prazo de 60 (sessenta) dias úteis confere à infratora a oportunidade de sanar o
+vício estrutural de sua base de dados e de implementar, imediatamente, mecanismos operacionais robustos e
+eﬁcazes para coletar a devida assistência ou representação dos pais ou responsáveis legais desses adolescentes já
+cadastrados.
+7.160. Adicionalmente, a infratora deverá replicar os efeitos dessa eliminação ao longo de sua cadeia de
+compartilhamento. Desse modo, determina-se que a empresa deve comunicar a obrigação de eliminação dos
+dados a terceiros com quem tenha compartilhado dados pessoais dos adolescentes não regularizados,
+comunicando o dever de eliminação dos dados em suas respectivas bases.
+7.161. A infratora deverá, no prazo subsequente de 05 (cinco) dias úteis após o encerramento do prazo
+deﬁnido no item 7.157, apresentar à ANPD:
+7.161.1. Relatório técnico circunstanciado, instruído com registros de auditoria de sistema (logs) e
+declaração formal assinada pelo Encarregado pelo Tratamento de Dados Pessoais, comprovando e
+atestando o cumprimento da medida. A Agência poderá, ainda, requisitar auditoria externa e independente
+para atestar de forma deﬁnitiva a exclusão das informações e o devido saneamento das bases de dados, caso
+a documentação apresentada se mostre insuﬁciente para comprovar o cumprimento da sanção.
+7.161.2. Relação dos terceiros afetados pelo disposto no item 7.160, com a comprovação de
+realização da comunicação sobre a obrigação de exclusão dos dados compartilhados. Essa comprovação
+deverá ser consolidada e integrar o relatório técnico circunstanciado devido à ANPD conforme determinado
+no item 7.161.1.
+7.162. Recomenda-se a imposição de multa diária no valor de R$ 137.081,49 (cento e trinta e sete
+mil e oitenta e um reais e quarenta e nove centavos), correspondente a 0,5% (zero vírgula cinco por cento)
+do montante da multa simples aplicada para esta infração especíﬁca, por dia de atraso, com fulcro no art.
+52, inciso III, da LGPD, sem prejuízo da disciplina prevista nos artigos 16 e seguintes do Regulamento de
+Dosimetria, para a hipótese de descumprimento de cada uma das obrigações abaixo descritas:
+7.162.1. Obrigação de eliminação dos dados pessoais de adolescentes maiores de 13 anos coletados
+no âmbito da operação do "feed com cadastro" cuja regularização não tenha sido realizada, prevista no item
+7.157;
+7.162.2. Obrigação de apresentar relatório técnico circunstanciado assinado pelo Encarregado pelo
+Tratamento de Dados Pessoais, acompanhado por registros de auditoria de sistema (logs), prevista no item
+7.161.1;
+7.162.3. Obrigação de comunicar a terceiros com quem tenha compartilhado dados pessoais dos
+adolescentes não regularizados a necessidade de eliminação dos dados pessoais compartilhados, prevista no
+item 7.169;
+7.162.4. Obrigação de apresentar no relatório técnico circunstanciado a comprovação de que realizou
+a comunicação sobre a obrigação de exclusão dos dados compartilhados, prevista no item 7.161.2.
+[PAGINA 28]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 28 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+ 
+Conduta 4: deixar de adotar medidas eﬁcazes para prevenir o cadastro de crianças e adolescentes
+menores de 13 (treze) anos à plataforma TikTok – art. 6º, VIII da LGPD.
+Defesa apresentada pela autuada
+7.163. Ao tratar da insuﬁciência dos mecanismos de veriﬁcação etária no momento do cadastro, a
+empresa rechaçou a aﬁrmação de que teria deixado de implementar mecanismos técnicos, administrativos e
+procedimentais eﬁcazes para impedir que crianças e adolescentes burlassem o sistema de veriﬁcação de idade.
+Sustenta que o modelo adotado, baseado no chamado age gate, está integralmente alinhado às melhores práticas
+de mercado e à tecnologia disponível, sendo amplamente utilizado por plataformas digitais em escala global
+(SEI nº 0157923, itens 15, 17).
+7.164. Argumenta que inexiste, atualmente, solução tecnológica universal, eﬁcaz e proporcional que
+permita a veriﬁcação infalível da idade de usuários no ambiente on-line; ressaltou que tal solução precisa,
+também, respeitar princípios estruturantes da LGPD, como necessidade, minimização e proporcionalidade (SEI
+nº 0157923, itens 15-16, 27; SEI 0189205, item 41).
+7.165. A empresa enfatizou que métodos alternativos, como exigência de documentos oﬁciais, biometria
+ou reconhecimento facial, acarretariam coleta excessiva de dados pessoais, inclusive dados sensíveis, além de
+potenciais efeitos excludentes sobre grupos vulneráveis, o que seria incompatível com a legislação brasileira e
+com o próprio dever de proteção de dados (SEI nº 0157923, itens 16, 20).
+7.166. Acrescentou que o age gate não é aplicado de forma isolada, mas integrado a um ecossistema de
+medidas complementares, deﬁnidas a partir de abordagem baseada em riscos. Essas medidas incluiriam
+bloqueios contra tentativas reiteradas de cadastro, sistemas automatizados de detecção de comportamento
+incompatível com a idade declarada, moderação humana e canais de denúncia, além de remoção de contas
+suspeitas de pertencerem a crianças e adolescentes menores de 13 anos. Aﬁrma, que, por isso, já adotava, à
+época da lavratura do Auto de Infração, medidas razoáveis visando à prevenção do acesso de crianças e
+adolescentes menores de 13 (treze) anos (SEI nº 0157923, itens 21-24; SEI nº 0189205, itens 30 e 39).
+7.167. Defende, portanto, que não se pode qualiﬁcar como omissiva uma conduta que adota o padrão
+esperado da indústria e que investe continuamente em mecanismos de monitoramento e remoção posterior de
+contas irregulares, aﬁrmando que a prevenção absoluta é tecnicamente inviável no contexto atual da internet
+(SEI nº 0157923, itens 26; SEI nº 0189205, item 28).
+7.168. Por ﬁm, pugnou que a apresentação de propostas de mecanismos adicionais no Plano de
+Conformidade contribuiria para afastar a infração (SEI 0189205, itens 35-38).
+Subsunção do fato ao tipo infracional correspondente
+7.169. Conforme já mencionado, o princípio da prevenção, previsto no art. 6º, VIII, da LGPD, exige
+atuação antecipada do agente de tratamento para evitar danos aos titulares, mediante adoção de medidas
+proativas desde o início do tratamento, sendo que a ausência desses mecanismos evidencia descumprimento
+desse dever (itens 7.122 e 7.123).
+7.170. A autuada aﬁrma, em síntese, que adota modelo baseado no age gate, associado a outras soluções
+e protocolos alinhados ao padrão da indústria, para impedir o acesso de crianças e adolescentes menores de 13
+anos ao TikTok, ressaltando que inexistem soluções tecnológicas que sejam infalíveis.
+7.171. Cumpre destacar, a esse respeito, que a autuada foi expressamente alertada, no âmbito da
+Nota Técnica nº 6/2023/CGF/ANPD (SEI nº 0048776), quanto à necessidade de revisar os mecanismos de
+veriﬁcação de idade adotados, de modo a torná-los efetivos na prevenção do cadastro e,
+consequentemente, do tratamento de dados pessoais de crianças e adolescentes menores de 13 anos[30].
+7.172. Independentemente da solução técnica escolhida – seja o age gate, seja as demais técnicas
+associadas, seja, ainda, o padrão do mercado –, no caso concreto em apreço, à autuada foi dada ciência
+inequívoca de que os mecanismos então utilizados eram insuﬁcientes para impedir o acesso desse público.
+O órgão regulador identiﬁcou tal falha e instou a empresa a adotar as providências necessárias à sua correção.
+Mais de um ano depois, entretanto, conforme constatado na Nota Técnica nº 50/2024/FIS/CGF/ANPD (SEI
+nº 0153897), a mesma irregularidade persistia, sem que houvesse adoção de medidas eﬁcazes.
+[PAGINA 29]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 29 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+7.173. Resta, assim, evidenciado o descumprimento do dever de prevenção, na medida em que a autuada
+(i) foi cientiﬁcada de falha estrutural em seu procedimento; (ii) foi orientada quanto às medidas necessárias à sua
+correção; e (iii) permaneceu inerte, permitindo a continuidade do problema. Ainda que a existência de
+apontamentos prévios pela ANPD não seja condição necessária para a conﬁguração da infração ao
+princípio da prevenção, sua presença torna inequívoca a subsunção dos fatos à norma violada.
+7.174. Importante relembrar que o acesso à plataforma TikTok, manifestamente vedada para crianças e
+adolescentes menores de 13 anos, revela potencial dano a esse público, conforme já mencionado. Ademais, no
+contexto da experiência com cadastro, é pertinente sublinhar trecho do documento SEI nº 0230320 acerca da
+veiculação de anúncios personalizados ou não personalizados de natureza inadequada para a classiﬁcação
+indicativa superior a 13 anos de idade:
+55. Para aumentar a segurança e a privacidade das audiências mais jovens, a BYTEDANCE também não
+veicula anúncios personalizados para usuários adolescentes no Brasil.
+56. Além disso, a BYTEDANCE não exibe anúncios não personalizados para usuários adolescentes
+relacionados a produtos e serviços que não sejam adequados para essa faixa etária, como bebidas
+energéticas e videogames ou outros conteúdos de mídia com classiﬁcação etária superior a 13 (treze) anos.
+57. Assim, em que pese o algoritmo de recomendação utilizado pelo TikTok seja o mesmo para
+adolescentes e usuários adultos, a BYTEDANCE aplica políticas e tecnologia especíﬁcas para garantir que
+o conteúdo que o usuário adolescente recebe na plataforma seja apropriado à sua idade.
+7.175. Observa-se que o Agente Regulado descreve a personalização dos anúncios como prática comum
+ao tratamento de dados pessoais de usuários registrados e que, do ponto de vista funcional e em termos gerais, a
+plataforma opera sob as mesmas diretrizes técnicas básicas para os usuários adolescentes ou adultos. A
+plataforma alega, entretanto, aplicar camadas adicionais de proteção, por meio de políticas e tecnologias
+especíﬁcas, “para garantir que o conteúdo que o usuário adolescente recebe na plataforma seja apropriado à sua
+idade”.
+7.176. Este recorte é relevante para compreender as consequências do acesso à plataforma por crianças e
+adolescentes menores de 13 anos, decorrentes da insuﬁciência dos mecanismos de veriﬁcação etária. As
+atividades mencionadas, por sua natureza, estruturam-se fundamentalmente a partir do tratamento massivo de
+dados pessoais desses usuários.
+7.177. No caso, a identiﬁcação correta da idade ou faixa etária dos usuários é premissa indispensável
+para a legalidade do tratamento de dados pessoais que alimenta os controles de privacidade e os instrumentos de
+personalização de conteúdo. Aﬁnal, se a plataforma prevê que o direcionamento de publicidade não se aplica a
+adolescentes, basta uma falha na triagem etária para que o ﬂuxo de tratamento de dados desse público seja
+desviado, expondo-os a conteúdos de classiﬁcação restrita e com forte viés publicitário sob o pretexto de serem
+adultos.
+7.178. Em outros termos, se o algoritmo assume como adulto um adolescente que logrou burlar o age
+gate, todas as operações de tratamento de dados pessoais passam a ignorar a condição vulnerável. Portanto,
+enquanto não forem devidamente identiﬁcados, os dados desses adolescentes são tratados fora da estrutura de
+proteção e de adequação etária, transformando os instrumentos de privacidade da plataforma em formalidades
+ineﬁcazes.
+7.179. Trata-se de lógica elementar: sem barreiras de entrada eﬁcazes e diante de controles de
+determinação de idade precários, a exposição de crianças e adolescentes ao tratamento de dados pessoais nos
+parâmetros de adultos deixa de ser uma hipótese e torna-se uma decorrência inevitável do acesso. Esse cenário
+reforça a violação ao princípio da prevenção, na medida em que evidencia a ausência de medidas prévias para
+prevenir a ocorrência de danos em virtude do tratamento de dados pessoais.
+7.180. Por ﬁm, reforça a existência de violação ao princípio da prevenção o fato de que as medidas
+tecnológicas apresentadas pela empresa para veriﬁcar idade ou remover contas irregulares possuem natureza
+predominantemente reativa. Em muitos casos, as tecnologias mais robustas de veriﬁcação somente são aplicadas
+após a identiﬁcação de inconsistências ou após o banimento de contas. Essa abordagem demonstra que a
+estratégia de governança foi estruturada para remediar irregularidades posteriormente, em vez de prevenir a
+ocorrência do tratamento irregular desde o início da interação do usuário com a plataforma.
+7.181. Conclui-se, assim, que, mesmo ciente da ineﬁcácia dos mecanismos adotados para restringir
+[PAGINA 30]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 30 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+o acesso de crianças e adolescentes menores de 13 anos à plataforma TikTok, a autuada deixou de corrigir
+as falhas apontadas, de modo que incorreu em violação ao art. 6º, VIII, da LGPD.
+Classiﬁcação da infração
+7.182. O art. 6º, inciso VIII, da LGPD estabelece o princípio da prevenção, que impõe aos agentes de
+tratamento a obrigação de adotar medidas prévias para evitar a ocorrência de danos em virtude do tratamento de
+dados pessoais. No caso em tela, a autuada violou ﬂagrantemente referido dever legal ao deixar de implementar
+mecanismos tecnológicos, procedimentais e administrativos eﬁcazes e prévios capazes de prevenir o cadastro de
+crianças e adolescentes menores de 13 (treze) anos na plataforma TikTok, mesmo após alertada sobre a
+necessidade de aprimorar os mecanismos que utilizava.
+7.183. Segundo prevê o art. 8º, § 2º, do Regulamento de Dosimetria, a infração pode ser considerada
+média quando puder afetar signiﬁcativamente interesses e direitos fundamentais dos titulares.
+7.184. Ao não observar o princípio da prevenção e ao deixar de implementar medidas ex ante aptas a
+diminuir a quantidade de crianças e adolescentes menores de 13 anos que conseguem se cadastrar na plataforma,
+a autuada limitou o exercício de direitos relacionados à proteção dos titulares dessa faixa etária , com
+destaque para  a limitação ao direito de crianças e adolescentes de ter seus dados tratados de forma a
+colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e
+opressão, conforme já detalhado no item 7.91. Fica a infração, portanto, classiﬁcada como média.
+7.185. Outrossim, foram veriﬁcadas as seguintes circunstâncias da infração em tela compatíveis com o
+inciso I do § 3º do art. 8º do Regulamento de Dosimetria:
+7.185.1. Tratamento de dados pessoais em larga escala (art. 8º, § 3º, I, “a”): o ecossistema do
+"feed com cadastro" está inserido em uma plataforma de inegável acesso massivo e alcance nacional,
+abrangendo um número expressivo e indeterminado de crianças e adolescentes em território brasileiro. A
+fragilidade do controle de entrada permitiu o tratamento contínuo, reiterado e massivo de dados desse
+público hipervulnerável.
+7.185.2. Vantagem econômica auferida ou pretendida (art. 8º, § 3º, I, “b”): o tratamento irregular
+de dados pessoais decorrente de sistema de veriﬁcação etária insuﬁciente insere-se diretamente na lógica de
+monetização e perﬁlamento algorítmico da plataforma. A grande margem de tratamento de dados de
+crianças e adolescentes devido à inadequação do mecanismo preventivo de identiﬁcação da idade permitiu
+aferição de vantagem econômica frente aos ﬂuxos de engajamento e de publicidade direcionada.
+7.185.3. Tratamento de dados pessoais de crianças e adolescentes (art. 8º, § 3º, I, “d”): a conduta
+envolve diretamente dados de crianças e adolescentes.
+7.186. Por conseguinte, afasta-se o patamar médio para classiﬁcar a infração como grave.
+Deﬁnição do tipo de sanção administrativa
+7.187. Diante da classiﬁcação da infração como grave, o artigo 10, inciso II, do Regulamento de
+Dosimetria estabelece a aplicação da multa simples como medida juridicamente necessária e proporcional ao
+caso.
+Cálculo da multa simples: Apêndice I do Regulamento de Dosimetria
+Etapa 1: determinação da alíquota-base (Abase)
+7.188. A presente infração foi classiﬁcada como grave; parte-se, em seguida, para a identiﬁcação o grau
+do dano.
+7.189. No contexto da funcionalidade "feed com cadastro", a avaliação da extensão da lesão atrai a
+incidência do grau de dano 2. A infração ocasiona lesão a direitos e interesses difusos, coletivos e individuais
+que geram impactos de ordem material ou moral aos titulares vulneráveis, mas que, diante das circunstâncias
+descritas, não se evidencia efeitos de alta gravidade, impacto irreversível ou de difícil reversão que justiﬁcassem
+o Grau 3.
+7.190. A justiﬁcativa para a ﬁxação no Grau 2 reside no fato de que o ambiente do "feed com cadastro"
+exige a criação de uma conta e a passagem por um mecanismo mínimo de barreira. Embora esse mecanismo
+[PAGINA 31]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 31 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+tenha se provado falho, ineﬁcaz e incapaz de elidir a responsabilidade da infratora, ele afasta a situação de
+absoluto anonimato e inexistência de relação jurídica formal que se veriﬁca, por exemplo, na experiência sem
+cadastro. Isso afasta o grau 3, reforçando a modulação da proporcionalidade exigida pelo Regulamento de
+Dosimetria.
+7.191. Deﬁnido o grau do dano, determina-se a alíquota-base de acordo com a seguinte forma:
+7.192. Deve-se considerar que:
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+7.193. Assim:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+Etapa 2: determinação do valor-base (Vbase)
+7.194. Após, o valor-base da multa é calculado pela multiplicação da alíquota-base pelo faturamento
+bruto, excluídos os tributos, consoante a fórmula:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Vbase = R$ 27.416.297,99
+[ACESSO RESTRITO – trechos sombreados são de acesso restrito à regulada – sigilo ﬁscal - art. 198, caput, da
+Lei nº 5.172, de 25 de outubro de 1966].
+Etapa 3: determinação do valor da multa (Vmulta)
+7.195. Sobre o valor-base, aplicam-se as circunstâncias agravantes e atenuantes, previstas,
+respectivamente, nos arts. 12 e 13 do Regulamento de Dosimetria, resultando na seguinte fórmula de cálculo:
+7.196. Não foram identiﬁcados elementos nos autos que justiﬁquem a incidência de circunstâncias
+agravantes.
+7.197. No âmbito da incidência de atenuantes, aplica-se o exposto nos itens 7.40 a 7.43.
+7.198. Na ausência de circunstâncias agravantes ou atenuantes, o valor da multa corresponde ao valor-
+base calculado na Etapa 2 – no caso, R$ 27.416.297,99.
+Etapa 4: adequação aos limites mínimos e máximos da multa
+7.199. O valor ﬁnal da multa deve ater-se aos limites mínimos previstos no Apêndice II do Regulamento
+de Dosimetria, e máximo de 2% do faturamento da pessoa jurídica de direito privado, excluídos os tributos,
+limitada a R$ 50.000.000,00 (cinquenta milhões de reais).
+7.200. O valor da multa para a infração em análise corresponde a R$ 27.416.297,99 – o qual é superior
+ao montante de R$ 12.000,00 (doze mil reais), estabelecido como mínimo pela Tabela 2 do Apêndice II do
+[PAGINA 32]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 32 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+Regulamento de Dosimetria para os casos de infratores com faturamento.
+7.201. Quanto ao valor máximo, 2% do faturamento da infratora corresponderia a
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX que é superior ao
+valor da multa calculado, mostrando foi respeitado o limite estabelecido pela LGPD [ACESSO RESTRITO –
+trechos sombreados são de acesso restrito à regulada – sigilo ﬁscal - art. 198, caput, da Lei nº 5.172, de 25 de
+outubro de 1966].
+7.202. Considerando o exposto, sugere-se a aplicação de multa no valor de R$ 27.416.297,99 (vinte e
+sete milhões, quatrocentos e dezesseis mil, duzentos e noventa e sete reais e noventa e nove centavos) à
+empresa ByteDance Brasil pela infração relacionada à Conduta 4.
+Conduta 5: deixar de demonstrar medidas eﬁcazes  e capazes de comprovar a observância e o
+cumprimento de normas de proteção de dados.  - art. 6°, X da LGPD.
+Defesa apresentada pela autuada
+7.203. A autuada sustentou que mantém mecanismos para identiﬁcar usuários crianças e adolescentes
+menores de 13 anos e remover essas contas, o que demonstraria os esforços no sentido de atuar de maneira
+vigilante em sua própria plataforma. Contrapôs que, com amparo tanto na teoria da aparência e na presunção de
+veracidade dos dados fornecidos pelo usuário, não poderia ser responsabilizada por ações de terceiros que
+burlam o sistema (SEI nº 0157923, itens 41, 109; SEI nº 0189205, item 31).
+7.204. Na oportunidade, aﬁrmou que as medidas adotadas seriam suﬁcientes, e acima dos padrões da
+indústria, para afastar presunções infundadas de má-fé ou negligência. (SEI nº 0157923, item 78).
+7.205. Sustentou, outrossim, que cada esclarecimento fornecido foi estruturado para atender plenamente
+às exigências da ANPD, evidenciando o seu comprometimento com a conformidade legal e sua colaboração
+durante o processo de ﬁscalização (SEI nº 0157923, item 4).
+7.206. Indica também que ao longo do Processo de Fiscalização as discussões eram voltadas
+exclusivamente para a experiência do feed com cadastro (SEI n° 0157923, item 122).
+7.207. Aﬁrma que eventual sanção de eliminação de dados pessoais seria inadequada e inócua, uma vez
+que já realizaria a exclusão dos dados pessoais de usuários banidos por terem menos de 13 anos no prazo
+estipulado de 120 dias após o banimento da conta (SEI nº 0230319, item 90).
+7.208. Por ﬁm, alegou, ainda, ter adotado postura colaborativa, transparente e de boa-fé ao longo de todo
+o processo de ﬁscalização, destacando a apresentação tempestiva de documentos e esclarecimentos solicitados,
+bem como a elaboração proativa de relatório de impacto à proteção de dados e a implementação dos ajustes
+posteriormente requeridos (SEI nº 0157923, itens 4, 124, 152; SEI nº 0189205, item 38, 59, 79, 106). 
+Subsunção do fato ao tipo infracional correspondente
+7.209. A responsabilização e prestação de contas constitui  um comando jurídico pragmático, com
+conteúdo informativo delimitado e concreto. O seu cumprimento exige do agente regulado demonstrar a “adoção
+de medidas eﬁcazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados
+pessoais e, inclusive, da eﬁcácia dessas medidas” (art. 6º, X, da LGPD). Dessarte, não está em harmonia com
+este comando o fornecimento de informações meramente formais. Há uma exigência de materialidade
+própria, identiﬁcada pela obrigação de demonstrar a eﬁcácia das providências eleitas para adequação do
+tratamento à norma vigente. 
+7.210. Esse princípio da LGPD exige demonstração objetiva de que os mecanismos implementados são
+capazes de prevenir, mitigar, detectar e responder adequadamente aos riscos inerentes ao tratamento de dados
+pessoais. Há um ônus argumentativo acerca da eﬁcácia das medidas[31] a ser estruturado a partir de evidências
+veriﬁcáveis, as quais devem esboçar correspondência material entre a medida adotada e o resultado alegado – o
+qual inclui a redução concreta de riscos aos titulares de dados pessoais. 
+7.211. Dito de outro modo, o princípio da responsabilização e prestação de contas impõe ao agente de
+tratamento o dever de cumprir a legislação cumulado com o ônus de demonstrar, de forma objetiva, veriﬁcável e
+auditável, a adoção de medidas eﬁcazes e capazes de comprovar a observância das normas de proteção de dados
+[PAGINA 33]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 33 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+pessoais. Nesse sentido, a eﬁcácia constitui elemento inseparável do grau de comprometimento e da atitude de
+assumir a responsabilidade pelos próprios atos, metas e resultados na seara regulatória.
+7.212. Não se admite, nessa perspectiva, comprovação baseada exclusivamente em autodeclarações
+genéricas ou alegações abstratas de conformidade; é necessário demonstrar, mediante documentação idônea,
+registros técnicos e indicadores objetivos, que tais medidas existem, operam adequadamente e produzem
+resultados compatíveis com os objetivos de proteção estabelecidos pela legislação.
+7.213. No caso em análise, a autuada não demonstrou a eﬁcácia das medidas alegadamente adotadas,
+diante de em diversos questionamentos da ANPD, o que inclui: 1) a ausência de comprovação técnica e
+detalhada dos dados tratados na experiência do feed sem cadastro, evidenciando deﬁciência de
+rastreabilidade e governança das operações de tratamento; 2) a não comprovação da exclusão eﬁcaz de
+registros irregulares de crianças e adolescentes cadastrados na plataforma.
+7.214. De início, cumpre mencionar que, embora solicitado pela ANPD desde o primeiro contato no
+âmbito do processo de ﬁscalização, apenas em momento posterior no processo a Autuada apresentou a descrição
+detalhada dos dados pessoais tratados na experiência sem cadastro. 
+7.215. O Ofício nº 124/2022/CGF/ANPD/PR (SEI nº 0048727) solicitou informar quais dados pessoais
+eram coletados pelo TikTok de usuários da plataforma, indicando a distinção quanto ao tratamento de dados
+entre usuários registrados e não registrados.  A resposta da autuada (SEI nº 0048735) foi genérica, não
+apresentando especiﬁcação robusta dos dados tratados no feed sem cadastro ou aparato documental para
+demonstrar tal diferenciação. Somente com os documentos SEI nº 0078273 e 0078275, em resposta a novas
+solicitações da ANPD, foi possível compreender quais dados pessoais eram tratados em cada experiência. Ainda
+assim, se limita a empresa a apresentar aﬁrmação de não realizar classiﬁcação dos usuários, sem apresentar
+comprovação expressamente solicitada pela ANPD.
+7.216. Assim, ao contrário das alegações da Autuada de que tomou conhecimento de que a experiência
+de usuário não cadastrado também era uma das principais preocupações da ANPD somente na Nota Técnica nº
+50/2024/FIS/CGF/ANPD (SEI n° 0157923, item 122), ByteDance Brasil teve oportunidades de demonstrar
+adoção de medidas eﬁcazes e capazes de comprovar a observância e o cumprimento das normas de proteção de
+dados pessoais em relação ao feed sem cadastro por mais de uma vez durante o curso do Processo de
+Fiscalização.
+7.217. Fica evidente que a Autuada deixou de demonstrar, de forma clara e veriﬁcável suas alegações
+sobre o feed sem cadastro, principalmente sobre quais operações de tratamento eram efetivamente realizadas, o
+que é ainda mais crítico em cenário no qual, como já demonstrado, há tratamento massivo de dados pessoais
+de crianças e adolescentes menores de 13 anos.
+7.218. Identiﬁcam-se, assim, ausência de rastreabilidade e governança das operações de tratamento
+no âmbito do feed sem cadastro, impedindo a demonstração de que medidas efetivas foram adotadas para
+assegurar a adequação de suas operações, em desconformidade com as exigências do princípio da
+responsabilização e prestação de contas. 
+7.219. Para além disso, há contornos preocupantes quanto ao volume de contas excluídas no âmbito do
+‘feed com cadastro’: não se sabe por quanto tempo os milhões de usuários tiveram seus dados tratados de
+maneira irregular, com qual frequência ou em quais contextos; não se sabe, ademais, qual a relação entre
+usuários excluídos e os conjuntos de dados produzidos a partir da sua interação, se foram excluídos de fato e
+qual a forma de exclusão, tampouco quanto tempo permaneceram ativos até sua exclusão deﬁnitiva. Há lacunas
+expressivas sobre a ambiência descrita, decorrentes da falta de apresentação de evidências sólidas sobre o
+tratamento de dados pela autuada e sobre a operação das medidas técnicas e administrativas relacionadas ao
+acesso de crianças e adolescentes menores de 13 anos à plataforma. É o que se percebe em trecho da Nota
+Técnica n° 50 (Sei n° 0153897):
+6.59 Ademais a resposta apresentada pela ByteDance se mostra insuﬁciente por dois outros motivos
+principais: (i) não há uma análise sobre as medidas de remoção adotadas frente à elevada presença de
+crianças, conforme apontado pela TIC Kids – ou seja, não foi apresentado um relatório, conforme solicitado
+pela CGF; (ii) a tabela apresentada, ainda que pudesse ser considerada um relatório, é desprovida de
+contexto que permita avaliá-la, visto que não há qualquer explicação sobre a metodologia utilizada para a
+sua construção ou quais parâmetros possam servir como referência para compreender seus números. (...)
+[PAGINA 34]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 34 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+6.62 Em conclusão, a ByteDance não apresentou informações suﬁcientes para que se possa avaliar de
+maneira concreta a eﬁcácia dos seus mecanismos de veriﬁcação de idade no momento do cadastro. Embora
+tenha havido melhorias no processo de remoção de contas em um estágio posterior, conforme já discutido,
+essas iniciativas ainda carecem de elementos que permitam avaliar de forma robusta a efetividade das
+medidas adotadas, tanto antes quanto depois do cadastro. As informações fornecidas não incluem dados
+metodológicos claros ou um contexto detalhado que possibilite uma análise completa e conclusiva da
+eﬁcácia dessas ações, o que limita a capacidade da Coordenação-Geral de Fiscalização (CGF) de emitir
+parecer deﬁnitivo sobre a eﬁcácia das práticas da empresa.
+7.220. Acrescenta-se que, embora a autuada tenha detalhado seu ﬂuxo de retenção e exclusão de dados
+em 120 dias, sua prestação de contas mostra-se omissa e evasiva em relação a esses procedimentos. Por
+exemplo, ao responder sobre a existência de política para comunicar parceiros comerciais sobre a necessidade de
+excluir os dados, a empresa limitou-se a informar que não compartilhará os dados no futuro (SEI nº 0078273, p.
+27). O princípio da responsabilização exige do controlador a demonstração de medidas mitigatórias ativas: a
+empresa falha em demonstrar como exige a exclusão, por parte de terceiros, dos dados que já haviam sido
+coletados e repassados indevidamente durante o período em que a conta esteve ativa e a criança foi perﬁlada.
+7.221. Ante a falha da plataforma de apresentar evidências de que o controle de idade inicial funciona e,
+sobretudo, pela ausência de demonstração de uma política estruturada para exigir a exclusão de dados pessoais
+de crianças e adolescentes menores de 13 anos junto a anunciantes e parceiros comerciais, resta evidente a falha
+no dever de responsabilização.
+7.222. A regulada falhou, pois, em apresentar, de modo estruturado, a conformidade com a LGPD. Há
+ausência de evidências sobre as operações de tratamento efetivamente realizadas, identiﬁcando os dados
+coletados de acordo com as categorias descritas, a relação com as fontes de obtenção, a operacionalização das
+ﬁnalidades especíﬁcas, em consonância com as bases legais suscitadas, além de ﬂuxos internos de
+compartilhamento e tratamento, bem como, as ocorrências de transferência realizada a terceiros. Obviamente,
+relacionadas a dados reais e concretos.
+7.223. Fica, portanto, caracterizada a conduta infrativa de deixar de demonstrar a eﬁcácia das
+medidas protetivas e de mitigação de danos, violando o art. 6º, X, da LGPD.
+  
+Classiﬁcação da infração
+7.224. O art. 6º, inciso X, da LGPD estabelece o princípio da responsabilização e prestação de contas,
+que impõe aos agentes de tratamento a obrigação de demonstrar, de forma concreta e veriﬁcável, a adoção de
+medidas eﬁcazes e capazes de assegurar a conformidade com as normas de proteção de dados. No caso em tela,
+a Autuada violou referido dever legal ao adotar postura reativa e inercial, diante da ausência de comprovação de
+rastreabilidade e governança nas operações de tratamento no âmbito do feed sem cadastro e na falha em
+comprovar a eﬁcácia real das medidas de exclusão de registros de crianças e adolescentes menores de 13 (treze)
+anos na plataforma TikTok.
+7.225. Segundo prevê o art. 8º, §2º, do Regulamento de Dosimetria, a infração pode ser considerada
+média quando puder afetar signiﬁcativamente interesses e direitos fundamentais dos titulares.
+7.226. Conforme já mencionado, a infração ora analisada compromete a efetividade do regime de
+direitos da LGPD ao privar os titulares do seu direito de conhecer os elementos mínimos necessários para
+compreender, questionar e controlar o tratamento de seus dados pessoais, além de prejudicar a ﬁscalização
+da ANPD e o consequente sistema de controle construído pela ANPD para fortalecer a proteção aos titulares.
+7.227. Veriﬁca-se, assim, que a presente infração se enquadra nos requisitos do art. 8º, §2º, do
+Regulamento de Dosimetria, atendendo ao critério para ser classiﬁcada como média.
+7.228. Adicionalmente, identiﬁca-se a presença de tratamento de dados pessoais em larga escala (art.
+8º, § 3º, I, “a”), de vantagem econômica auferida ou pretendida (art. 8º, § 3º, I, “b”) e de tratamento de
+dados pessoais de crianças e adolescentes (art. 8º, § 3º, I, “d”), nos termos já explicados anteriormente.
+7.229. Por conseguinte, ﬁca a infração classiﬁcada como grave.
+Deﬁnição do tipo de sanção administrativa
+[PAGINA 35]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 35 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+7.230. A infração em apreço foi considerada grave, o que atrai a aplicação de multa simples, em respeito
+ao disposto no artigo 10, inciso II, do Regulamento de Dosimetria. Trata-se de medida juridicamente necessária
+e proporcional ao caso.
+Cálculo da multa simples: Apêndice I do Regulamento de Dosimetria
+Etapa 1: determinação da alíquota-base (Abase)
+7.231. A presente infração foi classiﬁcada como grave; parte-se, em seguida, para a identiﬁcação o grau
+do dano.
+7.232. No contexto do dever de prestação de contas da eﬁcácia das medidas de exclusão, a avaliação da
+extensão da lesão atrai a incidência do grau de dano 2. A infração ocasiona lesão a direitos e interesses difusos e
+coletivos pela falta de transparência e governança sobre dados de vulneráveis, gerando riscos e impactos aos
+titulares. Em razão do tratamento de dados em larga escala, não se aplicam os graus 0 e 1.
+7.233. Deﬁnido o grau do dano, determina-se a alíquota-base de acordo com a seguinte forma:
+7.234. Deve-se considerar que:
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+7.235. Assim:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+ 
+Etapa 2: determinação do valor-base (Vbase)
+7.236. Após, o valor-base da multa é calculado pela multiplicação da alíquota-base pelo faturamento
+bruto, excluídos os tributos, consoante a fórmula:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Vbase = R$ 27.416.297,99
+[ACESSO RESTRITO – trechos sombreados são de acesso restrito à regulada – sigilo ﬁscal - art. 198, caput, da
+Lei nº 5.172, de 25 de outubro de 1966]. 
+Etapa 3: determinação do valor da multa (Vmulta)
+7.237. Sobre o valor-base, aplicam-se as circunstâncias agravantes e atenuantes, previstas,
+respectivamente, nos arts. 12 e 13 do Regulamento de Dosimetria, resultando na seguinte fórmula de cálculo:
+7.238. Não foram identiﬁcados elementos nos autos que justiﬁquem a incidência de circunstâncias
+agravantes.
+[PAGINA 36]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 36 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+7.239. No âmbito da incidência de atenuantes, aplica-se o exposto nos itens 7.40 a 7.43.
+7.240. Na ausência de circunstâncias agravantes ou atenuantes, o valor da multa corresponde ao valor-
+base calculado na Etapa 2 – no caso, R$ 27.416.297,99.
+Etapa 4: adequação aos limites mínimos e máximos da multa
+7.241. O valor ﬁnal da multa deve ater-se aos limites mínimos previstos no Apêndice II do Regulamento
+de Dosimetria, e máximo de 2% do faturamento da pessoa jurídica de direito privado, excluídos os tributos,
+limitada a R$ 50.000.000,00 (cinquenta milhões de reais).
+7.242. O valor da multa para a infração em análise corresponde a R$ 27.416.297,99 – o qual é superior
+ao montante de R$ 12.000,00 (doze mil reais), estabelecido como mínimo pela Tabela 2 do Apêndice II do
+Regulamento de Dosimetria para os casos de infratores com faturamento.
+7.243. Quanto ao valor máximo, 2% do faturamento da infratora corresponderia a
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX, que é superior ao
+valor da multa calculado, mostrando foi respeitado o limite estabelecido pela LGPD [ACESSO RESTRITO –
+trechos sombreados são de acesso restrito à regulada – sigilo ﬁscal - art. 198, caput, da Lei nº 5.172, de 25 de
+outubro de 1966].
+7.244. Considerando o exposto, sugere-se a aplicação de multa no valor de R$ 27.416.297,99 (vinte e
+sete milhões, quatrocentos e dezesseis mil, duzentos e noventa e sete reais e noventa e nove centavos) à
+empresa ByteDance Brasil pela infração relacionada à Conduta 5.
+8. CONCLUSÃO
+8.1. Ante o exposto, o robusto conjunto probatório coligido aos autos demonstra, de forma
+inequívoca, a autoria e a materialidade das condutas descritas, identiﬁcando infrações à LGPD em duas frentes
+operacionais distintas, o que fundamenta a aplicação de sanções administrativas conforme consolidado na tabela
+a seguir:
+Tabela 2: sanções por conduta
+8.2. As sanções de multa são apresentadas a seguir, consolidadas por artigos da LGPD:
+Tabela 3: sanções por artigo da LGPD
+INFRAÇÃO V ALOR DA MULTA(R$)
+Conduta 1: tratar dados pessoais de crianças e de adolescentes menores de 18 anos
+sem a existência de hipótese legal válida com a ﬁnalidade de fornecer a
+experiência do “feed sem cadastro” – art. 7º da LGPD.
+Multa Simples no total de
+R$ 35.760.388,68
+Conduta 2: deixar de adotar medidas para prevenir o tratamento de dados pessoais
+de crianças e adolescentes menores de 13 (treze) na experiência do “feed sem
+cadastro” – art. 6º, VIII, da LGPD.
+Multa Simples no total de
+R$ 35.760.388,68
+Conduta 3: tratar dados pessoais de crianças e de adolescentes menores de 18 anos
+com a ﬁnalidade de realizar o cadastro na plataforma Tiktok sem hipótese legal
+válida, diante da inexistência de um contrato válido – art. 7º da LGPD.
+Multa Simples no total de
+R$ 27.416.297,99 e
+eliminação de dados
+pessoais
+Conduta 4: deixar de adotar medidas eﬁcazes para prevenir o cadastro de crianças
+e adolescentes menores de 13 (treze) anos à plataforma TikTok – art. 6º, VIII da
+LGPD.
+Multa Simples no total de
+R$ 27.416.297,99
+Conduta 5: deixar de demonstrar medidas eﬁcazes e capazes de comprovar a
+observância e o cumprimento de normas de proteção de dados - Art. 6º, X da
+LGPD.
+Multa Simples no total de
+R$ 27.416.297,99
+Valor Consolidado das Sanções de Multa Simples R$ 153.769.671,33
+[PAGINA 37]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 37 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+8.3. Considerando que a sistemática de aplicação de sanções da LGPD e do Regulamento de
+Dosimetria estabelece a aplicação da multa por infração e, havendo pluralidade de infrações, ela deve ser
+calculada e aplicada de forma cumulativa para cada ofensa autônoma identiﬁcada; a consolidação das
+penalidades pecuniárias aplicadas resulta no montante global de R$ 153.769.671,33 (Cento e cinquenta e três
+milhões, setecentos e sessenta e nove mil, seiscentos e setenta e um reais e trinta e três centavos).
+8.4. É importante registrar que a classiﬁcação das infrações e a deﬁnição das sanções aqui propostas
+restringem-se estritamente às peculiaridades e circunstâncias fáticas deste caso concreto, não vinculando a
+análise, a dosimetria ou o posicionamento da Coordenação-Geral de Sanções (CGS) no âmbito de futuros
+processos administrativos sancionadores.
+9. ENCAMINHAMENTOS
+9.1. O presente Relatório de Instrução deve ser encaminhado ao Superintendente de Fiscalização para
+decisão, de acordo com art. 55 do Regulamento de Fiscalização.
+9.2. Após proferida a decisão, a autuada deverá ser intimada para cumprimento da sanção ou
+apresentação de recurso, em até 10 dias úteis, em consonância com o art. 58 do Regulamento de Fiscalização.
+9.3. A decisão deve ser publicada no DOU, segundo o art. 55 do Regulamento de Fiscalização.
+9.4. A multa deverá ser paga no prazo de até 20 (vinte) dias úteis, contados a partir da ciência oﬁcial
+da decisão, nos termos do art. 17 do Regulamento de Dosimetria. O não pagamento ensejará a incidência de
+encargos, conforme previsto no §3º do mesmo artigo.
+9.5. A autuada deve ser informada de que o art. 18 do Regulamento de Dosimetria prevê que a
+renúncia expressa ao direito de recorrer da decisão de primeira instância autoriza redução de 25% (vinte e cinco
+por cento) no valor da multa aplicada, caso faça o recolhimento no prazo para pagamento deﬁnido no caput do
+art. 17.
+9.6. Caso a multa não seja paga após o trânsito em julgado, haverá o acompanhamento das obrigações
+e o autuado será inscrito no Cadastro Informativo de Créditos não Quitados do Setor Público Federal (Cadin) e
+na Dívida Ativa da União.
+9.7. Após trânsito em julgado, este Processo Administrativo Sancionador deverá ser arquivado, uma
+vez que inexistem obrigações adicionais a serem monitoradas.
+ 
+SAMIRA BORELLI SATRIANO[32]
+Servidora requisitada
+ 
+REINALDO SENA JUNIOR
+Servidor
+ 
+Artigo da
+LGPD violado Valor da Multa (R$)
+Art. 7º R$ 63.176.686,67 (sessenta e três milhões, cento e setenta e seis mil, seiscentos eoitenta e seis reais e sessenta e sete centavos)
+Art. 6º, VIII R$ 63.176.686,67 (sessenta e três milhões, cento e setenta e seis mil, seiscentos eoitenta e seis reais e sessenta e sete centavos)
+Art. 6º, X R$ 27.416.297,99 (vinte e sete milhões, quatrocentos e dezesseis mil, duzentos enoventa e sete reais e noventa e nove centavos)
+Valor
+Consolidado R$ 153.769.671,33 (Cento e cinquenta e três milhões, setecentos e sessenta e novemil, seiscentos e setenta e um reais e trinta e três centavos)
+[PAGINA 38]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 38 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+MARIANA GOMES DE BARROS FERNANDES TÁVORA
+Coordenação de Sanções - Proteção de Crianças e Adolescentes em Ambiente Digital 
+De acordo.
+AMANDA MUNIZ OLIVEIRA
+Coordenadora-Geral de Sanções
+ 
+Referências:
+1. ^  Neste Relatório de Instrução, a expressão 'veriﬁcação de idade' faz referência à terminologia consolidada
+no processo de ﬁscalização para designar a necessidade de implementação de mecanismos técnicos e
+procedimentais eﬁcazes para obstar o tratamento de dados pessoais de crianças e adolescentes em violação à
+Lei Geral de Proteção de Dados Pessoais (LGPD) e às políticas da própria plataforma.
+2. ^ À luz do Decreto nº 12.881, de 18 de março de 2026, e da Resolução CD/ANPD nº 33, de 6 de abril de
+2026, que dispõem sobre a reestruturação organizacional da Autoridade Nacional de Proteção de Dados,
+esclarece-se que, para ﬁns de coerência histórica, precisão documental e adequada contextualização dos atos
+administrativos, a nomenclatura “Coordenação-Geral de Fiscalização” foi mantida em relação a todos os
+atos praticados anteriormente à vigência das referidas alterações estruturais. Para atos presentes e futuros, é
+adotada a nomenclatura da nova estrutura, como “Superintendência de Fiscalização” e suas respectivas
+coordenações-gerais e coordenações. Registre-se que tal organização textual está igualmente alinhada com o
+Despacho Decisório CD/ANPD nº 68/2026, que convalidou os atos praticados pelos Superintendentes e
+ﬁxou entendimento sobre a equivalência das unidades organizacionais da ANPD e suas respectivas
+competências
+3. ^ Na ferramenta Tiktok, as modalidades "feed sem cadastro" e "feed com cadastro" constituem experiências
+distintas no âmbito da ﬁnalidade de ambos os ambientes. O “feed sem cadastro” foi concebido para permitir
+o acesso imediato à plataforma, sem a criação de conta, funcionando como uma porta de entrada para atração
+de novos usuários. Embora dispense o cadastro, essa modalidade mantém funcionalidades de personalização
+de conteúdo e exibição de anúncios. O “feed com cadastro”, por sua vez, tem a ﬁnalidade de reter os
+usuários cadastrados e pressupõe a criação de um perﬁl, oferecendo recursos adicionais, como ferramentas
+de interação social e anúncios personalizados (SEI n° 0048735 – item A). Sob a óptica da Lei Geral de
+Proteção de Dados (LGPD), esses fatores foram considerados e sopesados no presente Relatório de
+Instrução.
+4. ^ Nota Técnica nº 50/2024/FIS/CGF/ANPD (SEI nº 0153897, item 6.56).
+5. ^ CETIC.BR. Pesquisa sobre o uso da Internet por crianças e adolescentes no Brasil - TIC Kids Online
+Brasil 2025. São Paulo, 2026. Disponível em: https://cetic.br/pt/publicacao/pesquisa-sobre-o-uso-da-
+internet-por-criancas-e-adolescentes-no-brasil-tic-kids-online-brasil-2025/. Acesso em: 22 jul. 2026.
+6. ^ Art. 8º As infrações são classiﬁcadas, segundo a gravidade e a natureza das infrações e dos direitos
+pessoais afetados, em:I - leve;II - média; ouIII - grave.[...]§ 2º A infração será considerada média quando
+puder afetar signiﬁcativamente interesses e direitos fundamentais dos titulares de dados pessoais,
+caracterizada nas situações em que a atividade de tratamento puder impedir ou limitar, de maneira
+signiﬁcativa, o exercício de direitos ou a utilização de um serviço, assim como ocasionar danos materiais ou
+morais aos titulares, tais como discriminação; violação à integridade física; ao direito à imagem e à
+reputação; fraudes ﬁnanceiras ou uso indevido de identidade, desde que não seja classiﬁcada como grave.
+7. ^ BRASIL. Autoridade Nacional de Proteção de Dados. Relatório de Instrução nº 1/2023/CGF/ANPD.
+Processo Administrativo Sancionador nº 00261.000489/2022-62. Autuado: Telekall Inforservice. Disponível
+em https://www.gov.br/anpd/pt-br/centrais-de-conteudo/decisoes-em-processos-sancionadores/?
+_authenticator=7951f0a70d3d125fd05e11a1e544b72d2c61f304.
+8. ^ A LGPD entrou em vigor em 18 de setembro de 2020, enquanto os dispositivos sancionatórios passaram a
+produzir efeitos a partir de 1º de agosto de 2021. Considerando que o TikTok iniciou suas operações no
+Brasil em 2018 (ver https://tecnoblog.net/responde/o-que-e-tiktok/, acesso em 24 jun. 2026) – portanto em
+momento anterior à vigência da Lei –, adota-se, como termo inicial para caracterização do tratamento
+contínuo e reiterado a data de 1º de agosto de 2021, o que evidencia a sua manutenção por período próximo
+a cinco anos.
+[PAGINA 39]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 39 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+9. ^ Art. 13. O valor da multa simples será reduzido, nos percentuais abaixo, caso incidam as seguintes
+circunstâncias atenuantes:I - nos casos de cessação da infração:[…]c) 30% (trinta por cento), se após a
+instauração de processo administrativo sancionador e até a prolação da decisão de primeira instância no
+âmbito do processo administrativo sancionador.
+10. ^ II - 20% (vinte por cento), nos casos de implementação de política de boas práticas e de governança ou de
+adoção reiterada e demonstrada de mecanismos e procedimentos internos capazes de minimizar os danos aos
+titulares, voltados ao tratamento seguro e adequado de dados, até a prolação da decisão de primeira instância
+no âmbito do processo administrativo sancionador.
+11. ^ III - nos casos em que o infrator tenha comprovado a implementação de medidas capazes de reverter ou
+mitigar os efeitos da infração sobre os titulares de dados pessoais afetados:[...]b) 10% (dez por cento), se
+após a instauração de procedimento preparatório e até a instauração de processo administrativo sancionador.
+12. ^ § 2º Na hipótese de incidência de mais de um dos incisos deste artigo, deverão ser somados os percentuais
+relativos a cada fator.
+13. ^ “[…] a ByteDance não classiﬁca ou cria perﬁl comportamental de usuário não cadastrado. O sistema de
+recomendaçãoXXXXXXXXXXX XXXXXXXXXX XXXXXXXXX XXXXXXXXXXXXX
+XXXXXXXXXXXX XXXXXX XXXXXXXXXX XXXXXXXXXXXX XXXXXXXXXXXXXX
+XXXXX XXXXXXXXXX A ByteDance não coleta, compartilha e analisa continuamente ou cria um perﬁl
+do que o usuário gosta ou não gosta para direcionar conteúdo personalizado (e.g., o Usuário A gosta de gatos
+e viagens, enquanto o Usuário B gosta de gatos, viagens e comida). A ByteDance também não personaliza
+anúncios na experiência de usuário não cadastrados e tampouco utiliza dados desses usuários para
+classiﬁcação/otimização de anúncios” (SEI nº 0157923, itens 128 e 129. Grifos presentes no
+original). (acesso restrito à regulada. Restrição de acesso decorrente de atividade empresarial, nos termos do
+art. 5º, §2º, do Decreto nº 7.724, de 16 de maio de 2012).
+14. ^ [...] O TikTok é projetado para usuários acima de 13 anos. A plataforma deﬁne uma idade mínima de 13
+anos para um usuário estar no TikTok e dedica recursos signiﬁcativos para impedir que usuários menores de
+idade acessem ou mantenham uma conta na plataforma. 
+15. ^ P. 9: “Conﬁgurações do Dispositivo: Tais como o ID do dispositivo, modelo do dispositivo e sistema
+operacional, versão do aplicativo, idioma do sistema e região”.
+16. ^ BIONI, Bruno Ricardo. Proteção de dados pessoais: a função e os limites do consentimento. Rio de
+Janeiro: Forense, 2019, p. 122.  
+17. ^  HILDEBRANDT, M. (2008). Proﬁling and the Identity of the European Citizen. In M. Hildebrandt, & S.
+Gutwirth (Eds.), Proﬁling the European Citizens. Cross-Disciplinary Perspectives (pp. 303-326). Springer-
+Verlag.
+18. ^ No âmbito do processo de ﬁscalização, a empresa indicou que haveria a atribuição de um ID interno aos
+usuários não cadastrados e a seu dispositivo, sem identiﬁcar diretamente o indivíduo (SEI nº 0048735, p. 5).
+19. ^  Ratiﬁca-se, portanto, entendimento já esboçado na Nota Técnica nº 50/2024/FIS/CGF/ANPD (0153897):
+“10.21. A empresa alegou, ainda, que não classiﬁca usuários não registrados, argumentando que apenas
+realiza cálculos numéricos para recomendar conteúdo com base no comportamento desses usuários durante o
+uso da plataforma. Entretanto, cumpre destacar que a deﬁnição de dado pessoal, conforme o conceito
+adotado pela legislação, não necessariamente se alinha à ideia de classiﬁcação. Mesmo cálculos numéricos
+aparentemente anônimos podem, em última análise, ser considerados dados pessoais, especialmente se forem
+utilizados para traçar perﬁs ou inﬂuenciar as experiências dos titulares na plataforma. 10.22. É nesse sentido
+que a LGPD dispõe sobre “dados pessoais”, que, para a lei, é (i) qualquer informação (ii) relacionada à (iii)
+pessoa natural identiﬁcada ou identiﬁcável. É essa característica, inclusive, que permite que o Direito possa
+acompanhar o desenvolvimento tecnológico, pois caso o conceito fosse restritivo – ou associado somente a
+determinadas tecnologias –, sua utilidade rapidamente se perderia diante do avanço da tecnologia. (...). [...].
+10.24. Dessa forma, o tratamento do “feed sem cadastro”, por mais que não “classiﬁque os indivíduos”,
+realiza uma ação de tratamento de dados pessoais que acaba por categorizá-los, e os impactos dessa coleta e
+tratamento, mais do que gerar uma ação direta sobre os titulares, tem impacto sobre grupos sociais
+especíﬁcos, conformando seus comportamentos e a própria coletividade, incluindo de crianças e
+adolescentes.
+20. ^  No relatório de avaliação de riscos submetido ao Regulamento de Serviços Digitais (Digital Services Act
+— DSA) da União Europeia, o TikTok reconhece que a exibição concentrada de determinados conteúdos —
+ainda que não violem formalmente suas diretrizes comunitárias nem sejam ilegais — pode causar danos ao
+bem-estar mental dos usuários, especialmente os mais jovens, ao reforçar experiências negativas por
+[PAGINA 40]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 40 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+meio de temas como dietas extremas e imagem corporal. TIKTOK. TikTok DSA Risk Assessment Report
+2024. p. 13, 2024. Disponível em: https://sf16-va.tiktokcdn.com/obj/eden-
+va2/zayvwlY_fjulyhwzuhy%5B/ljhwZthlaukjlkulzlp/DSA/TikTok_DSA_Risk_Assessment_Report_2024.pdf.
+Acesso em: 28 jul. 2026.[4] Conforme estudo divulgado pelo Parlamento Europeu, os algoritmos do TikTok
+conseguem inferir interesses e vulnerabilidades por sinais sutis (como a permanência prolongada em um
+vídeo, sem curtir ou seguir). A análise aponta que contas associadas a transtornos alimentares recebem
+volume expressivamente maior de conteúdos "tóxicos" e de dietas do que contas de controle, direcionando
+rapidamente usuários vulneráveis a ﬂuxos concentrados de materiais nocivos (como automutilação,
+distúrbios alimentares e extremismo). EUROPEAN PARLIAMENT. European Parliamentary Research
+Service (EPRS). Mental health of young people in a digital era: Cost of non-Europe report. Study. Brussels:
+EPRS, July 2026. Disponível em:
+https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2026)774672. Acesso em: 26 jul. 2026.
+21. ^ Conforme apresenta Nota Técnica n° 50 Pub (SEI n°0153895 – item 8.1), a Autoridade Italiana de
+Proteção de Dados, Garante per la protezione dei dati personali (Garante), proibiu o TikTok de tratar os
+dados pessoais relativos a qualquer titular “cuja idade não pudesse ser estabelecida com total certeza, de
+modo a garantir o cumprimento dos requisitos relacionados a idade”. E outras informações públicas seguem
+no mesmo sentido, como exemplo: https://5rightsfoundation.com/tiktok-knows-it-is-harming-children.
+22. ^ De acordo com levantamento da Comissão Europeia, jovens podem ser expostos a conteúdos de
+automutilação em menos de três minutos (2,6 minutos) de navegação no TikTok devido aos mecanismos de
+recomendação algorítmica e, após breve interação, o feed pode ser inteiramente dominado por esse tipo de
+conteúdo em cerca de 15 minutos. COMISSÃO EUROPEIA. Centro Comum de Pesquisa. A saúde de
+menores e as mídias sociais: uma perspectiva cientíﬁca interdisciplinar. Luxemburgo: Serviço de
+Publicações da União Europeia, 2025. Disponível em:
+https://publications.jrc.ec.europa.eu/repository/handle/JRC141090. Acesso em: 28 jul. 2025.
+23. ^ Conforme estudo divulgado pelo Parlamento Europeu, os algoritmos do TikTok conseguem inferir
+interesses e vulnerabilidades por sinais sutis (como a permanência prolongada em um vídeo, sem curtir ou
+seguir). A análise aponta que contas associadas a transtornos alimentares recebem volume expressivamente
+maior de conteúdos "tóxicos" e de dietas do que contas de controle, direcionando rapidamente usuários
+vulneráveis a ﬂuxos concentrados de materiais nocivos (como automutilação, distúrbios alimentares e
+extremismo). EUROPEAN PARLIAMENT. European Parliamentary Research Service (EPRS). Mental
+health of young people in a digital era: Cost of non-Europe report. Study. Brussels: EPRS, July 2026.
+Disponível em: https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2026)774672. Acesso
+em: 26 jul. 2026.
+24. ^ O art.14 da LGPD apresenta a necessidade de realizar o tratamento de dados pessoais considerando o
+melhor interesse da criança e do adolescente. Nos termos da Nota Técnica 50 Pub (SEI nº 0153895 – item
+9.22), “o melhor interesse trata de um conceito que abrange três aspectos, a saber – um direito, um princípio
+interpretativo e uma regra processual”. Sendo assim, “ (...) tem implicações diretas na avaliação da
+conformidade das operações de tratamento de dados pessoais”, sendo assim “(...) é imperativo que os
+agentes de tratamento que lidam com dados pessoais de crianças e adolescentes avaliem e observem
+rigorosamente esse princípio, uma vez que o seu não cumprimento pode levar a práticas de tratamento
+irregulares e em desconformidade com a LGPD”. Sendo assim, o princípio do melhor interesse da criança e
+do adolescente (art. 14, caput, da LGPD) dupla dimensão: Pode constituir uma infração autônoma, em seu
+sentido subjetivo de direito próprio de crianças e adolescentes, assumindo função típica no âmbito
+sancionador; por outro lado, pode ser incorporado como requisito essencial à execução de outras obrigações
+especíﬁcas previstas nos dispositivos da LGPD.
+25. ^ O art. 6º da LGPD elenca tanto comandos normativos, quanto vetores interpretativos ao restante da norma.
+A depender do caso concreto, os princípios podem constituir núcleos autônomos de infrações
+administrativas, assumindo função típica no âmbito sancionador, bem como podem ser incorporados como
+requisitos essenciais à execução de obrigações especíﬁcas previstas na legislação. A práxis regulatória
+internacional corrobora com essa premissa, haja vista que autoridades estrangeiras de proteção de dados
+conferem cogência autônoma aos princípios setoriais. Sob essa ótica, o referencial normativo adotado pelo
+Information Commissioner’ s Ofﬁce (ICO) do Reino Unido, por exemplo, explica que a violação aos
+princípios basilares não apenas conﬁgura ilícito autônomo, mas também enseja a aplicação de sanções
+pecuniárias (Information Commissioner’s Ofﬁce (ICO). A guide to the data protection principles. Wilmslow:
+ICO. Disponível em: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-
+[PAGINA 41]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 41 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+principles/a-guide-to-the-data-protection-principles/).
+26. ^ A conduta da atuada afeta interesses e direitos fundamentais dos titulares de dados pessoais,
+notadamente em atenção à prioridade absoluta garantidas às crianças e adolescentes pelo art. 227 da
+Constituição Federal (CF).
+27. ^ Segundo a Petição Resposta ByteDance - ANPD (SEI nº 0048735), os Termos de Serviço indicam que
+seria necessário: “Consentimento dos pais e responsáveis. (i) se você tiver mais de 16 anos, mas menos de
+18 anos, você só pode usar e registrar uma conta mediante a assistência de seus pais ou responsáveis legais e
+declara e garante que teve referida assistência para usar os Serviços e concordar com estes Termos; (ii) se
+você tem mais de 13 anos mas menos de 16 anos, você só pode usar e registrar uma conta com a
+representação de seus pais ou responsáveis legal e deve obter o consentimento de seus pais ou responsáveis
+legais para o uso dos Serviços e aceitação destes Termos”.
+https://cetic.br/media/docs/publicacoes/2/20240913124019/tic_kids_online_2023_livro_eletronico.pdf.
+28. ^ Dados da Pesquisa TIC Kids Online Brasil (2023) do Cetic.br demonstram a inviabilidade prática do
+argumento, ao revelarem que a leitura completa das políticas de privacidade das principais redes (WhatsApp,
+Snapchat, Twitter, TikTok e Instagram), seriam necessárias 3 horas e 6 minutos, considerando o tempo
+médio de leitura por adultos, não considerando faixas etárias menores que tendem a ler de forma mais lenta. 
+29. ^ TEPEDINO, Gustavo; TEFFÉ, Chiara Spadaccini de. O consentimento na circulação de dados pessoais.
+Revista Brasileira de Direito Civil - RBDCivil, Belo Horizonte, v. 25, p. 83-116, jul./set. 2020.
+30. ^ 6.1. Ante o exposto, esta CGF entende que a continuidade do tratamento dos dados pelo TikTok está
+condicionada ao cumprimento dos seguintes itens: a) Revisão dos mecanismos de veriﬁcação de idade para
+que sejam mais efetivos em não permitir que pessoas menores de 13 anos consigam se cadastrar e,
+consequentemente, para que seus dados pessoais não sejam tratados; [...]” [Nota Técnica nº
+6/2023/CGF/ANPD (0048776)].
+31. ^  BIONI, Bruno Ricardo. Accountability no desenho (design) da regulação de dados pessoais: virtudes
+e vicissitudes. 2021. (pp. 231-233.) Tese (Doutorado em Direito) – Faculdade de Direito, Universidade de
+São Paulo, São Paulo, 2021.
+32. ^ A primeira versão do presente Relatório de Instrução foi elaborada por SAMIRA BORELLI SATRIANO,
+no âmbito da então Coordenação de Fiscalização da Coordenação-Geral de Fiscalização, unidade
+competente, à época, para a instrução de processos administrativos sancionadores. A elaboração dessa
+primeira versão ocorreu antes da publicação da Resolução CD/ANPD nº 33, de 6 de abril de 2026, que
+transferiu essa competência para a Coordenação-Geral de Sanções da Superintendência de Fiscalização.
+GABRIELLA VIEIRA OLIVEIRA GONÇALVES, no exercício de suas atividades como Coordenadora-
+Geral de Sanções – Substituta (PORTARIA GABPR/ANPD Nº 291, DE 28.04.2026), contribuiu de forma
+ativa e relevante para a elaboração do presente Relatório de Instrução.
+Documento assinado eletronicamente por Amanda Muniz Oliveira, Coordenador(a)-Geral, em
+24/08/2026, às 12:13, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº
+8.539, de 8 de outubro de 2015.
+Documento assinado eletronicamente por Mariana Gomes de Barros Fernandes Távora,
+Coordenador(a), em 24/08/2026, às 12:28, conforme horário oﬁcial de Brasília, com fundamento no art. 6º,
+§ 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+Documento assinado eletronicamente por Reinaldo Sena Junior, Servidor(a) Temporário(a), em
+24/08/2026, às 13:34, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº
+8.539, de 8 de outubro de 2015.
+Documento assinado eletronicamente por Samira Borelli Satriano, Servidor(a) Requisitado(a), em
+24/08/2026, às 14:35, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº
+8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+[PAGINA 42]
+25/08/2026, 16:45SEI/ANPD - 0324906 - Relatório de Instrução (Pub)
+Página 42 de 42https://sei.anpd.gov.br/sei/controlador.php?acao=documento_…0307860d56a01fd32a72e568ad89a0366dd3d0885643877fed6e43c219
+https://sei.anpd.gov.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0,
+informando o código veriﬁcador 0324906 e o código CRC 41A3AC4F.
+SCN Quadra 06, Ed. Venâncio 3000, Bloco A, 9º andar - Bairro Asa Norte, Brasília/DF, CEP 70716-900
+Telefone:   - https://www.gov.br/anpd/pt-br
+Referência: Caso responda a este documento, indicar expressamente o Processo nº 00261.006648/2024-02 SEI nº 0324906

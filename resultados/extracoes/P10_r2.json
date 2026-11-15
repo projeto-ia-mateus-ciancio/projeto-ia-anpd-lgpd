@@ -1,0 +1,59 @@
+{
+  "id": "P10",
+  "processo": "00261.000489/2022-62",
+  "rodada": 2,
+  "modelo": "qwen3:8b",
+  "versao_prompt": "v1",
+  "entrada": "texto_paginas_selecionadas",
+  "falha_do_modelo": false,
+  "segundos": 7.8,
+  "uso": {
+    "tokens_entrada": 20214,
+    "tokens_saida": 512
+  },
+  "data_utc": "2026-11-15T19:24:35+00:00",
+  "extracao": {
+    "papel": "controlador",
+    "setor": "publico",
+    "fase": "aplicada_em_despacho",
+    "condutas": [
+      {
+        "dispositivo": "LGPD, art. 7º",
+        "descricao": "Ausência de comprovação de hipótese legal de tratamento de dados pessoais",
+        "sancoes": [
+          {
+            "tipo": "multa_simples",
+            "valor_reais": 7200.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "Art. 7º da LGPD: 'O controlador e o operador devem manter registro das operações de tratamento de dados pessoais que realizarem, especialmente quando baseado no legítimo interesse'."
+      },
+      {
+        "dispositivo": "LGPD, art. 41",
+        "descricao": "Falta de indicação do encarregado",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "Art. 41 da LGPD: 'O controlador deverá indicar encarregado pelo tratamento de dados pessoais'."
+      },
+      {
+        "dispositivo": "Regulamento de Fiscalização, art. 5º",
+        "descricao": "Não atendimento às requisições da ANPD",
+        "sancoes": [
+          {
+            "tipo": "multa_simples",
+            "valor_reais": 7200.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "Art. 5º do Regulamento de Fiscalização da ANPD: 'Os agentes regulados submetem-se à fiscalização da ANPD e têm os seguintes deveres, dentre outros: fornecer cópia de documentos, físicos ou digitais, dados e informações relevantes para a avaliação das atividades de tratamento de dados pessoais, no prazo, local, formato e demais condições estabelecidas pela ANPD'."
+      }
+    ],
+    "evidencia_papel": "N/A"
+  }
+}

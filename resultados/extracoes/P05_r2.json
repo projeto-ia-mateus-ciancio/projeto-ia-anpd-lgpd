@@ -1,0 +1,70 @@
+{
+  "id": "P05",
+  "processo": "00261.001192/2022-14",
+  "rodada": 2,
+  "modelo": "qwen3:8b",
+  "versao_prompt": "v1",
+  "entrada": "texto_paginas_selecionadas",
+  "segundos": 8.3,
+  "uso": {
+    "tokens_entrada": 13617,
+    "tokens_saida": 615
+  },
+  "data_utc": "2026-11-15T19:11:02+00:00",
+  "extracao": {
+    "papel": "nao_informado",
+    "setor": "publico",
+    "fase": "sugerida_no_relatorio",
+    "condutas": [
+      {
+        "dispositivo": "LGPD, art. 37",
+        "descricao": "não manter registro das operações de tratamento de dados pessoais (ROT)",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "A ausência de tal registro, por mais simples que seja, configura violação ao art. 37 da LGPD."
+      },
+      {
+        "dispositivo": "LGPD, art. 38",
+        "descricao": "não elaborar RIPD após solicitação da ANPD",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "A não apresentação de Relatório de Impacto à Proteção de Dados Pessoais (RIPD) após solicitação da ANPD é uma infração ao art. 38 da LGPD."
+      },
+      {
+        "dispositivo": "LGPD, art. 48",
+        "descricao": "não comunicar aos titulares a ocorrência de incidente de segurança que possa lhes acarretar risco ou dano relevante",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "A comunicação oferece aos titulares possibilidade de atuar para se proteger, evitar ou mitigar os potenciais riscos ou danos decorrentes do incidente."
+      },
+      {
+        "dispositivo": "Regulamento de Fiscalização, art. 5º",
+        "descricao": "não apresentar informações relevantes para a avaliação das atividades de tratamento de dados pessoais no prazo estabelecido pela ANPD",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "A não apresentação de documento solicitado pela ANPD, ou sequer uma resposta sobre a sua existência, corresponde a descumprimento dos deveres impostos pelo art. 5º do Regulamento de Fiscalização."
+      }
+    ],
+    "evidencia_papel": "não_informado"
+  }
+}

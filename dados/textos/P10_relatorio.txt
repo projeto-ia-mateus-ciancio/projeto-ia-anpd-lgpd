@@ -1,0 +1,4238 @@
+[PAGINA 1]
+PRESIDÊNCIA DA REPÚBLICA
+Autoridade Nacional de Proteção de Dados
+Coordenação-Geral de Fiscalização
+ 
+Auto de Infração nº 3/2022/CGF/ANPD 
+                                                                                                       
+                                               
+00261.000489/2022-62
+ 
+1. IDENTIFICAÇÃO DO AUTUADO
+ 
+Natureza do Autuado
+(  X  ) Pessoa Jurídica      (    ) Pessoa Física
+Agente de Tratamento
+(  X  ) Controlador           (    ) Operador
+Nome Completo / Razão Social
+CPF / CNPJ
+Telekall Inforservices
+11.193.228/0001-24
+Endereço
+Rua Sete de Setembro, nº 13, sala 103 - Centro
+Município
+CEP
+Vila Velha
+29100-301
+Telefones para Contato 
+(celular e comercial)
+UF
+( 27 ) 3229-0323 / ( 27 ) 3062-1210
+ES
+E-mail para Comunicações Processuais
+[EMAIL]
+ 
+2. IDENTIFICAÇÃO DO RECEBEDOR DO AUTO DE INFRAÇÃO
+ 
+Nome Completo / Razão Social
+CPF / CNPJ
+Emmanuel Gomes de Jesus
+ 
+Cargo / Função
+(    ) Encarregado           (    ) Procurador            (  X  ) Representante da Autuada
+Telefones para Contato 
+(celular e comercial)
+( 27 ) 3229-0323/ ( 27 ) 3062-1210
+E-mail para Comunicações Processuais
+[EMAIL]
+ 
+ANPD - Auto de Infração 3 (3231560)         SEI 00261.000489/2022-62 / pg. 1
+[PAGINA 2]
+3. DESCRIÇÃO DOS FATOS
+ 
+E DOS DISPOSITIVOS NORMATIVOS INFRINGIDOS
+ 
+Descrição do(s) Fato(s)
+A Autoridade Nacional de Proteção de Dados recebeu Ofício nº 13/2021 - 4PJ - 3OP, da
+Promotoria de Justiça de Ubatuba/SP, no qual consta notícia que a empresa Telekall Infoservices estaria
+oferecendo aos candidatos às eleições municipais uma listagem de contatos de WhatsApp de eleitores de
+Ubatuba/SP para fins de disseminação de material de campanha eleitoral.
+Foi emitido o ofício Nº 21/2021/CGF/ANPD/PR, em 28 de fevereiro de 2021 à empresa
+Telekall Infoservices informando sobre a apuração de comercialização de base de dados. Em resposta, a
+empresa informou que não houve contratação para prestação do serviço e, por isso, estranhou a citação de
+seu nome como provedora de um serviço não contratado.
+A ANPD considerou a resposta insuficiente e emitiu novo Ofício nº
+10/2022/CGF/ANPD/PR reiterando a requisição das informações e alertando que a ausência de resposta
+seria considerada infração à LGPD. Ocorre que a empresa não se manifestou e nem apresentou as
+informações requeridas.
+A Nota Técnica nº 20/2022/CGF/ANPD teve o objetivo de apresentar elementos que
+subsidiaram o processo decisório, entendendo-se necessária a instauração do processo administrativo
+sancionador. A Nota Técnica considerou as seguintes bases normativas: Lei nº 13.709, de 14/08/2018
+(LGPD); Regimento Interno da Autoridade Nacional de Proteção de Dados, aprovado pela Portaria nº 1,
+de 08/03/2021 (Regimento Interno) e Regulamento do Processo de Fiscalização e do Processo
+Administrativo Sancionador, aprovado pela Resolução CD/ANPD nº 1, de 28/10/2021 (Regulamento de
+Fiscalização).
+Como consequência, a Telekall Infoservices infringiu os seguintes dispositivos:
+Lei Geral de Proteção de Dados:
+Art. 7 e Art. 11 - ausência de comprovação de hipótese legal de tratamento desses dados
+pessoais;
+Art. 37  –  ausência de comprovação de registro das operações de tratamento de dados
+pessoais;
+Art. 38 – ausência de envio do relatório de impacto à proteção de dados pessoais referente
+a suas operações de tratamento;
+Art. 41  – falta de comprovação da indicação do encarregado.
+Art. 5º do Regulamento do Processo de Fiscalização e do Processo Administrativo
+Sancionador, aprovado pela Resolução CD/ANPD nº 1, de 28/10/2021 (Regulamento de Fiscalização)
+- Não atendimento às requisições da ANPD.
+O Coordenador-Geral de Fiscalização da Autoridade Nacional de Proteção de Dados
+(ANPD), através do Despacho Decisório nº 02/2022/CGF/ANPD, acatou as razões da Nota Técnica 20 e
+decidiu pela instauração de processo administrativo sancionador em desfavor da Telekall Infoservices.
+Dispositivos Legais e Regulamentares Infringidos
+Infringência aos arts. 7º, 11, 37, 38 e 41 da LGPD e art. 5º do Regulamento do Processo de Fiscalização e
+do Processo Administrativo Sancionador, aprovado pela Resolução CD/ANPD nº 1, de 28/10/2021
+(Regulamento de Fiscalização).
+ 
+4. SANÇÕES ADMINISTRATIVAS
+ 
+ANPD - Auto de Infração 3 (3231560)         SEI 00261.000489/2022-62 / pg. 2
+[PAGINA 3]
+Este 
+Auto de Infração
+ 
+informa a abertura, em desfavor do autuado, de processo administrativo
+sancionador que poderá culminar na aplicação de uma ou mais sanções listadas no art. 52 da LGPD, a
+saber: Advertência; Multa Simples; Multa Diária; Publicização da Infração; Bloqueio dos dados pessoais;
+Eliminação dos dados pessoais; Suspensão parcial do tratamento do banco de dados; Suspensão do
+exercício da atividade de tratamento dos dados pessoais; Proibição parcial do exercício de atividades
+relacionadas a tratamento de dados; Proibição total do exercício de atividades relacionadas a tratamento
+de dados.
+ 
+5. DISPOSITIVO(S) NORMATIVO(S) APLICÁVEL(IS)
+ 
+( X ) 
+Lei 
+Geral de Proteção de Dados – LGPD (Lei nº 13.709/2018).
+( X ) Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador (aprovado pela
+Resolução CD/ANPD nº 1, de 28 de outubro de 2021).
+Citar outras leis e regulamentos aplicáveis
+Regimento Interno da Autoridade Nacional de Proteção de Dados, aprovado pela Portaria nº 1, de
+08/03/2021 (Regimento Interno).
+ 
+6. INFORMAÇÕES COMPLEMENTARES 
+ 
+A Nota Técnica nº 20/2022/CGF/ANPD (SEI nº 
+3213355
+) e o Despacho Decisório nº
+02/2022/CGF/ANPD (SEI nº 
+3224681
+) foram emitidos no bojo do Processo Sei nº 
+00261.000040/2021-
+13
+.
+O presente Auto de Infração tramita no Processo Sei nº 
+00261.000489/2022-62
+.
+ 
+7. INTIMAÇÃO
+ 
+INTIMA-SE o autuado para ciência
+:
+7.1. de 
+que responde pelo(s) fato(s) em processo administrativo sancionador 
+e que tem o prazo de 10
+(dez) dias úteis, a partir da ciência deste Auto de Infração, para apresentar defesa
+ perante a
+Coordenação-Geral de Fiscalização da Autoridade Nacional de Proteção de Dados, via SEI, conforme
+instruções do Anexo 01, de acordo com o art. 47, do Regulamento do Processo de Fiscalização e do
+Processo Administrativo Sancionador, aprovado pela Resolução CD/ANPD nº 1, de 28 de outubro de
+2021.
+7.2. da descrição do fato ou do ato constitutivo da infração e do dispositivo legal ou regulamentar
+infringido (
+Item 3. Descrição dos Fatos e dos Dispositivos Normativos Infringidos
+);
+7.3. das sanções aplicáveis (
+Item 4.
+ 
+Sanções Administrativas
+);
+7.4 da finalidade deste Auto de Infração e das providências necessárias (
+Item 7. Intimação
+); e
+7.5. de que os prazos informados neste Auto de Infração correrão independentemente de manifestação do
+autuado; e
+7.6. das demais informações constantes neste 
+Auto de Infração
+.
+ 
+8. OCORRÊNCIAS QUE IMPEDIRAM A ASSINATURA DO AUTO DE INFRAÇÃO
+ 
+Para os casos de intimação pessoal
+ANPD - Auto de Infração 3 (3231560)         SEI 00261.000489/2022-62 / pg. 3
+[PAGINA 4]
+D
+eclaro que o infrator (ou seu encarregado ou seu preposto ou representante legal), a que se refere o auto
+acima, recusou-se a assinar o 
+Auto de Infração
+.
+Agente(s) de Fiscalização
+Nome e Matrícula
+Nome e Matrícula
+_________________________________
+ 
+_________________________________
+ 
+ 
+9. IDENTIFICAÇÃO DO(S) AGENTE(S) DE FISCALIZAÇÃO
+ 
+Intimação eletrônica/postal
+( X ) Lavrei 
+o presente Auto de Infração via Sistema Eletrônico de Informações - SEI, ficando o autuado
+intimado das informações deste Auto de Infração, na forma do art. 12, I, ou do art. 12, II, quando via
+postal, e de acordo com os artigos 45 a 47, c/c o artigo 10, todos do Regulamento do Processo de
+Fiscalização e do Processo Administrativo Sancionador, aprovado pela Resolução CD/ANPD nº 1, de 28
+de outubro de 2021.
+Intimação pessoal
+(   ) Lavrei
+ o presente Auto de Infração, em x (x) vias, o qual vai por mim assinado e entregue ao autuado
+na forma do previsto no art. 12, III e de acordo com os artigos 45 a 47, c/c o artigo 10, todos do
+Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador, aprovado pela
+Resolução CD/ANPD nº 1, de 28 de outubro de 2021.
+Nome
+Cargo / Função
+Matrícula
+Karina Alves Martinho
+Coordenadora Substituta
+126934
+Local (Município/UF)
+Data
+Hora
+Brasília/DF
+10 de março de 2022
+(na hora da
+assinatura)
+ 
+ANPD - Auto de Infração 3 (3231560)         SEI 00261.000489/2022-62 / pg. 4
+[PAGINA 5]
+ANEXO 01: Instruções ao autuado
+ 
+Quanto ao ACESSO AO PROCESSO indicado neste Auto de Infração:
+1) O acesso ao processo indicado neste Auto de Infração dar-se-á exclusivamente por meio do Sistema
+SEI, acessível por meio da Página da Presidência da República (
+https://www.gov.br/secretariageral/pt-
+br/sei-peticionamento-eletronico
+).
+Informações detalhadas sobre os requisitos para acesso ao sistema (cadastramento e credenciamento);
+acesso por autoridades públicas, partes ou procuradores; e sobre o uso do sistema estão disponíveis no link
+acima. A visualização de processos e documentos sigilosos depende de autorização da área técnica
+responsável, após solicitação formal da parte.
+2) Constitui dever das partes, representantes e procuradores indicar, no primeiro momento que lhes couber
+falar nos autos, o endereço eletrônico e o endereço residencial ou profissional onde receberão as
+notificações, bem assim atualizar essas informações sempre que ocorrer qualquer modificação temporária
+ou definitiva (Art. 3º, II, III e IV, e Art. 4º, IV da Lei nº 9.784/1999).
+ 
+Quanto à apresentação de DEFESA:
+3) No caso de o autuado oferecer Defesa ao Auto de Infração, esta deverá ser formalmente dirigida à
+Coordenação-Geral de Fiscalização;
+4) O autuado deverá indicar, com destaque, o número do processo e o número do Auto de Infração;
+5) O autuado deverá utilizar o peticionamento eletrônico do Sistema SEI acessível por meio da página da
+Presidência da República.
+Documento que, em razão do formato, do tamanho ou de outra característica, não possa ser encaminhado
+por meio desse canal, deve ser apresentado por cópia ou segunda via, ou mídia digital, exceto nos casos
+em que houver determinação legal para apresentação de originais, cabendo ao responsável e/ou interessado
+manter os originais sob sua guarda;
+6) A defesa pode ser apresentada diretamente pelo destinatário do Auto de Infração ou por intermédio de
+procurador regularmente constituído nos autos, conforme previsto no Art. 3º, IV da Lei nº 9.784/1999;
+pode, ainda, ser apresentada pelo Encarregado pelo tratamento de dados pessoais, por força do art. 5º, VIII,
+c/c art. 41, §2º da Lei nº 13.709/2018.
+7) Caso haja procurador constituído nos autos, as comunicações processuais subsequentes serão dirigidas
+ao Encarregado com cópia a esse representante, conforme disposto no Art. 41, § 2º, da Lei nº 13.709/2018
+c/c art. 3º, IV da Lei nº 9.784/1999. Se houver mais de um procurador, deve ser indicado o nome daquele a
+quem deverão ser encaminhadas as comunicações.
+ 
+Quanto ao pagamento de MULTA, se aplicada:
+8) Em caso de aplicação de pena de MULTA, o não pagamento da multa aplicada implicará na inscrição
+do devedor no cadastro de não quitados do Setor Público Federal (Cadin) em 75 dias contados da data da
+intimação, bem como em dívida ativa da União e, se for o caso, cobrança judicial através de órgão
+competente da Advocacia-Geral da União.
+ 
+Outras informações:
+9) Os prazos informados neste Auto de Infração correrão independentemente de manifestação do autuado,
+consoante exposto no art. 10, II do Regulamento do Processo de Fiscalização e do Processo
+Administrativo Sancionador, aprovado pela Resolução CD/ANPD nº 1, de 28 de outubro de 2021.
+10) Conforme disposto no art. 48 do Regulamento de Fiscalização, a ANPD poderá realizar diligências e
+juntar novas provas aos autos, independentemente do prazo de defesa do autuado, visando à celeridade
+processual e à mitigação de riscos, assegurado o contraditório.
+ANPD - Auto de Infração 3 (3231560)         SEI 00261.000489/2022-62 / pg. 5
+[PAGINA 6]
+ 
+Documento assinado eletronicamente por 
+Karina Alves Martinho
+, 
+ANPD - Autoridade Nacional de
+Proteção de Dados
+, em 10/03/2022, às 16:17, conforme horário oficial de Brasília, com fundamento no
+§ 3º do art. 4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020. 
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+3231560
+ e o código
+CRC 
+D2277034
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Processo nº 00261.000489/2022-62
+SEI nº 3231560
+ANPD - Auto de Infração 3 (3231560)         SEI 00261.000489/2022-62 / pg. 6
+[PAGINA 7]
+10/03/2022 16:19 SEI/PR - 3213355 - Nota Técnica
+https://sei-pr.presidencia.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=3586990&i… 1/5
+00261.000040/2021-13
+ 
+Presidência da República
+Autoridade Nacional de Proteção de Dados
+Coordenação-Geral de Fiscalização
+ 
+Nota Técnica nº 20/2022/CGF/ANPD
+1. INTERESSADOS
+1.1. Empresa Telekall Infoservices.
+2. ASSUNTO
+2.1. Oferta aos candidatos às eleições municipais de listagem de contatos de WhatsApp de
+eleitores de Ubatuba/SP para ﬁns de disseminação de material de campanha eleitoral.
+3. REFERÊNCIAS
+3.1. Processo SEI nº 00261.000040/2021-13;
+3.2. Lei nº 13.709, de 14/08/2018 (LGPD);
+3.3. Regulamento do Processo de Fiscalização e do Processo Administra vo Sancionador,
+aprovado pela Resolução CD/ANPD nº 1, de 28/10/2021 (Regulamento de Fiscalização);
+3.4. E-mail encaminhamento de o cio e anexos (2358136);
+3.5. Anexo nº 1 (2412924); Anexo nº 2 (2412926); Anexo nº 3 (2412926); Anexo nº 4
+(2412927); Anexo nº 5 (2412929); Anexo nº 6 (2412930); Anexo nº 7 (2412931);
+3.6. O cio nº 19/2021/CGF/ANPD/PR (2412941);
+3.7. Anexo nº 1 do O cio 19 - Telas do site da Telekall (2412960);
+3.8. Anexo nº 2 do O cio 19 - Cartão CNPJ - Receita Federal (2412963);
+3.9. Anexo nº 3 do O cio 19 - Dados cadastrais (2412965);
+3.10. O cio nº 21/2021/CGF/ANPD/PR (2412990);
+3.11. Correspondência Resposta da Telekall ao o cio 21 #1 (2515289);
+3.12. Correspondência Resposta da Telekall ao o cio 21 #2 (2515300);
+3.13. O cio nº 46/2021/CGF/ANPD/PR (2515309);
+3.14. Documento print screen do sí o eletrônico da Telekall (3110999);
+3.15. Consulta ao CNPJ da empresa Telekall (3115565);
+3.16. O cio nº 10/2022/CGF/ANPD/PR (3140607);
+3.17. Recibo OF. 10 CGF/ANPD-PR - Envio CORREIOS (3141751)
+4. RELATÓRIO
+4.1. Trata-se de mensagem eletrônica recebida pela Autoridade Nacional de Proteção de Dados
+(ANPD) contendo o O cio nº 13/2021 - 4PJ - 3OP, da Promotoria de Jus ça de Ubatuba/SP, no qual consta
+a no cia de que a empresa Telekall Infoservices estaria oferecendo aos candidatos às eleições municipais
+uma listagem de contatos de WhatsApp de eleitores de Ubatuba/SP para ﬁns de disseminação de
+material de campanha eleitoral.
+Nota Técnica 20 (3232292)         SEI 00261.000489/2022-62 / pg. 7
+[PAGINA 8]
+10/03/2022 16:19 SEI/PR - 3213355 - Nota Técnica
+https://sei-pr.presidencia.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=3586990&i… 2/5
+4.2. Nos anexos, estão presentes o e-mail com a denúncia, a cer dão de encaminhamento, o
+termo de conclusão ao promotor, a decisão, o despacho, a cer dão de expedição de o cio e o o cio do
+Ministério Público do Estado de São Paulo.
+4.3. Foi enviado ao Diretor-Geral da Polícia Federal comunicado de suposta prá ca de
+crime rela va ao oferecimento de base de dados com o obje vo de disparar, por intermédio do aplica vo
+WhatsApp, mensagens com ﬁns eleitorais ou comerciais. Junto com o o cio, foram enviados anexos que
+corroboram a suposta prá ca de crime.
+4.4. Diante do recebimento da mensagem eletrônica mencionada linhas acima, a Autoridade
+Nacional de Proteção de Dados (ANPD) enviou o cio à empresa Telekall Infoservices informando sobre a
+apuração de comercialização de base de dados.
+4.5. Em resposta, a empresa informou que não houve contratação para prestação do serviço e,
+por isso, estranhou a citação de seu nome como provedora de um serviço não contratado.
+4.6. A ANPD, então, considerou a resposta da Telekall Infoservices insuﬁciente, mo vo pelo
+qual requisitou, mais uma vez, as informações solicitadas, conforme O cio nº
+10/2022/CGF/ANPD/PR (3140607); entretanto, não foi recebida nenhuma resposta, embora o o cio
+tenha sido entregue, consoante Documento Rastreamento no site dos Correios (3220621).
+5. ANÁLISE
+5.1. A Lei nº 13.709, de 14/08/2018, conhecida como Lei Geral de Proteção de Dados (LGPD),
+art. 5º, I, considera dado pessoal toda "informação relacionada a pessoa natural iden ﬁcada ou
+iden ﬁcável". Por essa razão, o número de telefone de eleitor é dado pessoal, pois consiste em
+informação relacionada a pessoa natural iden ﬁcada ou iden ﬁcável.
+5.2. A leitura do processo revela que a a vidade desenvolvida pela Telekall Infoservices
+conﬁgura tratamento de dados pessoais, já que a oferta de listagem de contatos de WhatsApp para ﬁns
+de disparo de mensagens pode ser enquadrada na previsão do art. 5º, X, que classiﬁca como
+tratamento "toda operação realizada com dados pessoais, como as que se referem a coleta, produção,
+recepção, classiﬁcação, u lização, acesso, reprodução, transmissão, distribuição, processamento,
+arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modiﬁcação,
+comunicação, transferência, difusão ou extração". Com efeito, no desenvolvimento de seu mister, há
+indícios de que a empresa desempenha, pelo menos, as ações de coleta, acesso, u lização e distribuição
+de dados pessoais.
+5.3. A LGPD, ainda, deﬁne a ﬁgura do controlador no art. 5º, VI, como a "pessoa natural ou
+jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados
+pessoais". É de salientar que no documento de id 2515300, a Telekall informou que "Houve sim, um
+contato inicial via Whatsapp com o candidato a vereador Alexandre Mandl, o qual, não resultou em
+nenhuma a vidade comercial". Tendo em vista que à Telekall Infoservices efetua o tratamento e opta por
+oferecê-lo no mercado, não há dúvidas de que a ela competem as decisões referentes ao tratamento de
+dados pessoais, mo vo pelo qual é considerada como controladora.
+5.4. A circunstância de a a vidade da Telekall Infoservices estar inserida nas disposições da
+LGPD denota a competência de atuação ANPD, deﬁnida pelo art. 5º, XIX da LGPD, como "órgão da
+administração pública responsável por zelar, implementar e ﬁscalizar o cumprimento desta Lei em todo o
+território nacional". Cabe à ANPD, de acordo com o art. 55-J, I, "zelar pela proteção dos dados pessoais,
+nos termos da legislação", bem como "IV - ﬁscalizar e aplicar sanções em caso de tratamento de dados
+realizado em descumprimento à legislação, mediante processo administra vo que assegure o
+contraditório, a ampla defesa e o direito de recurso" e "XX - deliberar, na esfera administra va, em
+caráter termina vo, sobre a interpretação desta Lei, as suas competências e os casos omissos".
+5.5. Nessa senda, a consecução da a vidade de ﬁscalização insere-se no Planejamento
+Estratégico da ANPD 2021/2023, cujos obje vos são promover o fortalecimento da cultura de proteção
+de dados pessoais, estabelecer ambiente norma vo eﬁcaz para a proteção de dados pessoais e aprimorar
+as condições para o cumprimento das competências legais.
+Nota Técnica 20 (3232292)         SEI 00261.000489/2022-62 / pg. 8
+[PAGINA 9]
+10/03/2022 16:19 SEI/PR - 3213355 - Nota Técnica
+https://sei-pr.presidencia.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=3586990&i… 3/5
+5.6. Dentro da ANPD, a Coordenação-Geral de Fiscalização (CGF) é responsável pela ação de
+detectar as infrações à LGPD, o que consiste em desdobramento do obje vo estratégico de promoção do
+fortalecimento da cultura de proteção de dados pessoais. Na padronização dos processos internos de
+trabalho e dos procedimentos previstos no Regulamento do Processo de Fiscalização, a CGF buscará,
+sempre, a medida do proporcional ao comportamento do ﬁscalizado, observando a gradação entre a
+gravidade do comportamento e a medida necessária.
+5.7. De acordo com o Regimento Interno da ANPD:
+Regimento Interno da ANPD:
+Art. 17. São competências da Coordenação-Geral de Fiscalização, sem prejuízo de outras previstas
+na Lei nº 13.709, de 2018, no Decreto nº 10.474, de 2020, e na legislação aplicável:
+(...)
+III - promover ações de ﬁscalização sobre as ações de tratamento de dados pessoais efetuadas pelos
+agentes de tratamento, incluído o Poder Público;
+(...)
+IX - requisitar aos agentes de tratamento de dados a apresentação de Relatório de Impacto à
+Proteção de Dados Pessoais;
+5.8. O art. 48 do Regimento Interno da ANPD, ainda, determina que as "a vidades da ANPD
+obedecerão, além dos princípios estabelecidos na Lei nº 13.709, de 2018, aos princípios da legalidade,
+mo vação, moralidade, eﬁciência, celeridade, interesse público, impessoalidade, igualdade, devido
+processo legal, ampla defesa, contraditório, razoabilidade, proporcionalidade, imparcialidade,
+publicidade, economicidade, segurança jurídica, entre outros". Esta é, portanto, a jus ﬁca va para análise
+da a vidade desenvolvida pela Telekall Inforservices em processo administra vo próprio, pois
+é necessário observar as diretrizes e os princípios incidentes sobre a atuação administra va no
+cumprimento da atribuição de ﬁscalização.
+5.9. O Regulamento de Fiscalização da ANPD, aprovado pela Resolução CD/ANPD nº 1, de
+28/10/2021, dispõe de forma fundamental sobre a estruturação das a vidades previstas no art. 17 do
+Regimento Interno da ANPD. De acordo com o art. 2º do Regulamento, a ﬁscalização volta-se à
+orientação, à prevenção e à repressão das infrações à LGPD, de sorte a, conforme o art. 3º, proteger os
+direitos dos  tulares de dados, promover a implementação da legislação de proteção de dados pessoais e
+zelar pelo cumprimento das disposições da LGPD.
+5.10. Por força do art. 5º, VI e IX da LGPD c/c art. 4º, I, do Regulamento de Fiscalização, a Telekall
+é considerada agente regulado pela ANPD, haja vista serem eles os "agentes de tratamento e demais
+integrantes ou interessados no tratamento de dados pessoais". Cumpre especiﬁcar as a vidades a que os
+agentes regulados estão subme dos por força do Regulamento de Fiscalização:
+Art. 5º Os agentes regulados submetem-se à ﬁscalização da ANPD e têm os seguintes deveres,
+dentre outros:
+I - fornecer cópia de documentos,  sicos ou digitais, dados e informações relevantes para a
+avaliação das a vidades de tratamento de dados pessoais, no prazo, local, formato e demais
+condições estabelecidas pela ANPD;
+II - permi r o acesso às instalações, equipamentos, aplica vos, facilidades, sistemas, ferramentas e
+recursos tecnológicos, documentos, dados e informações de natureza técnica, operacional e outras
+relevantes para a avaliação das a vidades de tratamento de dados pessoais, em seu poder ou em
+poder de terceiros;
+III - possibilitar que a ANPD tenha conhecimento dos sistemas de informação u lizados para
+tratamento de dados e informações, bem como de sua rastreabilidade, atualização e subs tuição,
+disponibilizando os dados e as informações oriundos destes instrumentos;
+IV - submeter-se a auditorias realizadas ou determinadas pela ANPD;
+V - manter os documentos  sicos ou digitais, os dados e as informações durante os prazos
+estabelecidos na legislação e em regulamentação especíﬁca, bem como durante todo o prazo de
+tramitação de processos administra vos nos quais sejam necessários; e
+VI - disponibilizar, sempre que requisitado, representante apto a oferecer suporte à atuação da
+ANPD, com conhecimento e autonomia para prestar dados, informações e outros aspectos rela vos
+Nota Técnica 20 (3232292)         SEI 00261.000489/2022-62 / pg. 9
+[PAGINA 10]
+10/03/2022 16:19 SEI/PR - 3213355 - Nota Técnica
+https://sei-pr.presidencia.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=3586990&i… 4/5
+a seu objeto.
+5.11. Em consulta ao sí o eletrônico h ps://telekall.com/, anexado ao presente processo sob o
+id 3110999, foi constatada a oferta de contatos de WhatsApp, o que indica que a empresa con nuava a
+ofertar os serviços no mercado por ocasião do envio dos o cios pela ANPD. O sí o eletrônico, porém,
+foi desa vado, como se observa no id 3223051. Além disso, da resposta 2515300, não é possível
+considerar que a Telekall tenha cumprido com a sua obrigação de atender à requisição da ANPD.
+5.12. Conforme o art. 41 da referida resolução, "quando necessário para o esclarecimento da
+demanda, a Coordenação-Geral de Fiscalização poderá determinar a realização de diligências, conforme
+disposto na LGPD, no Decreto nº 10.474, de 2020, e no Regimento Interno da ANPD". As diligências foram
+realizadas, pois a ANPD considerou a resposta da Telekall Infoservices (2515300) insuﬁciente e requisitou,
+mais uma vez, as informações por meio do O cio nº 10/2022 (3140607):
+a) Qual o encarregado pelo tratamento de dados pessoais indicado por essa empresa
+para se comunicar com ANPD e quais são as informações de contato com o
+encarregado, como obriga a Lei Geral de Proteção de Dados Pessoais (LGPD)?
+b) Qual é a hipótese legal de tratamento desses dados pessoais, considerando o
+disposto nos art. 7º e 11 da Lei nº 13.709/2018?
+c) Qual a origem dos dados que essa empresa oferece para disparar mensagens de
+WhatsApp, conforme consta abertamente do site dessa empresa? Ou seja, de onde essa
+empresa pega ou acessa os dados para disparar as mensagens? Fornecer
+detalhadamente os dados de iden ﬁcação e de contato com seu fornecedor desses
+dados pessoais.
+d) Como é montada a base de dados que serve de objeto para o serviço oferecido no
+sí o eletrônico h p://telekall.com/?
+e) Quais os dados que fazem parte do banco de dados disponibilizado para seus
+clientes?
+f) Quantos registros possui atualmente em seu banco de dados?
+g) Qual serviço foi oferecido e encaminhado por WhatsApp ao polí co Alex Waltersdorf,
+candidato sob o nome Alex da Saúde?
+5.13. Ocorre que embora o o cio tenha sido recebido em 26/01/2022, conforme Documento
+Rastreamento no site dos Correios (3220621), não foi recebida nenhuma resposta até o presente
+momento.
+5.14. Considerando os elementos apurados e constantes do autos até o momento e
+considerando que a Telekall Infoservices quedou-se inerte diante das oportunidades oferecidas para
+prestar esclarecimentos, não há mais medidas a serem tomadas no presente procedimento preparatório.
+Faz-se necessária, por conseguinte, a instauração de processo administra vo sancionador, com base no
+art. 55-J, I, c/c IV da LGPD; art. 42 do Regulamento de Fiscalização, de sorte a permi r o contraditório e a
+ampla defesa à empresa conforme previsão do art. 45, por intermédio da lavratura de auto de infração,
+estatuído pelo art. 46.
+6. CONCLUSÃO
+6.1. Diante do descumprimento da determinação, pela Telekall Infoservices, de envio das
+informações requisitadas pelo O cio nº 10/2022 (3140607), circunstância que pode signiﬁcar a
+infringência aos arts. 7º, 11, 37, 38 e 41 da LGPD, bem como ao art. 5º do Regulamento de Fiscalização da
+ANPD, aprovado pela da Resolução CD nº 1, de 28/10/2021, faz-se necessária, por força do art. 55-J,  I,
+c/c IV da LGPD e art. 42 do Regulamento de Fiscalização, a instauração de processo administra vo
+sancionador, de sorte a permi r o contraditório e a ampla defesa à empresa, conforme previsão do art.
+45, por intermédio da lavratura de auto de infração, previsto no art. 46 da mesma Resolução.
+Documento assinado eletronicamente por Karina Alves Mar nho, ANPD - Autoridade Nacional de
+Proteção de Dados, em 10/03/2022, às 16:09, conforme horário oﬁcial de Brasília, com fundamento
+Nota Técnica 20 (3232292)         SEI 00261.000489/2022-62 / pg. 10
+[PAGINA 11]
+10/03/2022 16:19 SEI/PR - 3213355 - Nota Técnica
+https://sei-pr.presidencia.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=3586990&i… 5/5
+no § 3º do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020. .
+A autenticidade do documento pode ser conferida informando o código verificador 3213355 e o
+código CRC F1ACF69E no site:  
+https://sei-pr.presidencia.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência: Processo nº 00261.000040/2021-13 SEI nº 3213355
+Nota Técnica 20 (3232292)         SEI 00261.000489/2022-62 / pg. 11
+[PAGINA 12]
+00261.000040/2021-13 
+ 
+PRESIDÊNCIA DE REPÚBLICA
+Autoridade Nacional de Proteção de Dados
+ 
+Brasília, 10 de março de 2022.
+DESPACHO DECISÓRIO Nº 2/2022/CGF/ANPD
+  
+Processo nº 00261.000040/2021-13
+ 
+Interessado: Telekall Infoservices
+ 
+O COORDENADOR GERAL DE FISCALIZAÇÃO DA AUTORIDADE
+NACIONAL DE PROTEÇÃO DE DADOS (ANPD) DA PRESIDÊNCIA DA
+REPÚBLICA
+, no uso de suas atribuições legais e regulamentares, em especial a
+disposta no art. 17, incisos I, III e IX do Regimento Interno da ANPD, aprovado pela
+Portaria nº 1, de 08/03/2021, examinando os autos do Processo em epígrafe, acata
+as razões da Nota Técnica nº 20/2022/CGF/ANPD (SEI nº 
+3213355
+) e decide pela
+instauração de processo administrativo sancionador em desfavor da
+empresa 
+TELEKALL INFOSERVICES
+.
+Documento assinado eletronicamente por 
+Fabricio Guimarães Madruga
+Lopes
+, 
+Cordenador-Geral de Fiscalização
+, em 10/03/2022, às 16:55,
+conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º, do
+Decreto nº 10.543, de 13 de novembro de 2020. 
+.
+A autenticidade do documento pode ser conferida informando o código
+verificador 
+3224681
+ e o código CRC 
+38162A65
+ no site: 
+https://sei-pr.presidencia.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Processo nº 00261.000040/2021-13
+SEI nº 3224681
+Despacho Decisório 2 (3224681)         SEI 00261.000040/2021-13 / pg. 1Despacho Decisório nº 2 (3232544)         SEI 00261.000489/2022-62 / pg. 12
+[PAGINA 13]
+ 00261.000489/2022-62
+ 
+PRESIDÊNCIA DA REPÚBLICA
+Autoridade Nacional de Proteção de Dados
+Coordenação-Geral de Fiscalização
+ 
+ 
+                   OFÍCIO Nº 71/2022/CGF/ANPD/
+PR
+Brasília-DF, 10 de março de 2022
+ 
+Ao Sr.
+EMMANUEL COMES DE JESUS
+REPRESENTANTE LEGAL
+TELEKALL INFOSERVICE
+CNPJ(MF) nº 12.193.228/0001-24
+Rua Sete de Setembro, nº 13, sala 103 - Centro
+Vila Velha - ES - CEP 29.100-301
+ 
+Assunto:
+ Auto de infração em vista do descumprimento das determinações da ANPD - Oferta aos
+candidatos às eleições municipais de listagem de contatos de WhatsApp de eleitores de Ubatuba/SP para
+fins de disseminação de material de campanha eleitoral.
+Anexos:
+ Auto de Infração 3 (
+3231560
+), Despacho Decisório nº 2/2022/CGF/ANPD (
+3232544
+) e Nota
+Técnica nº 20/2022/CGF/ANPD (
+3232292
+)
+ 
+Senhor Emmanuel Gomes de Jesus,
+ 
+1
+.
+Em razão do recebimento do Ofício nº 13/2021 - 4PJ - 3OP, oriundo da Promotoria de
+Justiça de Ubatuba/SP, no qual consta notícia que a empresa Telekall Infoservices estaria oferecendo aos
+candidatos às eleições municipais uma listagem de contatos de WhatsApp de eleitores de Ubatuba/SP para
+fins de disseminação de material de campanha eleitoral, a Autoridade Nacional de Proteção de Dados
+(ANPD) emitiu o ofício Nº 21/2021/CGF/ANPD/PR, em 28/02/2021 à empresa Telekall Infoservices,
+informando o início de apuração de comercialização de base de dados.
+2
+.
+Em resposta, a empresa informou que não houve contratação para prestação do serviço.
+Porém, a ANPD considerou a resposta insuficiente, motivo pelo qual emitiu novo Ofício nº
+10/2022/CGF/ANPD/PR reiterando a requisição das informações e alertando que a ausência de resposta
+seria considerada infração à Lei nº 13.709/2018 - Lei Geral de Proteção de Dados (LGPD).
+3
+.
+Ocorre que a empresa não se manifestou e nem apresentou as informações requeridas.
+4
+.
+Em vista do não atendimento às determinações da ANPD e com base na Nota Técnica nº
+20/2022/CGF/ANPD, a ANPD informa a lavratura do Auto de Infração 3 (
+3231560
+), que acompanha o
+presente ofício, por infringência aos arts. 7º, 11, 37, 38 e 41 da LGPD e art. 5º do Regulamento do
+Processo de Fiscalização e do Processo Administrativo Sancionador, aprovado pela Resolução CD/ANPD
+nº 1, de 28/10/2021 (Regulamento de Fiscalização).
+5
+.
+Fica o Sr. intimado das informações do Auto de Infração, na forma do art. 12, I, e de acordo
+com os artigos 45 a 47, c/c o artigo 10, todos do Regulamento do Processo de Fiscalização e do Processo
+OFÍCIO 71 (3232646)         SEI 00261.000489/2022-62 / pg. 13
+[PAGINA 14]
+Administrativo Sancionador, aprovado pela Resolução CD/ANPD nº 1, de 28 de outubro de 2021.
+6
+.
+Por fim, o Sr. 
+tem o prazo de 10 (dez) dias úteis, a partir da ciência deste Auto de
+Infração, para apresentar defesa
+ perante a Coordenação-Geral de Fiscalização da Autoridade Nacional
+de Proteção de Dados, de acordo com o art. 47, do Regulamento do Processo de Fiscalização e do
+Processo Administrativo Sancionador, aprovado pela Resolução CD/ANPD nº 1, de 28 de outubro de 2021
+Atenciosamente,
+FABRÍCIO GUIMARÃES MADRUGA LOPES
+Coordenador Geral de Fiscalização
+Documento assinado eletronicamente por 
+Fabricio Guimarães Madruga Lopes
+, 
+Cordenador-Geral
+de Fiscalização
+, em 10/03/2022, às 18:17, conforme horário oficial de Brasília, com fundamento no § 3º
+do art. 4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020. 
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+3232646
+ e o código
+CRC 
+A6A1A0F4
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Caso responda este Ofício, indicar expressamente o Processo nº 00261.000489/2022-62
+SEI nº 3232646
+Esplanada dos Ministérios, Bloco C, 2º andar –– Telefone:
+CEP 70046-900 
+Brasília
+/DF - https://www.gov.br/planalto/pt-br
+ 
+OFÍCIO 71 (3232646)         SEI 00261.000489/2022-62 / pg. 14
+[PAGINA 15]
+ 
+ 
+00261.000489/2022-62
+ 
+PRESIDÊNCIA DA REPÚBLICA
+Autoridade Nacional de Proteção de Dados
+Coordenação-Geral de Fiscalização
+Brasília, 10 de março de 2022.
+Ao
+Protocolo Central
+Presidência da República
+Assunto: 
+Encaminhamento de Ofício
+               
+1
+.
+De ordem do Coordenador-Geral de Fiscalização, solicito o encaminhamento do 
+Ofício nº
+71/2022/CGF/ANPD/PR
+ 
+(
+3232646
+) acompanhado dos seguintes anexos, por carta com 
+Aviso de
+Recebimento (AR):
+a
+)
+Auto de Infração nº 3/2022/CGF/ANPD
+ 
+(SEI nº 
+3231560
+);
+b
+)
+Nota Técnica nº 20/2022/CGF/ANPD (SEI nº 
+3232292
+);
+c
+)
+Despacho Decisório nº 2/2022/CGF/ANPD (SEI nº 
+3232544
+);
+2
+.
+Assim, ao todo, serão encaminhados 
+04 (quatro) 
+documentos (1 ofício com 3 anexos).
+3
+.
+Solicito juntada do respectivo Aviso de Recebimento.
+                            Atenciosamente,
+ 
+Documento assinado eletronicamente por 
+Rosemary de Fátima Andrade
+, 
+Coordenador(a)
+, em
+10/03/2022, às 18:22, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º, do
+Decreto nº 10.543, de 13 de novembro de 2020. 
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+3232782
+ e o código
+CRC 
+BD0CE5F9
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Processo nº 00261.000489/2022-62
+SEI nº 3232782
+Despacho (3232782)         SEI 00261.000489/2022-62 / pg. 15
+[PAGINA 16]
+Destinatário: Senhor EMMANUEL COMES DE JESUS
+REPRESENTANTE LEGAL
+Rua Sete de Setembro, 13
+sala 103 Centro de Vila Velha
+29100-301 Vila Velha/ES
+ 
+Remetente: Autoridade Nacional de Proteção de Dados
+PRESIDÊNCIA DA REPÚBLICA, .
+Zona Cívico-Administrativa
+70150-900 Brasília-DF
+Peso (g): 20
+OT476231521BR
+Obs: OFÍCIO Nº
+71/2022/CGF/ANPD/PR com-anexos
+ 
+NF:
+SEC DE ADMIN DA PRES
+DA REPUBLICA
+9912280478 / 2011 / DR-BSB
+Pedido: 0
+ 
+Nome Legível:_____________________________________________
+Documento:__________________
+0
+Rubrica:_____________________
+ENTREGA NO VIZINHO
+NÃO AUTORIZADA
+Recibo OFÍCIO Nº 71-2022-CGF-ANPD-PR   com-anexos (3233278)         SEI 00261.000489/2022-62 / pg. 16
+[PAGINA 17]
+ 
+ 
+00261.000489/2022-62
+ 
+PRESIDÊNCIA DA REPÚBLICA
+Secretaria Geral
+Secretaria Especial de Administração
+Diretoria de Recursos Logísticos
+Protocolo Central da Presidência da República
+Brasília, 11 de março de 2022.
+        
+         À CGF/ANPD
+           Assunto: Recibo de Ofício.
+ 
+                                           Encaminhamento do recibo do Ofício nº 71/2022/CGF/ANPD/PR, juntamente
+com os anexos.
+ 
+                                            Atenciosamente,
+                                                          
+                                                                ENEIDE RODRIGUES DE ALCANTARA
+                                                                                  Supervisora
+                                                         
+ 
+ 
+Documento assinado eletronicamente por 
+Eneide Rodrigues de Alcantara
+, 
+Supervisor(a)
+, em
+11/03/2022, às 09:26, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º, do
+Decreto nº 10.543, de 13 de novembro de 2020. 
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+3233319
+ e o código
+CRC 
+6038DC1C
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Processo nº 00261.000489/2022-62
+SEI nº 3233319
+Despacho (3233319)         SEI 00261.000489/2022-62 / pg. 17
+[PAGINA 18]
+Correspondência Devolvida (3259205)         SEI 00261.000489/2022-62 / pg. 18
+[PAGINA 19]
+Correspondência Devolvida (3259205)         SEI 00261.000489/2022-62 / pg. 19
+[PAGINA 20]
+E-mail - 3264995
+Data de Envio
+: 
+  25/03/2022 10:57:34
+De
+: 
+  PR/Fiscalização <[EMAIL]>
+Para
+:
+    [EMAIL]
+    [EMAIL]
+    [EMAIL]
+Assunto
+: 
+  Processo 00261.000489/2022-62 - OFÍCIO 71 (3232646)
+Mensagem
+: 
+  Sr. Emmanuel Gomes de Jesus,
+de ordem do Coordenador-Geral de Fiscalização, envio, em anexo, o OFÍCIO 71 (3232646), acompanhado do
+Despacho Decisório nº 2 (3232544), da Nota Técnica 20 (3232292) e do Auto de Infração 3 (3231560).
+Gentileza confirmar o recebimento do ofício e dos 3 anexos.
+Atenciosamente,
+Raíssa Barbosa
+Analista em proteção de dados pessoais
+Coordenação-Geral de Fiscalização
+Autoridade Nacional de Proteção de Dados
+Anexos
+:
+    Auto_de_Infracao_3231560.html
+    Nota_Tecnica_3232292_SEI_PR___3213355___Nota_Tecnica.pdf
+    Despacho_3232544_SEI_00261.000040_2021_13.pdf
+    OFICIO_3232646.html
+E-mail (3264995)         SEI 00261.000489/2022-62 / pg. 20
+[PAGINA 21]
+00261.000489/2022-62
+PRESIDÊNCIA DA REPÚBLICA
+Coordenação-Geral de Fiscalização
+(Decreto de 26 de maio de 1999)
+Brasília, 25 de março de 2022.
+ASSUNTO: Meios de contato com o representante legal da Telekall Inforservices e envio dos documentos 
+relativos ao processo 00261.000489/2022-62 para o e-mail informado.
+CERTIDÃO
+       Certifico e dou fé que na data de hoje, no âmbito do processo em epígrafe, efetuei ligações 
+para os telefones (xx) xxxx-xxxx às 10h34 e (xx) xxxx-xxxx às 10h34 a fim de comunicar o Sr. Emmanuel 
+Gomes de Jesus a respeito do Auto de Infração 3 (3231560), não logrando êxito. Sucessivamente, enviei 
+mensagem por meio do aplicativo Whatsapp para o número ( xx) xxxxx-xxxx, às 10h48, ocasião em que fui 
+informada de que poderia remeter a documentação referente ao processo 00261.000489/2022-62 para o e-
+mail [EMAIL], o que foi atendido pelo documento 3264995. 
+(Assinado eletronicamente)
+RAÍSSA ALENCAR DE SÁ BARBOSA
+Analista em proteção de dados pessoais
+Documento assinado eletronicamente por Raíssa Alencar de Sá Barbosa , ANPD - Autoridade
+Nacional de Proteção de Dados, em 25/03/2022, às 12:10, conforme horário oficial de Brasília, com
+fundamento no § 3º do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020. .
+Certidão 1 (3264998)         SEI 00261.000489/2022-62 / pg. 1
+[PAGINA 22]
+A autenticidade do documento pode ser conferida informando o código verificador  XXXXXXXX e o 
+código CRC XXXXXXXX no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência: Processo nº 00261.000489/2022-62 SEI nº 3264998
+Certidão 1 (3264998)         SEI 00261.000489/2022-62 / pg. 2
+XXXX
+[PAGINA 23]
+ 
+
+[PAGINA 24]
+ 
+
+[PAGINA 25]
+ 
+
+[PAGINA 26]
+
+[PAGINA 27]
+31/03/2022 09:34 Email – ANPD - Fiscalizacao – Outlook
+https://outlook.office.com/mail/[EMAIL]/inbox/id/AAQkADQxMGY1ZWU4LTNhY2YtNDc0Yy1iZjRiLWFiY2Y2YzQzZDJkNwAQAMH0lzy9d8dFpu4Ixq497CQ%3D 1/2
+RE: Informações: Referente ao processo 00261.000489/2022-62
+Telekall Infoservices <[EMAIL]>
+Qui, 31/03/2022 09:33
+Para: ANPD - Fiscalizacao <[EMAIL]>
+Obrigado!
+ 
+Sent from Mail for Windows
+ 
+From: ANPD - Fiscalizacao <[EMAIL]> 
+Sent: Thursday, March 31, 2022 9:25:48 AM 
+To: Emmanuel Gomes <[EMAIL]>; [EMAIL] <[EMAIL]> 
+Cc: ANPD - Fiscalizacao <[EMAIL]>; Raissa Alencar de Sa Barbosa <[EMAIL]> 
+Subject: RE: Informações: Referente ao processo 00261.000489/2022-62
+ 
+Bom dia, Sr. Emmanuel Gomes de Jesus.
+De ordem do Coordenador-Geral, informo que a documentação poderá ser enviada para o seguinte endereço: Esplanada dos Ministérios, Bloco C, 2º
+andar, Brasília/DF, CEP 70.046-900.
+Gen leza conﬁrmar o recebimento do presente e-mail.
+Atenciosamente,
+Raíssa Barbosa
+Analista em proteção de dados pessoais
+Coordenação-Geral de Fiscalização
+Autoridade Nacional de Proteção de Dados
+De: Emmanuel Gomes <[EMAIL]> 
+Enviado: quinta-feira, 31 de março de 2022 08:13 
+Para: ANPD - Fiscalizacao <[EMAIL]> 
+Assunto: Informações: Referente ao processo 00261.000489/2022-62
+E-mail envio de documentação por Sedex (3277772)         SEI 00261.000489/2022-62 / pg. 27
+[PAGINA 28]
+31/03/2022 09:34 Email – ANPD - Fiscalizacao – Outlook
+https://outlook.office.com/mail/[EMAIL]/inbox/id/AAQkADQxMGY1ZWU4LTNhY2YtNDc0Yy1iZjRiLWFiY2Y2YzQzZDJkNwAQAMH0lzy9d8dFpu4Ixq497CQ%3D 2/2
+ 
+Prezados: 
+Gostariamos de saber se há a possibilidade de enviar documentação referente ao processo 00261.000489/2022-62 via SEDEX. 
+Assim, solicito a confirmação do endereço para o envio. 
+No aguardo, 
+Emmanuel Gomes
+E-mail envio de documentação por Sedex (3277772)         SEI 00261.000489/2022-62 / pg. 28
+[PAGINA 29]
+
+[PAGINA 30]
+Telekall lnfoservices 
+A-) Qual o encarregado pelo tratamento de dados pessoais indicado por essa empresa para se comunicar 
+com ANPD e quais são as informações de contato com o encarregado, como obriga a Lei Geral de Proteção 
+de Dados Pessoais (LGPD)? 
+Empresa: Telekall lnfoservices 
+Responsável: Emmanuel Gomes de Jesus 
+Endereço: Rua Sete de Setembro, 13, Sala 102 Centro 
+Vila Velha, ES 
+Email: [EMAIL] 
+Telefone: xxxxxxxxxxxx 
+B-) Qual é a hipótese legal de tratamento desses dados pessoais, considerando o 
+disposto nos art. 72 e 11 da Lei n213.709/2018? 
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+A Nossa primeira impressão foi a de que, se os dados estão na web ou em redes sociais, eles seriam 
+públicos e, portanto, poderiam ser utilizados (tratados) por qualquer pessoa. 
+Telekall lnfoservices - Rua Sete de Setembro, 13 Saia 102 - Vila Velha/ES Tel. (027) 98857-4747 
+[PAGINA 31]
+Telekall lnfoservices 
+C-) Qual a origem dos dados que essa empresa oferece para disparar mensagens de Whatsapp, conforme 
+consta abertamente no site dessa empresa? Ou seja, de onde essa empresa pega ou acessa os dados para 
+disparar as mensagens? Fornecer detalhadamente os  dados de identificação e de contato com seu 
+fornecedor desses dados pessoais. 
+XXXXXXXXXXX
+XXXXXXXXXXX
+XXXXXXXXXXX
+Telekall lnfoservices - Rua Sete de Setembro, 13 Sala 102 - Vila Velha/ES Tel. (027) 98857-4747 
+[PAGINA 32]
+·Telekall lnfoservices
+D-) Como é montada a base de dados que serve de objeto para o serviço oferecido no sitio eletrônico 
+http://telekall.com? 
+XXXXXXXXXXX. 
+XXXXXXXXXXX. 
+XXXXXXXXXXX. 
+XXXXXXXXXXX. 
+XXXXXXXXXXX. 
+XXXXXXXXXXX. 
+XXXXXXXXXXX. 
+Telekall lnfoservices - Rua Sete de Setembro, 13 Sala 102 -Vila Velha/ES Tel. (027) 9885_7-4747
+[PAGINA 33]
+Telekall lnfoservices 
+E-) Quais os dados que fazem parte do banco de dados disponibilizados para seus clientes? 
+XXXXXXXXXXX. 
+F-) Quantos registros possui atualmente em seu banco de dados? 
+XXXXXXXXXXX. 
+XXXXXXXXXXX. 
+G)Qual serviço foi oferecido e encaminhado por WhatsApp ao político Alex Waltersdorf,candidato sob o 
+nome Alex da Saúde? 
+Como mencionado anteriormente em resposta enviada, não houve contratação para prestação de serviço 
+nas eleições municipais de 2020 na localidade de Campinas ou Ubatuba no estado de São Paulo. Quanto ao 
+nome de Alex Watersdorf, não me recordo do conteúdo dos chats e tão pouco do que foi ofertado. 
+Uma vez mais, espero ter respondido aos questionamentos ressaltando que a Telekall lnfoservices esta 
+disponível para analisar qualquer reclamação ou sugestão de melhoria de nossos serviços, sempre 
+objetivando a adequação ao interesse do público e evidentemente mantendo-se o respeito às leis vigentes 
+no país. 
+Assim, a Telekall lnfoservices compromete-se com a causa defendida pela ANPD e fará todos os esforços 
+para alcançar a excelência já atingida na prestação de serviço, também com relação às normativas 
+estabelecida pela ANPD. 
+Mais uma vez, agradecemos o recebimento da notificação encaminhada, e firmamos nosso 
+compromisso com a causa defendida pela ANPD. 
+Telekall lnfoservices - Rua Sete de Setembro, 13 Sala 102 - Vila Velha/ES Tel. (027) 98857-4747 
+XXXXXXXX
+[Assinatura do responsável]
+[PAGINA 34]
+Correspondência Sedex (3324709)         SEI 00261.000489/2022-62 / pg. 34
+[PAGINA 35]
+Correspondência Sedex (3324709)         SEI 00261.000489/2022-62 / pg. 35
+[PAGINA 36]
+ 
+ 
+00261.000489/2022-62
+ 
+PRESIDÊNCIA DA REPÚBLICA
+Autoridade Nacional de Proteção de Dados
+Coordenação-Geral de Fiscalização
+Brasília, 21 de junho de 2022.
+Assunto: 
+Sobrestamento de Processo Administrativo Sancionador
+.
+               
+1
+.
+Trata-se de Processo Administrativo Sancionador instaurado por intermédio da lavratura
+do Auto de Infração 3 (
+3231560
+), em 10/03/2022, em desfavor da empresa Telekall Inforservice,
+registrada no CNPJ sob o número 12.193.228/0001-24.
+2
+.
+Nos termos do art. 53 da LGPD, a Autoridade Nacional deverá definir regulamento próprio
+sobre sanções administrativas às infrações à lei, que deverá ser objeto de consulta pública e estabelecer as
+metodologias de cálculo do valor-base das sanções de multa. Tendo em vista que o processo de
+regulamentação está em andamento, e que tal norma é necessária para fundamentar a decisão de primeira
+instância do presente processo, mostra-se inviável, no momento, a elaboração do relatório de instrução.
+3
+.
+Diante do exposto, determino o sobrestamento do presente processo até que seja editado
+o Regulamento de Dosimetria e Aplicação de Sanções Administrativas.
+FABRÍCIO GUIMARÃES MADRUGA LOPES
+Coordenador-Geral de Fiscalização
+Documento assinado eletronicamente por 
+Fabricio Guimarães Madruga Lopes
+, 
+Coordenador(a)-
+Geral
+, em 21/06/2022, às 18:58, conforme horário oficial de Brasília, com fundamento no § 3º do art.
+4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020. 
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+3446535
+ e o código
+CRC 
+723B48DD
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Processo nº 00261.000489/2022-62
+SEI nº 3446535
+Despacho (3446535)         SEI 00261.000489/2022-62 / pg. 36
+[PAGINA 37]
+ 
+ 
+00261.000489/2022-62
+ 
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+Coordenação-Geral de Fiscalização
+Brasília, na data de assinatura.
+Assunto: 
+Retomada de trâ
+m
+ite regular de Processo Administrativo Sancionador
+.
+               
+1
+.
+Trata-se de Processo Administrativo Sancionador instaurado por intermédio da lavratura
+do ANPD - Auto de Infração 3 (SEI nº 
+3231560
+), em 10/03/2022, em desfavor da empresa 
+Telekall
+Inforservices
+, registrada no CNPJ sob o número 
+12.193.228/0001-24
+.
+2
+.
+Em 21/06/2022, o Processo em tela foi sobrestado por meio do Despacho (SEI nº 
+3446535
+),
+tendo em vista que o processo de regulamentação do art. 53 da LGPD estava em andamento.
+3
+.
+Em 27/02/2023, foi publicada a Resolu
+ção
+ CD/ANPD Nº 4, de 24 de fevereiro de 2023, que
+aprovou o Regulamento de Dosimetria e Aplicação de Sanções Administrativas e, assim, regulamentou o
+art. 53 da LGPD.
+4
+.
+Considerando que não mais persiste a situação fática que motivou o Despacho (SEI nº
+3446535
+), determino a retomada do trâmite regular do presente processo.
+FABRÍCIO GUIMARÃES MADRUGA LOPES
+Coordenador-Geral de Fiscalização
+Documento assinado eletronicamente por 
+Fabricio Guimarães Madruga Lopes
+, 
+Coordenador(a)-
+Geral
+, em 20/04/2023, às 15:29, conforme horário oficial de Brasília, com fundamento no § 3º do art.
+4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+4173110
+ e o código
+CRC 
+773E955F
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Processo nº 00261.000489/2022-62
+SUPER nº 4173110
+Despacho (4173110)         SEI 00261.000489/2022-62 / pg. 37
+[PAGINA 38]
+ 00261.000489/2022-62
+ 
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+Coordenação-Geral de Fiscalização
+ 
+                   ANPD - Ofício Nº 78/2023/CGF/ANPD
+Brasília/DF, na data da assinatura.
+ 
+Ao Sr.
+EMMANUEL GOMES DE JESUS
+REPRESENTANTE LEGAL
+TELEKALL INFOSERVICES
+CNPJ(MF) nº 12.193.228/0001-24
+Rua Sete de Setembro, nº 13, sala 103 - Centro
+Vila Velha - ES - CEP 29.100-301
+[EMAIL]
+ 
+Assunto:
+ Apresentação de alegações finais no 
+Processo SUPER nº 00261.000489/2022-62
+ - Auto de
+infração em vista do descumprimento das determinações da ANPD - Oferta aos candidatos às eleições
+municipais de listagem de contatos de WhatsApp de eleitores de Ubatuba/SP para fins de disseminação de
+material de campanha eleitoral.
+Anexos:
+ Nota Técnica 20 (SEI nº 
+3232292
+), Auto de Infração 3 (SEI nº 
+3231560
+),  Defesa (SEI nº
+3324700
+), Correspondência Sedex (SEI nº 
+3324709
+), Despacho (SEI nº 
+3446535
+) e Despacho (SEI nº
+4173110
+).
+ 
+ 
+Senhor Emmanuel Gomes de Jesus,
+ 
+1
+.
+Em razão do recebimento do Ofício nº 13/2021 - 4PJ - 3OP, oriundo da Promotoria de
+Justiça de Ubatuba/SP, no qual consta notícia que a empresa Telekall Infoservices estaria oferecendo aos
+candidatos às eleições municipais uma listagem de contatos de WhatsApp de eleitores de Ubatuba/SP para
+fins de disseminação de material de campanha eleitoral, a Autoridade Nacional de Proteção de Dados
+(ANPD) emitiu o ofício Nº 21/2021/CGF/ANPD/PR, em 28/02/2021, informando o início de apuração de
+comercialização de base de dados.
+2
+.
+Em resposta, a empresa informou que não houve contratação para prestação do serviço.
+Porém, a ANPD considerou a resposta insuficiente, motivo pelo qual emitiu novo Ofício nº
+10/2022/CGF/ANPD/PR reiterando a requisição das informações e alertando que a ausência de resposta
+seria considerada infração à Lei nº 13.709/2018 - Lei Geral de Proteção de Dados (LGPD).
+3
+.
+A despeito da nova oportunidade para se manifestar nos autos, a Telekall Infoservices
+manteve-se inerte, não se manifestou e nem apresentou as informações requeridas.
+4
+.
+Em vista do não atendimento às determinações da ANPD e com base na Nota Técnica 20
+(SEI nº 
+3232292
+), foi lavrado o Auto de Infração 3 (
+3231560
+), por infringência aos arts. 7º, 11, 37, 38 e
+41 da LGPD e art. 5º do Regulamento do Processo de Fiscalização e do Processo Administrativo
+Sancionador, aprovado pela Resolução CD/ANPD nº 1, de 28/10/2021 (Regulamento de Fiscalização).
+ANPD - Ofício 78 (4173119)         SEI 00261.000489/2022-62 / pg. 38
+[PAGINA 39]
+5
+.
+O Sr. Emmanuel Gomes de Jesus, representante legal da empresa Telekall Infoservices,
+então, apresentou defesa, conforme os seguintes documentos: Defesa (SEI nº 
+3324700
+) e Correspondência
+Sedex (SEI nº 
+3324709
+).
+6
+.
+Considerando a entrada em vigor do Regulamento de Dosimetria e Aplicação de Sanções
+Administrativas, aprovado pela Resolução CD/ANPD nº 4, de 24/02/23 e publicado em 27/02/23, já é
+possível prosseguir com o processo administrativo sancionador, uma vez que o sobrestamento efetuado
+pelo Despacho (SEI nº 
+3446535
+) foi levantado pelo Despacho (SEI nº 
+4173110
+).
+7
+.
+Tendo em vista o disposto no art. 53 do Regulamento de Fiscalização, fica a empresa
+Telekall Infoservices intimada a apresentar alegações finais no prazo de 10 (dez) dias úteis, a partir da
+ciência deste Ofício, perante a Coordenação-Geral de Fiscalização da ANPD, neste processo via acesso
+externo. As instruções para acesso externo podem ser obtidas no link
+https://www.gov.br/secretariageral/pt-br/sei-peticionamento-eletronico
+.
+8
+.
+Por oportuno, informa-se que o processo terá seu prosseguimento regular
+independentemente da apresentação das alegações finais.
+9
+.
+A CGF coloca-se à disposição para prestar informações adicionais que se fizerem
+necessárias por meio do endereço eletrônico 
+[EMAIL]
+.
+ 
+Atenciosamente,
+ 
+RAVVI AUGUSTO DE ABREU C. MADRUGA
+Coordenador de Fiscalização
+Documento assinado eletronicamente por 
+Ravvi Augusto de Abreu Coutinho Madruga
+,
+Coordenador(a)
+, em 20/04/2023, às 16:28, conforme horário oficial de Brasília, com fundamento no §
+3º do art. 4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+4173119
+ e o código
+CRC 
+5F499412
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Caso responda este Ofício, indicar expressamente o Processo nº 00261.000489/2022-62
+SUPER nº 4173119
+Setor Comercial Norte - SCN, Quadra 6, Conjunto "A", Edifício Venâncio 3000, Bloco "A", 9º andar e 10º
+andar 
+Telefone: (61) 3411-4691
+CEP 70.716-900 Brasília/DF - https://www.gov.br/planalto/pt-br
+ 
+ANPD - Ofício 78 (4173119)         SEI 00261.000489/2022-62 / pg. 39
+[PAGINA 40]
+Certidão de Intimação Cumprida - 4225585
+Tipo de Destinatário:
+Pessoa Física
+Destinatário:
+Emmanuel Gomes de Jesus
+Tipo de Intimação:
+Apresentação de Alegações Finais
+Documento Principal da Intimação:
+ANPD - Ofício 78 (4173119)
+Data de Expedição da Intimação:
+20/04/2023 16:48:31
+Tipo de Cumprimento da Intimação:
+Por Decurso do Prazo Tácito
+Data do Cumprimento:
+08/05/2023
+Esta Certidão formaliza o cumprimento da intimação eletrônica referente aos dados acima, observado o seguinte:
+O Tipo de Cumprimento "Consulta Direta" indica que o "Destinatário" realizou a consulta aos documentos da
+intimação diretamente no sistema antes do término do Prazo Tácito para intimação.
+O Prazo Tácito para intimação é definido conforme normativo aplicável ao órgão, em que, a partir da
+"Data de Expedição da Intimação", o Destinatário possui o referido prazo para consultar os
+documentos diretamente no sistema, sob pena de ser considerado automaticamente intimado na data
+de término desse prazo.
+O Tipo de Cumprimento "Por Decurso do Prazo Tácito" indica que não ocorreu a mencionada consulta aos
+documentos da intimação diretamente no sistema, situação na qual a Certidão é gerada automaticamente na
+data de término desse prazo.
+No caso do Prazo Tácito terminar em dia não útil, a geração automática da Certidão ocorrerá somente
+no primeiro dia útil seguinte.
+Conforme regras de contagem de prazo processual e normas afetas a processo eletrônico, tanto no Prazo
+Tácito para intimação como nos possíveis prazos externos para Peticionamento de Resposta:
+sempre é excluído da contagem o dia do começo e incluído o do vencimento;
+o dia do começo e o do vencimento nunca ocorrem em dia não útil, prorrogando-o para o primeiro dia
+útil seguinte;
+a consulta a intimação ocorrida em dia não útil tem a correspondente data apresentada em linha
+separada, sendo a "Data do Cumprimento" a do primeiro dia útil seguinte.
+Para todos os efeitos legais, somente após a geração da presente Certidão e com base exclusivamente na
+"Data do Cumprimento" é que o Destinatário, ou a Pessoa Jurídica ou Física por ele representada, é
+considerado efetivamente intimado e são iniciados os possíveis prazos externos para Peticionamento de
+Resposta.
+Caso a intimação se dirija a Pessoa Jurídica, ela será considerada efetivamente intimada na "Data do
+Cumprimento" correspondente à primeira Certidão gerada referente a Usuário Externo que possua
+poderes de representação.
+Certidão de Intimação Cumprida (4225585)         SEI 00261.000489/2022-62 / pg. 40
+[PAGINA 41]
+Processo nº 00261.000489/2022-62
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+Coordenação-Geral de Fiscalização
+ Nº 1/2023/CGF/ANPD[1]
+1. IDENTIFICAÇÃO
+1.1. Nome/Razão Social do Autuado: Telekall Inforservice.
+1.2. CPF/CNPJ do Autuado: 12.193.228/0001-24.
+1.3. Agente de tratamento: ( x) Controlador ( ) Operador
+1.4. Nome do Encarregado ou Responsável Jurídico: Emmanuel Gomes de Jesus.
+1.5. Contato do Encarregado ou Responsável Jurídico: [EMAIL] .
+2. REFERÊNCIAS
+2.1. Processo SEI/ANPD nº 00261.000489/2022-62;
+2.2. Lei nº 13.709, de 14 de agosto de 2018 – Lei de Geral de Proteção de Dados Pessoais (LGPD);
+2.3. Regimento Interno da Autoridade Nacional de Proteção de Dados (RI-ANPD), aprovado pela Portaria nº 01, de
+08/03/2021;
+2.4. Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador no âmbito da ANPD
+(Regulamento de Fiscalização), aprovado pela Resolução CD/ANPD nº 1, de 28/10/2021;
+2.5. Regulamento de Dosimetria e Aplicação de Sanções Administrativas (RDASA), aprovado pela Resolução
+CD/ANPD nº 4, de 24/02/2023 (Regulamento de Dosimetria);
+2.6. Processo SUPER nº 00261.000040/2021-13;
+2.7. ANPD - Auto de Infração 3 (SEI nº 3231560);
+2.8. Nota Técnica 20 (SEI nº 3232292);
+2.9. Despacho Decisório nº 2 (SEI nº 3232544);
+2.10. OFÍCIO 71 (SEI nº 3232646);
+2.11. Despacho (SEI nº 3232782);
+2.12. Recibo OFÍCIO Nº 71-2022-CGF-ANPD-PR com-anexos (SEI nº 3233278);
+2.13. Despacho (SEI nº 3233319);
+2.14. Correspondência Devolvida (SEI nº 3259205);
+2.15. E-mail (SEI nº 3264995);
+2.16. Certidão 1 (SEI nº 3264998);
+2.17. Documento confirmação de e-mail e de recebimento (SEI nº 3267291);
+2.18. E-mail envio de documentação por Sedex (SEI nº 3277772);
+2.19. Defesa (SEI nº 3324700);
+2.20. Correspondência Sedex (SEI nº 3324709);
+2.21. Despacho (SEI nº 3446535);
+2.22. Despacho (SEI nº 4173110);
+2.23. ANPD - Ofício 78 (SEI nº 4173119); e
+2.24. Certidão de Intimação Cumprida (SEI nº 4225585).
+3. SUMÁRIO EXECUTIVO DO PROCESSO
+3.1. Número do Auto de Infração: Auto de Infração nº 3/2022/CGF/ANPD
+3.2. Data da lavratura do Auto de Infração: 10/03/2022
+RELATÓRIO DE INSTRUÇÃO
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 1
+[PAGINA 42]
+3
+.
+3
+.
+Forma da Intimação: ( X ) Meio eletrônico ( ) Via postal ( ) Pessoal ( ) Comparecimento pessoal ( ) Por edital ( )
+Cooperação internacional ( ) Outro meio
+3
+.
+4
+.
+Dados de quem recebeu a Intimação: 
+Emmanuel Gomes de Jesus
+3
+.
+5
+.
+Descrição da Infração: Oferta aos candidatos às eleições municipais de uma listagem de contatos de WhatsApp
+de eleitores de Ubatuba/SP para fins de disseminação de material de campanha eleitoral sem hipótese de tratamento; ausência
+de comprovação de registro das operações de tratamento de dados pessoais; ausência de envio do relatório de impacto à
+proteção de dados pessoais referente a suas operações de tratamento; falta de comprovação da indicação de encarregado.
+3
+.
+6
+.
+Dispositivo(s) Legal(is) e Regulamentar(es) Infringido(s):
+a) 
+Lei Geral de Proteção de Dados:
+Art. 7 e Art. 11
+ – ausência de comprovação de hipótese legal de tratamento de dados pessoais;
+Art. 37
+ – ausência de comprovação de registro das operações de tratamento de dados pessoais;
+Art. 38
+ – ausência de envio do relatório de impacto à proteção de dados pessoais referente a suas operações de
+tratamento;
+Art. 41
+ – falta de comprovação da indicação do encarregado.
+b) Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador, aprovado pela
+Resolução CD/ANPD nº 1, de 28/10/2021 (Regulamento de Fiscalização) - Art. 5º - Não atendimento às requisições da ANPD.
+3
+.
+7
+.
+Data da Apresentação da Defesa: 
+08/04/2022
+3
+.
+8
+.
+Produção de Prova(s) pelo Autuado: ( X ) Não ( )Sim. Se sim, informar quais:
+3
+.
+9
+.
+Produção de Prova(s) pela ANPD: ( ) Não ( X ) Sim. Se sim, informar quais: 
+Processo SUPER nº
+00261.000040/2021-13
+3
+.
+10
+.
+Terceiro(s) Interessado(s): ( X ) Não ( ) Sim. Se sim, informar se houve manifestação:
+3
+.
+11
+.
+Alegações Finais: ( X )Não ( ) Sim
+3
+.
+12
+.
+Medida(s) Preventiva(s) Aplicada(s) - Art. 32 do RPF): não
+3
+.
+13
+.
+Medida(s) Preventiva(s) Aplicada(s) - Art. 26 inc. IV do Decreto nº 10.474/2020: não
+4
+.
+RELATÓRIO
+4
+.
+1
+.
+Nos termos do art. 54 da Resolução CD/ANPD nº 1, de 28/10/2021, este processo foi instaurado pela
+Coordenação-Geral de Fiscalização (CGF/ANPD) para lavratura do Auto de Infração nº 3/2022/CGF/ANPD. Assim, em
+consonância com os ditames normativos aplicáveis ao caso e demais documentos que constam dos autos, passa-se ao
+detalhamento dos atos processuais até a presente data.
+4
+.
+2
+.
+Em 21/01/21, a Ouvidoria da ANPD enviou à Coordenação-Geral de Fiscalização (CGF) o documento E-mail
+Encaminhamento de ofício e anexos (SEI nº 
+2358136
+), enviado pelo Ministério Público do Estado de São Paulo, Promotoria de
+Justiça de Ubatuba, noticiando suposta oferta aos candidatos às eleições municipais de uma listagem de contatos de WhatsApp
+de eleitores de Ubatuba/SP para fins de disseminação de material de campanha eleitoral, a qual teria sido praticada pela
+empresa Telekall Infoservice.
+4
+.
+3
+.
+Em vista dos fatos narrados, no dia 28/02/21, por intermédio do Despacho (SEI nº 
+2412922
+), foi instaurado o
+Processo Administrativo nº 
+00261.000040/2021-13
+ para adoção imediata das medidas iniciais cabíveis e necessárias para a
+apuração de possível incidente de vazamento de dados e comercialização indevida. Ato contínuo, também em 28/02/21, foram
+remetidos o Ofício nº 19/2021/CGF/ANPD/PR (Doc. SEI nº 
+2412941
+), dirigido ao Diretor-Geral da Polícia Federal,
+comunicando indício de crime e solicitando investigação, bem como o Ofício nº 21/2021/CGF/ANPD/PR (Doc. SEI nº
+2412990
+), dirigido à empresa Telekall, requisitando informações, no prazo máximo de 5 (cinco) dias úteis, para apuração de
+oferecimento de base de dados pessoais. As informações requisitadas foram as seguintes:
+a) Qual o Encarregado pelo Tratamento de Dados Pessoais indicado por essa empresa para se comunicar com ANPD e
+quais são as informações de contato com o Encarregado, como obriga a Lei Geral de Proteção de Dados Pessoais
+(LGPD)?
+b) Qual a origem dos dados que essa empresa oferece para disparar mensagens de whatsapp, conforme consta
+abertamente do site dessa empresa? Ou seja, de onde essa empresa pega ou acessa os dados para disparar as mensagens?
+Fornecer detalhadamente os dados de identificação e de contato com seu fornecedor desses dados pessoais.
+c) Como é montada a base de dados que serve de objeto para o serviço oferecido no sítio eletrônico http://telekall.com/ ....
+d) Quais os dados que fazem parte do banco de dados disponibilizado para seus clientes?
+e) Quantos registros possui atualmente em seu banco de dados?
+4
+.
+4
+.
+A resposta da Telekall foi recebida em 28/02/21, conforme Correspondência Resposta da Telekall ao ofício 21
+#2 (SEI nº 
+2515300
+). Nesse documento, a Telekall limitou-se a dizer o seguinte: 
+"Primeiramente gostaríamos de informar que
+não houve contratação para prestação de serviço nas eleições municipais de 2020 na localidade de Campinas estado de São
+Paulo, por nenhum dos autores citados na denúncia da 2ª PROMOTORIA DE JUSTIÇA DE CAMPINAS – S.P.379ª ZONA
+ELEITORAL DE CAMPINAS através do 
+Ofício nº 04/2021 - 379ZE
+.
+ Houve sim, um contato inicial via Whatsapp com o
+candidato a vereador Alexandre Mandl, o qual, não resultou em nenhuma atividade comercial. Portanto, nos causa estranheza
+a citação do nome da 
+Telekall Infoservices
+ como provedora de um serviço não contratado"
+.
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 2
+[PAGINA 43]
+4
+.
+5
+.
+As informações prestadas, então, não foram consideradas suficientes, motivo pelo qual a CGF enviou o Ofício
+46 (SEI nº 
+2515309
+) em 20/04/21, a fim de esclarecer os seguintes questionamentos:
+a) Qual o Encarregado pelo Tratamento de Dados Pessoais indicado por essa empresa para se comunicar com ANPD e
+quais são as informações de contato com o Encarregado, como obriga a Lei Geral de Proteção de Dados Pessoais
+(LGPD)?
+b) Qual a origem dos dados que essa empresa oferece para disparar mensagens de whatsapp, conforme consta
+abertamente do site dessa empresa? Ou seja, de onde essa empresa pega ou acessa os dados para disparar as mensagens?
+Fornecer detalhadamente os dados de identificação e de contato com seu fornecedor desses dados pessoais.
+c) Como é montada a base de dados que serve de objeto para o serviço oferecido no sítio eletrônico 
+http://telekall.com/
+ ....
+d) Quais os dados
+ 
+que fazem parte do banco de dados disponibilizado para seus clientes?
+e) Quantos registros possui atualmente em seu banco de dados?
+f) Quaisquer outras informações que entenda importantes para a elucidação dos fatos do presente caso poderão ser
+encaminhadas em complemento às informações requisitadas.
+4
+.
+6
+.
+Em razão da ausência de resposta da empresa e do fato de o Ofício 46 (SEI nº 
+2515309
+) ter sido enviado sem
+aviso de recebimento (AR), a CGF elaborou a Nota Técnica 1 (SEI nº 
+3117275
+) em 20/01/22, motivando a necessidade de
+intimação da empresa Telekall em carta com AR. Após, foi enviado o Ofício 10 (SEI nº 
+3140607
+) em 21/01/22, cujo prazo
+decorreu sem resposta, embora o ofício tenha sido recebido em 26/01/2022, conforme Documento Rastreamento no site dos
+Correios (SEI nº 
+3220621
+).
+4
+.
+7
+.
+A CGF então, por meio da Nota Técnica 20 (SEI nº 
+3213355
+), considerando que a Telekall Infoservice quedou-
+se inerte diante das oportunidades oferecidas para prestar esclarecimentos, entendeu que não havia mais medidas a serem
+tomadas no procedimento preparatório, motivo pelo qual opinou pela instauração de processo administrativo sancionador, com
+base no art. 55-J, I, c/c IV da LGPD; art. 42 do Regulamento de Fiscalização, de sorte a permitir o contraditório e a ampla
+defesa à empresa conforme previsão do art. 45, por intermédio da lavratura de auto de infração, estatuído pelo art. 46. A
+sugestão foi acolhida por Despacho Decisório 2 (SEI nº 
+3224681
+), publicado no boletim interno, o que gerou o Despacho (SEI
+n º 
+3232890
+), cujo teor determinou o arquivamento em razão de abertura do Processo Administrativo Sancionador nº
+00261.000489/2022-62
+.
+4
+.
+8
+.
+Pelo ANPD - Auto de Infração 3 (SEI nº 
+3231560
+), lavrado em 10/03/22, foram apontadas as seguintes
+infringências:
+Lei Geral de Proteção de Dados:
+Art. 7 e Art. 11 - ausência de comprovação de hipótese legal de tratamento desses dados pessoais;
+Art. 37 – ausência de comprovação de registro das operações de tratamento de dados pessoais;
+Art. 38 – ausência de envio do relatório de impacto à proteção de dados pessoais referente a suas operações de
+tratamento;
+Art. 41 – falta de comprovação da indicação do encarregado.
+Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador, aprovado pela Resolução
+CD/ANPD nº 1, de 28/10/2021 (Regulamento de Fiscalização) - Art. 5º - Não atendimento às requisições da ANPD.
+4
+.
+9
+.
+O Ofício 71 (SEI nº 
+3232646
+), de 10/03/22, encaminhou o auto de infração e abriu prazo para defesa. Por
+intermédio do Correspondência Devolvida (SEI nº 
+3259205
+), constatou-se a necessidade de envio dos documentos hábeis a
+subsidiar a defesa por e-mail, o que foi feito pelo E-mail (SEI nº 
+3264995
+), obtido por intermédio de contato com o
+representante legal da empresa Telekall Infoservice, Emmanuel Gomes de Jesus, conforme certificado pela Certidão 1 (SEI nº
+3264998
+).
+4
+.
+10
+.
+A Defesa (SEI nº 
+3324700
+) foi apresentada em 08/04/22 por meio de carta, conforme Correspondência Sedex
+(SEI nº 
+3324709
+), e houve o sobrestamento do processo por intermédio do Despacho (SEI nº 
+3446535
+), em 25/04/22, em razão
+de o Regulamento de Dosimetria e Aplicação de Sanções Administrativas estar em elaboração. Por meio do Despacho (SEI nº
+4173110
+), foi removido o sobrestamento ante a publicação da Resolução CD/ANPD Nº 4, de 24/02/23, que aprovou o
+Regulamento de Dosimetria e Aplicação de Sanções Administrativas e, assim, regulamentou o art. 53 da LGPD. Diante disso,
+foi remetido o ANPD - Ofício 78 (SEI nº 
+4173119
+) em 20/04/23, que abriu prazo para alegações finais, todavia, consoante
+a Certidão de Intimação Cumprida (SEI nº 
+4225585
+), o prazo decorreu sem manifestação do agente regulado.
+4
+.
+11
+.
+É o relatório.
+5
+.
+PRELIMINARES
+Competência da ANPD
+5
+.
+1
+.
+A Lei nº 13.709/18, Lei Geral de Proteção de Dados (LGPD), art. 5º, I, considera dado pessoal toda 
+"informação
+relacionada a pessoa natural identificada ou identificável"
+. Por essa razão, o número de telefone de eleitor é dado pessoal, pois
+consiste em informação relacionada a pessoa natural identificada ou identificável.
+5
+.
+2
+.
+A leitura do processo revelou que a atividade desenvolvida pela Telekall Infoservice configura tratamento de
+dados pessoais, já que a oferta de listagem de contatos de WhatsApp para fins de disparo de mensagens pode ser enquadrada
+na previsão do art. 5º, X, que classifica como tratamento 
+"toda operação realizada com dados pessoais, como as que se
+referem a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento,
+arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência,
+difusão ou extração"
+. Com efeito, está-se diante de utilização de dados pessoais, uma vez que há uso dos números telefônicos
+para envio de mensagens.
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 3
+[PAGINA 44]
+5.3. A LGPD, ainda, define a figura do controlador no art. 5º, VI, como a "pessoa natural ou jurídica, de direito
+público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais" . Tendo em vista que a Telekall
+Infoservice efetua o tratamento de números de telefone e opta por oferecê-lo no mercado, não há dúvidas de que a ela
+competem as decisões referentes ao tratamento de dados pessoais, motivo pelo qual é controladora.
+5.4. A circunstância de a atividade da Telekall Infoservice estar inserida nas disposições da LGPD denota a
+competência de atuação ANPD, definida pelo art. 5º, XIX da LGPD, como "órgão da administração pública responsável por
+zelar, implementar e fiscalizar o cumprimento desta Lei em todo o território nacional" . Cabe à ANPD, de acordo com o art.
+55-J, I, "zelar pela proteção dos dados pessoais, nos termos da legislação" , bem como "IV - fiscalizar e aplicar sanções em
+caso de tratamento de dados realizado em descumprimento à legislação, mediante processo administrativo que assegure o
+contraditório, a ampla defesa e o direito de recurso"  e "XX - deliberar, na esfera administrativa, em caráter terminativo, sobre
+a interpretação desta Lei, as suas competências e os casos omissos" .
+5.5. Dentro da ANPD, a Coordenação-Geral de Fiscalização (CGF) é responsável pela ação de detectar as infrações à
+LGPD, o que consiste em desdobramento do objetivo estratégico de promoção do fortalecimento da cultura de proteção de
+dados pessoais. De acordo com o Regimento Interno da ANPD:
+Regimento Interno da ANPD:
+Art. 17. São competências da Coordenação-Geral de Fiscalização, sem prejuízo de outras previstas na Lei nº 13.709, de
+2018, no Decreto nº 10.474, de 2020, e na legislação aplicável:
+(...)
+III - promover ações de fiscalização sobre as ações de tratamento de dados pessoais efetuadas pelos agentes de
+tratamento, incluído o Poder Público;
+(...)
+IX - requisitar aos agentes de tratamento de dados a apresentação de Relatório de Impacto à Proteção de Dados Pessoais;
+5.6. O art. 48 do Regimento Interno da ANPD, ainda, determina que as "atividades da ANPD obedecerão, além dos
+princípios estabelecidos na Lei nº 13.709, de 2018, aos princípios da legalidade, motivação, moralidade, eficiência,
+celeridade, interesse público, impessoalidade, igualdade, devido processo legal, ampla defesa, contraditório, razoabilidade,
+proporcionalidade, imparcialidade, publicidade, economicidade, segurança jurídica, entre outros". Esta é, portanto, a
+justificativa para análise da atividade desenvolvida pela Telekall Inforservice em processo administrativo próprio, pois é
+necessário observar as diretrizes e os princípios incidentes sobre a atuação administrativa no cumprimento da atribuição de
+fiscalização.
+5.7. A Resolução CD/ANPD nº 1, de 28/10/2021, que aprovou o regulamento do processo de fiscalização e do
+processo administrativo sancionador no âmbito da ANPD, dispõe de forma fundamental sobre a estruturação das atividades
+previstas no art. 17 do Regimento Interno da ANPD. De acordo com o art. 2º da Resolução, a fiscalização volta-se à orientação,
+à prevenção e à repressão das infrações à LGPD, de sorte a, conforme o art. 3º, proteger os direitos dos titulares de dados,
+promover a implementação da legislação de proteção de dados pessoais e zelar pelo cumprimento das disposições da LGPD.
+5.8. Por força do art. 4º, I, da Resolução CD/ANPD nº 1, de 28/10/21, a Telekall é considerada agente regulado pela
+ANPD, haja vista serem eles os "agentes de tratamento e demais integrantes ou interessados no tratamento de dados
+pessoais". Cumpre especificar as atividades a que os agentes regulados estão submet idos por força da Resolução CD/ANPD nº
+1, de 28/10/2021:
+Art. 5º Os agentes regulados submetem-se à fiscalização da ANPD e têm os seguintes deveres, dentre outros:
+I - fornecer cópia de documentos, físicos ou digitais, dados e informações relevantes para a avaliação das atividades de
+tratamento de dados pessoais, no prazo, local, formato e demais condições estabelecidas pela ANPD;
+II - permitir o acesso às instalações, equipamentos, aplicativos, facilidades, sistemas, ferramentas e recursos tecnológicos,
+documentos, dados e informações de natureza técnica, operacional e outras relevantes para a avaliação das atividades de
+tratamento de dados pessoais, em seu poder ou em poder de terceiros;
+III - possibilitar que a ANPD tenha conhecimento dos sistemas de informação utilizados para tratamento de dados e
+informações, bem como de sua rastreabilidade, atualização e substituição, disponibilizando os dados e as informações
+oriundos destes instrumentos;
+IV - submeter-se a auditorias realizadas ou determinadas pela ANPD;
+V - manter os documentos físicos ou digitais, os dados e as informações durante os prazos estabelecidos na legislação e em
+regulamentação específica, bem como durante todo o prazo de tramitação de processos administrativos nos quais sejam
+necessários; e
+VI - disponibilizar, sempre que requisitado, representante apto a oferecer suporte à atuação da ANPD, com conhecimento
+e autonomia para prestar dados, informações e outros aspectos relativos a seu objeto.
+5.10. Pelo exposto, não há dúvidas quanto à competência da ANPD no caso concreto para avaliar a conduta da
+empresa Telekall Infoservice, controladora de dados e agente regulado, à luz da LGPD.
+5.11. No mais, o  autuado não arguiu questões preliminares de mérito em sua defesa e em nossa análise não
+verificamos questões preliminares de mérito relevantes a serem trazidas a este Relatório de Instrução .
+6. ANÁLISE
+Circunstâncias da infração e autoria
+6.1. As provas coligidas aos autos são suficientes para afirmar que a empresa Telekall ofertava listagem de contatos
+de WhatsApp para fins de disparo de mensagens. Com efeito, no documento Anexo (SEI nº 2358139), acostado aos autos do
+procedimento preparatório 00261.000040/2021-13, consta o
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 4
+[PAGINA 45]
+documento Decisao_1785290_DC___0150068.2020__SEI____encaminhar_para_autoridade_nacional_de_dados__assinado_.pdf,
+no bojo do qual o promotor de justiça Fernando Fietz Brito, com atuação na 4ª Promotoria de Justiça de Ubatuba -
+Consumidor, observou o seguinte (fls. 1/2 do pdf): "ao compulsar o website da aludida pessoa jurídica (https://telekall.com/)
+desperta a atenção o fato de sua atividade comercial consistir, de maneira patente, na disponibilização de plataforma digital
+de disparo de mensagens de Voz, Sms e Whatsapp, anunciando um banco de dados de 130 milhões de pessoas, havendo
+fundada dúvidas acerca da legalidade dos meios utilizados na obtenção desse acervo de dados e se o tratamento a eles
+conferido está de acordo com os ditames estipulados na Lei Geral de Proteção de Dados (Lei n. 13.709/2018)" . Por essa razão,
+o membro do Ministério Público do Estado de São Paulo determinou o encaminhamento de cópia integral do expediente
+ANPD. O referido documento revela que o sítio eletrônico oferecia plataforma digital de mensagens com banco de dados de
+130 (cento e trinta) milhões de pessoas, foi enviado por órgão que detém fé de ofício e não foi refutado pelo agente regulado
+por ocasião da apresentação da defesa, razão pela qual é meio idôneo à comprovação da infração.
+6.2. O documento Anexo (SEI nº 2358139), por sua vez, também trouxe
+o E_mail_1721636_1__protocolo_1885_2020.pdf, juntado ao procedimento preparatório como Anexo nº 1 do Desp. CGF - E-
+mail com denúncia (SEI nº 2412924), no qual à fl. 2, constatou-se que 22/10/2020, o e-mail [EMAIL], "Telekall 
+Infoservices" enviou às 02:30:53 e-mail para [EMAIL], com assunto "Alex Da Saúde Lista de Contatos 
+Whatsapp de Ubatuba" . No corpo da mensagem eletrônica, houve oferta ao candidato Alex da Saúde da "melhor listagem de 
+contatos whatsapp de sua cidade. Agora você tem a possibilidade de sincronizar milhares de números em suas contas de 
+campanha Google sem precisar digitar no seu celular. Nossa lista de contatos, é segmentada e filtrada por região e bairro o 
+que possibilita a personalização de sua comunicação com o eleitor" . Na fl. 3 do pdf, está presente a informação de que "você 
+receberá a listagem com nome do usuário, número whatsapp e endereço completo. Entrega via download no formato Excel, o 
+que facilita a importação em vários aplicativos. Adquiria a sua base whatsapp ainda hoje e saia na frente. Oferecemos pacote 
+com 5, 10, 25, 50 e 100 mil contatos. Ligue agora, ou retorne esse email para [/compose?
+to=[EMAIL]][EMAIL] ou envie um zap: ( xx). xxxxx.xxxx". Conforme fl. 1 do Anexo nº 1 do Desp.CGF - E-
+mail com denúncia (SEI nº 2412924), em 22/10/2020, às 08:14, Marcelo Santos Mourão, pelo e-mail [EMAIL], 
+após responder o e-mail enviado pela Telekall, enviou cópia do documento para Heloise Maia da Costa, e-mail 
+[EMAIL], promotora eleitoral, em vista de possível configuração de crime eleitoral. Esse documento é apto a 
+comprovar que houve envio de oferta por e-mail ao destinatário [EMAIL] em 22/10/2020, pois foi remetido à 
+ANPD por órgão que detém fé de ofício e tampouco teve sua legitimidade questionada pela Telekall na defesa. 
+6.3. A constatação é robustecida pelo documento Correspondência Resposta da Telekall ao ofício 21 #2 (2515300),
+no qual a empresa confirmou que "Houve sim, um contato inicial via Whatsapp com o candidato a vereador Alexandre Mandl,
+o qual, não resultou em nenhuma atividade comercial" . A existência de contato redunda na ocorrência da atividade comercial
+descrita nos presentes autos e objeto de análise de legalidade ao longo da atividade de fiscalização.
+6.5. O telefone celular informado no Anexo nº 1 do Desp.CGF - E-mail com denúncia (SEI nº 2412924), fls. 2/3, a  
+seu turno, coincide com o que está presente na Certidão 1 (SEI nº 3264998), por intermédio do qual a CGF fez contato com o  
+Sr. Emmanuel Gomes de Jesus a respeito do Auto de Infração (SEI nº 3231560), após o que a Coordenação recebeu a Defesa  
+(SEI nº 3324700). O mesmo telefone celular - (xx) x.xxxx.xxxx - consta da fl. 2 do o Anexo nº 1 do OFÍCIO 19 - Telas do site  da 
+Telekall (SEI nº 2412960), que consiste em impressão do sítio eletrônico da empresa: https://telekall.com/zap/index.html.  
+Dessa feita, não restam dúvidas de que o referido telefone celular foi utilizado para o desenvolvimento da oferta de contatos  
+telefônicos.
+6.6. No sítio eletrônico, por sua vez, conforme Anexo nº 1 do OFÍCIO 19 - Telas do site da Telekall (SEI nº  
+2412960), há a informação de que "Caso precise de novos contatos, oferecemos a melhor lista whatsapp segmentada. 
+Atualizada em 130 milhões de utilizadores" , além de "Segmentação geográfica a nível cidade, bairro, cep ou via código de 
+ocupação CBO. Ex. Médico, Professor, dentista, etc..." . Também há a informação de que "Não importa o tamanho da sua 
+campanha, temos capacidade de enviar até 2 milhões de mensagens por dia. Serviço rápido e garantido com alta taxa de 
+entregabilidade". Essa informação, que também está protegida pela fé de ofício e não foi atacada pela defesa, evidencia a  
+capacidade de atingir milhões de titulares.
+6.7. No bojo do documento Correspondência Resposta da Telekall ao ofício 21 #1 (SEI nº 2515289), fl. 5, consta a  
+informação de que o Ministério Público do Estado de São Paulo, Promotoria de Justiça de Campinas, pelo promotor de justiça  
+eleitoral que atua perante a 379º Zona Eleitoral (Campinas), instaurou em 02/03/2021 procedimento preparatório eleitoral  
+visando apurar eventual propaganda eleitoral irregular, em vista de recebimento de notícia de fato recebida e registrada sob o  
+SEI nº 29.0001.0154642-2020-33, por meio da qual houve a informação de que a empresa Telekall ofereceu ao candidato  
+Alexandre Mandl a lista de contatos WhatsApp de Campinas. Além disso, na notícia de fato SEI nº 29.0001.0007538.2021-76,  
+foi informado que um eleitor recebeu do candidato a prefeito de Campinas Wilson Matos propaganda eleitoral por meio do  
+WhatsApp, embora seu número de telefone estivesse cadastrado junto ao PROCON para não receber ligações, circunstância  
+que serve de supedâneo à constatação de que a Telekall desenvolvia atividade comercial de venda de contatos telefônicos.
+6.8. Essa averiguação também é respaldada pela consulta ao sítio eletrônico https://telekall.com/, anexado ao  
+processo 00261.000040/2021-13 sob o documento SEI nº 3110999, no qual foi constatada a oferta de contatos de WhatsApp, o  
+que indica que a empresa continuava a ofertar os serviços no mercado em 05/01/2022. O sítio eletrônico, porém, foi  
+desativado, como se observa no documento 3223051, de 07/03/2022.
+Análise da defesa apresentada pelo Autuado
+6.9. Por intermédio do documento SEI nº 3324700, o representante legal da empresa apresentou defesa após a  
+instauração do processo administrativo sancionador nº 00261.000489/2022-62 pela lavratura do ANPD - Auto de Infração 3  
+(SEI nº 3231560). No item 4 da fl. 1 da Defesa (SEI nº 3324700), a empresa afirmou que "para dirimir dúvidas e responder
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 5
+[PAGINA 46]
+aos questionamentos inseridos no oficio nº 10/2022(3140607) concernentes aos serviços de marketing digital promovido pela
+Telekall Infoservices, informamos que os mesmos foram encerrados temporariamente com o propósito único de se adequar as
+regras principais da lei 13.709. Assim sendo, cancelamos o domínio www.telekall.com e suas atividades de marketing direto,
+tele atendimento e disparo de mensagens" . Essa alegação vem ao encontro das informações sobre o desempenho das atividades
+comerciais descritas neste documento durante a fiscalização da CGF. O representante legal, então, confirma a comercialização
+por meio de marketing direto, tele atendimento e disparo de mensagens, e também o encerramento das atividades.
+6.10. Na fl. 2 da Defesa (SEI nº 3324700), resposta à pergunta A, a Telekall informa que Emmanuel Gomes de Jesus é
+o encarregado pelo tratamento de dados pessoais indicado pela empresa para se comunicar com a ANPD, trazendo as formas de
+contato:
+Responsável: Emmanuel Gomes de Jesus
+Endereço: Rua Sete de Setembro, 13, sala 102, Centro, Vila Velha, ES 
+E-mail: [EMAIL]
+Telefone: (xx) xxxxx.xxxx
+6.11. No Anexo Consulta CNPJ (SEI nº 3115565), confirma-se que Emmanuel Gomes de Jesus é o empresário
+individual responsável pela Telekall Inforservice, pois o nome empresarial é "Emmanuel Gomes de Jesus" e o de fantasia,
+"Telekall Infoservice". Não restam dúvidas, portanto, sobre a legitimidade de Emmanuel Gomes de Jesus para representar a
+Telekall Inforservice perante a ANPD. Além disso, o número de telefone informado coincide com o que está registrado no
+Anexo nº 1 do Desp.CGF - E-mail com denúncia (SEI nº 2412924), fls. 2/3, Anexo nº 1 do OFÍCIO 19 - Telas do site da
+Telekall (SEI nº 2412960) e Certidão 1 (SEI nº 3264998).
+6.12. Na mesma fl. 2 da Defesa (SEI nº 3324700), em resposta à pergunta B, que questionou a hipótese de tratamento
+de dados pessoais, considerando o disposto nos arts. 7º e 11 da LGPD, respondeu que:
+XXXX.
+XXXX.
+A Nossa primeira impressão foi a de que, se os dados estão na web ou em redes sociais, eles seriam públicos e, portanto, 
+poderiam ser utilizados (tratados) por qualquer pessoa" .
+6.13. Como se observa, a empresa furtou-se a responder diretamente a essa questão, deixando de indicar
+objetivamente que base legal oferecia respaldo às suas atividades.
+6.14. À fl. 3 da Defesa (SEI nº 3324700), atendendo à pergunta C, que demandou informação sobre a origem dos
+dados que essa empresa oferece para disparar mensagens de WhatsApp, conforme consta abertamente no site da empresa, de
+onde acessaria ou dados para disparar as mensagens, afirmou que:
+XXXXXXX.
+6.15. Essa afirmação robustece a constatação de que a Telekall se utilizava de dados disponíveis na internet para gerar
+informação e, assim, comercializá-la a terceiros.
+6.16. Na fl. 4 Defesa (SEI nº 3324700), em resposta à pergunta D, que questionada como era montada a base de dados
+que servia de objeto para o serviço oferecido no sitio eletrônico http://telekall.com, a empresa respondeu que:
+XXXXXXXX
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 6
+[PAGINA 47]
+XXXXXXX
+6.17. Nesse ponto, embora a empresa afirme que não havia construção de base de dados, observa-se incompreensão 
+sobre o alcance do conceito de banco de dados, previsto no art. 5º, IV, da LGPD: "conjunto estruturado de dados pessoais, 
+estabelecido em um ou em vários locais, em suporte eletrônico ou físico" . Para melhor compreensão, a resposta à pergunta D  
+precisa ser lida em conjunto com a resposta à pergunta E, presente à fl. 5 da Defesa (SEI nº 3324700), e que questionou quais  
+os dados que fazem parte do banco de dados disponibilizados para seus clientes. Na oportunidade, a empresa informou que  
+"XXXXXXXX". Essas informações indicam como ocorria o tratamento realizado pela Telekall: XXXXXXX, oferecia o serviço 
+de disparo e efetuava o envio das mensagens. Esse mecanismo revela a construção  de banco de dados nos termos do art. 5º, IV , 
+da LGPD, uma vez que havia estruturação de dados pessoais, sem a qual não seria  possível a consecução do seu mister.
+6.18. Em resposta pergunta F, que questionou quantos registros o banco de dados possuía, à fl. 5 da Defesa (SEI nº
+3324700), a empresa disse que:
+XXXXXXXXX.
+a) Lei Geral de Proteção de Dados:
+a.1) Art. 7 e Art. 11 - ausência de comprovação de hipótese legal de tratamento de dados pessoais;
+6.23. Compulsando os autos, não se verificou o tratamento de dados sensíveis, cuja base legal está prevista no art. 11.
+Por esse motivo, afasto a infração ao art. 11 da LGPD .
+6.24. No que toca ao art. 7º, porém, está amplamente demonstrada a ocorrência de violação. Isto porque o texto do
+artigo da LGPD diz o seguinte:
+Art. 7º O tratamento de dados pessoais somente poderá ser realizado nas seguintes hipóteses:
+I - mediante o fornecimento de consentimento pelo titular;
+II - para o cumprimento de obrigação legal ou regulatória pelo controlador;
+III - pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas
+previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as disposições do Capítulo IV
+desta Lei;
+IV - para a realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;
+V - quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja parte o
+6.19. Essa resposta está em consonância com a constatação de que a Telekall montava banco de dados, na medida em  
+que filtrava números telefônicos para fins de disseminação de mensagens publicitárias por intermédio do aplicativo WhatsApp.
+6.20. Por fim, na fl. 5 da Defesa (SEI nº 3324700), em resposta ao questionamento G, que perguntou qual serviço foi  
+oferecido e encaminhado por WhatsApp ao político Alex Waltersdorf, candidato sob o nome Alex da Saúde, a empresa 
+respondeu que "não houve contratação para prestação de serviço nas eleições municipais na localidade de Campinas ou 
+Ubatuba no estado (sic) de São Paulo. Quanto ao nome de Alex Watersdorf (sic), não me recordo  do conteúdo dos chats e tão 
+pouco (sic) do que foi ofertado" . Essa informação, todavia, diverge daquela presente na Correspondência Resposta da Telekall  
+ao ofício 21 #2 (2515300), na qual a empresa confirmou que "Houve sim, um contato inicial via Whatsapp com o candidato a 
+vereador Alexandre Mandl, o qual, não resultou em nenhuma atividade comercial" , e do Anexo  nº 1 do Desp. CGF - E-mail 
+com denúncia (SEI nº 2412924), no qual à fl. 2, constatou-se que 22/10/2020, o e-mail [EMAIL], "Telekall  
+Infoservices" enviou às 02:30:53 e-mail para [EMAIL], com assunto "Alex Da Saúde Lista de Contatos 
+Whatsapp de Ubatuba" . No corpo da mensagem eletrônica, houve oferta ao candidato Alex da Saúde da  "melhor listagem de 
+contatos whatsapp de sua cidade. Agora você tem a possibilidade de sincronizar milhares de números em suas contas de 
+campanha Google sem precisar digitar no seu celula r. Nossa lista de contatos, é segmentada e filtrada por região e bairro o 
+que possibilita a personalização de sua comunicação com o eleitor" . Essas circunstâncias permitem afirmar que ocorreu oferta  
+de contatos telefônicos para envio de mensagens pelo aplicativo WhatsApp ao candidato Alex da Saúde.
+Subsunção do fato ao tipo infracional correspondente
+6.22. O ANPD - Auto de Infração 3 (SEI nº 3231560) baseou-se nos seguintes diplomas para imputar a prática de  
+infrações à Telekall Infoservice:
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 7
+[PAGINA 48]
+titular, a pedido do titular dos dados;
+VI - para o exercício regular de direitos em processo judicial, administrativo ou arbitral, esse último nos termos da Lei nº 9.307, de
+23 de setembro de 1996 (Lei de Arbitragem) ;
+VII - para a proteção da vida ou da incolumidade física do titular ou de terceiro;
+VIII - para a tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou
+autoridade sanitária;
+IX - quando necessário para atender aos interesses legítimos do controlador ou de terceiro, exceto no caso de prevalecerem direitos
+e liberdades fundamentais do titular que exijam a proteção dos dados pessoais; ou
+X - para a proteção do crédito, inclusive quanto ao disposto na legislação pertinente.
+6.25. Não foram identificadas hipóteses de tratamento que pudessem respaldar a atividade comercial da Telekall nos
+moldes em que era desenvolvida. Com efeito, não houve fornecimento de consentimento pelos titulares; não se estava diante
+de cumprimento de obrigação legal ou regulatória; não se trata de ente integrante da Administração Pública ou que desenvolva
+estudos como órgão de pesquisa; não se tratava de dados necessários para a execução de contrato ou de procedimentos
+preliminares, a pedido do titular; não configurou exercício regular de direitos em processo judicial, administrativo ou arbitral;
+não se trata de proteção da vida ou da incolumidade física do titular ou de terceiro; não era o caso de tutela da saúde em
+procedimento realizado por profissionais, serviços de saúde ou autoridade sanitária; os dados tratados não eram necessários
+para a proteção ao crédito.
+6.26. No que pertine à base legal do legítimo interesse do controlador e de terceiro, para que pudesse ser invocada,
+careceria da adoção de cuidados adicionais, os quais requerem a leitura conjunta de outros artigos da LGPD além do 7º. A
+empresa considera que os dados públicos podem ser usados em sua atividade comercial, o que vai de encontro ao art. 6º, I, da
+LGPD, que estabelece o conteúdo do princípio da finalidade: "realização do tratamento para propósitos legítimos, específicos,
+explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades" . Da
+leitura dos autos, não se identificou a observância de propósitos legítimos, específicos, explícitos e informados ao titular. Em
+realidade, o que se constatou foi a realização de tratamento posterior de forma incompatível com essas finalidades, uma vez
+que houve desenvolvimento de atividade comercial baseada no uso de dados disponíveis na internet sem respaldo legal.
+6.27. Isto porque o art. 7º, § 3º, dispõe que "O tratamento de dados pessoais cujo acesso é público deve considerar a
+finalidade, a boa-fé e o interesse público que justificaram sua disponibilização" , enquanto o §4º tem o seguinte texto: "É
+dispensada a exigência do consentimento previsto no caput deste artigo para os dados tornados manifestamente públicos pelo
+titular, resguardados os direitos do titular e os princípios previstos nesta Lei" . No caso sob análise, não há evidência
+alguma de que os titulares tinham condições de saber que os seus dados estão sendo tratados pela empresa, não havendo como
+supor que o tratamento era feito observando o comando de "resguardar os direitos do titular e os princípios na LGPD".
+6.28. Em acréscimo, o §7º do art. 7º determina que "O tratamento posterior dos dados pessoais a que se referem os
+§§ 3º e 4º deste artigo poderá ser realizado para novas finalidades, desde que observados os propósitos legítimos e específicos 
+para o novo tratamento e a preservação dos direitos do titular, assim como os fundamentos e os princípios previstos nesta 
+Lei".
+6.29. Igualmente, não é possível afirmar que o tratamento dos dados feito pela Telekall tenha considerado a 
+finalidade, a boa-fé e o interesse público que justificaram a disponibilização dos números de telefone, sobretudo porque não 
+foram especificamente indicadas as bases sobre as quais repousou a elaboração do banco de dados, não sendo possível 
+averiguar, por exemplo, a sua legitimidade, circunstância que afasta qualquer possibilidade de considerar que a atividade 
+comercial empreendida pela Telekall observa propósitos legítimos e específicos e preserva os direitos dos titulares. Durante a  
+instrução, a empresa limitou-se a informar que usava do método XXXXXXXXX, sem, todavia, apontar diretamente  como o 
+banco de dados seria construído. Ademais, não se pode considerar que, no caso concreto, seria dispensável o  
+consentimento, uma vez que o agente de tratamento não foi capaz de demonstrar que os números telefônicos foram  
+legitimamente obtidos ou fornecidos pelos titulares.
+6.30. Como não há tratamento posterior compatível com a finalidade inicial - dados divulgados na internet - não é
+possível considerar que a atividade comercial da Telekall esteja albergada legalmente.
+6.31. Cumpre destacar, ainda, que o legítimo interesse não é aplicável quando prevaleçam direitos e liberdades
+fundamentais do titular que exijam a proteção de dados pessoais. Como os titulares não têm conhecimento de que a Telekall é
+controladora de seus dados pessoais, obsta-se o exercício do conjunto de direitos previstos no art. 18 da LGPD:
+Art. 18. O titular dos dados pessoais tem direito a obter do controlador, em relação aos dados do titular por ele tratados,
+a qualquer momento e mediante requisição:
+I - confirmação da existência de tratamento;
+II - acesso aos dados;
+III - correção de dados incompletos, inexatos ou desatualizados;
+IV - anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o
+disposto nesta Lei;
+V - portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo com a
+regulamentação da autoridade nacional, observados os segredos comercial e industrial;
+VI - eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas no art. 16 desta
+Lei;
+VII - informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados;
+VIII - informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa;
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 8
+[PAGINA 49]
+IX - revogação do consentimento, nos termos do § 5º do art. 8º desta Lei.
+6
+.
+32
+.
+Diante de todo o exposto, 
+a empresa Telekall Inforservice infringiu o art. 7º da LGPD
+, pois sua atividade
+comercial não está regularmente amparada por nenhuma das hipóteses de tratamento previstas no art. 7º da LGPD.
+ 
+a.2) 
+Art. 37
+ – ausência de comprovação de registro das operações de tratamento de dados pessoais;
+6
+.
+33
+.
+O art. 37 da LGPD tem a seguinte redação: "
+Art. 37. O controlador e o operador devem manter registro das
+operações de tratamento de dados pessoais que realizarem, especialmente quando baseado no legítimo interesse". 
+6
+.
+34
+.
+Compulsando o processo, todavia, não se identificou solicitação de envio de registro de operações de tratamento.
+Por esse motivo, 
+afasto a infração ao art. 37
+, pois o documento não foi previamente requisitado ao agente regulado.
+ 
+a.3) 
+Art. 38
+ – ausência de envio do relatório de impacto à proteção de dados pessoais referente a suas operações
+de tratamento;
+6
+.
+35
+.
+O tema relatório de impacto é abordado por alguns dispositivos na LGPD. O primeiro deles é o art. 5º, XVII, que
+traz o conceito: 
+"documentação do controlador que contém a descrição dos processos de tratamento de dados pessoais que
+podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de
+mitigação de risco"
+. De acordo com o art. 10, §3º, 
+"A autoridade nacional poderá solicitar ao controlador relatório de
+impacto à proteção de dados pessoais, quando o tratamento tiver como fundamento seu interesse legítimo, observados os
+segredos comercial e industrial"
+.
+6
+.
+36
+.
+O tema também é tratado pelo art. 38, segundo o qual:
+"Art. 38. A autoridade nacional poderá determinar ao controlador que elabore relatório de impacto à proteção de dados
+pessoais, inclusive de dados sensíveis, referente a suas operações de tratamento de dados, nos termos de regulamento,
+observados os segredos comercial e industrial.
+Parágrafo único. Observado o disposto no caput deste artigo, o relatório deverá conter, no mínimo, a descrição dos tipos
+de dados coletados, a metodologia utilizada para a coleta e para a garantia da segurança das informações e a análise do
+controlador com relação a medidas, salvaguardas e mecanismos de mitigação de risco adotados."
+6
+.
+37
+.
+Examinando o ANPD - Auto de Infração 3 (SEI nº 
+3231560
+), observa-se que foi lavrado por desrespeito ao art.
+38; no entanto, não se identificou solicitação do documento no processo. Assim, 
+quanto à imputação de ofensa ao art. 38,
+afasto a infração
+, pois o documento não foi requisitado ao agente regulado.
+ 
+a.4) 
+Art. 41
+  – falta de comprovação da indicação do encarregado;
+6
+.
+38
+.
+De acordo com o art. 5º, VIII, da LGPD, encarregado é a 
+"pessoa indicada pelo controlador e operador para
+atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados
+(ANPD)"
+.
+6
+.
+39
+.
+A leitura do ANPD - Auto de Infração 3 (SEI nº 
+3231560
+) revela que havia indícios de ofensa ao art. 41, cujo
+texto é o seguinte: 
+"O controlador deverá indicar encarregado pelo tratamento de dados pessoais". 
+De fato, a confirmação da
+indicação foi solicitada pelo Ofício nº 21/2021/CGF/ANPD/PR (Doc. SEI nº 
+2412990
+) e por intermédio do Ofício nº 10 (SEI
+nº 
+3140607
+), cujo prazo decorreu sem resposta, embora o ofício tenha sido recebido em 26/01/2022, conforme Documento
+Rastreamento no site dos Correios (SEI nº 
+3220621
+). Antes da lavratura do auto de infração, o agente regulado não atendeu à
+determinação, somente vindo a fazê-lo por ocasião da apresentação da 
+Defesa (SEI nº 
+3324700
+)
+.
+6
+.
+40
+.
+Pelo exposto, 
+está caracterizada a infração ao art. 41 da LGPD
+.
+ 
+b) Regulamento de Fiscalização
+b.1) Art. 5º - Não at
+endimento às requisições da ANPD.
+6
+.
+41
+.
+O art. 5º do Regulamento de Fiscalização da ANPD possui a seguinte redação:
+"Art. 5º Os agentes regulados submetem-se à fiscalização da ANPD e têm os seguintes deveres, dentre outros:
+I - fornecer cópia de documentos, físicos ou digitais, dados e informações relevantes para a avaliação das atividades de
+tratamento de dados pessoais, no prazo, local, formato e demais condições estabelecidas pela ANPD;
+II - permitir o acesso às instalações, equipamentos, aplicativos, facilidades, sistemas, ferramentas e recursos tecnológicos,
+documentos, dados e informações de natureza técnica, operacional e outras relevantes para a avaliação das atividades de
+tratamento de dados pessoais, em seu poder ou em poder de terceiros;
+III - possibilitar que a ANPD tenha conhecimento dos sistemas de informação utilizados para tratamento de dados e
+informações, bem como de sua rastreabilidade, atualização e substituição, disponibilizando os dados e as informações
+oriundos destes instrumentos;
+IV - submeter-se a auditorias realizadas ou determinadas pela ANPD;
+V - manter os documentos físicos ou digitais, os dados e as informações durante os prazos estabelecidos na legislação e em
+regulamentação específica, bem como durante todo o prazo de tramitação de processos administrativos nos quais sejam
+necessários; e
+VI - disponibilizar, sempre que requisitado, representante apto a oferecer suporte à atuação da ANPD, com conhecimento
+e autonomia para prestar dados, informações e outros aspectos relativos a seu objeto.
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 9
+[PAGINA 50]
+§ 1º Os documentos, dados e as informações requisitados, recebidos, obtidos e acessados pela ANPD nos termos deste
+Regulamento são aqueles necessários ao exercício efetivo das suas atribuições, bem como aqueles sujeitos às regras de
+acesso e classificação de sigilo previstas em regulamentação específica.
+§ 2º Cabe ao agente regulado solicitar à ANPD o sigilo de informações relativas à sua atividade empresarial, como dados
+e informações técnicas, econômico-financeiras, contábeis, operacionais, cuja divulgação possa representar violação a
+segredo comercial ou a industrial.
+§ 3º Os documentos apresentados sob a forma digitalizada deverão cumprir os requisitos estabelecidos pelo Decreto nº
+10.278, de 18 de março de 2020.
+§ 4º O agente regulado, por intermédio de representante indicado, poderá acompanhar a auditoria da ANPD, ressalvados
+os casos em que a prévia notificação ou o acompanhamento presencial sejam incompatíveis com a natureza da apuração
+ou em que o sigilo seja necessário para garantir a sua eficácia.
+Art. 6º O não cumprimento dos deveres estabelecidos no art. 5º poderá caracterizar obstrução à atividade de fiscalização,
+sujeitando o infrator a medidas repressivas, sem prejuízo da adoção das medidas necessárias com o objetivo de concluir a
+ação de fiscalização obstruída por parte da ANPD."
+6
+.
+42
+.
+No caso concreto, foi remetido o Ofício nº 21/2021/CGF/ANPD/PR (SEI nº 
+2412990
+), dirigido à empresa
+Telekall, requisitando informações, no prazo máximo de 5 (cinco) dias úteis, para apuração de oferecimento de base de dados
+pessoais. A resposta da Telekall foi recebida em 28/02/21, conforme Correspondência Resposta da Telekall ao ofício 21 #2
+(SEI nº 
+2515300
+); no entanto, as informações prestadas não foram consideradas suficientes, motivo pelo qual a CGF enviou
+o Ofício nº 46 (SEI nº 
+2515309
+) em 20/04/21. Em razão da ausência de resposta da empresa e do fato de o Ofício nº 46 (SEI nº
+2515309
+) ter sido enviado sem aviso de recebimento (AR), a CGF elaborou a Nota Técnica 1 (SEI nº 
+3117275
+) em 20/01/22,
+motivando a necessidade de intimação da empresa Telekall em carta com AR. Após, foi enviado o Ofício nº 10 (SEI nº
+3140607
+) em 21/01/22, cujo prazo decorreu sem resposta, embora tenha sido recebido em 26/01/2022, conforme Documento
+Rastreamento no site dos Correios (SEI nº 
+3220621
+).
+6
+.
+43
+.
+A ausência de resposta ao o Ofício nº 10 (SEI nº 
+3140607
+) consiste em infração ao art. 5º, I, do Regulamento de
+Fiscalização e, consequentemente, obstrução à atividade de fiscalização, conforme o §6º do art. 5º, uma vez que o agente
+regulado deixou de cumprir o dever de fornecer cópia de documentos, dados e informações relevantes para a avaliação das
+atividades de tratamento de dados pessoais, no prazo, local, formato e demais condições estabelecidas pela ANPD.
+7
+.
+DOSIMETRIA DAS SANÇÕES
+Classificação da infração
+7
+.
+1
+.
+Em 27/02/2023, foi publicada a Resolução CD/ANPD Nº 4, de 24/02/2023, que aprovou o Regulamento de
+Dosimetria e Aplicação de Sanções Administrativas e, assim, regulamentou o art. 53 da LGPD. Nesse regulamento, são
+adotadas as seguintes definições, importantes para a conclusão do presente processo:
+Art. 2º Para fins deste Regulamento adotam-se as seguintes definições:
+(...)
+II - infração: descumprimento de obrigação estabelecida na Lei nº 13.709, de 14 de agosto de 2018 (LGPD), e nos
+regulamentos expedidos pela ANPD;
+(...)
+IV - infrator: agente de tratamento que comete infração;
+(...)
+7
+.
+2
+.
+Além disso, o regulamento previu balizas para a aplicação das sanções administrativas, conforme preconizado
+no art. 3º:
+Art. 3º As infrações sujeitarão o infrator às seguintes sanções administrativas:
+I - advertência, nos termos do art. 9º deste Regulamento;
+II - multa simples, nos termos dos arts. 10 a 15 deste Regulamento;
+III - multa diária, nos termos do art. 16 deste Regulamento;
+IV - publicização da infração, após devidamente apurada e confirmada a sua ocorrência, nos termos dos arts. 20 e 21
+deste Regulamento;
+V - bloqueio dos dados pessoais a que se refere a infração, até a sua regularização, nos termos do art. 22 deste
+Regulamento;
+VI - eliminação dos dados pessoais a que se refere a infração, nos termos do art. 23 deste Regulamento;
+VII - suspensão parcial do funcionamento do banco de dados a que se refere a infração, nos termos do art. 24 deste
+Regulamento;
+VIII - suspensão do exercício da atividade de tratamento dos dados pessoais a que se refere a infração, nos termos do art.
+25 deste Regulamento; e
+IX - proibição parcial ou total do exercício de atividades relacionadas a tratamento de dados, nos termos do art. 26 deste
+Regulamento.
+7
+.
+3
+.
+De acordo com o art. 8º do Regulamento de Dosimetria e Aplicação de Sanções Administrativas, a classificação
+das infrações divide-se desta maneira:
+Art. 8º As infrações são classificadas, segundo a gravidade e a natureza das infrações e dos direitos pessoais afetados, em:
+I - leve; 
+​
+II - média; ou 
+​
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 10
+[PAGINA 51]
+III - grave. ​
+§ 1º A infração será considerada leve quando não verificada nenhuma das hipóteses relacionadas nos §§ 2º ou 3º deste
+artigo.
+§ 2º A infração será considerada média quando puder afetar significativamente interesses e direitos fundamentais dos
+titulares de dados pessoais, caracterizada nas situações em que a atividade de tratamento puder impedir ou limitar, de
+maneira significativa, o exercício de direitos ou a utilização de um serviço, assim como ocasionar danos materiais ou
+morais aos titulares, tais como discriminação; violação à integridade física; ao direito à imagem e à reputação; fraudes
+financeiras ou uso indevido de identidade, desde que não seja classificada como grave.
+§ 3º A infração será considerada grave quando:
+I - verificada a hipótese estabelecida no § 2º deste artigo e cumulativamente, pelo menos, uma das seguintes:
+a) envolver tratamento de dados pessoais em larga escala, caracterizado quando abranger número significativo de
+titulares, considerando-se, ainda, o volume de dados envolvidos, bem como a duração, a frequência e a extensão
+geográfica do tratamento realizado;
+b) o infrator auferir ou pretender auferir vantagem econômica em decorrência da infração cometida;
+c) a infração implicar risco à vida dos titulares;
+d) a infração envolver tratamento de dados sensíveis ou de dados pessoais de crianças, de adolescentes ou de idosos;
+e) o infrator realizar tratamento de dados pessoais sem amparo em uma das hipóteses legais previstas na LGPD;
+f) o infrator realizar tratamento com efeitos discriminatórios ilícitos ou abusivos; ou
+g) verificada a adoção sistemática de práticas irregulares pelo infrator;
+II - constituir obstrução à atividade de fiscalização.
+7.4. No caso sob análise, ficaram caracterizadas infrações aos arts. 7º e 41 da LGPD, bem como ao art. 5º do
+Regulamento de Fiscalização, cuja dosimetria será empreendida a seguir.
+a) Ofensa ao art. 7º da LGPD
+7.5. No presente caso - ofensa ao art. 7º da LGPD por ausência de comprovação de hipótese legal de tratamento de  
+dados pessoais -, deve ser aplicado o art. 8º, §1º do Regulamento de Dosimetria e Aplicação de Sanções Administrativas 
+(RDASA), cujo teor indica que a infração será leve quando não verificada nenhuma das hipóteses relacionadas nos §§2º e 3º do  
+art. 8º.
+7.6. Isto porque, no caso concreto, não estão presentes provas que apontem para o cometimento de infração que 
+possa impedir ou limitar o exercício de direitos ou a utilização de serviço, nem que tenha ocasionado danos materiais ou morais  
+aos titulares, fraudes financeiras ou uso indevido de identidade, requisitos presentes no art. 8º, §2º do Regulamento de 
+Dosimetria e Aplicação de Sanções Administrativas.
+7.7. Com efeito, o tratamento ocorreu nos seguintes moldes: XXXXXXXXXX, oferecia o serviço de  disparo e 
+efetuava o envio das mensagens, o que não se enquadra na definição de infração média do art. 8º, §2º,  do 
+Regulamento de Dosimetria e Aplicação de Sanções Administrativas.
+7.8. Considerando, ainda, que para ser considerada grave, a infração deve reunir as características de média e  
+cumulativamente, atender a uma das alíneas do inciso I do §3º do art. 8º ou constituir obstrução à atividade de fiscalização,  
+conforme o inciso II, e que não estão presentes provas de que a infringência possui os requisitos de infração média, poderia-se  
+aplicar o art. 9º do Regulamento de Dosimetria e Aplicação de Sanções Administrativas:  "A ANPD poderá aplicar a sanção de 
+advertência quando: I - a infração for leve ou média e não caracterizar reincidência específica".
+7.9. Todavia, entende-se que a aplicação de sanção de advertência para ofensas ao art. 7º da LGPD não seria  
+proporcional à natureza da infração nem às circunstâncias do caso concreto. Tal conclusão é amparada no entendimento de que
+o art. 7º da LGPD é a espinha dorsal da LGPD, sem o qual não existe fundamento legal para um tratamento legítimo de dados.
+Em outras palavras, o tratamento de dados sem amparo em pelo menos uma das bases legais do art. 7º da LGPD é uma infração
+que, isoladamente, possui contornos de maior gravidade uma vez que possui como objeto um dos fundamentos da própria
+existência da LGPD. A confirmar essa percepção, pode-se citar o disposto no art. 8º, §3º, I, alínea 'e' do RDASA.
+7.10. Nesse passo, ainda que não seja o caso de classificar a infração como grave, o art. 10, III, do RDASA soluciona
+eventuais problemas de proporcionalidade e adequação de aplicação da sanção a depender da natureza da infração, da atividade
+de tratamento ou das circunstâncias do caso concreto, vejamos:
+Art. 10. A ANPD aplicará a sanção de multa simples quando:
+I - o infrator não tenha atendido as medidas preventivas ou corretivas a ele impostas, dentro dos prazos estabelecidos,
+quando aplicável;
+II - a infração for classificada como grave; ou
+III - pela natureza da infração, da atividade de tratamento ou dos dados pessoais, e pelas circunstâncias do caso concreto,
+não for adequado aplicar outra sanção.
+7.11. Adicionalmente, a partir dos fatos apurados e documentos constantes nos autos, resta evidente a pretensão do
+autuado de auferir vantagem econômica com a conduta (Anexo nº 1 do OFÍCIO 19 - Telas do site da Telekall ( 2412960, nos
+autos do processo SUPER nº 00261.000040/2021-13). Nesse sentido, importa destacar o disposto no art. 8º, §3º, I, alínea 'b' e
+no art. 15, I, do RDASA. No primeiro dispositivo há clara sinalização de que hipóteses em que há pretensão de vantagem
+econômica são de maior gravidade e, no segundo, há uma diretiva expressa de que o valor da multa deve ser equivalente, no
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 11
+[PAGINA 52]
+mínimo, ao dobro da vantagem auferida ou pretendida.
+Art. 8º As infrações são classificadas, segundo a gravidade e a natureza das infrações e dos direitos pessoais afetados, em:
+I - leve;
+II - média; ou
+III - grave.
+§ 1º A infração será considerada leve quando não verificada nenhuma das hipóteses relacionadas nos §§ 2º ou 3º deste
+artigo.
+§ 2º A infração será considerada média quando puder afetar significativamente interesses e direitos fundamentais dos
+titulares de dados pessoais, caracterizada nas situações em que a atividade de tratamento puder impedir ou limitar, de
+maneira significativa, o exercício de direitos ou a utilização de um serviço, assim como ocasionar danos materiais ou
+morais aos titulares, tais como discriminação; violação à integridade física; ao direito à imagem e à reputação; fraudes
+financeiras ou uso indevido de identidade, desde que não seja classificada como grave.
+§ 3º A infração será considerada grave quando:
+I - verificada a hipótese estabelecida no § 2º deste artigo e cumulativamente, pelo menos, uma das seguintes:
+(...)
+b) 
+o infrator auferir ou pretender auferir vantagem econômica em decorrência da infração cometida
+;
+(...)
+Art. 15. O resultado da aplicação do disposto no art. 14 deste Regulamento, em qualquer caso:
+I - não poderá ser inferior aos valores mínimos previstos no Apêndice II deste Regulamento, 
+exceto para os casos em que
+a vantagem auferida ou pretendida pelo infrator seja estimável, aplicando-se, neste caso, o dobro da vantagem
+econômica decorrente da infração
+; e
+II - será limitado a 2% (dois por cento) do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado de
+empresas no Brasil no seu último exercício, excluídos os tributos, ou a R$ 50.000.000,00 (cinquenta milhões de reais).
+[Grifamos]
+7
+.
+12
+.
+Da leitura conjunta de ambos os artigos transparece a intenção do RDASA de que condutas que infrinjam a
+LGPD e tenham pretensão de vantagem econômica devem ser sancionadas de modo a diminuir a atratividade do ganho
+econômico, aumentando o impacto da sanção e, por conseguinte, desestimular o agente a correr o risco do ganho econômico
+em infringência à LGPD.
+7
+.
+13
+.
+Com isso, dadas as circunstâncias da infração em relação ao art. 7º da LGPD neste caso concreto, configura-se
+como inadequada a aplicação da sanção de advertência, e entende-se que a aplicação de multa simples, nos termos do art. 10,
+III, do Regulamento de Dosimetria, se mostra mais adequada e proporcional.
+7
+.
+14
+.
+Superada as fases de classificação e de definição da sanção, passa-se ao cálculo da multa.
+7
+.
+15
+.
+Para o cálculo da multa, importa conhecer o faturamento do autuado. O faturamento, por sua vez, configura
+informação que foi solicitada ao agente em 19/05/23 por intermédio do ANPD - Ofício 118 (SEI nº 
+4262845
+), no qual foi
+assinado o prazo de 5 (cinco) dias úteis para apresentação da documentação, todavia, o prazo para resposta encerrou-se em
+05/06/2023 sem resposta, conforme documento 
+4314278
+.
+7
+.
+16
+.
+Diante dessa circunstância, invoca-se a aplicação do art. 11, §3º, II, do Regulamento de Dosimetria e Aplicação
+de Sanções Administrativas, cuja redação é a que segue: 
+"§ 3º Para fins do disposto no inciso IV do § 1º deste artigo, a ANPD
+definirá o valor do faturamento, quando: (...) II - o infrator não apresentar documentação dentro do prazo estabelecido pela
+ANPD".
+ Em conjunto com esse dispositivo, aplica-se o disposto no art. 11, §1º, VI, a do RDASA: 
+Art. 11. Para a definição do valor-base da multa simples será utilizada, para cada infração cometida, a metodologia descrita
+no Apêndice I deste Regulamento, considerados os seguintes elementos:
+(...)
+§ 1º Para fins do disposto no inciso II do caput, será considerado como faturamento:
+(...)
+IV - o valor definido pela ANPD, nos termos deste Regulamento, que poderá considerar:
+a) o limite de faturamento previsto nos incisos I e II do art. 3º ou no § 1º do art. 18-A, conforme o caso, da Lei
+Complementar nº 123, de 14 de dezembro de 2006, no caso dos optantes pelo Simples Nacional;
+7
+.
+17
+.
+Tendo em vista a necessidade de definição de valor do faturamento no último exercício disponível anterior à
+aplicação da sanção e considerando que a Telekall Infoservice foi registrada junto à receita Federal do Brasil - RFB como uma
+Micro Empresa, foi consultada a Lei Complementar nº 123/2006, na qual observou-se, conforme o art. 3º, I, que o
+microempresário possuiu como limite de receita bruta em 2022 o montante de R$ 360.000,00 (trezentos e sessenta mil reais):
+Lei Complementar nº 123/2006
+Art. 3º Para os efeitos desta Lei Complementar, consideram-se microempresas ou empresas de pequeno porte, a sociedade
+empresária, a sociedade simples, a empresa individual de responsabilidade limitada e o empresário a que se refere o art.
+966 da Lei no 10.406, de 10 de janeiro de 2002 (Código Civil), devidamente registrados no Registro de Empresas Mercantis
+ou no Registro Civil de Pessoas Jurídicas, conforme o caso, desde que:
+I - no caso da microempresa, aufira, em cada ano-calendário, receita bruta igual ou inferior a R$ 360.000,00 (trezentos e
+sessenta mil reais); e
+7
+.
+18
+.
+Seguindo a ordem de cálculo constante no Apêndice I do Regulamento de Dosimetria e Aplicação de Sanções
+Administrativas, a infração foi classificada como infração leve, o que ocasiona os valores de alíquotas mínima (A1) de 0,08%
+sobre o faturamento e máxima (A2) como 0,15% sobre o faturamento.
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 12
+[PAGINA 53]
+7
+.
+19
+.
+Após a definição do intervalo de alíquotas, determina-se o grau do dano por meio de uma escala de 0 a 3,
+conforme tabela presente no Regulamento. A infração em questão enquadra-se no grau 2, uma vez que a infração pode
+ocasionar lesão ou ofensa a direitos ou interesses difusos, coletivos ou individuais de um numero considerável de titulares
+(aproximadamente 100 mil de acordo com a publicidade da Telekall).
+Determinação da Alíquota-base
+7
+.
+20
+.
+Após a definição do grau do dano, determina-se a alíquota-base da sanção de multa de acordo com a seguinte
+forma:
+Abase = [(0,0015 - 0,0008)/3] x 2 + 0,0008 = 0,0014 + 0,0008 = 0,0022
+Determinação do Valor-base da multa
+7
+.
+21
+.
+Após, o valor-base da multa é calculado pela multiplicação da alíquota-base pelo faturamento bruto, excluídos
+os tributos, consoante a fórmula:
+Vbase = 0,0022 * R$ 360.000,00 = R$ 792,00
+Determinação do Valor da Multa
+7
+.
+22
+.
+Em seguida, sobre o valor-base, aplicam-se as circunstâncias agravantes e as atenuantes, a teor da fórmula:
+Vmulta = R$ 792,00 * (1 + 0,00 - 0,00)
+7
+.
+23
+.
+As circunstâncias agravantes estão presentes no art. 12 do Regulamento de Dosimetria e Aplicação de Sanções
+Administrativas. A leitura dele revela que não é o caso de aplicação de nenhuma agravante, pois não foram verificadas
+reincidências genéricas ou específicas, não houve imposição de medidas orientativas ou preventivas e tampouco de medidas
+corretivas.
+7
+.
+24
+.
+As atenuantes, por sua vez, constam do art. 13 do Regulamento, e referem-se à cessação da infração
+previamente à instauração de procedimento preparatório; após a instauração de procedimento preparatório e até a instauração
+de processo administrativo sancionador; após a instauração de processo administrativo sancionador e até a prolação da decisão
+de primeira instância no âmbito do processo administrativo sancionador; nos casos de implementação de política de boas
+práticas e de governança ou de adoção reiterada e demonstrada de mecanismos e procedimentos internos capazes de minimizar
+os danos aos titulares, voltados ao tratamento seguro e adequado de dados, até a prolação da decisão de primeira instância no
+âmbito do processo administrativo sancionador; nos casos em que o infrator tenha comprovado a implementação de medidas
+capazes de reverter ou mitigar os efeitos da infração sobre os titulares de dados pessoais afetados; e nos casos em que se
+verifique a cooperação ou boa-fé por parte do infrator.
+7
+.
+25
+.
+No presente caso, especificamente no que concerne ao tratamento de dados pessoais, a partir do exposto no item
+4. do documento 
+Defesa (SEI nº 
+3324700
+), em conjunto com o Documento print screen site https://telekall.com/ (
+3110999
+,
+constante no processo SUPER nº 00261.000040/2021-13), é cabível a aplicação da atenuante prevista na alínea b, do art. 13 do
+RDASA uma vez que houve cessação da 
+infração em momento anterior (07/03/22) à lavratura do auto de infração (10/03/22).
+Vmulta = R$ 792,00 * (1 + 0,00 - 0,50)
+Vmulta = Vbase*0,5 = R$ 396,00
+Adequação aos limites Mínimo e Máximo da Multa
+7
+.
+26
+.
+O valor final deve ater-se aos limites mínimos previstos no Apêndice II do RDASA, e máximo de 2% do
+faturamento da pessoa jurídica de direito privado, excluídos os tributos, limitada a R$ 50.000.000,00 (cinquenta milhões de
+reais).
+7
+.
+27
+.
+O valor calculado conforme a metodologia do Regulamento corresponde a R$ 396,00 (trezentos e noventa e seis
+reais), inferior ao mínimo da tabela 2 para infração leve que é de R$ 3.000,00 (três mil reais). Nesse sentido, importaria
+adequar o valor da multa, conforme exposto na Etapa 4 do Apêndice I, até o valor mínimo, respeitado o limite máximo de 2%
+do faturamento, que corresponde a R$ 7.200,00 (sete mil e duzentos reais).
+7
+.
+28
+.
+Nesse sentido, considerando que o valor encontrado para o percentual de 2% do faturamento é superior ao valor
+mínimo de R$ 3.000,00 (três mil reais), bastaria adequar a multa para que correspondesse ao valor mínimo.
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 13
+[PAGINA 54]
+7
+.
+29
+.
+Todavia, consoante exposto acima, dada a caracterização da pretensão de auferir vantagem econômica, incide o
+previsto no art. 15, I e II  do RDASA:
+Art. 15. O resultado da aplicação do disposto no art. 14 deste Regulamento, em qualquer caso:
+I - não poderá ser inferior aos valores mínimos previstos no Apêndice II deste Regulamento, exceto para os casos em que a
+vantagem auferida ou pretendida pelo infrator seja estimável, aplicando-se, neste caso, o dobro da vantagem econômica
+decorrente da infração; e
+II - será limitado a 2% (dois por cento) do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado de
+empresas no Brasil no seu último exercício, excluídos os tributos, ou a R$ 50.000.000,00 (cinquenta milhões de reais).
+7
+.
+30
+.
+No intuito de atender ao disposto no inciso I do art. 15, passa-se a estimar a vantagem pretendida pelo infrator.
+7
+.
+31
+.
+Para tanto, toma-se como ponto de partida:
+a
+)
+os valores constantes do Anexo nº 1 do OFÍCIO 19 - Telas do site da Telekall (
+2412960
+, nos autos do
+processo SUPER nº 00261.000040/2021-13); e
+b
+)
+a data da remessa do e-mail, 20/10/2022, e área geográfica, correspondente ao município de Ubatuba/SP,
+conforme constam no Anexo nº 1 do Desp.CGF - E-mail com denúncia (
+2412924
+, nos autos do processo
+SUPER nº 00261.000040/2021-13).
+7
+.
+32
+.
+Nesse sentido, considerando-se o total de eleitores aptos a votar na eleição de 2020, conforme dados do
+TRE/SP
+[2]
+, temos que o público alvo de uma campanha eleitoral em nível municipal em Ubatuba era de 72.678 pessoas.
+Considerando os pacotes ofertados pelo infrator, de 10 mil, 50 mil e 100 mil disparos, entende-se que somente o terceiro
+pacote, no valor de R$ 5.250 (cinco mil, duzentos e cinquenta reais) seria suficiente para atingir a totalidade da população apta
+a votar, isso se fosse realizado apenas um disparo.
+7
+.
+33
+.
+Todavia, considerando que a oferta se deu a 25 dias do pleito eleitoral, que foi realizado em 15/11/2020, e que
+não teve segundo turno para a candidatura à prefeito no município de Ubatuba, é possível admitir que ao menos um envio
+aconteceu para atingir os 72.678 eleitores e que novos envios podem ter acontecido até o limite de 100 mil envios.
+7
+.
+34
+.
+Desse modo, considerando o disposto art. 15, I, o valor da multa deve ser, no mínimo, equivalente ao dobro da
+vantagem econômica pretendida, chega-se ao valor de R$ 10.500,00 (dez mil e quinhentos reais) que equivale ao dobro da
+vantagem econômica pretendida.
+7
+.
+35
+.
+Considerando, entretanto, que esse valor deve ficar limitado a 2% do faturamento, que corresponde a R$
+7.200,00 (sete mil e duzentos reais), 
+sugere-se a aplicação de multa de 
+R$ 7.200,00 (sete mil e duzentos reais)
+ 
+à empresa
+Telekall Infoservice
+.
+ 
+b) Ofensa ao art. 41 da LGPD
+7
+.
+36
+.
+A falta de indicação de encarregado também é enquadrada como infração leve em vista de não estarem presentes
+as circunstâncias que redundariam na incidência do art. 8º, §§2º e 3º do Regulamento de Dosimetria e Aplicação de Sanções
+Administrativas. De fato, não há provas que levem à conclusão de que a infração impediu ou limitou o exercício de direitos ou
+a utilização de serviço, ocasionou danos materiais ou morais aos titulares, fraudes financeiras ou uso indevido de identidade,
+requisitos presentes no art. 8º, §2º do Regulamento de Dosimetria e Aplicação de Sanções Administrativas.
+7
+.
+37
+.
+Essa constatação impõe a aplicação do art. 9 do Regulamento de Dosimetria e e Aplicação de Sanções
+Administrativas: "
+A ANPD poderá aplicar a sanção de advertência quando: I - a infração for leve ou média e não caracterizar
+reincidência específica".
+7
+.
+38
+.
+Diante do exposto, para a infração de ausência de indicação de encarregado, 
+sugere-se cominar 
+a pena de
+advertência à empresa Telekall Infoservice
+.
+ 
+c) Ofensa ao art. 5º do Regulamento de Fiscalização
+7
+.
+39
+.
+A leitura do art. 8º, §3º, II do Regulamento de Dosimetria e Aplicação de Sanções Administrativas revela que a
+obstrução à atividade de fiscalização
+ 
+configura infração grave. Como visto, a ausência de resposta ao o OFÍCIO 10 (SEI nº
+3140607
+) consiste em infração ao art. 5º, I, do Regulamento de Fiscalização e, consequentemente, obstrução à atividade de
+fiscalização, conforme o §6º do art. 5º, uma vez que o agente regulado deixou de cumprir o dever de fornecer cópia de
+documentos, dados e informações relevantes para a avaliação das atividades de tratamento de dados pessoais, no prazo, local,
+formato e demais condições estabelecidas pela ANPD.
+7
+.
+40
+.
+Essa circunstância requer a aplicação de multa simples, por expressa imposição do art. 10, II, do Regulamento
+de Dosimetria e Aplicação de Sanções Administrativas:
+Art. 10. A ANPD aplicará a sanção de multa simples quando: 
+​
+I - o infrator não tenha atendido as medidas preventivas ou corretivas a ele impostas, dentro dos prazos estabelecidos,
+quando aplicável; 
+​
+II - a infração for classificada como grave; ou 
+​
+III - pela natureza da infração, da atividade de tratamento ou dos dados pessoais, e pelas circunstâncias do caso concreto,
+não for adequado aplicar outra sanção.
+7
+.
+41
+.
+Para encontrar o valor-base da multa simples, por sua vez, é necessária a aplicação da metodologia descrita no
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 14
+[PAGINA 55]
+Regulamento de Dosimetria e Aplicação de Sanções Administrativas, a teor do disposto no art. 11:
+Art. 11. Para a definição do valor-base da multa simples será utilizada, para cada infração cometida, a metodologia
+descrita no Apêndice I deste Regulamento, considerados os seguintes elementos: 
+​
+I - a classificação da infração; 
+​
+II - o faturamento do infrator no último exercício disponível anterior à aplicação da sanção, excluídos os tributos de que
+trata o inciso III do § 1º do art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, relativo ao ramo de atividade
+empresarial em que ocorreu a infração; e 
+​
+III - o grau do dano, nos termos do Apêndice I deste Regulamento.
+7
+.
+42
+.
+A infração foi classificada como grave, e constitui o passo descrito no inciso I do art. 11.
+7
+.
+43
+.
+O faturamento, por sua vez, configura informação que foi solicitada ao agente em 19/05/23 por intermédio
+do ANPD - Ofício 118 (SEI nº 
+4262845
+), no qual foi assinado o prazo de 5 (cinco) dias úteis para apresentação da
+documentação, todavia, o prazo para resposta encerrou-se em 05/06/2023 sem resposta, conforme documento 
+4314278
+. Essa
+circunstância resulta na necessidade de aplicação do art. 11, §3º, II, do Regulamento de Dosimetria e Aplicação de Sanções
+Administrativas, cuja redação é a que segue: 
+"§ 3º Para fins do disposto no inciso IV do § 1º deste artigo, a ANPD definirá o
+valor do faturamento, quando: (...)II - o infrator não apresentar documentação dentro do prazo estabelecido pela ANPD".
+7
+.
+44
+.
+Tendo em vista a necessidade de definição de valor do faturamento no último exercício disponível anterior à
+aplicação da sanção e considerando que a Telekall Infoservice foi registrada junto à receita Federal do Brasil - RFB como uma
+Micro Empresa, foi consultada a Lei Complementar 123/2006, na qual observou-se, conforme o art. 3º, I, que o
+microempresário possuiu como limite de receita bruta em 2022 o montante de R$ 360.000,00 (trezentos e sessenta mil reais):
+Lei Complementar nº 123/2006
+Art. 3º Para os efeitos desta Lei Complementar, consideram-se microempresas ou empresas de pequeno porte, a sociedade
+empresária, a sociedade simples, a empresa individual de responsabilidade limitada e o empresário a que se refere o art.
+966 da Lei no 10.406, de 10 de janeiro de 2002 (Código Civil), devidamente registrados no Registro de Empresas Mercantis
+ou no Registro Civil de Pessoas Jurídicas, conforme o caso, desde que:
+I - no caso da microempresa, aufira, em cada ano-calendário, receita bruta igual ou inferior a R$ 360.000,00 (trezentos e
+sessenta mil reais); e
+7
+.
+45
+.
+Seguindo a ordem de cálculo proposta pelo Apêndice I do Regulamento de Dosimetria e Aplicação de Sanções
+Administrativas, a infração foi classificada como grave, o que ocasiona os valores de alíquotas mínima (A1) de 0,45% sobre o
+faturamento e máxima (A2) como 1,5% sobre o faturamento.
+7
+.
+46
+.
+Após a definição do intervalo de alíquotas, determina-se o grau do dano por meio de uma escala de 0 a 3,
+conforme tabela presente no Regulamento. A infração em questão enquadra-se no grau 1, uma vez que consistiu em
+descumprimento de determinação ou envio ou disponibilização de informações fora dos prazos ou condições estabelecidos pela
+ANPD, sem prejuízo direto para o processo de fiscalização ou administrativo sancionador ou para terceiros e que não decorra
+de litigância de má-fé.
+Determinação da Alíquota-base
+7
+.
+47
+.
+Após a definição do grau do dano, determina-se a alíquota-base da sanção de multa de acordo com a seguinte
+forma:
+Abase = [(0,0150 - 0,0045)/3] x 1 + 0,0045 = 0,0035 + 0,0045 = 0,008
+Determinação do Valor-base da multa
+7
+.
+48
+.
+Após, o valor-base da multa é calculado pela multiplicação da alíquota-base pelo faturamento bruto, excluídos
+os tributos, consoante a fórmula:
+Vbase = 0,008 * R$ 360.000,00 = R$ 2.880,00
+Determinação do Valor da Multa
+7
+.
+49
+.
+Em seguida, sobre o valor-base, aplicam-se as circunstâncias agravantes e as atenuantes, a teor da fórmula:
+Vmulta = R$ 2.880,00 * (1 + 0,00 - 0,00)
+7
+.
+50
+.
+As circunstâncias agravantes estão presentes no art. 12 do Regulamento de Dosimetria e Aplicação de Sanções
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 15
+[PAGINA 56]
+Administrativas. A leitura dele revela que não é o caso de aplicação de nenhuma agravante, pois não foram verificadas
+reincidências genéricas ou específicas, não houve imposição de medidas orientativas ou preventivas e tampouco de medidas
+corretivas.
+7
+.
+51
+.
+As atenuantes, por sua vez, constam do art. 13 do Regulamento, e referem-se à cessação da infração
+previamente à instauração de procedimento preparatório; após a instauração de procedimento preparatório e até a instauração
+de processo administrativo sancionador; após a instauração de processo administrativo sancionador e até a prolação da decisão
+de primeira instância no âmbito do processo administrativo sancionador; nos casos de implementação de política de boas
+práticas e de governança ou de adoção reiterada e demonstrada de mecanismos e procedimentos internos capazes de minimizar
+os danos aos titulares, voltados ao tratamento seguro e adequado de dados, até a prolação da decisão de primeira instância no
+âmbito do processo administrativo sancionador; nos casos em que o infrator tenha comprovado a implementação de medidas
+capazes de reverter ou mitigar os efeitos da infração sobre os titulares de dados pessoais afetados; e nos casos em que se
+verifique a cooperação ou boa-fé por parte do infrator. Ocorre que a infração que está sendo calculada consistiu em obstrução à
+atividade de fiscalização, a qual decorreu de uma única conduta, razão pela qual não é possível aplicar qualquer atenuante
+prevista no Regulamento, então:
+Vmulta = Vbase*1 = R$ 2.880,00
+Adequação aos limites Mínimo e Máximo da Multa
+7
+.
+52
+.
+O valor final deve ater-se aos limites mínimos previstos no Apêndice II do Regulamento, e máximo de 2% do
+faturamento da pessoa jurídica de direito privado, excluídos os tributos, limitada a R$ 50.000.000,00 (cinquenta milhões de
+reais).
+7
+.
+53
+.
+O valor calculado conforme a metodologia do Regulamento corresponde a R$ 2.880,00 (dois mil, oitocentos e
+oitenta reais), inferior ao mínimo da tabela 2 para infração grave que é de R$ 12.000,00 (doze mil reais). Nesse sentido, importa
+majorar o valor da multa, conforme exposto na Etapa 4 do Apêndice I, até o valor mínimo, respeitado o limite máximo de 2%
+do faturamento, que corresponde a R$ 7.200,00 (sete mil e duzentos reais). Nesse sentido, considerando que o valor encontrado
+para o percentual de 2% do faturamento é inferior ao valor mínimo de R$ 12.000,00 (doze mil reais), 
+mas não pode ser superior
+ao teto de 2% estabelecido em Lei, 
+sugere-se a aplicação de multa de 
+R$ 7.200,00 (sete mil e duzentos reais)
+ 
+à empresa
+Telekall Infoservice
+.
+8
+.
+CONCLUSÃO
+8
+.
+1
+.
+Considerando as provas coligidas aos autos, sugere-se a aplicação de pena de multa simples no valor de R$
+7.200,00 (sete mil e duzentos reais) à empresa Telekall Infoservice para a ofensa ao art. 5º do Regulamento de Fiscalização, 
+a
+aplicação de pena de multa simples no valor de R$ 7.200,00 (sete mil e duzentos reais) para a ofensa ao art. 7º da LGPD,
+totalizando R$ 14.400,00 (catorze mil e quatrocentos reais) de aplicação de multas simples, e 
+a aplicação de uma advertência
+para a infração ao art. 41 da LGPD.
+9
+.
+ENCAMINHAMENTOS
+9
+.
+1
+.
+O presente Relatório de Instrução deve ser encaminhado ao Coordenador-Geral de Fiscalização para decisão, de
+acordo com art. 55 da Resolução CD/ANPD nº 1/2021.
+9
+.
+2
+.
+Após proferida a decisão, o autuado deverá ser intimado para cumprimento da sanção e/ou apresentação de
+recurso, em até 10 dias úteis, em consonância com o art. 44 da Lei nº 9.784/99 e art. 58 da Resolução CD/ANPD nº 1/2021.
+9
+.
+3
+.
+A decisão deve ser publicada no DOU, segundo o art. 55 da Resolução CD/ANPD nº 1/2021.
+9
+.
+4
+.
+A multa deverá ser paga no prazo de até 20 (vinte) dias úteis, contados a partir da ciência oficial da decisão de
+aplicação da sanção, nos termos do art. 55, § 2º, II, da Resolução CD/ANPD nº 1/2021.
+9
+.
+5
+.
+Após trânsito em julgado, este Processo Administrativo Sancionador passa para a fase de cumprimento da
+decisão e inscrição na dívida ativa para acompanhamento de eventuais obrigações de fazer e pagamento da multa, sob pena de
+ser inscrito no Cadastro Informativo de Créditos não Quitados do Setor Público Federal (Cadin) e na Dívida Ativa da
+União, nos termos do art. 56 da Resolução CD/ANPD nº 1/2021.
+ 
+RAVVI AUGUSTO DE ABREU C. MADRUGA
+Coordenador de Fiscalização
+____________________________
+[1]
+ 
+Este Relatório de Instrução foi elaborado com a colaboração d
+e 
+Raíssa Alencar de Sá Barbosa, quando servidora nesta
+Coordenação-Geral de Fiscalização.
+[2]
+ TRE/SP. Estatísticas SP. Disponível em: https://www.tre-sp.jus.br/eleicoes/estatisticas/estatisticas. Visitado em 04/07/2023.
+Documento assinado eletronicamente por 
+Ravvi Augusto de Abreu Coutinho Madruga
+, 
+Coordenador(a)
+, em 05/07/2023, às
+11:18, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º, do 
+Decreto nº 10.543, de 13 de novembro de
+2020
+.
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 16
+[PAGINA 57]
+A autenticidade do documento pode ser conferida informando o código verificador  XXXXXXX e o código CRC XXXXXXXXX 
+no site: https://super.presidencia.gov.br/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0
+Referência: Processo nº 00261.000489/2022-62 SEI nº 4232669
+Relatório 1/2023 de Instrução (4232669)         SEI 00261.000489/2022-62 / pg. 17
+XXXXX
+[PAGINA 58]
+00261.000489/2022-62 
+ 
+PRESIDÊNCIA DA REPÚBLICA
+Coordenação-Geral de Fiscalização
+ 
+Brasília, 11 de maio de 2023.
+ 
+Despacho Decisório nº 17/2023/CGF/ANPD
+  
+Processo nº 00261.000489/2022-62
+ 
+Assunto: 
+Análise de confidencialidade de documentos
+ 
+1
+.
+Este despacho tem o objetivo de analisar a confidencialidade dos documentos que instruem
+o presente processo, que trata de procedimento administrativo fiscalizatório sancionatório em face da
+empresa 
+Telekall Inforservices (doravante autuada), nos termos do ANPD - Auto de Infração 3
+(
+3231560
+)
+. 
+2
+.
+Uma vez que não consta no processo pedido de confidencialidade por parte da autuada, esta
+análise será realizada de ofício pela Coordenação de Fiscalização. 
+ 
+ 
+Análise de sigilo de documentos
+ 
+Nº
+Documento
+Tipo de
+informação
+Incide sigilo?
+Fundamento
+legal do sigilo
+Justificativa
+Despacho Decisório 17 /2023/CGF/ANPD (4236158)         SEI 00261.000489/2022-62 / pg. 58
+[PAGINA 59]
+1
+ANPD - Auto de
+Infração 3
+(
+3231560
+)
+Auto de infração.
+Não
+N/A
+O auto de infração
+corresponde ao
+início formal do
+processo
+administrativo
+sancionador; por
+esse motivo,
+identifica o autuado
+e os dispositivos
+infringidos da
+LGPD, oferecendo
+os elementos para o
+exercício da ampla
+defesa do
+contraditório pelo
+regulado.
+ 
+O auto de infração,
+portanto, é público
+por dois motivos
+principais: não
+possui regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo;
+e, sobretudo, há
+interesse público
+sobre esse
+documento, na
+medida em que
+informa sobre as
+investigações
+conduzidas pela
+ANPD. 
+2
+Nota Técnica 20
+(
+3232292
+)
+Fundamento para
+a lavratura do
+auto de infração.
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+ 
+Documento
+importante por
+descrever os fatos e
+comportamentos que
+corresponderam à
+conduta infratora,
+com potencial
+educativo junto à
+sociedade. 
+Despacho Decisório 17 /2023/CGF/ANPD (4236158)         SEI 00261.000489/2022-62 / pg. 59
+[PAGINA 60]
+3
+Despacho
+Decisório nº 2
+(
+3232544
+)
+Decisão de
+instauração de
+processo
+administrativo
+sancionador.
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+4
+OFÍCIO 71
+(
+3232646
+)
+Intimação do
+autuado para
+apresentar
+defesa.
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+5
+Despacho
+(
+3232782
+)
+Medidas de
+instrução
+processual
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+6
+Recibo OFÍCIO
+Nº 71-2022-
+CGF-ANPD-PR
+&nbsp; com-
+anexos (
+3233278
+)
+Medidas de
+instrução
+processual
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+7
+Despacho
+(
+3233319
+)
+Medidas de
+instrução
+processual
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+8
+Correspondência
+Devolvida
+(
+3259205
+)
+Medidas de
+instrução
+processual
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+9
+E-mail (
+3264995
+)
+Medidas de
+instrução
+processual
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+Despacho Decisório 17 /2023/CGF/ANPD (4236158)         SEI 00261.000489/2022-62 / pg. 60
+[PAGINA 61]
+10
+Certidão 1
+(
+3264998
+)
+Medidas de
+instrução
+processual
+Parcialmente:
+números de
+telefone
+Art. 31, §1º, I, da
+Lei de Acesso à
+Informação
+(LAI)
+.
+Documento possui
+informações
+pessoais (telefone). 
+11
+Documento
+confirmação de e-
+mail e de
+recebimento
+(
+3267291
+)
+Medidas de
+instrução
+processual
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+12
+E-mail envio de
+documentação
+por Sedex
+(
+3277772
+)
+Medidas de
+instrução
+processual
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+13
+Defesa (
+3324700
+)
+Resposta da
+autuada aos
+questionamentos
+feitos pela ANPD
+Parcialmente:
+itens B, C, D,
+E e F. 
+Art. 6º, VI e 55-
+J, II, da 
+LGPD
+c/c art. 155, §2º
+da 
+Lei nº
+6.404/1976
+ e art.
+198 da 
+Lei nº
+5.172/7966
+.
+Apresenta a
+estratégia da
+autuada para o
+tratamento de dados
+pessoais e para a
+oferta de serviços,
+informações
+consideradas
+segredo comercial e
+industrial. 
+14
+Correspondência
+Sedex (
+3324709
+)
+Medidas de
+instrução
+processual
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+15
+Despacho
+(
+3446535
+)
+Decisão de
+sobrestamento do
+processo
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+16
+Despacho
+(
+4173110
+)
+Decisão de
+encerrar o
+sobrestamento do
+processo
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+Despacho Decisório 17 /2023/CGF/ANPD (4236158)         SEI 00261.000489/2022-62 / pg. 61
+[PAGINA 62]
+17
+ANPD - Ofício
+78 (
+4173119
+)
+Intimação do
+autuado para
+apresentar
+alegações finais.
+Não
+N/A
+Não contém 
+regras
+comerciais,
+protocolos de
+segurança, ou
+qualquer outra
+informação
+protegida por sigilo.
+ 
+ 
+3
+.
+Crie-se apartado para a inclusão dos documentos públicos do processo. 
+ 
+GABRIELLA VIEIRA OLIVEIRA GONÇALVES
+Especialista em Políticas Públicas e Gestão Governamental
+ 
+ 
+ 
+ 
+Documento assinado eletronicamente por 
+Gabriella Vieira Oliveira Gonçalves
+, 
+Assessor(a)
+Técnico(a)
+, em 17/05/2023, às 17:29, conforme horário oficial de Brasília, com fundamento no § 3º do
+art. 4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+4236158
+ e o código
+CRC 
+CE307918
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Processo nº 00261.000489/2022-62
+SUPER nº 4236158
+Despacho Decisório 17 /2023/CGF/ANPD (4236158)         SEI 00261.000489/2022-62 / pg. 62
+[PAGINA 63]
+ 00261.000489/2022-62
+ 
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+Coordenação-Geral de Fiscalização
+ 
+                   ANPD - Ofício Nº 118/2023/CGF/ANPD
+Brasília/DF, na data da assinatura.
+ 
+Ao Sr.
+EMMANUEL GOMES DE JESUS
+REPRESENTANTE LEGAL
+TELEKALL INFOSERVICES
+CNPJ(MF) nº 12.193.228/0001-24
+Rua Sete de Setembro, nº 13, sala 103 - Centro
+Vila Velha - ES - CEP 29.100-301
+[EMAIL]
+ 
+Assunto: Requisição de informações
+Referência: Processo SUPER nº 00261.000489/2022-62
+ 
+ 
+Senhor Emmanuel Gomes de Jesus,
+ 
+1
+.
+Requisita-se que Vossa Senhora apresente as informações de faturamento da empresa
+Telekall Infoservices descritas no quadro abaixo, no prazo de 5 (cinco) dias úteis, com vistas ao
+atendimento do art. 52, II, § 4
+o
+, da LGPD c/c os art. 11 e 15 da Resolução CD/ANPD nº 4/2023.
+ 
+Dados de faturamento da empresa Telekall Infoservices
+ 
+Dados
+Anos
+2021
+2022
+Faturamento bruto
+Informar valor
+Informar valor
+Tributos pagos
+Informar valor
+Informar valor
+Faturamento (-) tributos pagos
+Informar valor
+Informar valor
+ 
+2
+.
+Requisita-se que as informações acima sejam prestadas acompanhadas de Demonstrações
+Contábeis devidamente certificadas por contador habilitado junto ao seu Conselho Profissional.
+3
+.
+A resposta a este Ofício deve ser encaminhada preferencialmente por meio eletrônico no
+seguinte endereço de correio eletrônico: 
+[EMAIL]
+.
+ 
+Atenciosamente,
+ 
+ANPD - Ofício 118 (4262845)         SEI 00261.000489/2022-62 / pg. 63
+[PAGINA 64]
+RAVVI AUGUSTO DE ABREU C. MADRUGA
+Coordenador de Fiscalização
+Documento assinado eletronicamente por 
+Ravvi Augusto de Abreu Coutinho Madruga
+,
+Coordenador(a)
+, em 19/05/2023, às 16:58, conforme horário oficial de Brasília, com fundamento no §
+3º do art. 4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+4262845
+ e o código
+CRC 
+7AA55F88
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Caso responda este Ofício, indicar expressamente o Processo nº 00261.000489/2022-62
+SUPER nº 4262845
+Setor Comercial Norte - SCN, Quadra 6, Conjunto "A", Edifício Venâncio 3000, Bloco "A", 9º andar e 10º
+andar 
+Telefone: (61) 3411-4691
+CEP 70.716-900 Brasília/DF - https://www.gov.br/planalto/pt-br
+ 
+ANPD - Ofício 118 (4262845)         SEI 00261.000489/2022-62 / pg. 64
+[PAGINA 65]
+Certidão de Intimação Cumprida - 4314278
+Tipo de Destinatário:
+Pessoa Física
+Destinatário:
+Emmanuel Gomes de Jesus
+Tipo de Intimação:
+Requerimento de Informações
+Documento Principal da Intimação:
+ANPD - Ofício 118 (4262845)
+Data de Expedição da Intimação:
+19/05/2023 17:00:46
+Tipo de Cumprimento da Intimação:
+Por Decurso do Prazo Tácito
+Data do Cumprimento:
+05/06/2023
+Esta Certidão formaliza o cumprimento da intimação eletrônica referente aos dados acima, observado o seguinte:
+O Tipo de Cumprimento "Consulta Direta" indica que o "Destinatário" realizou a consulta aos documentos da
+intimação diretamente no sistema antes do término do Prazo Tácito para intimação.
+O Prazo Tácito para intimação é definido conforme normativo aplicável ao órgão, em que, a partir da
+"Data de Expedição da Intimação", o Destinatário possui o referido prazo para consultar os
+documentos diretamente no sistema, sob pena de ser considerado automaticamente intimado na data
+de término desse prazo.
+O Tipo de Cumprimento "Por Decurso do Prazo Tácito" indica que não ocorreu a mencionada consulta aos
+documentos da intimação diretamente no sistema, situação na qual a Certidão é gerada automaticamente na
+data de término desse prazo.
+No caso do Prazo Tácito terminar em dia não útil, a geração automática da Certidão ocorrerá somente
+no primeiro dia útil seguinte.
+Conforme regras de contagem de prazo processual e normas afetas a processo eletrônico, tanto no Prazo
+Tácito para intimação como nos possíveis prazos externos para Peticionamento de Resposta:
+sempre é excluído da contagem o dia do começo e incluído o do vencimento;
+o dia do começo e o do vencimento nunca ocorrem em dia não útil, prorrogando-o para o primeiro dia
+útil seguinte;
+a consulta a intimação ocorrida em dia não útil tem a correspondente data apresentada em linha
+separada, sendo a "Data do Cumprimento" a do primeiro dia útil seguinte.
+Para todos os efeitos legais, somente após a geração da presente Certidão e com base exclusivamente na
+"Data do Cumprimento" é que o Destinatário, ou a Pessoa Jurídica ou Física por ele representada, é
+considerado efetivamente intimado e são iniciados os possíveis prazos externos para Peticionamento de
+Resposta.
+Caso a intimação se dirija a Pessoa Jurídica, ela será considerada efetivamente intimada na "Data do
+Cumprimento" correspondente à primeira Certidão gerada referente a Usuário Externo que possua
+poderes de representação.
+Certidão de Intimação Cumprida (4314278)         SEI 00261.000489/2022-62 / pg. 65
+[PAGINA 66]
+ 
+ 
+00261.000489/2022-62
+ 
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+Coordenação-Geral de Fiscalização
+Brasília, na data de assinatura
+DESPACHO DECISÓRIO
+Processo Administrativo Sancionador nº 00261.000489/2022-62
+Autuado: Telekall Inforservice
+Representante Legal: Emmanuel Gomes de Jesus
+ 
+O 
+COORDENADOR-GERAL DE FISCALIZAÇÃO DA AUTORIDADE
+NACIONAL DE PROTEÇÃO DE DADOS - ANPD
+, no uso de suas atribuições legais e
+regulamentares, com fundamento no art. 17, inciso I, do Regimento Interno da ANPD, aprovado pela
+Portaria nº 1, de 8 de março de 2021, examinando os autos do processo em epígrafe, instaurado em face
+da 
+TELEKALL INFOSERVICE
+, inscrita no CNPF/MF sob o nº 11.193.228/0001-24, micro empresa,
+em razão dos indícios de infração à Lei Geral de Proteção de Dados Pessoais (LGPD); e
+CONSIDERANDO o teor do Relatório de Instrução nº 1/2023/CGF/ANPD
+ (
+4232669
+),
+cujas razões acolho e integro à presente decisão, inclusive como motivação, com fulcro no §1º do art. 50
+da Lei nº 9.784/1999 c/c o art. 55 e seguintes do Regulamento de Fiscalização, aprovado pela Resolução
+CD/ANPD nº 1/2021;
+DECIDE:
+1
+.
+Aplicar à empresa TELEKALL INFOSERVICE as sanções de:
+1
+.
+1
+.
+ADVERTÊNCIA
+, sem imposição de medidas corretivas, por infração ao art. 41 da LGPD;
+e
+1
+.
+2
+.
+MULTA SIMPLES,
+ nos valores de 
+R$ 7.200,00 (sete mil e duzentos reais) 
+por infração
+ao art. 7º da LGPD e de 
+R$ 7.200,00 (sete mil e duzentos reais)
+ por infração ao art. 5º do Regulamento
+de Fiscalização, 
+totalizando R$ 14.400,00 (catorze mil e quatrocentos reais)
+.
+1
+.
+2
+.
+1
+.
+Caso o autuado resolva, de acordo com o disposto no art. 18 do Regulamento de
+Fiscalização, renunciar expressamente ao direito de recorrer da decisão de primeira instância, fará jus
+a um fator de redução de 25% (vinte e cinco por cento) no valor da multa aplicada, desde que faça o
+recolhimento no prazo para pagamento definido no caput do art. 17 do Regulamento de Fiscalização,
+20 (vinte) dias úteis, totalizando nestas circunstâncias o montante de 
+R$ 10.800,00 (dez mil e
+oitocentos reais)
+.
+2
+.
+Pela intimação do autuado
+ para cumprimento da sanção e/ou apresentação de recurso, em
+até 10 (dez) dias úteis, em consonância com o art. 44 da Lei nº 9.784/99 c/c o art. 58 do Regulamento de
+Fiscalização. Advirto o autuado que a multa deverá ser paga no prazo de até 20 (vinte) dias úteis,
+contados a partir da ciência oficial da decisão de aplicação da sanção, nos termos do art. 55, §2º, II, do
+Regulamento de Fiscalização.
+3
+.
+Aguarde-se o trânsito em julgado. Após, em caso de não cumprimento desta decisão,
+Despacho Decisório CGF (4342793)         SEI 00261.000489/2022-62 / pg. 66
+[PAGINA 67]
+encaminhe-se este Processo Administrativo Sancionador para a Procuradoria Federal Especializada - PFE
+da ANPD para a execução da multa cominada, sob pena de inscrição do autuado no Cadastro Informativo
+de Créditos não Quitados do Setor Público Federal (Cadin) e na Dívida Ativa da União, nos termos do art.
+56 c/c art. 67 do Regulamento de Fiscalização.
+FABRÍCIO
+ GUIMAR
+Ã
+ES MADRUGA LOPES
+Coordenador-Geral de Fiscalização
+Documento assinado eletronicamente por 
+Fabricio Guimarães Madruga Lopes
+, 
+Coordenador(a)-
+Geral
+, em 05/07/2023, às 15:24, conforme horário oficial de Brasília, com fundamento no § 3º do art.
+4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+4342793
+ e o código
+CRC 
+4F44ABCF
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Processo nº 00261.000489/2022-62
+SUPER nº 4342793
+Despacho Decisório CGF (4342793)         SEI 00261.000489/2022-62 / pg. 67
+[PAGINA 68]
+26/06/2023, 19:08 about:blank
+about:blank 1/1
+ 
+REPÚBLICA FEDERATIVA DO BRASIL   CADASTRO NACIONAL DA PESSOA JURÍDICA 
+ 
+NÚMERO DE INSCRIÇÃO
+12.193.228/0001-24
+MATRIZ
+COMPROVANTE DE INSCRIÇÃO E DE SITUAÇÃO
+CADASTRAL
+DATA DE ABERTURA
+05/07/2010
+ 
+NOME EMPRESARIAL
+EMMANUEL GOMES DE JESUS
+ 
+TÍTULO DO ESTABELECIMENTO (NOME DE FANTASIA)
+TELEKALL INFOSERVICE
+PORTE
+ME
+ 
+CÓDIGO E DESCRIÇÃO DA ATIVIDADE ECONÔMICA PRINCIPAL
+********
+ 
+CÓDIGO E DESCRIÇÃO DAS ATIVIDADES ECONÔMICAS SECUNDÁRIAS
+********
+ 
+CÓDIGO E DESCRIÇÃO DA NATUREZA JURÍDICA
+213-5 - Empresário (Individual)
+ 
+LOGRADOURO
+********
+NÚMERO
+********
+COMPLEMENTO
+********
+ 
+CEP
+********
+BAIRRO/DISTRITO
+********
+MUNICÍPIO
+********
+UF
+********
+ 
+ENDEREÇO ELETRÔNICO
+[EMAIL]
+TELEFONE
+(27) 3229-0323/ (27) 3062-1210
+ 
+ENTE FEDERATIVO RESPONSÁVEL (EFR)
+*****
+ 
+SITUAÇÃO CADASTRAL
+INAPTA
+DATA DA SITUAÇÃO CADASTRAL
+09/02/2021
+ 
+MOTIVO DE SITUAÇÃO CADASTRAL
+Omissão De Declarações
+ 
+SITUAÇÃO ESPECIAL
+********
+DATA DA SITUAÇÃO ESPECIAL
+********
+Aprovado pela Instrução Normativa RFB nº 1.863, de 27 de dezembro de 2018.
+Emitido no dia 26/06/2023 às 18:59:30 (data e hora de Brasília). Página: 1/1
+Cartão CNPJ (4365729)         SEI 00261.000489/2022-62 / pg. 68
+[PAGINA 69]
+ 00261.000489/2022-62
+ 
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+Coordenação-Geral de Fiscalização
+ 
+ 
+                   ANPD - Ofício Nº 183/2023/CGF/ANPD
+Brasília, 05 de julho de 2023.
+ 
+Ao Sr.
+EMMANUEL GOMES DE JESUS
+REPRESENTANTE LEGAL
+TELEKALL INFOSERVICES
+CNPJ(MF) nº 12.193.228/0001-24
+Rua Sete de Setembro, nº 13, sala 103 - Centro
+Vila Velha - ES - CEP 29.100-301
+[EMAIL]
+ 
+ 
+Assunto: 
+Comunica decisão em Processo Administrativo Sancionador
+.
+Referência: 
+Processo SUPER nº 00261.000489/2022-62; Despacho Decisório CGF (SEI nº 
+4342793
+)
+ 
+Sr. Representante Legal,
+ 
+1
+.
+Em atenção ao disposto no art. 58 do 
+Regulamento de Fiscalização, aprovado pela
+Resolução CD/ANPD nº 1/2021,
+ e no art. 17, I e II, do Regimento Interno da ANPD, aprovado pela
+Portaria nº 1, de 8 de março de 2021, fica essa entidade notificada da decisão ocorrida no processo em
+epígrafe, consubstanciada no Despacho Decisório CGF (SEI nº 4342793) anexo. 
+2
+.
+De acordo com o art. 44, da Lei nº 9.784/99, e art. 58, do Regulamento de Fiscalização,
+este Ofício intima o infrator para cumprimento da sanção e/ou apresentação de recurso, em até 10 (dez)
+dias úteis contados do recebimento deste Ofício, perante a Coordenação-Geral de Fiscalização da ANPD,
+neste processo via acesso externo. As instruções para acesso externo podem ser obtidas no link
+https://www.gov.br/secretariageral/pt-br/sei-peticionamento-eletronico
+.
+3
+.
+Resulta da referida decisão a aplicação de 
+SANÇÃO DE MULTA
+, que poderá ser
+recolhida em até 20 (vinte) dias úteis contados do recebimento deste Ofício, de acordo com art. 17, do
+Regulamento de Dosimetria e Aplicação de Sanções Administrativas, aprovado pela Resolução
+CD/ANPD nº 4, de 24 de fevereiro de 2023. Para tanto, o boleto bancário segue anexo a este ofício.
+4
+.
+Alternativamente, no mesmo prazo para recurso, de 10 (dez) dias úteis contados do
+recebimento deste Ofício, essa entidade poderá apresentar petição de Renúncia ao direito de recorrer, na
+forma do art. 18 
+do Regulamento de Fiscalização
+. Em caso de deferimento da Renúncia, haverá um fator
+de redução de 25% (vinte e cinco por cento) no valor da multa aplicada, cabendo a essa empresa solicitar
+a expedição de novo boleto e efetuar o recolhimento até a data do novo vencimento.
+5
+.
+Após trânsito em julgado, este Processo Administrativo Sancionador passa para a fase de
+cumprimento da decisão e inscrição na dívida ativa para acompanhamento do pagamento da multa, sob
+pena de ser inscrito no Cadastro Informativo de Créditos não Quitados do Setor Público Federal (Cadin) e
+ANPD - Ofício 183 (4392598)         SEI 00261.000489/2022-62 / pg. 69
+[PAGINA 70]
+na Dívida Ativa da União.
+6
+.
+Consequentemente, fica essa empresa, 
+TELEKALL INFOSERVICES
+, cientificada de
+que o não pagamento integral do débito ou a não apresentação tempestiva de recurso, dentre outras
+consequências legalmente previstas, implicará:
+a
+)
+a adoção das medidas judiciais e extrajudiciais cabíveis, no âmbito da Procuradoria-
+Geral Federal, como o protesto extrajudicial (art. 1º, § único, da Lei nº 9.492/1997), a
+inscrição do devedor nos serviços de proteção ao crédito, como o SCPC, Serasa e afins e
+ajuizamento de execução fiscal (Lei nº 6.830/1980);
+b
+)
+a sua inscrição em Dívida Ativa, conforme artigo 2º da Lei nº 6.830/1980; e
+c
+)
+após o prazo de 75 (setenta e cinco) dias contados da data da ciência desta notificação,
+a inclusão no Cadastro Informativo de Créditos não Quitados do Setor Público Federal -
+CADIN, conforme estabelecido no artigo 2º, § 2º, da Lei nº 10.522/2002.
+7
+.
+Finalmente, informa-se que o acesso ao processo foi disponibilizado pera os endereços de
+e-mail cadastrados pela empresa junto à ANPD como aptos a receber as intimações eletrônicas enviadas
+pelo Sistema Único de Processos Eletrônicos em Rede (SUPER). 
+Atenciosamente,
+Anexo:
+I - Despacho Decisório CGF (SEI nº 
+4342793
+)
+ 
+II - GRU (SEI nº )
+RAVVI AUGUSTO DE ABREU C. MADRUGA
+Coordenador de Fiscalização
+Documento assinado eletronicamente por 
+Ravvi Augusto de Abreu Coutinho Madruga
+,
+Coordenador(a)
+, em 05/07/2023, às 18:00, conforme horário oficial de Brasília, com fundamento no §
+3º do art. 4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+4392598
+ e o código
+CRC 
+8DA2298E
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Caso responda este Ofício, indicar expressamente o Processo nº 00261.000489/2022-62
+SUPER nº 4392598
+Setor Comercial Norte - SCN, Quadra 6, Conjunto "A", Edifício Venâncio 3000, Bloco "A", 9º andar e 10º
+andar 
+Telefone: (61) 3411-4691
+CEP 70.716-900 Brasília/DF - https://www.gov.br/planalto/pt-br
+ 
+ANPD - Ofício 183 (4392598)         SEI 00261.000489/2022-62 / pg. 70
+[PAGINA 71]
+ 00261.000489/2022-62
+ 
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+Coordenação-Geral de Fiscalização
+ 
+ 
+                   OFÍCIO Nº 71/2023/CGF/ANPD
+Brasília, 05 de julho de 2023.
+ 
+À Coordenação-Geral de Administração - CGF
+ 
+Assunto:
+ 
+Publicação no Diário Oficial da União e Emissão de Guia de Recolhimento da União
+ 
+ 
+1
+.
+Encaminho o processo para que a decisão constante no Despacho Decisório CGF (SEI nº
+4342793
+) seja publicada no D.O.U., consoante comando do art. 55 do Regulamento de Fiscalização.
+2
+.
+Por oportuno, solicito seja expedida a Guia de Recolhimento da União e inserida nos autos
+para encaminhamento junto com o ANPD - Ofício 183 (SEI nº 
+4392598
+), para fins de notificação do
+interessado.
+Atenciosamente,
+FABRÍCIO GUIMARÃES MADRUGA LOPES
+Coordenador-Geral de Fiscalização
+Documento assinado eletronicamente por 
+Fabricio Guimarães Madruga Lopes
+, 
+Coordenador(a)-
+Geral
+, em 05/07/2023, às 15:25, conforme horário oficial de Brasília, com fundamento no § 3º do art.
+4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+4393879
+ e o código
+CRC 
+82D89329
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Caso responda este Ofício, indicar expressamente o Processo nº 00261.000489/2022-62
+SUPER nº 4393879
+Setor Comercial Norte - SCN, Quadra 6, Conjunto "A", Edifício Venâncio 3000, Bloco "A", 9º andar e 10º
+andar 
+Telefone: (61) 3411-4691
+CEP 70.716-900 Brasília/DF - https://www.gov.br/planalto/pt-br
+ 
+OFÍCIO 71 CGF (4393879)         SEI 00261.000489/2022-62 / pg. 71
+[PAGINA 72]
+Gerado a partir de http://consulta.tesouro.fazenda.gov.br/gru_novosite/gru_simples_parte2.asp
+MINISTÉRIO DA ECONOMIA 
+SECRETARIA DO TESOURO NACIONAL
+Guia de Recolhimento da União - GRU
+Código de Recolhimento
+20074-3
+Número de Referência
+0004
+Competência
+Vencimento
+02/08/2023
+Nome do Contribuinte / Recolhedor
+EMMANUEL GOMES DE JESUS
+CNPJ ou CPF do Contribuinte
+12.193.228/0001-24
+Nome da Unidade Favorecida
+FUNDO DE DEFESA DE DIREITOS DIFUSOS
+UG / Gestão
+200401 / 00001
+Instruções
+As informações inseridas nessa guia são de exclusiva responsabilidade
+do contribuinte,  que deverá, em caso de dúvidas, consultar
+a Unidade Favorecida dos recursos. 
+(=) Valor do Principal
+14.400,00
+(-) Desconto/Abatimento
+(-) Outras deduções
+(+) Mora / Multa
+(+) Juros / Encargos
+GRU SIMPLES
+Pagamento exclusivo no Banco do Brasil S.A.
+[STN0E345084526A27E03A0D48A885D175A5]
+(+) Outros Acréscimos
+(=) Valor Total
+14.400,00
+89990000144-5  00000001010-3  95523132007-2  40415322532-5
+MINISTÉRIO DA ECONOMIA
+SECRETARIA DO TESOURO NACIONAL
+Guia de Recolhimento da União - GRU
+Código de Recolhimento
+20074-3
+Número de Referência
+0004
+Competência
+Vencimento
+02/08/2023
+Nome do Contribuinte / Recolhedor
+EMMANUEL GOMES DE JESUS
+CNPJ ou CPF do Contribuinte
+12.193.228/0001-24
+Nome da Unidade Favorecida
+FUNDO DE DEFESA DE DIREITOS DIFUSOS
+UG / Gestão
+200401 / 00001
+Instruções
+As informações inseridas nessa guia são de exclusiva responsabilidade
+do contribuinte,  que deverá, em caso de dúvidas, consultar
+a Unidade Favorecida dos recursos. 
+(=) Valor do Principal
+14.400,00
+(-) Desconto/Abatimento
+(-) Outras deduções
+(+) Mora / Multa
+(+) Juros / Encargos
+GRU SIMPLES
+Pagamento exclusivo no Banco do Brasil S.A.
+[STN0E345084526A27E03A0D48A885D175A5]
+(+) Outros Acréscimos
+(=) Valor Total
+14.400,00
+89990000144-5  00000001010-3  95523132007-2  40415322532-5
+Guia de Recolhimento da União (4394031)         SEI 00261.000489/2022-62 / pg. 72
+[PAGINA 73]
+06/07/2023, 08:31 DESPACHO - DESPACHO - DOU - Imprensa Nacional
+https://www.in.gov.br/web/dou/-/despacho-494550988 1/1
+DIÁRIO OFICIAL DA UNIÃO
+Publicado em: 06/07/2023 | Edição: 127 | Seção: 1 | Página: 74
+Órgão: Ministério da Justiça e Segurança Pública/Autoridade Nacional de Proteção de Dados/Coordenação-Geral de Fiscalização
+DESPACHO
+Processo Administrativo Sancionador nº 00261.000489/2022-62
+Autuado: Telekall Inforservice
+Representante Legal: Emmanuel Gomes de Jesus
+O COORDENADOR-GERAL DE FISCALIZAÇÃO DA AUTORIDADE NACIONAL DE PROTEÇÃO DE
+DADOS - ANPD, no uso de suas atribuições legais e regulamentares, com fundamento no art. 17, inciso I, do
+Regimento Interno da ANPD, aprovado pela Portaria nº 1, de 8 de março de 2021, examinando os autos do
+processo em epígrafe, instaurado em face da TELEKALL INFOSERVICE, inscrita no CNPF/MF sob o nº
+11.193.228/0001-24, micro empresa, em razão dos indícios de infração à Lei Geral de Proteção de Dados
+Pessoais (LGPD); e
+CONSIDERANDO o teor do Relatório de Instrução nº 1/2023/CGF/ANPD (4232669), cujas
+razões acolho e integro à presente decisão, inclusive como motivação, com fulcro no §1º do art. 50 da Lei
+nº 9.784/1999 c/c o art. 55 e seguintes do Regulamento de Fiscalização, aprovado pela Resolução
+CD/ANPD nº 1/2021;, decide:
+1. Aplicar à empresa TELEKALL INFOSERVICE as sanções de:
+1.1. ADVERTÊNCIA, sem imposição de medidas corretivas, por infração ao art. 41 da LGPD; e
+1.2. MULTA SIMPLES, nos valores de R$ 7.200,00 (sete mil e duzentos reais) por infração ao art.
+7º da LGPD e de R$ 7.200,00 (sete mil e duzentos reais) por infração ao art. 5º do Regulamento de
+Fiscalização, totalizando R$ 14.400,00 (catorze mil e quatrocentos reais).
+1.2.1. Caso o autuado resolva, de acordo com o disposto no art. 18 do Regulamento de
+Fiscalização, renunciar expressamente ao direito de recorrer da decisão de primeira instância, fará jus a um
+fator de redução de 25% (vinte e cinco por cento) no valor da multa aplicada, desde que faça o
+recolhimento no prazo para pagamento deﬁnido no caput do art. 17 do Regulamento de Fiscalização, 20
+(vinte) dias úteis, totalizando nestas circunstâncias o montante de R$ 10.800,00 (dez mil e oitocentos
+reais).
+2. Pela intimação do autuado para cumprimento da sanção e/ou apresentação de recurso, em
+até 10 (dez) dias úteis, em consonância com o art. 44 da Lei nº 9.784/99 c/c o art. 58 do Regulamento de
+Fiscalização. Advirto o autuado que a multa deverá ser paga no prazo de até 20 (vinte) dias úteis, contados
+a partir da ciência oﬁcial da decisão de aplicação da sanção, nos termos do art. 55, §2º, II, do Regulamento
+de Fiscalização.
+3. Aguarde-se o trânsito em julgado. Após, em caso de não cumprimento desta decisão,
+encaminhe-se este Processo Administrativo Sancionador para a Procuradoria Federal Especializada - PFE
+da ANPD para a execução da multa cominada, sob pena de inscrição do autuado no Cadastro Informativo
+de Créditos não Quitados do Setor Público Federal (Cadin) e na Dívida Ativa da União, nos termos do art. 56
+c/c art. 67 do Regulamento de Fiscalização.
+FABRÍCIO GUIMARÃES MADRUGA LOPES
+Este conteúdo não substitui o publicado na versão certiﬁcada.
+Despacho Decisório CGF - DOU (4395489)         SEI 00261.000489/2022-62 / pg. 73
+[PAGINA 74]
+ 
+ 
+00261.000489/2022-62
+ 
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+Coordenação-Geral de Fiscalização
+Brasília, na data de assinatura
+DESPACHO DECISÓRIO DE RETIFICAÇÃO
+Processo Administrativo Sancionador nº 00261.000489/2022-62
+Autuado: Telekall Inforservice
+Representante Legal: Emmanuel Gomes de Jesus
+ 
+No Despacho Decisório CGF (
+4342793
+), de 05 de julho de 2023, publicado no Diário
+Oficial da União do dia 06 de julho de 2023, Seção 1, Página 74, onde se lê: "instaurado em face
+da TELEKALL INFOSERVICE, inscrita no CNPF/MF sob o nº 11.193.228/0001-24", leia-se: "instaurado
+em face da TELEKALL INFOSERVICE, inscrita no CNPJ/MF sob o nº 12.193.228/0001-24," (Processo
+SEI nº 00261.000489/2022-62).
+FABRÍCIO
+ GUIMAR
+Ã
+ES MADRUGA LOPES
+Coordenador-Geral de Fiscalização
+Documento assinado eletronicamente por 
+Fabricio Guimarães Madruga Lopes
+, 
+Coordenador(a)-
+Geral
+, em 06/07/2023, às 16:01, conforme horário oficial de Brasília, com fundamento no § 3º do art.
+4º, do 
+Decreto nº 10.543, de 13 de novembro de 2020
+.
+A autenticidade do documento pode ser conferida informando o código verificador 
+4395929
+ e o código
+CRC 
+B8ED3D09
+ no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência:
+ Processo nº 00261.000489/2022-62
+SUPER nº 4395929
+Despacho Decisório CGF (4395929)         SEI 00261.000489/2022-62 / pg. 74
+[PAGINA 75]
+Documento assinado digitalmente conforme MP nº 2.200-2 de 24/08/2001,
+que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil.
+Este documento pode ser verificado no endereço eletrônico
+http://www.in.gov.br/autenticidade.html, pelo código 05152023070700093
+93
+Nº 128, sexta-feira, 7 de julho de 2023ISSN 1677-7042Seção 1
+Classificação Pretendida: Não recomendado para menores de 12 (doze) anos
+Classificação Atribuída: Não recomendado para menores de 12 (doze) anos
+Recomenda-se sua exibição a partir das 20 (vinte) horas, quando apresentado em TV aberta.
+Contém: Drogas Lícitas, Linguagem imprópria e Violência
+Processo: 08017.001503/2023-20
+EDUARDO DE ARAÚJO NEPOMUCENO
+PORTARIA CPCIND/SENAJUS/MJSP Nº 1.037, DE 6 DE JULHO DE 2023
+O COORDENADOR DE POLÍTICA DE CLASSIFICAÇÃO INDICATIVA, no uso de
+suas atribuições, tendo em vista o disposto nos artigos 21, inciso XVI, e 220, parágrafo
+3º, inciso I, da Constituição Federal; artigo 74 da Lei 8.069, de 13 de julho de 1990, e
+com fundamento na Portaria MJ nº 502, de 23 de novembro de 2021, resolve
+classificar:
+Título no Brasil: Ursinho Pooh: Sangue e Mel (Reino Unido - 2023)
+Título Original: Winnie-the-Pooh: Blood and Honey
+Categoria: Longa-metragem
+Diretor(es): Rhys Frake-Waterfield
+Criador(es): ITN Distribution, Jagged Edge Productions
+Distribuidor(es): Califórnia Filmes
+Classificação Pretendida: Não recomendado para menores de 16 (dezesseis) 
+anos
+Classificação Atribuída: Não recomendado para menores de 18 (dezoito) anos
+Recomenda-se sua exibição a partir das 23 (vinte e três) horas, quando apresentado em TV aberta.
+Contém: Conteúdo Sexual, Medo e Violência Extrema
+Processo: 08017.001507/2023-16
+EDUARDO DE ARAÚJO NEPOMUCENO
+PORTARIA CPCIND/SENAJUS/MJSP Nº 1.038, DE 6 DE JULHO DE 2023
+O COORDENADOR DE POLÍTICA DE CLASSIFICAÇÃO INDICATIVA, no uso de
+suas atribuições, tendo em vista o disposto nos artigos 21, inciso XVI, e 220, parágrafo
+3º, inciso I, da Constituição Federal; artigo 74 da Lei 8.069, de 13 de julho de 1990, e
+com fundamento na Portaria MJ nº 502, de 23 de novembro de 2021, resolve
+classificar:
+Título no Brasil: Codinome Clemente (Brasil - 2017)
+Título Original: Codinome Clemente
+Categoria: Longa-metragem
+Diretor(es): Isa Albuquerque
+Criador(es): Iris Cinematográfica
+Distribuidor(es): O2 Produções Artísticas e Cinematográficas
+Classificação Pretendida: Não recomendado para menores de 12 (doze) anos
+Classificação Atribuída: Não recomendado para menores de 14 (quatorze) anos
+Recomenda-se sua exibição a partir das 21 (vinte e uma) horas, quando aprese
+ntado em
+TV aberta
+Contém: Drogas Lícitas, Temas Sensíveis e Violência
+Processo: 08017.001512/2023-11
+EDUARDO DE ARAÚJO NEPOMUCENO
+PORTARIA CPCIND/SENAJUS/MJSP Nº 1.039, DE 6 DE JULHO DE 2023
+O COORDENADOR DE POLÍTICA DE CLASSIFICAÇÃO INDICATIVA, no uso de
+suas atribuições, tendo em vista o disposto nos artigos 21, inciso XVI, e 220 , parágrafo
+3º, inciso I, da Constituição Federal; artigo 74 da Lei 8.069, de 13 de julho de 1990, e
+com fundamento na Portaria MJ nº 502, de 23 de novembro de 2021, resolve
+classificar:
+Título no Brasil: Barbie (Estados Unidos - 2023)
+Título Original: Barbie
+Categoria: Longa-metragem
+Diretor(es): Greta Gerwig
+Criador(es): Tom Ackerley, Robbie Brenner, David Heyman, Margot Robbie
+Distribuidor(es): Warner Bros (South) Inc
+Classificação Pretendida: Não recomendado para menores de 12 (doze) anos
+Classificação Atribuída: Não recomendado para menores de 12 (doze) anos
+Recomenda-se sua exibição a partir das 20 (vinte) horas, quando apresentad
+o em TV aberta.
+Contém: Linguagem imprópria, Temas Sensíveis e Violência
+Processo: 08017.001508/2023-52
+EDUARDO DE ARAÚJO NEPOMUCENO
+PORTARIA CPCIND/SENAJUS/MJSP Nº 1.040, DE 6 DE JULHO DE 2023
+O COORDENADOR DE POLÍTICA DE CLASSIFICAÇÃO INDICATIVA, no uso de
+suas atribuições, tendo em vista o disposto nos artigos 21, inciso XVI, e 220, parágrafo
+3º, inciso I, da Constituição Federal; artigo 74 da Lei 8.069, de 13 de julho de 1990, e
+com fundamento na Portaria MJ nº 502, de 23 de novembro de 2021, resolve
+classificar:
+Título no Brasil: Alma Viva (França e Portugal - 2023)
+Título Original: Alma Viva
+Categoria: Trailer
+Diretor(es): Cristèle Alves Meira
+Criador(es): Gaëlle Mareschi, Pedro Borges, Raquel Morte, Sébastien Delloye
+Distribuidor(es): Imovision
+Classificação Pretendida: Não recomendado para menores de 14 (quatorze) a
+nos
+Classificação Atribuída: Não recomendado para menores de 12 (doze) anos
+Recomenda-se sua exibição a partir das 20 (vinte) horas, quando apresentado em TV aberta.
+Contém: Linguagem imprópria, Temas Sensíveis e Violência
+Processo: 08017.001486/2023-21
+EDUARDO DE ARAÚJO NEPOMUCENO
+PORTARIA CPCIND/SENAJUS/MJSP Nº 1.041, DE 6 DE JULHO DE 2023
+O COORDENADOR DE POLÍTICA DE CLASSIFICAÇÃO INDICATIVA, no uso de
+suas atribuições, tendo em vista o disposto nos artigos 21, inciso XVI, e 220, parágrafo
+3º, inciso I, da Constituição Federal; artigo 74 da Lei 8.069, de 13 de julho de 1990, e
+com fundamento na Portaria MJ nº 502, de 23 de novembro de 2021, resolve
+classificar:
+Título no Brasil: Patos! (Estados Unidos - 2023)
+Título Original: Migration
+Categoria: Trailer
+Diretor(es): Benjamin Renner, Guylo Homsy
+Distribuidor(es): Warner Bros South Inc.
+Classificação Pretendida: Livre
+Classificação Atribuída: Livre
+Contém: Violência Fantasiosa
+Processo: 08017.001393/2023-04
+EDUARDO DE ARAÚJO NEPOMUCENO
+AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+COORDENAÇÃO-GERAL DE FISCALIZAÇÃO
+R E T I F I C AÇ ÃO
+Processo Administrativo Sancionador nº 00261.000489/2022-62
+Autuado: Telekall Inforservice
+Representante Legal: Emmanuel Gomes de Jesus
+No Despacho Decisório CGF, de 05 de julho de 2023, publicado no Diário Oficial
+da União do dia 06 de julho de 2023, Edição 127, Seção 1, Página 74:
+Onde se lê: "instaurado em face da TELEKALL INFOSERVICE, inscrita no
+CNPF/MF sob o nº 11.193.228/0001-24"
+Leia-se: "instaurado em face da TELEKALL INFOSERVICE, inscrita no CNPJ/MF
+sob o nº 12.193.228/0001-24"
+CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA
+ATA DA 90ª SESSÃO EXTRAORDINÁRIA DE DISTRIBUIÇÃO
+REALIZADA EM 6 DE JULHO DE 2023
+Dia: 06/07/2023
+Hora: 15h30
+Presidente: Alexandre Cordeiro Macedo
+Secretária do Plenário Substituta: Iara do Espírito Santo
+A distribuição é realizada nos termos do §1º, artigo 36 do Regimento Interno
+do Cade e iniciará sem os nomes dos Conselheiros Gustavo Augusto Freitas de Lima, Sérgio
+Costa Ravagnani e Luiz Augusto Azevedo de Almeida Hoffmann que foram os rela
+tores
+sorteados na Sessão Ordinária de Distribuição nº 287.
+Foi distribuído pelo sistema de sorteio o seguinte feito:
+1. Ato de Concentração n° 08700.009574/2022-81
+Requerentes: TV SBT Canal 4 de São Paulo S.A. (SBT), Rádio e Televisão Record
+S.A. (Record), TV Ômega Ltda. (RedeTV), Simba Content - Intermediação e Agenciamento
+de Conteúdos Ltda. (Simba).
+Advogados: Maria Eugênia Novis e Ivan Fernandes.
+Terceiros Interessados: Associação NEOTV (NEO).
+Advogados: Ademir Antonio Pereira Junior, Andre Funtowicz, Bruna Luiza Pr
+inet
+de Morais, Yan Villela Vieira e outros.
+Relator: Víctor Oliveira Fernandes
+ALEXANDRE CORDEIRO MACEDO
+Presidente do Conselho
+DESPACHO DE 6 DE JULHO DE 2023
+DESPACHO DECISÓRIO Nº 28/2023/GAB3/CADE
+Processo Administrativo nº 08700.001414/2017-27
+Representante: Cade ex officio
+Representados: Jean Louis Bruyère
+Advogados: Não informado[1] .
+Relator: Conselheiro Gustavo Augusto.
+VERSÃO DE ACESSO PÚBLICO
+1. Trata-se de processo administrativo instaurado em face de JEAN LOUIS
+BRUYÈRE em decorrência do julgamento do PA nº 08700.003718/2015-67, no qua l se
+promoveu o julgamento de suposto cartel no mercado nacional de resinas para
+revestimentos (coating-alquídicas)[2] e resinas para compósitos (resinas poliéster e
+resinas fenólicas)[3]. O presente processo administrativo foi instaurado por força do
+art. 148, inciso III do Regimento Interno do CADE, conforme esclarecido na Nota
+Técnica nº 23/2017/CGAA6/SGA2SG/CADE (SEI 0310940), acolhida pelo Despa cho SG nº
+264/2017 (SEI 0310942), diante das dificuldades de se notificar o representado.
+2 .Em 29 de agosto de 2019, por meio do Ofício nº 5.854/2019 (SEI
+0654732), foi encaminhada carta-alerta ao representado, a fim de comunicá-lo a
+respeito da instauração deste Processo Administrativo. Contudo, naquela ocasião, não
+foi apresentada nenhuma resposta ou confirmação de recebimento da notificação.
+3. Em 17 de junho de 2020, foi encaminhado o Ofício nº 4.449/2020 (SEI
+0768850) à CGCI/DG/DPF solicitando informações acerca do Representado. Em
+resposta, a Interpol (por meio do e-mail nº 15.747/2020 - SEI 0791646) forneceu dados
+pessoais de Jean Louis Bruyère, bem como informou seu último endereço
+conhecido.
+4.Diante disto, foi encaminhada a Notificação (SEI 0830711), por meio do
+Ofício nº 8.042/2020 (SEI 0831003), para o endereço informado pela Interpol. Com
+efeito, o referido representado foi devidamente notificado e cientificad
+o da instauração
+do presente processo (SEI 0888494).
+5.Em 07 de abril de 2021, foi iniciado o prazo para defesa, conforme
+Certidão de Notificação DIAP (SEI 0889263).
+6.Em 13 de abril de 2021, o Representado apresentou procuração nos autos
+e solicitação de acesso ao Apartado Restrito (SEI 0891319). A solicitação foi acolhida
+pelo Despacho Decisório nº 289/2021 (SEI 0891349).
+7. Em 05 de maio de 2021, período próximo ao fim do prazo de defesa, os
+advogados constituídos apresentaram petição informando a renúncia aos po deres
+outorgados pelo Representado Jean Louis Bruyère (SEI 0900272). Contudo, os
+advogados não apresentaram a defesa técnica em favor do acusado.
+8.Diante da proximidade do término do período de defesa, em 12 de maio
+de 2021, conforme relatado na Nota Técnica nº 82/2023/CGAA6/SGA2/SG/CADE (SEI
+1248095), foi solicitado, por e-mail, aos seus Representantes Legais, esclarecimentos e
+confirmação da renúncia aos poderes outorgados, bem como da ausência de
+manifestação de defesa (a fim de garantir o devido decurso processual). Em resposta,
+foi reafirmada a revogação expressa e formal do mandato de representação, além da
+reiteração da não apresentação de defesa.
+9.Em razão disso, nos termos do Despacho SG nº 897/2021 (SEI 0921949),
+que acolheu a Nota Técnica nº 79/2021/CGAA6/SG2/SG/CADE (SEI 0921948), foram
+declarados os efeitos da revelia para o Representado.
+10.Ato contínuo, por meio do Despacho de Encerramento Processo
+Administrativo nº 10/2023 (SEI 1250028), acolhendo os termos da Nota Técnica nº
+83/2023/CGAA6/SGA2/SG/CADE (SEI 1249911), a Superintendente-Geral Substituta
+opinou pela condenação do Representado Jean Louis Bruyère, por entender que suas
+condutas configuraram infração à ordem econômica, nos termos do artigo 20, inciso I
+e 21, inciso I, da Lei nº 8.884/94, correspondente ao artigo 36, inciso I e §3º , inciso
+I, alínea "a", da Lei nº 12.529/11, recomendando-se, com isso, a aplicação de multa
+por infração à ordem econômica nos termos da Lei de Defesa da Concorrência, além
+das demais penalidades cabíveis.
+11.Em 04/07/2023, os presentes autos foram distribuídos à minha relatoria
+,
+conforme certidão SEI 1255046.
+12.Em exame ao caso em apreço, chama a atenção o fato de os patronos
+constituídos pelo Representado terem renunciado à sua função no curso do pr azo de
+defesa concedido, sem terem tomado as cautelas que seriam esperadas para a efetiva
+defesa do representado. Apesar de a renúncia ser facultada ao advogado a qua
+lquer
+tempo, esse comportamento não pode comprometer a situação do mandante, nem
+prejudicar a sua defesa técnica. Senão, vejamos o que dispõe o art. 112 da Lei nº
+13.105/2015 (Código de processo Civil):
+Art. 112. O advogado poderá renunciar ao mandato a qualquer tempo,
+provando, na forma prevista neste Código, que comunicou a renúncia ao mandante, a
+fim de que este nomeie sucessor.
+§ 1º Durante os 10 (dez) dias seguintes, o advogado continuará a
+representar o mandante, desde que necessário para lhe evitar prejuízo;
+§ 2º Dispensa-se a comunicação referida no caput quando a procuração
+tiver sido outorgada a vários advogados e a parte continuar representada por outro,
+apesar da renúncia.
+Retificação Despacho Decisório CGF (4399675)         SEI 00261.000489/2022-62 / pg. 1
+[PAGINA 76]
+Certidão de Intimação Cumprida - 4402677
+Tipo de Destinatário:
+Pessoa Física
+Destinatário:
+Emmanuel Gomes de Jesus
+Tipo de Intimação:
+Decisão Administrativa
+Documento Principal da Intimação:
+ANPD - Ofício 183 (4392598)
+Data de Expedição da Intimação:
+05/07/2023 18:02:43
+Tipo de Cumprimento da Intimação:
+Consulta Direta
+Data do Cumprimento:
+10/07/2023
+Usuário Responsável pelo Cumprimento:
+Emmanuel Gomes de Jesus
+Esta Certidão formaliza o cumprimento da intimação eletrônica referente aos dados acima, observado o seguinte:
+O Tipo de Cumprimento "Consulta Direta" indica que o "Destinatário" realizou a consulta aos documentos da
+intimação diretamente no sistema antes do término do Prazo Tácito para intimação.
+O Prazo Tácito para intimação é definido conforme normativo aplicável ao órgão, em que, a partir da
+"Data de Expedição da Intimação", o Destinatário possui o referido prazo para consultar os
+documentos diretamente no sistema, sob pena de ser considerado automaticamente intimado na data
+de término desse prazo.
+O Tipo de Cumprimento "Por Decurso do Prazo Tácito" indica que não ocorreu a mencionada consulta aos
+documentos da intimação diretamente no sistema, situação na qual a Certidão é gerada automaticamente na
+data de término desse prazo.
+No caso do Prazo Tácito terminar em dia não útil, a geração automática da Certidão ocorrerá somente
+no primeiro dia útil seguinte.
+Conforme regras de contagem de prazo processual e normas afetas a processo eletrônico, tanto no Prazo
+Tácito para intimação como nos possíveis prazos externos para Peticionamento de Resposta:
+sempre é excluído da contagem o dia do começo e incluído o do vencimento;
+o dia do começo e o do vencimento nunca ocorrem em dia não útil, prorrogando-o para o primeiro dia
+útil seguinte;
+a consulta a intimação ocorrida em dia não útil tem a correspondente data apresentada em linha
+separada, sendo a "Data do Cumprimento" a do primeiro dia útil seguinte.
+Para todos os efeitos legais, somente após a geração da presente Certidão e com base exclusivamente na
+"Data do Cumprimento" é que o Destinatário, ou a Pessoa Jurídica ou Física por ele representada, é
+considerado efetivamente intimado e são iniciados os possíveis prazos externos para Peticionamento de
+Resposta.
+Caso a intimação se dirija a Pessoa Jurídica, ela será considerada efetivamente intimada na "Data do
+Cumprimento" correspondente à primeira Certidão gerada referente a Usuário Externo que possua
+poderes de representação.
+Certidão de Intimação Cumprida (4402677)         SEI 00261.000489/2022-62 / pg. 111
+[PAGINA 77]
+E-mail - 4402872
+Data de Envio
+: 
+  10/07/2023 09:19:46
+De
+: 
+  PR/Expedição <[EMAIL]>
+Para
+:
+    [EMAIL]
+Assunto
+: 
+  Comunica decisão em Processo Administrativo Sancionador.
+Mensagem
+: 
+  Encaminho o ANPD - Ofício 183 (4392598) e os anexos: Relatório 1/2023 de Instrução (4232669), Despacho
+Decisório CGF (4342793), Despacho Decisório CGF (4395929), Guia de Recolhimento da União (4394031).
+NUP 00261.000489/2022-62.
+Favor acusar recebimento, respondendo a esse e-mail, para controle interno.
+Informo ainda que apenas protocolizamos a documentação, cabendo as Unidades de instrução as devidas
+informações.
+Alessandra Pinto de Andrade
+Responsável pelo Protocolo Central
+Secretaria-Executiva da Casa Civil
+Secretaria de Administração
+Diretoria de Recursos Logísticos
+Coordenação de Documentação
+Protocolo Central da Presidência da República
+Palácio do Planalto, Complexo N2, 1º piso Brasília/DF
++ 55 (61) 3411-2487
+[EMAIL]
+Classificação: RESTRITO ( ) PÚBLICO (X)
+"O Protocolo Central está trabalhando de acordo com a Lei nº 13.709, de 14 de agosto de 2018
+- Lei Geral de Proteção de Dados Pessoais (LGPD), para o tratamento dos dados pessoais que
+envolvam a recepção, classificação, processamento e compartilhamento das informações com
+órgãos da administração pública federal competentes ao assunto descrito na sua
+correspondência".
+Anexos
+:
+    ANPD___Oficio_4392598.html
+    Relatorio_4232669.html
+    Despacho_4342793.html
+    Despacho_4395929.html
+    Guia_4394031_boletoGRU.pdf
+E-mail TELEKALL INFOSERVICES (4402872)         SEI 00261.000489/2022-62 / pg. 112
+[PAGINA 78]
+Destinatário: Senhor EMMANUEL GOMES DE JESUS
+REPR. LEGAL TELEKALL INFOS
+Rua Sete de Setembro nº 13, sala 103, .
+Centro de Vila Velha
+29100-301 Vila Velha/ES
+ 
+Remetente: DGP/ANPD AUTORIDADE NACIONAL DE
+PROTEÇÃO DE DADOS
+SCN Quadra 6 Conjunto "A", Edifício Venâncio, 3000
+Bloco "A", 9º andar e 10º anda Asa Norte
+70716-900 Brasília-DF
+Peso (g): 20
+TH300705927BR
+Obs: ANPD - Ofício Nº
+183/2023/CGF/ANPD com-anexos
+ 
+NF:
+SEC DE ADMIN DA PRES
+DA REPUBLICA
+9912280478 / 2011 / DR-BSB
+Pedido: 0
+ 
+Nome Legível:_____________________________________________
+Documento:__________________
+0
+Rubrica:_____________________
+AR
+ENTREGA NO VIZINHO
+NÃO AUTORIZADA
+Recibo ANPD - Ofício Nº 183/2023/CGF/ANPD (4418975)         SEI 00261.000489/2022-62 / pg. 113

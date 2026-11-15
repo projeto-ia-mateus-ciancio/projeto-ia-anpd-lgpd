@@ -1,0 +1,111 @@
+{
+  "id": "P09",
+  "processo": "00261.001969/2022-41",
+  "rodada": 1,
+  "modelo": "qwen3:8b",
+  "versao_prompt": "v1",
+  "entrada": "texto_paginas_selecionadas",
+  "falha_do_modelo": false,
+  "segundos": 15.9,
+  "uso": {
+    "tokens_entrada": 18698,
+    "tokens_saida": 720
+  },
+  "data_utc": "2026-11-15T19:24:03+00:00",
+  "extracao": {
+    "papel": "controlador",
+    "setor": "publico",
+    "fase": "sugerida_no_relatorio",
+    "condutas": [
+      {
+        "dispositivo": "LGPD art. 48",
+        "descricao": "Ausência de comunicação eficiente de incidente de segurança à autoridade e aos titulares",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "multa_simples",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "multa_diaria",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "publicizacao",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "bloqueio",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "eliminacao",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "suspensao_banco",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "suspensao_tratamento",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "proibicao_tratamento",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "O IAMSPE não realizou a comunicação em tempo razoável e, mesmo quando o fez, seu teor foi insuficiente, em infringência ao art. 48 da LGPD."
+      },
+      {
+        "dispositivo": "LGPD art. 49",
+        "descricao": "Insuficiência de sistema de segurança para tratamento de dados pessoais",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "multa_simples",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "multa_diaria",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "publicizacao",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "bloqueio",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "eliminacao",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "suspensao_banco",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "suspensao_tratamento",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "proibicao_tratamento",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "Tais fatos demonstram, de forma inequívoca, que os sistemas do IAMSPE, à época do incidente, não atendiam às exigências do art. 49 da LGPD."
+      }
+    ],
+    "evidencia_papel": "nulo"
+  }
+}

@@ -1,0 +1,871 @@
+[PAGINA 1]
+Processo nº 00261.001886/2022-51
+Autoridade Nacional de Proteção de Dados
+Coordenação-Geral de Fiscalização
+Coordenação de Fiscalização
+ Nº 4/2023/FIS/CGF/ANPD[1]
+1. IDENTIFICAÇÃO
+1.1. Nome/Razão Social do Autuado: Secretaria de Estado da Saúde de Santa Catarina
+1.2. CPF/CNPJ do Autuado: 82.951.245/0001-69
+1.3. Agente de tratamento: (X) Controlador ( ) Operador
+1.4. Nome do Encarregado ou Responsável Jurídico: Luiz Fernando de Oliveira Vieira
+Goulart
+1.5. Contato do Encarregado ou Responsável Jurídico: [EMAIL]
+2. REFERÊNCIAS
+2.1. Lei nº 13.709, de 14 de agosto de 2018 – Lei de Geral de Proteção de Dados Pessoais
+(LGPD);
+2.2. Regimento Interno da Autoridade Nacional de Proteção de Dados, aprovado pela Portaria nº
+01, de 08/03/2021 (RI-ANPD);
+2.3. Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador no
+âmbito da ANPD, aprovado pela Resolução CD/ANPD nº 1, de 28/10/2021 (Regulamento de Fiscalização
+- RF);
+2.4. Regulamento de Dosimetria e Aplicação de Sanções Administrativas, aprovado pela
+Resolução CD/ANPD nº 4, de 24/02/2023 (Regulamento de Dosimetria);
+2.5. Processo SEI/ANPD nº 00261.001020/2021-60.
+3. SUMÁRIO EXECUTIVO DO PROCESSO
+3.1. Auto de Infração: 14/09/2022 - Auto de Infração 9/2022/CGF/ANPD (SEI nº 3617432)
+3.2. Intimação: 14/09/2022 - Certidão de Intimação Cumprida (SEI nº 3660552)
+3.3. Dados de quem recebeu a intimação: Luiz Fernando de Oliveira Vieira Goulart,
+[EMAIL]
+3.4. Forma da Intimação: (X) Meio eletrônico ( ) Via postal ( ) Pessoal ( ) Comparecimento
+pessoal ( ) Por edital ( ) Cooperação internacional ( ) Outro meio
+3.5. Dispositivo(s) Legal(is) e Regulamentar(es) Infringido(s):
+a) Lei Geral de Proteção de Dados:
+Artigo 38 - Controlador não apresentou RIPD após solicitação da ANPD
+Artigo 48 - Não apresentou CIS ao titular em prazo razoável
+Artigo 49 - Sistema não atendeu aos requisitos de segurança
+RELATÓRIO DE INSTRUÇÃO
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1240
+[PAGINA 2]
+b) Regulamento de Fiscalização:
+Artigo 5º - Agente de tratamento não apresentou documentos requisitados pela ANPD
+3.6. Defesa: 03/10/2022 - Defesa Defesa Administrativa (SEI nº 3666467); Anexo
+Manifestações encarregado (SEI nº 3666468); Termo Proposta TAC (SEI nº 3666469); Relatorio RIPD
+(SEI nº 3666470).
+3.7. Produção de Prova(s) pelo Autuado: (X) Não ( )Sim.
+3.8. Produção de Prova(s) pelo Denunciante/ Titular: (X) Não ( )Sim.
+3.9. Produção de Prova(s) pela ANPD: (X) Não ( ) Sim.
+3.10. Terceiro(s) Interessado(s): (X) Não ( ) Sim.
+3.11. Termo de Ajustamento de Conduta: (X)Não ( )Sim.
+3.12. Alegações Finais: ( )Não (X)Sim. - Alegações Alegações finais (SEI nº 4470739); Parecer
+Parecer encarregado de dados (SEI nº 4470740); Anexo Anexo I (SEI nº 4470741); Anexo Anexo II (SEI
+nº 4470742); Anexo Anexo III (SEI nº 4470743); Anexo Anexo IV (SEI nº 4470744); Anexo Anexo V
+(SEI nº 4470745).
+3.13. Medida(s) Preventiva(s) Aplicada(s) com base no Art. 32 do Regulamento de Fiscalização:
+( ) Não (X) Sim - Aviso 18/2022 (SEI nº 3348561)
+3.14. Medida(s) Preventiva(s) Aplicada(s) com base no Art. 7º, IV , do RI-ANPD: (X) Não ( )
+Sim.
+4. RELATÓRIO
+4.1. Nos termos do art. 54 do Regulamento de Fiscalização, este Relatório de Instrução 
+subsidiará a decisão de primeira instância e este processo seguirá concluso à Coordenação-Geral de 
+Fiscalização (CGF/ANPD) para decisão. Assim, em consonância com os ditames normativos aplicáveis ao 
+caso e demais documentos que constam dos autos, passa-se ao detalhamento dos atos processuais até a 
+presente data.
+4.2. O Auto de Infração 9 (SEI nº  3617432) foi exarado em vista do Despacho Decisório 7 (SEI 
+n º 3619480), que acolheu a Nota Técnica 73/2022/CGF/ANPD (SEI nº 3619476). Esta Nota Técnica 
+apresenta os fatos que deram causa a este Processo Administrativo Sancionador (PAS).
+4.3. Em 21/08/2021, teria ocorrido um incidente de segurança nos sistemas da Secretaria de 
+Estado de Saúde de Santa Catarina (SES/SC). Esta Secretaria teria tomada ciência do incidente em 
+23/08/2021 e apresentou Comunicação de Incidente de Segurança (CIS) preliminar à ANPD em 
+26/08/2021.
+4.4. O objeto do incidente de segurança teria sido a exfiltração de parte da base de dados da lista 
+de espera do SUS em Santa Catarina, vinculada ao serviço de regulação hospitalar, disponibilizado no site 
+listadeespera.saude.sc.gov.br. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+4.5. O controlador alegou terem sido exfiltrados 4GB de dados (1,2 milhão de registros). Teriam 
+sido afetados 48 mil titulares, a base conteria registros duplicados ou referentes a um mesmo titular.  Os 
+titulares seriam pacientes e prestadores de serviço, e não haveria dados de crianças ou adolescentes, 
+conforme indicado no Formulário de Incidente de Segurança - ANPD (SEI nº 2837556), Relatório - SEI 
+Relatório Complementar ANPD (SEI nº 3036397), OFICIO Processo SEI/ANPD nº 00261.001020/2021-6 
+(SEI nº 3279023) e OFICIO Processo SEI/ANPD nº 00261.001020/2021-6 (SEI nº 3279024).
+4.6. No entanto, em momento posterior, a SES/SC apresentou Relatório RIPD (SEI nº 3666470) 
+que descreve ser possível que o incidente tenha afetado crianças, adolescentes ou idosos: “Como a gama 
+de pessoas atendidas pelo SUS é grande e irrestrita, são tratados dados de idosos e de menores 
+representados por seus responsáveis legais (pois contamos com um Hospital Infantil Estadual)”.
+4.7. Não foi apresentado o relatório técnico do incidente ou análise dos registros de acesso que
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1241
+[PAGINA 3]
+teriam embasado tal conclusão.
+4.8. Segundo o Relatório RIPD (SEI nº 3666470), os dados afetados no incidente seriam,
+especificamente, nome completo, filiação de mãe, CPF, endereço, contato de telefone, nome do médico
+que realizou o atendimento, nome do procedimento ou consulta agendado. O Formulário de Incidente de
+Segurança - ANPD (SEI nº 2837556) indica a exfiltração de dados médicos referentes à enfermidade,
+diagnóstico e procedimento agendado, dados sensíveis relacionados à saúde. Como consequência do
+incidente, o mesmo documento mencionou a possibilidade de aplicação de golpes utilizando os dados
+cadastrais e de saúde.
+4.9. Em 24/12/2021, a Coordenação-Geral de Tecnologia e Pesquisa (CGTP) analisou o
+incidente e se manifestou, por meio do Despacho (SEI nº 3082118). A gravidade do incidente de
+segurança foi considerada alta por terem sido exfiltrados dados pessoais sensíveis referentes à saúde de
+número relevante de titulares. As medidas de segurança adotadas pelo controlador, bem como as medidas
+de mitigação e comunicação do incidente aos titulares foram consideradas insuficientes.
+4.10. Entre novembro de 2021 e maio de 2022, esta CGF realizou diversas 
+determinações à SES/SC, tanto no intuito de salvaguardar direitos dos titulares afetados quanto 
+de reconduzir a SES/SC à conformidade. 
+4.11. Em 08/11/2021, por meio do Despacho CGF/ANPD (SEI nº 2994422), a CFG determinou
+que a SES/SC apresentasse CIS complementar e os seguintes documentos:
+a) Relatório de apuração sobre os tipos de dados e o número de titulares afetados pelo
+incidente, apresentando a metodologia utilizada e justificando as premissas adotadas;
+b) Relatório técnico de tratamento do incidente;
+c) Comprovação da realização, forma, data e conteúdo da comunicação aos titulares
+afetados pelo incidente; e
+d) Relatório de Impacto à Proteção de Dados pessoais (RIPD), caso já tenha concluído
+sua elaboração.
+4.12. Em 29/11/2021, a SES/SC apresentou apenas o CIS complementar no Relatório - SEI
+Relatório Complementar ANPD (SEI nº 3036397).
+4.13. Diante da ausência dos documentos requisitados, em 11/03/2022, por meio do Despacho
+CGF/ANPD (SEI nº 3107909) a CGF determinou que a SES/SC realizasse a correção da nota informativa
+do site, em face do princípio da transparência, tomando os incisos do §1º do art. 48 como parâmetro, a fim
+de informar o real teor do incidente de segurança, com a possibilidade de exfiltração de dados, e a
+notificação individual acerca do incidente a todos os titulares de dados afetados. Além disso, a SES/SC
+deveria apresentar:
+a) Relatório de apuração sobre os tipos de dados e o número de titulares afetados pelo
+incidente, apresentando a metodologia utilizada e justificando as premissas adotadas;
+b) Relatório técnico de tratamento do incidente;
+c) Comprovação da realização, forma, data e conteúdo da comunicação aos titulares
+afetados pelo incidente; e
+d) RIPD ou informação sobre o prazo para sua conclusão.
+4.14. Em 28/03/2022, a SES/SC, por meio do OFICIO Processo SEI/ANPD nº
+00261.001020/2021-6 (SEI nº 3279023), indicou que cerca de 47 mil pessoas foram atingidas pelo
+incidente, sem informar metodologia utilizada e justificar as premissas adotadas para essa conclusão. A
+SES/SC não apresentou o relatório técnico de tratamento do incidente, a comprovação da realização,
+forma, data e conteúdo da comunicação aos titulares afetados pelo incidente, e o RIPD ou informação
+sobre o prazo para sua conclusão.
+4.15. Em 11/04/2022, o Despacho CGF/ANPD (SEI nº 3300944) deferiu o pedido de prazo para
+apresentação do RIPD e reiterou que a SES/SC apresentasse:
+a) Conteúdo e endereço em que foi publicada a nota informativa sobre o incidente;
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1242
+[PAGINA 4]
+b) Comprovação da comunicação do incidente aos titulares afetados;
+c) Relatório de tratamento do incidente e, especificamente, a informação de se o servidor
+afetado possuía registros (log) de acesso que permita comprovar que somente parte da
+base teve sua confidencialidade comprometida; e
+d) RIPD.
+4.16. Em 06/05/2022, decorrido o prazo estipulado, sem que houvesse manifestação da SES/SC,
+foi expedido o Aviso 18/2022 (SEI nº 3348561) determinando à SES/SC que apresentasse:
+a) Conteúdo e endereço em que foi publicada a nota informativa sobre o incidente; e
+b) Comprovação da comunicação do incidente aos titulares afetados.
+4.17. Em 16/05/2022, a SES/SC, por meio do OFICIO OFICIO 976.2022 - ENC. DADOS  
+SES/SC (SEI nº 3371302), apresentou o conteúdo e endereço da nota informativa. XXXXXX 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. Justificou não ter realizado 
+a comunicação individual aos titulares por não possuir dados atualizados e completos para fazê-lo.  
+Reafirmou estar elaborando o RIPD e que o entregaria no prazo estipulado. Solicitou, ainda, a realização  
+de reunião entre os representantes da SES/SC e ANPD, para esclarecer dúvidas a respeito das providências  
+a serem tomadas em razão do incidente.
+4.18. Em 24/05/2022, foi realizada a reunião, conforme solicitado, entre representantes da 
+SES/SC e a CGF. Conforme Ata de Reunião ANPD e SES-SC (SEI nº 3424575), o controlador afirmou 
+não ser capaz, com base na apuração realizada até então, determinar qual parte da base teria sido afetada.  
+Foi apontada pela ANPD a insuficiência formal e material da comunicação sobre o incidente. Foi 
+ressaltada a necessidade de adequação da comunicação sobre o incidente, e a realização da comunicação  
+individual aos titulares cujos dados estivessem disponíveis.
+4.19. Em 25/05/2022, por meio do OFICIO Oficío manifest. Reunião ANPD de 24.05 (SEI nº 
+3395376), a SES/SC solicitou prazo de 30 (trinta) dias para cumprimento das determinações feitas pela 
+ANPD, quais sejam:a) Conteúdo e endereço em que foi publicada a nota informativa sobre o incidente;
+b) Comprovação da comunicação do incidente aos titulares afetados;
+c) Relatório de tratamento do incidente e, especificamente, a informação de se o servidor
+afetado possuía registros (log) de acesso que permita comprovar que somente parte da
+base teve sua confidencialidade comprometida.
+4.20. No mesmo Ofício, a SES/SC apresentou que a nota informativa do incidente seria ajustada
+e republicada, pelo prazo de seis meses, no endereço https://listadeespera.saude.sc.gov.br/#/home. Além
+disso, se comprometeu a apresentar o relatório do tratamento do incidente e, especificamente, a
+informação a respeito da existência de registros de acesso no servidor afetado. Não foi solicitado prazo
+adicional para apresentação do RIPD.
+4.21. Em 30/05/2022, o conteúdo da comunicação pública do incidente foi encaminhado para
+análise prévia pela CGF, que solicitou ajustes em seu conteúdo por meio do E-mail comunicação ao SES-
+SC (SEI nº 3426632).
+4.22. Em 10/06/2022, o Despacho (SEI nº 3426634) deferiu a solicitação de prazo do OFICIO
+Oficío manifest. Reunião ANPD de 24.05 (SEI nº 3395376), ainda conferiu prazo de cinco dias para que o
+controlador comprovasse a publicação da nota informativa em seu sítio eletrônico, tendo em vista não ter
+sido localizada e que, segundo o controlador, seria "providenciada imediatamente".
+4.23. Em 20/06/2022, a SES/SC, por meio do E-mail Encarregado - Publicação Aviso no Sítio
+Eletrônico (SEI nº 3443437), informou que a Nota de Aviso foi inserida no Site da Lista de Espera do
+SUS, conforme comprovado em NOTA Divulgação do Incidente (SEI nº 3443454), ainda, que foi
+finalizado o primeiro levantamento e identificação das pessoas que tiveram os dados vazados, para
+verificação da forma de efetivar a comunicação direta as pessoas atingidas.
+4.24. Decorrido o prazo estipulado, dia 25/06/2022, a SES/SC não se manifestou no processo,
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1243
+[PAGINA 5]
+tampouco comprovou o cumprimento integral das determinações que lhe foram feitas no Despacho
+CGF/ANPD (SEI nº 2994422), Despacho CGF/ANPD (3107909), Despacho CGF/ANPD (SEI
+n º 3300944), Aviso 18/2022 (SEI nº 3348561). Em resumo, os despachos e o Aviso em questão
+determinavam a apresentação dos seguintes documentos, que nunca foram apresentados:
+a) RIPD;
+b) Comprovação da realização, forma, data e conteúdo da comunicação aos titulares
+afetados pelo incidente;
+c) Relatório técnico do incidente, inclusive com informações sobre: (i) a apuração dos
+tipos de dados e o número de titulares afetados pelo incidente, apresentando a
+metodologia utilizada e justificando as premissas adotadas; (ii) se o servidor afetado
+possuía registros (log) de acesso que permita comprovar que somente parte da base teve
+sua confidencialidade comprometida.
+4.25. Em 14/09/2022, cerca de três meses após o fim do prazo para SES/SC se manifestar, esta
+CGF lavrou o ANPD - Auto de Infração 9 (SEI nº 3617432) em que evidencia a possibilidade de infração
+dos art. 38, 48, 49, da LGPD, e do art. 5º, do Regulamento de Fiscalização.
+4.26. Em 29/09/2022, o autuado foi intimado do Auto de Infração conforme Certidão de
+Intimação Cumprida (SEI nº 3660552).
+4.27. Em 03/10/2022, sobreveio defesa administrativa por meio dos documentos Defesa Defesa 
+Administrativa (SEI nº 3666467); Anexo Manifestações encarregado (SEI nº 3666468); Termo Proposta 
+TAC (SEI nº 3666469); Relatorio RIPD (SEI nº 3666470). A SES/SC propõe Termo de Ajustamento  de 
+Conduta para arquivamento deste PAS.
+4.28. Na Defesa Defesa Administrativa (SEI nº 3666467), a SES/SC apresentou defesa de 
+violação do art. 5º, do Regulamento de Fiscalização, como se o descumprimento desse dispositivo 
+estivesse atrelado ao art. 38, da LGPD.
+4.29. A Secretaria apresentou que, apesar da exceção do atraso verificado na apresentação do 
+RIPD, “não teria deixado de entregar nenhum dos documentos, dados ou informações consideradas 
+relevantes para a avaliação das atividades de tratamento de dados pessoais, não se justificando, pois, a 
+pretensão sancionatória”.  Dessa forma, “não há se falar em descumprimento a determinação exarada pela 
+ANPD, mas em mero atraso na elaboração do relatório de impacto à proteção de dados pessoais, motivado 
+por questões de ordem técnica devidamente justificadas, sendo, portanto, improcedente a alegação de que 
+houve violação ao artigo 38 da LGPD, c/c do artigo 5° da Resolução CD/ANPD n° 1 de 28/10/2021”.
+4.30. Sobre o CIS aos titulares afetados, o encarregado da SES/SC teria informado que “no 
+tocante a notificação direta aos titulares, verificamos a partir da extração dos dados do arquivo veiculado 
+pelo site “XXXXXX”,  que quase totalidade de registros continham somente telefones para contato,  e 
+muitos não continham nem telefone e nem e-mail. Dessa forma, por meio do refino das informações, e 
+para os contatos que já tínhamos conseguido associar um número de telefone, este encarregado está 
+trabalhando em conjunto com a DITIG/SES em uma forma para realizar a notificação por meio de um 
+SMS coletivo.” Ainda,  “a implementação desta nova estratégia demanda tempo e muito trabalho, visto a 
+necessidade de se refinar aproximadamente 1,2 milhões de registros, muitos em duplicidade, ou seja, um 
+altíssimo volume de dados”.
+4.31. Quanto ao prazo para CIS, a SES/SC afirma que “outro ponto relevante diz respeito ao fato 
+de que o parágrafo 1° do art. 48 da Lei Geral de Proteção de Dados (LGPD) não estabelece prazo 
+peremptório para que seja realizada a comunicação da ocorrência aos interessados. Com efeito, referido 
+parágrafo sequer foi regulamentado pela ANPD, sendo, pois, juridicamente inviável interpretar-se 
+extensivamente o termo “prazo razoável”, que é impreciso e genérico, em prejuízo à autuada, mormente 
+ao se considerar que as providências administrativas relativas ao caso ainda estão em andamento. Assim, 
+tendo em vista que as providências administrativas destinadas a comunicação do ocorrido aos interessados 
+encontram-se em andamento e diante da lacuna regulamentar acerca do prazo para se efetivar tal 
+diligência, não há falar em infringência ao artigo 48 da LGPD”.
+4.32. A respeito da alegada violação das obrigações de segurança da informação, a SES/SC 
+defende que “banco de dados XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1244
+[PAGINA 6]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX confidencialidade. Em adição, conforme consta do 
+ofício 701/21 (anexo ao RIPD), todas as medidas técnicas para estancar o vazamento foram 
+realizadas, bem  como o acionamento da polícia para investigação criminal da situação e 
+notificação da empresa  responsável pelo desenvolvimento da aplicação. E ainda, que a Diretoria de 
+Tecnologia de Informação  desta SES tem realizado o máximo possível de medidas de segurança em sua 
+estrutura física e virtual. O  evento foi isolado, devido a falhas pretéritas, mas já contingenciado. 
+Portanto, resta claro que foram  utilizadas medidas técnicas e administrativas aptas a proteger os 
+dados pessoais de acessos não  autorizados, pelo que se entende inexistir violação ao art. 49 c/c art. 6°, 
+VII da LGPD”. Ainda, a SES/SC afirma ter sido vítima de uma invasão criminosa ao seu banco de dados.
+4.33. Não houve a produção de novas provas conforme disposto no artigo 53 do Regulamento de
+Fiscalização.
+4.34. Em 18/05/2023, foi realizada a análise de confidencialidade dos documentos que instruem o
+presente processo administrativo sancionador por meio do Despacho Decisório 21 (SEI nº 4246344). No
+mesmo dia, o encarregado disse estar de acordo com o despacho em questão por meio de Confirmação
+recebimento email (SEI nº 4261096).
+4.35. Em 13/07/2023, esta CGF, por meio de Despacho Decisório 2 (SEI nº 4414480), indeferiu a
+proposta de TAC, em vista de o art. 44 do Regulamento de Fiscalização dispor que o TAC será ferramenta
+a ser implementada no PAS após regulamentação própria da ANPD e da legislação aplicável. A previsão
+do TAC no PAS é norma de eficácia limitada, de forma a apenas produzir efeitos após regulamentação
+específica, esta está prevista na Agenda Regulatória desta ANPD a ser cumprida até o final de 2024, como
+previsto na Portaria ANPD nº 35, de novembro de 2022. [2]
+4.36. Na mesma data, foi emitido o ANPD - Ofício 8 (SEI nº 4414545) intimando o autuado a
+apresentar alegações finais no prazo de 10 (dez) dias úteis, tendo sido confirmado o recebimento no E-mail
+Confirmação de Recebimento (SEI nº 4442522), no dia 21/07/2023.
+4.37. Em 07/08/2023, foram apresentadas as Alegações Finais (SEI nº 4470739), com os anexos
+de Parecer Parecer encarregado de dados (SEI nº 4470740), Anexo Anexo I (SEI nº 4470741), Anexo
+Anexo II (SEI nº 4470742), Anexo Anexo III (SEI nº 4470743), Anexo Anexo IV (SEI nº 4470744),
+Anexo Anexo V (SEI nº 4470745). As alegações finais foram ligeiramente intempestivas, já que foram
+concedidos 10 dias úteis para manifestação a partir do dia 21/07/2023, finalizando o prazo em 04/08/2023.
+No entanto, os argumentos apresentados serão considerados, no que couber. Os documentos em questão
+indicam para a boa-fé e o esforço empreendido pelo encarregado da Secretaria de Estado da Saúde em
+garantia o cumprimento da LGPD com os recursos disponíveis.
+4.38. É o relatório.
+5. PRELIMINARES
+Competência
+5.1. A Lei nº 13.709, de 14/08/2018, conhecida como Lei Geral de Proteção de Dados (LGPD),
+determina no art. 48 que "o controlador deverá comunicar à autoridade nacional e ao titular a ocorrência de
+incidente de segurança que possa acarretar risco ou dano relevante aos titulares". O §1º, por sua vez,
+estabelece que a comunicação deve ocorrer em prazo razoável e indicar a natureza dos dados pessoais
+afetados, os titulares envolvidos, as medidas técnicas e de segurança utilizadas para a proteção dos dados,
+os riscos relacionados ao incidente, os motivos da demora e as medidas que foram ou que serão adotadas
+para reverter ou mitigar os efeitos do prejuízo.
+5.2. Ainda, cabe à ANPD, de acordo com o art. 55-J, I e IV , da LGPD, "zelar pela proteção dos
+dados pessoais, nos termos da legislação", bem como "fiscalizar e aplicar sanções em caso de tratamento
+de dados realizado em descumprimento à legislação, mediante processo administrativo que assegure o
+contraditório, a ampla defesa e o direito de recurso".
+5.3. De acordo com o Regimento Interno da ANPD:
+Art. 17. São competências da Coordenação-Geral de Fiscalização, sem prejuízo de outras previstas
+na Lei nº 13.709, de 2018, no Decreto nº 10.474, de 2020, e na legislação aplicável:
+I - fiscalizar e aplicar as sanções previstas no artigo 52 da Lei nº 13.709, de 2018, mediante
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1245
+[PAGINA 7]
+processo administrativo que assegure o contraditório, a ampla defesa e o direito de recurso;
+(...)
+III - promover ações de fiscalização sobre as ações de tratamento de dados pessoais efetuadas pelos
+agentes de tratamento, incluído o Poder Público;
+(...)
+IX - requisitar aos agentes de tratamento de dados a apresentação de Relatório de Impacto à
+Proteção de Dados Pessoais;
+5.4. O art. 48 do Regimento Interno da ANPD, ainda, determina que as "atividades da ANPD
+obedecerão, além dos princípios estabelecidos na Lei nº 13.709, de 2018, aos princípios da legalidade,
+motivação, moralidade, eficiência, celeridade, interesse público, impessoalidade, igualdade, devido
+processo legal, ampla defesa, contraditório, razoabilidade, proporcionalidade, imparcialidade, publicidade,
+economicidade, segurança jurídica, entre outros". Esta é, portanto, a justificativa para análise do suposto
+incidente de segurança ocorrido na SES/SC em processo administrativo próprio, pois é necessário observar
+as diretrizes e os princípios incidentes sobre a atuação administrativa no cumprimento da atribuição de
+fiscalização.
+5.5. O Regulamento de Fiscalização da ANPD, aprovado pela Resolução CD/ANPD nº 1, de
+28/10/2021, dispõe de forma fundamental sobre a estruturação das atividades previstas no art. 17 do
+Regimento Interno da ANPD. De acordo com o art. 2º do Regulamento, a fiscalização volta-se à
+orientação, à prevenção e à repressão das infrações à LGPD, de sorte a, conforme o art. 3º, proteger os
+direitos dos titulares de dados, promover a implementação da legislação de proteção de dados pessoais e
+zelar pelo cumprimento das disposições da LGPD.
+5.6. Por força do art. 4º, I, do mencionado Regulamento, a SES/SC é considerada agente
+regulado pela ANPD, haja vista ser um agente de tratamento (art. 5º, IX, da LGPD). Cumpre especificar as
+atividades a que os agentes regulados estão submetidos, a teor do art. 5º, I:
+Art. 5º Os agentes regulados submetem-se à fiscalização da ANPD e têm os seguintes deveres,
+dentre outros:
+I - fornecer cópia de documentos, físicos ou digitais, dados e informações relevantes para a
+avaliação das atividades de tratamento de dados pessoais, no prazo, local, formato e demais
+condições estabelecidas pela ANPD; 
+5.7. Pelo exposto, não há dúvidas quanto à competência da ANPD no caso concreto para avaliar
+a conduta do autuado, controlador de dados e agente regulado, à luz da LGPD.
+5.8. No mais, o autuado não arguiu questões preliminares de mérito em sua defesa e a análise
+preliminar não verificou questões relevantes a serem trazidas a este Relatório de Instrução.
+6. ANÁLISE
+Circunstâncias da infração e autoria
+6.1. Conforme disposto no Regulamento de Fiscalização da ANPD em seu art. 37, o processo 
+administrativo sancionador destina-se à apuração de infrações à legislação de proteção de dados de 
+competência da ANPD, nos termos do artigo 55-J, I V, da LGPD. De acordo com o art. 54, o Relatório de 
+Instrução subsidiará a decisão de primeira instância. Assim, a análise tem por objetivo avaliar os motivos 
+da autuação e os argumentos apresentados pelo controlador face à legislação e às normas de proteção de 
+dados, no âmbito do presente processo.
+6.2. Os documentos coligidos aos autos são suficientes para afirmar que houve um incidente de 
+segurança nos sistemas da SES/SC o qual resultou na disponibilização parcial da base de dados da lista de 
+espera do SUS em Santa Catarina no site XXXXXXX. Foram exfiltrados 4GB de dados, que incluíam  
+dados cadastrais (nome, endereço, telefone, CPF, entre outros) e médicos (enfermidade, diagnóstico,  
+procedimento aguardado, entre outros).
+6.3. A partir desse incidente, em 26/08/2021, por meio do Formulário de Incidente de Segurança
+- ANPD (SEI nº 2837556), a SES/SC apresentou CIS preliminar à CGF, que foi complementada em
+29/11/2021, em Relatório - SEI Relatório Complementar ANPD (SEI nº 3036397).
+6.4. Durante todo o processo administrativo anterior a este PAS, a CGF determinou à SES/SC
+que apresentasse documentos relacionados ao incidente de segurança que não foram atendidos pelo
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1246
+[PAGINA 8]
+autuado. A falta de cumprimento dessas determinações acarreta o não atendimento do dever do agente de
+tratamento fornecer cópia de documentos relevantes para a avaliação das atividades de tratamento de
+dados pessoais, no prazo, local, formato e demais condições estabelecidas pela ANPD.
+6.5. Em vista da não apresentação dos documentos requeridos, não é possível formar juízo de
+certeza sobre a extensão do incidente de segurança. Não foi evidenciada a utilização de mecanismos de
+monitoramento de acesso à base, tendo em vista que a ocorrência do incidente somente teria sido
+identificada quando da divulgação pública dos dados, não tendo sido identificada a data em que os dados
+teriam sido violados. A falta de registros de acesso à base de dados indica que controlador não foi capaz
+sequer de apurar qual foi a extensão do comprometimento da base de dados, mesmo após um ano da
+ciência da ocorrência do incidente. Apesar de ter sido publicada parte da base, não foram apresentadas
+evidências de que ela não tenha sido integralmente violada.
+6.6. A falta de evidência na utilização de mecanismos de monitoramento de acesso à base e na
+implementação de controles adequados para garantir a confidencialidade dos dados, em especial
+considerando volume e a sensibilidade dos dados tratados, indica a inadequação do sistema utilizado pelo
+autuado, no que tange os requisitos da segurança da informação e do princípio de segurança. Somado a
+isso, tem-se a falta de apresentação de documentos e registros corriqueiros para a garantia da segurança da
+informação.
+6.7. De forma específica, esta CGF solicitou diversas vezes, como indicado no relatório acima,
+o RIPD, em observância ao art. 38, da LGPD. Apesar das reiterações e concessões de prazo, o documento
+não foi apresentado no processo anterior ao PAS.
+6.8. Uma das determinações veiculadas por esta CGF desde a apresentação do CIS foi a
+necessidade de comunicação ao titular. Reconhecendo o risco aos titulares, a Coordenação-Geral de
+Fiscalização determinou, já em 08/11/2021, por meio do Despacho (SEI nº 2994422), que o controlador
+comunicasse a eles a ocorrência do incidente. Somente em 18/03/2022 o controlador atendeu parcialmente
+a determinação, por meio da publicação de uma notícia sobre o incidente em seu sítio eletrônico, conforme
+NOTA Explicativa Incidente (SEI nº 3300942).
+6.9. A comunicação realizada pelo controlador foi considerada insuficiente pela CGF, formal e
+materialmente, razão pela qual, em 20/06/2022, houve a publicação de uma nova comunicação no site do
+controlador, conforme NOTA Divulgação do Incidente (SEI nº 3443454). Na referida publicação, o agente
+informa que "para os titulares já identificados, será encaminhada mensagem de e-mail informando sobre o
+incidente". Não houve, entretanto, comprovação no processo de que a comunicação individual tenha
+ocorrido, tampouco foram apresentadas pelo controlador justificativas para não o fazer.
+6.10. Considerando o risco do incidente, reconhecido pelo próprio controlador, por meio de
+Formulário de Incidente de Segurança - ANPD (SEI nº 2837556) e Relatório - SEI Relatório
+Complementar ANPD (SEI nº 3036397), e apontado pela ANPD, o incidente deveria ter sido prontamente
+comunicado aos titulares dos dados afetados. Apesar de reiteradas determinações e de afirmar que uma
+nota pública seria divulgada quando da comunicação complementar, em 29/11/2021, consta na NOTA
+Explicativa Incidente (SEI nº 3300942) a data de publicação de 18/03/2022. Somente em 20/06/2022 o
+controlador comprovou a realização da comunicação pública do incidente.
+Análise da defesa apresentada pelo Autuado
+6.11. A SES/SC apresentou defesa no sentido de ter cometido apenas um atraso na entrega do
+RIPD, o mesmo foi protocolado neste PAS em Relatorio RIPD (SEI nº 3666470). O autuado não
+reconhece a falta de apresentação dos outros documentos requeridos em processo anterior, qual sejam: (i)
+comprovação da realização, forma, data e conteúdo da comunicação aos titulares afetados pelo incidente; e
+(ii) relatório técnico do incidente, inclusive com informações sobre: (ii.i) a apuração dos tipos de dados e o
+número de titulares afetados pelo incidente, apresentando a metodologia utilizada e justificando as
+premissas adotadas; (ii.ii) se o servidor afetado possuía registros (log) de acesso que permita comprovar
+que somente parte da base teve sua confidencialidade comprometida.
+6.12. Apesar desta CGF ter concedido todos os prazos solicitados pela SES/SC e reiterado as
+determinações quatro vezes em momentos diferentes, as mesmas não foram cumpridas, sem qualquer
+justificativa, de forma a demonstrar o descuido do autuado para com as determinações da CGF.
+6.13. Quanto ao descumprimento do CIS aos titulares, a SES/SC diz ter refinado as informações
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1247
+[PAGINA 9]
+exfiltradas para o site XXXXXXXX e identificado números de telefone para o envio de notificação por 
+meio de um SMS coletivo. Diante desse processo de refinamento, o autuado afirma ser necessário 
+tempo e trabalho para processar o volume de dados em questão e enviar os SMS.
+6.14. No entanto, em junho de 2022, por meio do E-mail Encarregado - Publicação Aviso no 
+Sítio Eletrônico (SEI nº 3443437), a SES/SC informou que teria finalizado o primeiro levantamento e 
+identificação das pessoas que tiveram os dados vazados, para verificação da forma de efetivar a 
+comunicação direta as pessoas atingidas. Essa demanda indicada em tese de defesa já estaria cumprida, em 
+acordo com o apresentado anteriormente. Ainda, a autuado não informou a porcentagem entre o número de 
+dados de titulares vinculados a um número de telefone e o número de titulares afetados pelo incidente, 48 
+mil. Dessa forma, não é possível identificar a adequação dessa medida para que os titulares sejam 
+notificados de forma individualizada.
+6.15. Para o autuado, a demanda de tempo para identificar os afetados não violaria o dever de 
+CIS aos titulares em prazo razoável. Isso porque seria “juridicamente inviável interpretar-se 
+extensivamente o termo “prazo razoável”, que é impreciso e genérico, em prejuízo à autuada”.
+6.16. O incidente teria ocorrido em agosto de 2021 e o comunicado aconteceu em março de 2022, 
+conforme Despacho (SEI nº 3300944). Em que pese não haver norma que defina o que seria prazo 
+razoável para que o titular seja comunicado do incidente, a ANPD recomenda que seja notificada do
+incidente em até 2 (dois) dias úteis da ciência do fato. [3] Dessa forma, não é razoável e proporcional que o 
+titular aguarde 8 (oito) meses para que seja notificado de um incidente que foi alvo.
+6.17. Como descrito acima, o CIS ao titular de forma geral e não específica ocorreu desde março 
+de 2022. No entanto, o Despacho (SEI nº 3300944) afirma que “a referida nota não descreve, de forma 
+adequada, a natureza do incidente nem dos dados afetados. O meio utilizado para sua publicação revela-se 
+inadequado para que os titulares afetados tenham ciência da ocorrência do incidente, uma vez que se 
+encontra em local distinto do portal original e em meio a diversas outras notícias”. Apenas em junho de 
+2022 a SES/SC teria publicado CIS em conformidade com o §1º do art. 48.
+6.18. Com isso, a SES/SC demorou cerca de 11 (onze) meses para informar aos titulares do 
+incidente ocorrido, se é que o comunicado geral poderia ser considerado suficiente para que o titular possa 
+preservar seus direitos e tentar diminuir os possíveis prejuízos causados pelo incidente de segurança.
+6.19. A respeito das obrigações de segurança da informação, a SES/SC afirma adotar medidas 
+que garantam a segurança, como o controle de acesso e criptografia para acessar os servidores, registros de 
+logs, cópia de segurança, e outras medidas. Ainda, “todas as medidas técnicas para estancar o vazamento 
+foram realizadas, bem como o acionamento da polícia para investigação criminal da situação e notificação 
+da empresa responsável pelo desenvolvimento da aplicação”. A SES/SC afirma ter sido vítima de uma 
+invasão criminosa ao seu banco de dados. Como documentos que provariam a existência desses 
+documentos, a SES/SC apresentou Anexo Manifestações encarregado (SEI nº  3666468) e Relatorio RIPD 
+(SEI nº 3666470).
+6.20. A SES/SC é controladora e, por isso, responsável pelo devido tratamento de dados pessoais, 
+inclusive pela segurança dessas informações. Cabe a ela empregar os mecanismos adequados para garantir 
+que o tratamento de dados esteja em conformidade com o previsto em lei e, com isso, evitar ambientes 
+inseguros.
+6.21. Diante disso, a SES/SC elencou cerca de oito atividades que o seu encarregado está 
+implementando para garantia da conformidade da Secretaria com as determinações da LGPD. Entre as 
+atividades, o autuado indica a organização de reuniões, acompanhamento e análise de documentos e 
+contratos, além do reconhecimento de grupos e estruturas organizacionais internas do Estado de Santa 
+Catarina.
+6.22. O RIPD apresentado pela autuado “busca descrever os processos de tratamento relacionados 
+a implantação do site 'Lista de Espera SUS' no âmbito do estado de Santa Catarina, conforme previsto na 
+Lei Estadual 17.066/2017 e no Decreto Estadual 1.168/2017 (ANEXOS – III), bem como, os riscos à 
+proteção dos dados pessoais e sensíveis e às liberdades civis e direitos fundamentais, e informar as 
+medidas de salvaguarda e contingenciamento ao tratamento dos dados e ao incidente ocorrido”. No 
+entanto, para além de outros apontamentos e complementariedade do relatório, importa destacar que o 
+RIPD não é documento apropriado para análise de um incidente de segurança, mas do tratamento de dados
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1248
+[PAGINA 10]
+em si. Ainda, nota-se que o campo de efeitos sobre o risco e medidas de mitigação não foi preenchido e
+que os riscos do tratamento não se restringem ao risco à segurança da informação.
+Subsunção do fato ao tipo infracional correspondente
+6.23. O ANPD - Auto de Infração 9 (SEI nº 3617432) indicou a possibilidade de violação dos art.
+38, 48, 49, da LGPD, e do art. 5°, do Regulamento de Fiscalização.
+Art. 38. Controlador não apresentou RIPD após solicitação da ANPD.
+6.24. O art. 38 prevê a possibilidade de a ANPD requisitar RIPD. Este documento foi solicitado
+por esta CGF em diversos momentos, inclusive com concessão de prazo para que a determinação fosse
+atendida. Porém, o documento não foi apresentado no processo administrativo anterior a este PAS.
+6.25. Em acordo com o art. 5º, XVII, da LGPD, o RIPD é documento elaborado pelo controlador
+o qual contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às
+liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação
+de risco. Haverá situações em que o controlador elaborará o RIPD para atender à determinação da
+ANPD.[4]
+6.26. Dessa forma, a apresentação do RIPD seria adequada para esta CGF avaliar os riscos a
+direitos fundamentais mapeados pela SES/SC no tratamento que realiza de disponibilização de dados
+pessoais no https://listadeespera.saude.sc.gov.br/#/home, bem como apreciar as medidas de mitigação
+implementadas para minimizar esses riscos, inclusive de exfiltração dos dados.
+6.27. Resta caracterizada a violação ao art. 38 por falta de apresentação do RIPD quando
+requisitado pela ANPD. Por mais que o documento tenha sido apresentado no PAS, a infração já havia
+sido configurada, sendo esta cessada após a instauração do PAS e antes da prolação da decisão de primeira
+instância no âmbito do PAS.
+6.28. A função regulatória do sancionamento por violação do art. 38 permanece, já que se busca
+incentivar o agente regulado a cumprir as determinações da ANPD, ao mesmo tempo que a conduta do
+regulado durante o processo sancionador é levada em consideração.
+Art. 48. Controlador não apresentou CIS ao titular em prazo razoável.
+6.29. É necessário reconhecer a obrigação prevista no art. 48 de o controlador comunicar ao
+titular a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante a ele. Essa
+comunicação ocorreu de forma geral, ou seja, não individualizada. Ao mesmo tempo, a SES/SC publicou
+na página principal do https://listadeespera.saude.sc.gov.br/#/home informações do incidente, que estão
+disponíveis até o momento da conclusão deste Relatório, outubro de 2023.
+6.30. Dessa forma, nota-se que, além de o titular não ter sido comunicado de forma
+individualizada sobre o incidente, o autuado não realizou esta comunicação em prazo razoável. Apesar de
+não haver norma que dê sentido amplo ao que seria tempo razoável para a comunicação ao titular, a CGF,
+no caso concreto, indicou o prazo que seria razoável. Mesmo assim, o autuado não o cumpriu no tempo
+indicado.
+6.31. Por mais que não haja norma geral e abstrata determinando o que seria prazo razoável, esta
+CGF o determinou no caso concreto.
+6.32. Além disso, o período de sete meses que o autuado levou para elaborar CIS adequado ao
+titular é irrazoável. O incidente ocorreu em agosto de 2021 e apenas em março de 2022 que o CIS foi 
+publicado de maneira não individualizada no site do autuado. Assim, é irrazoável chancelar cumprimento 
+ao art. 48 quando o CIS ao titular é realizado após sete meses do ocorrido.
+Art. 49. Sistema não atendeu aos requisitos de segurança.
+6.33. Viola o art. 49 da LGPD o sistema utilizado para tratar dados pessoais que não atenda aos 
+requisitos de segurança. Nesse sentido, durante o Processo de Fiscalização, esta CGF solicitou 
+documentos que comprovassem que o sistema utilizado pela SES/SC atendia esses requisitos. Diante da 
+falta desses documentos, o auto de infração indicou a possível violação desse dispositivo da LGPD.
+6.34. A Nota Técnica 73/2022/CGF/ANPD (SEI nº 3619476) destaca conclusões sobre o 
+processo de apuração da causa do incidente. "[O] servidor XXXXXXXXXXXXXXXXXXXXXXXXX
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1249
+[PAGINA 11]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX à rede da SES/SC. Diante disso, nota-se que o 
+sistema da SES/SC não atendeu aos requisitos de segurança, de forma a violar o art. 49 da LGPD.
+6.35. O  Relatorio RIPD (SEI nº 3666470)  destaca a implementação de requisitos de segurança 
+apenas após o incidente, de forma a minimizar os efeitos desse evento. A título de exemplo, destaca-se 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+6.36. Em acordo com o  relatório em questão, as  medidas indicadas anteriormente foram adotadas  
+apenas após o incidente, de forma que, antes do ocorrido, a SES/SC não havia implementado medidas de 
+segurança no sistema que utiliza.
+6.37. Caso alguma medida de segurança tivesse sido implementada ainda antes do incidente, é 
+razoável presumir que ela teria sido indicada desde o início do processo anterior a este PAS. Porém, a 
+SES/SC, em Relatório - SEI Relatório Complementar ANPD (SEI nº 3036397), afirmou que XXXXX  
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX”.
+6.38. A obrigação de observar os requisitos de segurança nos sistemas utilizados pelo Estado é 
+ainda mais severa, tendo em vista que os dados pessoais dos titulares afetados são tratados de forma 
+compulsória. O não tratamento de dados pela SES/SC na lista de espera SUS tem como consequência a 
+inviabilidade da garantia do direito à saúde ao cidadão. Logo, o Estado, respeitados os critérios do caso 
+concreto, possui ônus de utilizar sistemas em acordo com o previsto na LGPD.
+6.39. Resta clara a falha na implementação de controles para garantir um dos pilares da segurança 
+da informação, qual seja, a confidencialidade dos dados, de modo a garantir que a informação 
+fosse acessível apenas àqueles autorizados a ter acesso. Em especial, por envolver  dados pessoais de 
+saúde, é esperado que o controlador adote medidas adequadas para a proteção da base de dados 
+pessoais sob sua custódia. Portanto, entendeu-se pela elevada plausibilidade de ter sido violado o 
+disposto no art. 49 da LGPD que impõe ao controlador o dever de utilizar sistemas que atendam aos 
+requisitos de segurança, aos padrões de boas práticas e de governança e aos princípios gerais previstos na 
+legislação.
+6.40. Dessa forma, a violação ao art. 49 persiste na medida em que não há indícios ou 
+comprovação de que o sistema utilizado pela SES/SC estava em conformidade com os requisitos de 
+segurança na época do incidente.
+Art. 5º, Regulamento de Fiscalização. Agente de tratamento não apresentou documentos requisitados pela 
+ANPD.
+6.41. A violação do art. 5º do Regulamento de Fiscalização se sustenta diante da falta de 
+apresentação dos documentos requeridos pela CGF em sua atividade de fiscalização. O requerimento 
+foi reiterado em quatro momentos diferentes durante cerca de 8 (oito) meses, entre novembro de 2021 e 
+junho de 2022. A não entrega do RIPD, especificamente, não está sendo considerada para violação do 
+art. 5º, pois está sendo tratada em infração específica (ver [item 6.24]  a [item 6.28]).
+6.42. Nota-se que a não apresentação dos documentos requeridos está além da não observância  
+do Aviso 18/2022 (SEI nº 3348561), já que este possuía um escopo diferente do que os 
+documentos requeridos. Um dos documentos que não foi apresentado é o relatório técnico do incidente, 
+inclusive com informações sobre: (i) a apuração dos tipos de dados e o número de titulares afetados 
+pelo incidente,  apresentando a metodologia utilizada e justificando as premissas adotadas; (ii) se o 
+servidor afetado  possuía registros (log) de acesso que permita comprovar que somente parte 
+da base teve sua confidencialidade comprometida. O descumprimento do Aviso, enquanto 
+medida preventiva, será considerado circunstância agravante em caso de instauração de PAS, de 
+acordo com o art. 32, §2º, II, do Regulamento.6.43. Dessa forma, resta configurado o descumprimento do art. 5º, I, do Regulamento, enquanto
+infração autônoma.
+7. DOSIMETRIA DAS SANÇÕES
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1250
+[PAGINA 12]
+7.1. Em 27/02/2023, foi publicada a Resolução CD/ANPD Nº 4, de 24/02/2023, que aprovou o
+Regulamento de Dosimetria e Aplicação de Sanções Administrativas e, assim, regulamentou o art. 53 da
+LGPD. Nesse regulamento, são adotadas as seguintes definições, importantes para a conclusão do presente
+processo:
+Art. 2º Para fins deste Regulamento adotam-se as seguintes definições:
+II - infração: descumprimento de obrigação estabelecida na Lei nº 13.709, de 14 de agosto de
+2018 (LGPD), e nos regulamentos expedidos pela ANPD;
+IV - infrator: agente de tratamento que comete infração;
+7.2. Além disso, o regulamento previu balizas para a aplicação das sanções administrativas,
+conforme preconizado no art. 3º:
+Art. 3º As infrações sujeitarão o infrator às seguintes sanções administrativas:
+I - advertência, nos termos do art. 9º deste Regulamento;
+IV - publicização da infração, após devidamente apurada e confirmada a sua ocorrência, nos
+termos dos arts. 20 e 21 deste Regulamento;
+V - bloqueio dos dados pessoais a que se refere a infração, até a sua regularização, nos termos do
+art. 22 deste Regulamento;
+VI - eliminação dos dados pessoais a que se refere a infração, nos termos do art. 23 deste
+Regulamento;
+VII - suspensão parcial do funcionamento do banco de dados a que se refere a infração, nos
+termos do art. 24 deste Regulamento;
+VIII - suspensão do exercício da atividade de tratamento dos dados pessoais a que se refere a
+infração, nos termos do art. 25 deste Regulamento; e
+IX - proibição parcial ou total do exercício de atividades relacionadas a tratamento de dados, nos
+termos do art. 26 deste Regulamento.
+§ 1º As sanções previstas nos incisos VII, VIII e IX do caput deste artigo somente serão aplicadas
+após já ter sido imposta ao menos uma das sanções de que tratam os incisos II, III, IV, V e VI do
+caput deste artigo para o mesmo caso concreto.
+§ 5º O disposto nos incisos I e IV a IX, do caput deste artigo, poderá ser aplicado às entidades e
+aos órgãos públicos, sem prejuízo do disposto na Lei nº 8.112, de 11 de dezembro de 1990, na Lei
+nº 8.429, de 2 de junho de 1992, e na Lei nº 12.527, de 18 de novembro de 2011.
+7.3. Destaca-se que o §5º afasta a aplicação das sanções de multa simples e multa diária para
+entidades e órgãos públicos, sem prejuízo da aplicação da Lei de Improbidade Administrativa, além da Lei
+de Acesso à Informação e Lei nº 8.122. Ao mesmo tempo, o art. 55-J, XXII, da LGPD, determina que a
+ANPD deve comunicar aos órgãos de controle interno o descumprimento do disposto nesta Lei por órgãos
+e entidades da administração pública.
+7.4. Como consequência, o § 1º indica que entidades e órgãos públicos que não sofreram
+sanções anteriores no mesmo caso concreto apenas podem se sujeitar às infrações de advertência,
+publicização da infração, bloqueio e eliminação dos dados pessoais.
+7.5. De acordo com o art. 8º do Regulamento de Dosimetria e Aplicação de Sanções
+Administrativas, a classificação das infrações divide-se desta maneira:
+Art. 8º As infrações são classificadas, segundo a gravidade e a natureza das infrações e dos
+direitos pessoais afetados, em: ​
+I - leve; ​
+II - média; ou ​
+III - grave. ​
+§ 1º A infração será considerada leve quando não verificada nenhuma das hipóteses relacionadas
+nos §§ 2º ou 3º deste artigo.
+§ 2º A infração será considerada média quando puder afetar significativamente interesses e
+direitos fundamentais dos titulares de dados pessoais, caracterizada nas situações em que a
+atividade de tratamento puder impedir ou limitar, de maneira significativa, o exercício de direitos
+ou a utilização de um serviço, assim como ocasionar danos materiais ou morais aos titulares, tais
+como discriminação; violação à integridade física; ao direito à imagem e à reputação; fraudes
+financeiras ou uso indevido de identidade, desde que não seja classificada como grave.
+§ 3º A infração será considerada grave quando:
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1251
+[PAGINA 13]
+I - verificada a hipótese estabelecida no § 2º deste artigo e cumulativamente, pelo menos, uma das
+seguintes:
+a) envolver tratamento de dados pessoais em larga escala, caracterizado quando abranger
+número significativo de titulares, considerando-se, ainda, o volume de dados envolvidos, bem
+como a duração, a frequência e a extensão geográfica do tratamento realizado;
+b) o infrator auferir ou pretender auferir vantagem econômica em decorrência da infração
+cometida;
+c) a infração implicar risco à vida dos titulares;
+d) a infração envolver tratamento de dados sensíveis ou de dados pessoais de crianças, de
+adolescentes ou de idosos;
+e) o infrator realizar tratamento de dados pessoais sem amparo em uma das hipóteses legais
+previstas na LGPD;
+f) o infrator realizar tratamento com efeitos discriminatórios ilícitos ou abusivos; ou
+g) verificada a adoção sistemática de práticas irregulares pelo infrator;
+II - constituir obstrução à atividade de fiscalização.
+7.6. No caso sob análise, ficaram caracterizadas infrações aos arts. 38, 48 e 49 da LGPD, bem
+como ao art. 5º do Regulamento de Fiscalização, cuja dosimetria será empreendida a seguir, em acordo
+com o Regulamento de Dosimetria.
+INFRAÇÃO AO ART. 38 DA LGPD
+Classificação da infração
+7.7. A não apresentação do RIPD após requisição da ANPD viola o art. 38. Considerando que a
+não apresentação do RIPD não afetou significativamente os interesses e direitos fundamentais dos
+titulares, a infração não pode ser classificada como média. Consequentemente, por falta de cominação de
+um dos requisitos da infração como média, no caso concreto, a infração não pode ser considerada grave.
+7.8. Outrossim, no caso concreto, a não apresentação do RIPD é infração autônoma e não
+obstruiu a atividade de fiscalização por não ter impedido a apuração do incidente de segurança.
+7.9. A infração resta configurada como leve, em vista do caráter residual.
+Definição do tipo de sanção administrativa
+7.10. O art. 9º, I, do Regulamento de Dosimetria, indica que a sanção de advertência é adequada
+quando a infração for leve e não for caracterizada reincidência específica. No caso, a infração é leve e não
+há reincidência específica.
+7.11. Ainda para a definição do tipo de sanção adequada, o art. 10, I, do Regulamento de
+Dosimetria, indica ser aplicável multa simples quando o infrator não tenha atendido as medidas
+preventivas a ele impostas, dentro dos prazos estabelecidos, quando aplicável. Como será explicitado
+no [item 7.13], a multa não é aplicável neste caso.
+7.12. Quanto às circunstâncias agravantes e atenuantes previstas nos art. 12 a 13, nota-se que
+houve o descumprimento de medida preventiva no processo de fiscalização (art. 12, III), e a cessação da
+infração após a instauração de processo administrativo sancionador e até a prolação da decisão de primeira
+instância no âmbito do processo administrativo sancionador (art. 13, I, b). 
+7.13. No entanto, a aplicação da sanção de multa simples é afastada no caso concreto, em
+conformidade com o art. 52, §3º da LGPD c/c o art. 3º, §5º, do Regulamento de Dosimetria. Resta a
+aplicação da advertência. Apesar da sanção de advertência, não cabe impor medida corretiva, já que o
+RIPD foi apresentado.
+7.14. Acerca do Relatorio RIPD (SEI nº 3666470) apresentado, é importante frisar que o
+Relatório de Impacto de Proteção de Dados Pessoais é " documentação do controlador que contém a
+descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e
+aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco ". Por
+vezes, o Relatorio RIPD (SEI nº 3666470) apresenta informações específicas sobre o incidente de
+segurança, e não sobre o tratamento de dados realizado pela SES/SC para organização da fila de espera
+para acesso ao SUS. Nesse sentido, a ANPD explica que:
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1252
+[PAGINA 14]
+Conforme o art. 38 da LGPD, o RIPD deverá conter, pelo menos: a) a descrição dos tipos de dados
+pessoais coletados ou tratados de qualquer forma; b) a metodologia usada para o tratamento e para
+a garantia da segurança das informações; e c) a análise do controlador com relação a medidas,
+salvaguardas e mecanismos de mitigação de riscos adotados.
+É importante que o relatório seja suficientemente detalhado, para que a ANPD e o próprio
+controlador tenham compreensão ampla de como ocorre o tratamento dos dados pessoais e os
+possíveis riscos associados a ele.  
+Assim, recomenda-se ao controlador descrever os tipos de dados pessoais tratados, as operações de
+tratamento (art. 5º, X, da LGPD), suas finalidades (incluindo interesses legítimos) e hipóteses
+legais, e avaliar a necessidade e a proporcionalidade das operações de tratamento, os riscos para os
+direitos e liberdades dos titulares de dados e as medidas a serem adotadas para minimizar esses
+riscos.[5]
+7.15. Logo, o RIPD apresentado pela SES/SC é suficiente para atender o objetivo do processo de
+fiscalização em questão e por isso foi aceito por esta CGF. Porém ele não está de acordo com o que é
+esperado de um relatório de impacto.
+INFRAÇÃO AO. ART. 48 DA LGPD
+Classificação da infração
+7.16. O art. 48, caput e incisos, determina que o controlador deve apresentar CIS adequada tanto
+à ANPD quanto ao titular em prazo razoável. O infrator realizou CIS geral, não individualizado, após
+diversas requisições da ANPD e transcorrido prazo irrazoável, delimitado no caso concreto.
+7.17. A obrigação de CIS ao titular é evidente, já que, desde o início da apuração do incidente, a
+SES/SC, por meio do Formulário de Incidente de Segurança - ANPD (SEI nº 2837556), conhecia que o
+incidente de segurança em questão poderia acarretar risco ou dano relevante aos titulares. Quanto ao prazo,
+como descrito neste relatório do [item 6.29] ao [item 6.32], a SES/SC não observou o período de tempo
+que a comunicado deveria ocorrer definido no caso concreto pela ANPD.
+7.18. A falta de CIS ao titular em prazo razoável, especialmente quando resulta na exposição de
+dados pessoais em espaço não controlado de acesso, inclusive de dados de saúde, pode afetar
+significativamente interesses e direitos fundamentais dos titulares. Isso porque o titular não sabe que seus
+dados foram expostos e, com isso, não toma cuidado qualificado em evitar uso indevido de identidade,
+fraudes financeiras e outros danos que a exposição de dados possa causar. No caso concreto, os dados
+expostos (nome, CPF, data de nascimento, nome de mãe, endereço, informação do tipo de procedimento
+solicitado para entrar na lista de espera, a unidade e profissional que realizou o cadastro) permitem que o
+titular sofra esse tipo de dano, além de perturbações por ligações indevidas e fraudes em processos de
+autenticação ou validação de identidade em serviços específicos.
+7.19. Logo, a infração ao art. 48 ora analisada se subsome aos requisitos do art. 8º, §2º, do
+Regulamento de Dosimetria, atendendo ao critério para ser classificada como média. Além disso, no
+presente caso, a infração de falta de CIS versa sobre dados sensíveis, como destacado neste Relatório, o
+que eleva o grau de classificação da infração que, por esse motivo, passa a ser considerada como grave,
+segundo art. 8º, §3º, "d", da LGPD.
+Definição do tipo de sanção administrativa
+7.20. O art. 9º, II, do Regulamento de Dosimetria, indica que a sanção de advertência é adequada
+quando houver necessidade de imposição de medidas corretivas. Esta hipótese se subsome a esta infração.
+7.21. Cabe impor as duas medidas corretivas que se seguem.
+a) Manter o CIS ao titular geral indicada por esta CGF na primeira página do
+https://listadeespera.saude.sc.gov.br/#/home, página inicial do sítio, por mais 90
+(noventa) dias a contar da data da publicação da decisão neste PAS, já que após a
+publicação dessa decisão é possível que os titulares tomem ciência do incidente em
+questão e busquem mais informações junto à SES/SC.
+b) Enviar CIS ao titular de maneira individualizada para os titulares identificados por
+meio da extração de informação do arquivo vazado e veiculado no site
+“XXXXXX”. A viabilidade desta medida decorre de ter sido indicada pelo próprio
+autuado
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1253
+[PAGINA 15]
+na proposta de TAC enviada à esta CGF, conforme Termo Proposta TAC (SEI nº
+3666469) e corroborado em Parecer encarregado de dados (SEI nº 4470740), diante da
+possibilidade de uso da ferramenta Notifica-BR.
+7.22. A fim de se comprovar o cumprimento das medidas corretivas, a SES/SC deverá:
+a) juntar aos autos comprovação de que a medida corretiva "a" descrita foi cumprida por
+meio da apresentação de, pelo menos, 9 (nove) capturas de tela do sítio da SES/SC
+contendo o comunicado e com visualização clara da data da captura sendo que cada
+captura deve ser feita no intervalo mínimo de 9 (nove) dias entre cada uma. A
+comprovação de cumprimento da medida corretiva deverá ser juntada aos autos em até 5
+(cinco) dias úteis do final de cada período de 30 (trinta) dias.
+b) juntar aos autos, no prazo de 20 (vinte) dias úteis da data de intimação, comprovação
+de que a medida corretiva "b" descrita no [item 7.19]  foi cumprida por meio da
+apresentação de uma planilha com a lista completa de todos os titulares identificados que
+foram individualmente comunicados contendo (i) o nome completo do titular; (ii) e
+informação de contato utilizada para a comunicação individual (o número de telefone, se
+por meio telefônico; o e-mail, se por correio eletrônico etc.), a fim de que seja possível
+que a CGF valide, por amostra, a comunicação feita ao titular.
+7.23. Apesar de ser uma infração grave, as outras sanções, previstas nos incisos IV, V e VI do art. 
+52 da LGPD, não são adequadas para esta  infração, em função do interesse  público que justifica  a 
+necessidade do tratamento dos dados.
+INFRAÇÃO AO ART. 49 DA LGPD
+Classificação da infração
+7.24. Os agentes de tratamento  devem utilizar sistemas para tratamento  de dados pessoais que 
+atendam aos requisitos de segurança, aos padrões de boas práticas e de governança, aos princípios da 
+LGPD e às normas regulamentares. No entanto, a SES/SC, neste caso concreto, não observou 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXX.
+7.25. O uso de sistema sem a devida segurança pela SES/SC pode afetar significativamente os 
+interesses e direitos dos titulares. A falta de cuidado no desenvolvimento de um sistema seguro permitiu a 
+concretização de incidente que pode ser causa para fraudes financeiras e uso indevido de identidade.  
+Ainda, a exposição de dados, diante de sistema inseguro, possibilita a concretização de outros danos, 
+como perturbações por ligações indevidas e fraudes em processos de autenticação ou validação de 
+identidade em serviços específicos.
+7.26. Alcançados os requisitos da infração média, importa considerar que a infração será 
+classificada como grave quando, além de preencher as condições do §2º (infração média), for verificada  
+uma das hipótese do art. 8º, §3º do Regulamento de Dosimetria. Considerando que a infração do art. 49 
+envolveu o tratamento de dados sensíveis, de acordo com art. 8º, § 3º, I, “d”, do Regulamento de 
+Dosimetria, ela deve ser classificada como grave.
+Definição do tipo de sanção administrativa7.27. O art. 9º, II, do Regulamento de Dosimetria, indica que a sanção de advertência é adequada
+quando houver necessidade de imposição de medidas corretivas. Esta hipótese se subsome a esta infração.
+7.28. Ainda para a definição do tipo de sanção adequada, o art. 10, II, do Regulamento de
+Dosimetria, indica ser aplicável multa simples quando a infração for classificada como grave. Como será
+explicitado no [item 7.28], a multa não é aplicável neste caso.
+7.29. Quanto às circunstâncias agravantes e atenuantes previstas nos art. 12 e 13, nota-se que
+houve a cessação da infração com a implementação das medidas de segurança antes da instauração deste
+PAS (art. 13, III), a partir do informado no Relatorio RIPD (SEI nº 3666470).
+7.30. No entanto, a aplicação da sanção de multa simples é afastada no caso concreto, em
+conformidade com o art. 52, §3º da LGPD c/c o art. 3º, §5º, do Regulamento de Dosimetria. Resta a
+aplicação da advertência.
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1254
+[PAGINA 16]
+7.31. Definida a sanção de advertência,  constata-se que as medidas  corretivas que seriam 
+determinadas já foram cumpridas, além de outras complementares sobre o funcionamento do sistema. O 
+Relatorio RIPD (SEI nº 3666470) indica que houve a implementação das medidas de segurança, XXX 
+XXXXXXXXXXXXXXXX, após o incidente de segurança. Apesar de ser uma infração grave, as outras 
+sanções, previstas nos incisos IV , V e VI do art. 52 da LGPD, não são adequadas para esta infração, em 
+função do interesse público que justifica a necessidade do tratamento dos dados.
+INFRAÇÃO ART. 5º DO REGULAMENTO DE FISCALIZAÇÃO
+Classificação da infração
+7.32. É dever do regulado fornecer documentos, dados e informações relevantes para a avaliação 
+das atividades de tratamento de dados pessoais, no prazo, local, formato e demais condições estabelecidas 
+pela ANPD. A não apresentação do relatório técnico do incidente após diversas determinações da CGF 
+configura violação do art. 5º, I, do Regulamento de Fiscalização.
+7.33. Em acordo com  o art.  6º, do Regulamento  de Fiscalização,  o não fornecimento  de 
+documentos pode caracterizar  obstrução à atividade  de fiscalização,  sujeitando o infrator  a medidas 
+repressivas, sem prejuízo da adoção das medidas  necessárias com o objetivo  de concluir  a ação de 
+fiscalização obstruída por parte da ANPD.
+7.34. No caso concreto, a não apresentação do relatório técnico do incidente constituiu obstrução 
+à atividade de fiscalização, já que a falta do documento em questão impediu a CGF de avaliar as medidas 
+técnicas adequadas e suficientes para prevenir e mitigar os efeitos do incidente.
+7.35. Segundo art. 48, §2º, da LGPD, compete à ANPD verificar a gravidade do incidente e, caso 
+necessário para a salvaguarda  dos direitos dos titulares,  determinar ao controlador  a adoção de 
+providências. Para tanto, é fundamental que o autuado  forneça informações, a SES/SC não apresentou e 
+isto impediu que a CGF cumprisse seu dever de fiscalizar.
+7.36. Como esse descumprimento  do dever de fornecer documentos configurou obstrução à 
+fiscalização, a infração deve ser classificada como grave, em acordo com art. 8º, §3º, II, do Regulamento 
+de Dosimetria.
+Definição do tipo de sanção administrativa
+7.37. Para a definição do tipo de sanção adequada, o art. 10, II, do Regulamento de Dosimetria,
+indica ser aplicável multa simples quando a infração for classificada como grave.
+7.38. Quanto às circunstâncias agravantes e atenuantes previstas nos art. 12 a 13, nota-se que
+houve o descumprimento de medida preventiva no processo de fiscalização (art. 12, III).
+7.39. No entanto, a aplicação da sanção de multa simples é afastada no caso concreto, em
+conformidade com o art. 52, §3º da LGPD c/c o art. 3º, §5º, do Regulamento de Dosimetria. Resta a
+aplicação da advertência.
+7.40. Apesar da sanção de advertência, não cabe impor medida corretiva, já que as circunstâncias
+do incidente restaram caracterizadas no Relatorio RIPD (SEI nº 3666470). Igualmente, muito embora seja
+uma infração grave, as outras sanções, previstas nos incisos IV , V e VI do art. 52 da LGPD, não são
+adequadas para esta infração, em função do interesse público que justifica a necessidade do tratamento dos
+dados.
+7.41. Em tempo, considerando a postura da SES/SC que, após a instauração de processo
+sancionador, apresentou as informações solicitadas no relatório técnico do incidente por meio do RIPD,
+consideram-se ausentes a conveniência e oportunidade de encaminhar notícia ao órgão de controle interno
+do Estado de Santa Catarina para apuração de eventual falta funcional.
+8. CONCLUSÃO
+8.1. Ante o exposto, considerando que o conjunto probatório dos autos demonstra que autoria e
+materialidade restam devidamente comprovadas nos autos, e que os fatos descritos correspondem às
+infrações tipificadas pelos enquadramentos indicados no ANPD - Auto de Infração 9 (SEI nº 3617432),
+conclui-se pelas seguintes recomendações:
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1255
+[PAGINA 17]
+8.1.1. Por violação ao art. 38 da LGPD, pela aplicação da sanção de ADVERTÊNCIA à SES/SC,
+sem a imposição de medida corretiva;
+8.1.2. Por violação ao art. 48 da LGPD, pela aplicação da sanção de ADVERTÊNCIA à SES/SC,
+com imposição de medida corretiva, nos termos do [item 7.19] e do [item 7.20], conforme disposto no art.
+52 da LGPD c/c o artigo 9º inciso II do Regulamento de Dosimetria e Aplicação de Sanções
+Administrativas;
+8.1.3. Por violação ao art. 49 da LGPD, pela aplicação da sanção de ADVERTÊNCIA à SES/SC,
+sem a imposição de medida corretiva;
+8.1.4. Por violação ao art. 5º do Regulamento de Fiscalização, pela aplicação da sanção de
+ADVERTÊNCIA à SES/SC, sem a imposição de medida corretiva;
+8.2. Por fim, é importante salientar que a classificação das infrações, a definição das sanções
+(inclusos agravantes e atenuantes) e a adoção de medidas corretivas restringem-se às circunstâncias deste
+caso.
+9. ENCAMINHAMENTOS
+9.1. O presente Relatório de Instrução deve ser encaminhado ao Coordenador-Geral de
+Fiscalização para decisão, de acordo com art. 55 da Resolução CD/ANPD nº 1/2021.
+9.2. Após proferida a decisão, o autuado deverá ser intimado para cumprimento da sanção e/ou
+apresentação de recurso, em até 10 dias úteis, em consonância com o art. 56 da Lei nº 9.784/99 e art. 58 da
+Resolução CD/ANPD nº 1/2021.
+9.3. A decisão deve ser publicada no DOU, segundo o art. 55 da Resolução CD/ANPD nº
+1/2021.
+9.4. Após trânsito em julgado, este Processo Administrativo Sancionador passa para a fase de
+cumprimento da decisão para acompanhamento de eventuais obrigações de fazer.
+RAVVI AUGUSTO DE ABREU C. MADRUGA
+Coordenador de Fiscalização
+____________________________
+[1] Este Relatório de Instrução foi elaborado com a participação de Eduarda Costa Almeida, assistente desta
+Coordenação-Geral de Fiscalização.
+[2] https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-agenda-regulatoria-2023-
+2024/AgendaRegulatria20232024.pdf
+[3] https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/comunicado-de-incidente-de-
+seguranca-cis
+[4] https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/relatorio-de-impacto-a-
+protecao-de-dados-pessoais-ripd#p3
+[5] https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/relatorio-de-impacto-a-
+protecao-de-dados-pessoais-ripd#p1
+Documento assinado eletronicamente por Ravvi Augusto de Abreu Coutinho Madruga ,
+Coordenador(a), em 11/10/2023, às 09:49, conforme horário oficial de Brasília, com fundamento no §
+3º do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020 .
+A autenticidade do documento pode ser conferida informando o código verificador XXXXX e o código 
+CRC XXXXX no site: 
+https://super.presidencia.gov.br/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+Referência: Processo nº 00261.001886/2022-51 SEI nº 4478157
+Relatório 4/2023 de Instrução (4478157)         SEI 00261.001886/2022-51 / pg. 1256

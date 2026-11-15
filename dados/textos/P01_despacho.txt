@@ -1,0 +1,347 @@
+[PAGINA 1]
+Agência Nacional de Proteção de Dados
+Superintendência de Fiscalização
+Coordenação-Geral de Sanções
+Despacho Decisório nº 27/2026/CGS/SFI
+ 
+Processo nº 00261.006648/2024-02
+Interessado: 
+ByteDance Brasil Tecnologia Ltda
+O SUPERINTENDENTE DE FISCALIZAÇÃO DA
+AGÊNCIA NACIONAL DE PROTEÇÃO DE DADOS - ANPD
+, no
+uso de suas atribuições legais e regulamentares, em especial as
+dispostas no art. 55-J, IV, da Lei nº 13.709, de 14 de agosto de
+2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), c/c o art.
+17, incisos I, III do Regimento Interno da ANPD, aprovado pela
+Portaria nº 1, de 8 de março de 2021, e o art. 55 da Resolução
+CD/ANPD nº 01, de 28 de outubro de 2021 (Regulamento de
+Fiscalização); examinando os autos do Processo em epígrafe,
+instaurado em face da ByteDance Brasil Tecnologia Ltda
+(ByteDance Brasil), inscrita no CNPJ sob o nº 27.415.911/0001-
+36, em razão de indícios de infração à Lei Geral de Proteção de
+Dados Pessoais (LGPD);
+CONSIDERANDO as disposições da Resolução
+CD/ANPD nº 4, de 24 de fevereiro de 2023, que aprovou o
+Regulamento de Dosimetria e Aplicação de Sanções
+Administrativas (Regulamento de Dosimetria); e
+CONSIDERANDO o teor do 
+Relatório de Instrução nº
+2/2026/CGS/SFI
+ (
+0316190
+), cujas razões acolhe e integra à
+presente decisão, inclusive como motivação, com fulcro no §1º do
+art. 50 da Lei nº 9.784, de 29 de janeiro de 1999;
+DECIDE:
+1
+.
+Aplicar à empresa BYTEDANCE BRASIL as sanções de:
+1
+.
+1
+.
+MULTA SIMPLES
+, nos valores 
+de R$
+63.176.686,67
+ (sessenta e três milhões, cento e setenta e
+seis mil, seiscentos e oitenta e seis reais e sessenta e sete
+centavos), por 
+infrações ao art. 
+7º da LGPD
+; de 
+R$
+Despacho Decisório 27 (0316201)         SEI 00261.006648/2024-02 / pg. 1
+[PAGINA 2]
+63.176.686,67
+ (sessenta e três milhões, cento e setenta e
+seis mil, seiscentos e oitenta e seis reais e sessenta e sete
+centavos), por infrações ao 
+art. 6º, VIII, da LGPD
+; e de 
+R$
+27.416.297,99 
+(vinte e sete milhões, quatrocentos e
+dezesseis mil, duzentos e noventa e sete reais e noventa e
+nove centavos), por infração ao 
+art. 6º, X, da LGPD
+;
+totalizando 
+R $ 
+153.769.671,33 (Cento e cinquenta e
+três milhões, setecentos e sessenta e nove mil,
+seiscentos e setenta e um reais e trinta e três
+centavos)
+.
+1
+.
+1
+.
+1
+.
+Caso a autuada resolva, de acordo com o
+disposto no art. 18 do Regulamento de Fiscalização,
+renunciar expressamente ao direito de recorrer
+da decisão de primeira instância
+, fará jus a um
+fator de redução de 25% (vinte e cinco por cento)
+no valor da multa aplicada, desde que faça o
+recolhimento no prazo para pagamento deﬁnido no
+caput do art. 17 do Regulamento de Fiscalização, 20
+(vinte) dias úteis, totalizando nestas circunstâncias o
+montante de 
+R $ 
+R$ 115.327.253,49
+ (
+Cento e
+quinze milhões, trezentos e vinte e sete mil,
+duzentos e cinquenta e três reais e quarenta e
+nove centavos
+)
+.
+1
+.
+2
+.
+ELIMINAÇÃO 
+de dados pessoais, por infração ao
+art. 7º da LGPD
+, dos dados pessoais de adolescentes entre
+13 e 18 anos cadastrados na plataforma, cuja regularização
+da representação ou assistência legal não seja realizada no
+prazo de 60 (sessenta) dias úteis, incluindo a comunicação
+dessa obrigação a terceiros com quem tenha compartilhado
+dados pessoais dos adolescentes não regularizados, para que
+procedam à eliminação em suas respectivas bases.
+1
+.
+2
+.
+1
+.
+A autuada deverá, no prazo subsequente de
+05 (cinco) dias úteis após o encerramento do prazo
+acima, apresentar à ANPD:
+1
+.
+2
+.
+1
+.
+1
+.
+Relatório técnico circunstanciado,
+instruído com registros de auditoria de sistema
+(logs) e declaração formal assinada pelo
+Encarregado pelo Tratamento de Dados Pessoais,
+comprovando e atestando o cumprimento da
+medida. A Agência poderá, ainda, requisitar
+auditoria externa e independente para atestar de
+forma deﬁnitiva a exclusão das informações e o
+Despacho Decisório 27 (0316201)         SEI 00261.006648/2024-02 / pg. 2
+[PAGINA 3]
+devido saneamento das bases de dados, caso a
+documentação apresentada se mostre insuﬁciente
+para comprovar o cumprimento da sanção.
+1
+.
+2
+.
+1
+.
+2
+.
+Relação dos terceiros com quem houve
+compartilhamento de dados pessoais de
+adolescentes não regularizados, com a
+comprovação de realização da comunicação sobre
+a obrigação de exclusão dos dados compartilhados.
+Essa comprovação deverá ser consolidada e
+integrar o relatório técnico circunstanciado devido
+à ANPD conforme determinado no item 1.2.1.1
+acima.
+1
+.
+2
+.
+2
+.
+Impõe-se 
+MULTA DIÁRIA
+ no valor de R$
+137.081,49 (cento e trinta e sete mil e oitenta e um
+reais e quarenta e nove centavos), correspondente a
+0,5% (zero vírgula cinco por cento) do montante da
+multa simples aplicada para a Conduta 3 (tratar dados
+pessoais de crianças e de adolescentes menores de
+18 anos com a ﬁnalidade de realizar o cadastro na
+plataforma Tiktok sem hipótese legal válida, diante
+da inexistência de um contrato válido – art. 7º da LGPD),
+por dia de atraso
+, com fulcro no art. 52, inciso III, da
+LGPD, sem prejuízo da disciplina prevista nos artigos 16
+e seguintes do Regulamento de Dosimetria, para a
+hipótese de descumprimento de cada uma das
+obrigações abaixo descritas:
+1
+.
+2
+.
+2
+.
+1
+.
+Obrigação de eliminação dos dados
+pessoais de adolescentes entre 13 e 18 anos
+cadastrados na plataforma cuja regularização não
+tenha sido realizada;
+1
+.
+2
+.
+2
+.
+2
+.
+Obrigação de apresentar relatório
+técnico circunstanciado assinado pelo Encarregado
+pelo Tratamento de Dados Pessoais, acompanhado
+por registros de auditoria de sistema (logs);
+1
+.
+2
+.
+2
+.
+3
+.
+Obrigação de comunicar a terceiros
+com quem tenha compartilhado dados pessoais
+dos adolescentes não regularizados a necessidade
+de eliminação dos dados pessoais compartilhados;
+ou
+1
+.
+2
+.
+2
+.
+4
+.
+Obrigação de apresentar no relatório
+técnico circunstanciado a comprovação de que
+Despacho Decisório 27 (0316201)         SEI 00261.006648/2024-02 / pg. 3
+[PAGINA 4]
+realizou a comunicação sobre a obrigação de
+exclusão dos dados compartilhados determinada
+no item 1.2.1.2.
+2
+.
+INTIME-SE
+ a autuada para:
+2
+.
+1
+.
+Cumprimento das sanções 
+previstas nos itens
+1.1 e 1.2 deste Despacho Decisório.
+2
+.
+1
+.
+1
+.
+Advirto a autuada, em atenção ao art. 55,
+§2º, II, do Regulamento de Fiscalização, que a multa
+deverá ser paga no prazo de até 20 (vinte) dias úteis,
+contados a partir da ciência oﬁcial da decisão de
+aplicação da sanção, conforme dispõe o art. 17 do
+Regulamento de Dosimetria. Notiﬁco a autuada, ainda,
+que o não pagamento no prazo acima enseja a
+incidência de encargos, conforme prevê o §3º do art. 17
+do Regulamento de Dosimetria.
+2
+.
+2
+.
+Ciência do 
+prazo
+ 
+de 10 (dez) dias úteis 
+para
+apresentação de recurso
+, em consonância com o art. 58
+do Regulamento de Fiscalização.
+2
+.
+2
+.
+1
+.
+Alternativamente, 
+manifestar-se, no
+prazo de 10 (dez) dias úteis, sobre o eventual
+interesse em renunciar ao direito de recorrer
+ da
+presente decisão para fazer jus à redução de 25% (vinte
+e cinco por cento) no valor da multa aplicada, nos
+termos do art. 18 do Regulamento de Dosimetria.
+3
+.
+Os prazos estabelecidos nessa decisão serão
+contados nos termos do art. 12, I, do Regulamento de
+Fiscalização.
+4
+.
+Encaminhe-se este processo à Superintendência de
+Gestão Interna, após o prazo indicado no item 2.2.1, para a
+emissão de Guia de Recolhimento da União (GRU).
+5
+.
+Aguarde-se o trânsito em julgado. Após, em caso de
+não cumprimento desta decisão, encaminhe-se este Processo
+Administrativo Sancionador para a Procuradoria Federal
+Especializada - PFE da ANPD para a execução da multa
+cominada, sob pena de inscrição do autuado no Cadastro
+Informativo de Créditos não Quitados do Setor Público Federal
+(Cadin) e na Dívida Ativa da União, nos termos do art. 56 c/c art.
+67 do Regulamento de Fiscalização.
+6
+.
+Publique-se no Diário Oﬁcial da União, segundo o art.
+55 do Regulamento de Fiscalização.
+Despacho Decisório 27 (0316201)         SEI 00261.006648/2024-02 / pg. 4
+[PAGINA 5]
+FABRÍCIO GUIMARÃES MADRUGA LOPES
+Superintendente de Fiscalização
+Documento assinado eletronicamente por 
+Fabrício
+Guimarães Madruga Lopes
+, 
+Superintendente
+, em
+24/08/2026, às 14:50, conforme horário oficial de Brasília, com
+fundamento no art. 6º, § 1º, do 
+Decreto nº 8.539, de 8 de
+outubro de 2015
+.
+A autenticidade deste documento pode ser conferida no site
+https://sei.anpd.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+,
+informando o código verificador 
+0316201
+ e o código CRC
+55D98D84
+.
+SCN Quadra 06, Ed. Venâncio 3000, Bloco A, 9º andar 
+- Bairro Asa Norte, Brasília/DF, CEP 70716-900
+Telefone: 
+- https://www.gov.br/anpd/pt-br
+Referência:
+ Processo nº
+00261.006648/2024-02
+SEI nº 0316201
+Despacho Decisório 27 (0316201)         SEI 00261.006648/2024-02 / pg. 5

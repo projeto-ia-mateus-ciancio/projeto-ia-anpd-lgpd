@@ -1,0 +1,10 @@
+# NUNCA publicar a chave da API
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# PDFs sao publicos, mas ficam no site oficial: o repositorio guarda so os links
+dados/pdfs/
+para_github/
+resultados_para_o_claude.zip

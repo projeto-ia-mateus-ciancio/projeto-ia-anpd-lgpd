@@ -1,0 +1,2594 @@
+[PAGINA 1]
+Processo nº 00261.001192/2022-14
+Autoridade Nacional de Proteção de Dados
+Coordenação-Geral de Fiscalização
+Coordenação de Fiscalização
+RELATÓRIO DE INSTRUÇÃO Nº 2/2024/FIS/CGF/ANPD
+ 
+ 
+SUMÁRIO
+Identificação
+Ementa
+Referências
+Sumário executivo do processo
+Relatório
+Preliminares
+Competência
+Outras questões preliminares
+Análise
+Circunstâncias da infração e da autoria
+Conduta: não manter registro das operações de tratamento de dados
+pessoais (ROT) - art. 37 da LGPD
+Defesa apresentada pela autuada
+Subsunção do fato ao tipo infracional correspondente
+Classificação da infração
+Definição do tipo de sanção administrativa
+Conduta: não elaborar RIPD após solicitação da ANPD - art. 38 da LGPD
+Defesa apresentada pela autuada
+Subsunçãodo fato ao tipo infracional correspondente
+  
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 1
+[PAGINA 2]
+Classificação da infração
+Definição do tipo de sanção administrativa
+Conduta: não comunicar aos titulares a ocorrência de incidente de
+segurança que possa lhes acarretar risco ou dano relevante – art. 48 da
+LGPD
+Defesa apresentada pela autuada
+Subsunção do fato ao tipo infracional correspondente
+Classificação da infração
+Definição do tipo de sanção administrativa
+Conduta: não utilizar sistemas que atendam aos requisitos de segurança,
+aos padrões de boas práticas e de governança e aos princípios da LGPD –
+art. 49 da LGPD (incidente de segurança).
+Defesa apresentada pela autuada
+Subsunção do fato ao tipo infracional correspondente
+Conduta: não apresentar informações relevantes para a avaliação das
+atividades de tratamento de dados pessoais no prazo estabelecido pela
+ANPD – art. 5º do Regulamento de Fiscalização
+Defesa apresentada pela autuada
+Subsunção do fato ao tipo infracional correspondente
+Classificação da infração
+Definição do tipo de sanção administrativa
+Adoção de medidas para adequação à LGPD
+Conclusão
+Encaminhamentos
+1
+.
+IDENTIFICAÇÃO
+1
+.
+1
+.
+Nome/razão social do autuado:
+ Secretaria de Estado de Educação
+do Distrito Federal (SEEDF).
+1
+.
+2
+.
+CPF/CNPJ do autuado:
+ 00.394.676/0001-07.
+1
+.
+3
+.
+Agente de tratamento:
+ (x) Controlador ( ) Operador.
+1
+.
+4
+.
+Nome da Encarregado setorial:
+ Tânia de Ávila (Portaria
+Designação encarregada setorial LGPD (
+0049060
+)).
+1
+.
+5
+.
+Nome do Encarregado Governamental do Distrito Federal:
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 2
+[PAGINA 3]
+Alberto Peres Neto.
+1
+.
+6
+.
+Contato da Encarregada:
+ 
+[EMAIL]
+2
+.
+EMENTA
+INCIDENTE DE SEGURANÇA EM ÓRGÃO PÚBLICO. DADOS PESSOAIS,
+DADOS PESSOAIS SENSÍVEIS E DADOS PESSOAIS DE CRIANÇAS E
+ADOLESCENTES. EXPOSIÇÃO DE DADOS POR ACESSO ÀS RESPOSTAS
+DE FORMULÁRIO UTILIZADO PARA INSCRIÇÃO EM POLÍTICA PÚBLICA.
+NÃO COMUNICAÇÃO AOS TITULARES E NÃO CUMPRIMENTO DE
+OUTRAS DETERMINAÇÕES DA ANPD. CONFIGURAÇÃO DA INFRAÇÃO.
+ADVERTÊNCIA.
+1. O art. 37 da LGPD estabelece o registro de operações de
+tratamento como uma obrigação autônoma que não se confunde
+com comunicados de incidentes de segurança. A ausência de tal
+registro, por mais simples que seja, conﬁgura violação ao art. 37 da
+LGPD.
+2. A não apresentação de Relatório de Impacto à Proteção de Dados
+Pessoais (RIPD) após solicitação da ANPD é uma infração ao art. 38
+da LGPD.
+3. Apesar da inexistência de norma geral e abstrata sobre o tempo
+razoável para a comunicação ao Vtular afetado por incidente de
+segurança, no caso concreto, a Coordenação-Geral de Fiscalização
+(CGF) indicou reiteradamente o prazo que seria razoável para realizá-
+la. A comunicação posterior aos prazos determinados pela CGF
+representa violação ao art. 48 da LGPD.
+4. A obrigação de comunicação de incidente à ANPD e aos Vtulares
+independe de concreVzação de danos aos Vtulares em razão do
+incidente, bastando que este possa acarretar-lhes risco ou dano
+relevante. A comunicação oferece aos titulares possibilidade de atuar
+para se proteger, evitar ou miVgar os potenciais riscos ou danos
+decorrentes do incidente.
+5 . 
+A existência de eventuais prejuízos à Administração Pública em
+razão de incidentes de segurança que envolvem órgãos públicos
+como agente de tratamento é irrelevante para caracterizar ou afastar
+violações à LGPD.
+6. 
+A restrição de comunicação no período eleitoral é incabível como
+excludente de punibilidade da obrigação de comunicação ao Vtular
+quando decorrente de demora na adoção de providências por parte
+da própria autuada.
+7. A não adoção de medidas administraVvas – como o treinamento
+dos usuários de sistemas uVlizados no tratamento de dados
+pessoais – é uma violação ao art. 46. Porém, no caso concreto, a
+pandemia de Covid-19 correspondeu a excludente que rompeu o
+nexo causal que ensejaria a responsabilização da autuada. A cadeia
+causal se mantém nas demais infrações porque as determinações da
+CGF ofereceram à autuada a oportunidade de adotar medidas para
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 3
+[PAGINA 4]
+retornar à conformidade previamente à instauração do processo
+sancionador.
+8. A não apresentação de documento solicitado pela ANPD, ou
+sequer uma resposta sobre a sua existência, corresponde a
+descumprimento dos deveres impostos pelo art. 5º do Regulamento
+de Fiscalização.
+9. A autuada infringiu os arts. 37, 38 e 48 da LGPD, e o art. 5º do
+Regulamento de Fiscalização, ensejando a aplicação de quatro
+sanções de advertência.
+10. Há adequação da advertência para infrações graves diante da
+impossibilidade de outra sanção, em atenção ao princípio da
+proporcionalidade.
+ 
+3
+.
+REFERÊNCIAS
+3
+.
+1
+.
+Lei nº 13.709, de 14 de agosto de 2018 - Lei Geral de Proteção de
+Dados Pessoais (LGPD)
+.
+3
+.
+2
+.
+Regimento Interno da Autoridade Nacional de Proteção de
+Dados
+, aprovado pela Portaria nº 01, de 08 de março de 2021.
+3
+.
+3
+.
+Regulamento do Processo de Fiscalização e do Processo
+AdministraVvo Sancionador no âmbito da ANPD, aprovado pela Resolução
+CD/ANPD nº 1, de 28 de outubro de 2021 – doravante 
+Regulamento de
+Fiscalização
+.
+3
+.
+4
+.
+Regulamento de Dosimetria e Aplicação de Sanções
+AdministraVvas, aprovado pela Resolução CD/ANPD nº 4, de 24 de fevereiro
+de 2023 – doravante 
+Regulamento de Dosimetria
+.
+3
+.
+5
+.
+Processo de Apuração de Incidente de Segurança (PAI) nº
+00261.001472/2021-41
+.
+3
+.
+6
+.
+Processo Administrativo Sancionador nº 
+00261.001192/2022-14
+.
+ 
+4
+.
+SUMÁRIO EXECUTIVO DO PROCESSO
+4
+.
+1
+.
+Auto de Infração:
+ 08/07/2022 - Auto de infração nº
+6/2022/CGF/ANPD (
+0049042
+).
+4
+.
+2
+.
+Intimação:
+ 08/07/2022 - 
+Recibo
+ SEEDF – OYcio
+184/2022/CGF/ANPD/PR (
+0049046
+).
+4
+.
+3
+.
+Forma da in-mação:
+ ( ) Meio eletrônico ( X ) Via postal ( )
+Pessoal ( ) Comparecimento pessoal ( ) Por edital ( ) Cooperação internacional
+( ) Outro meio
+4
+.
+4
+.
+Disposi-vos legais e regulamentares infringidos, nos termos do
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 4
+[PAGINA 5]
+auto de infração:
+a) Lei Geral de Proteção de Dados:
+Art. 37 – ausência de comprovação de registro das operações de
+tratamento de dados pessoais.
+Art. 38 – ausência de envio do Relatório de Impacto à Proteção de
+Dados pessoais referente a suas operações de tratamento.
+Art. 48 – ausência de comunicação ao Vtular da ocorrência de
+incidente de segurança que possa acarretar-lhe risco ou dano
+relevante.
+Art. 49 – não uVlização de sistema adequado ao tratamento de
+dados pessoais.
+b) Regulamento de Fiscalização:
+Art. 5º - não atendimento às requisições da ANPD.
+4
+.
+5
+.
+Defesa:
+ 22/07/2022 - E-mail (
+0049049
+); Documento Imagem
+impossibilidade protocolo (
+0049050
+); Defesa AdministraVva (
+0049051
+); e
+Anexo defesa administrativa (
+0049052
+).
+4
+.
+6
+.
+Produção de prova(s) pelo autuado:
+ ( X )Não ( )Sim.
+4
+.
+7
+.
+Produção de Prova(s) pelo Denunciante/ Titular:
+ ( X ) Não ( )Sim.
+4
+.
+8
+.
+Produção de prova(s) pela ANPD:
+ ( X ) Não ( )Sim.
+4
+.
+9
+.
+Terceiro(s) interessado(s):
+ ( X )Não ( )Sim.
+4
+.
+10
+.
+Termo de Ajustamento de Conduta:
+ ( X )Não ( )Sim.
+4
+.
+11
+.
+Alegações Finais:
+ ( )Não ( X )Sim - Alegações Finais - OYcio nº
+3592/2023 - SEE/GAB/AESP (
+0049066
+).
+4
+.
+12
+.
+Medidas preven-vas aplicadas - art. 32 do Regulamento de
+Fiscalização:
+ ( )Não ( X )Sim - Aviso nº 19/2022/CGF/ANPD (
+0045711
+).
+4
+.
+13
+.
+Medidas preven-vas aplicadas - art. 26, IV, do Decreto nº
+10.474/2020:
+ ( X )Não ( )Sim.
+ 
+5
+.
+RELATÓRIO
+5
+.
+1
+.
+Conforme disposto no art. 37 do Regulamento de Fiscalização
+da ANPD, o processo administraVvo sancionador desVna-se à apuração de
+infrações à legislação de proteção de dados que sejam de competência da
+ANPD, nos termos do arVgo 55-J, IV, da LGPD. De acordo com o art. 54 do
+mencionado regulamento, o Relatório de Instrução subsidiará a decisão de
+primeira instância, a ser proferida pela Coordenação-Geral de Fiscalização
+(CGF). Assim, em consonância com os ditames normaVvos aplicáveis ao caso e
+demais documentos que constam dos autos, passa-se ao detalhamento dos
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 5
+[PAGINA 6]
+atos processuais até a presente data, com o objeVvo de avaliar os moVvos da
+autuação e os argumentos apresentados pela autuada face à legislação e às
+normas de proteção de dados.
+5
+.
+2
+.
+A CGF apurou que a Secretaria de Estado de Educação do
+Distrito Federal (SEEDF) estaria expondo indevidamente dados pessoais de
+estudantes em razão de uma falha de segurança no formulário de inscrição do
+Programa Educação Precoce, construído com a ferramenta Google 
+Forms
+. As
+respostas enviadas pelos cidadãos estariam publicamente disponíveis,
+mostrando dados cadastrais e de saúde de 3.030 crianças e adolescentes, bem
+como de seus responsáveis, conforme evidenciado pelo Anexo SEE-DF Lista
+Espera Educação Especial (
+0045693
+).
+5
+.
+3
+.
+Assim, em 09/11/2021, a CGF enviou o OYcio nº
+108/2021/CGF/ANPD/PR (
+0045691
+) ao Encarregado Governamental do Distrito
+Federal, determinando, em resumo, que fossem tomadas providências para
+sanar a referida falha; que se veriﬁcasse a existência de problema semelhante
+caso a mesma ferramenta esVvesse sendo uVlizada em outros contextos; e
+que fossem enviadas informações a respeito da elaboração de Relatório de
+Impacto à Proteção de Dados Pessoais (RIPD). O OYcio foi acompanhado da
+impressão da tela de inscrição (Anexo SEE-DF Educação Especial (
+0045692
+)) e
+da extração das respostas que conVnham os dados pessoais de quem
+preencheu o formulário (Anexo SEE-DF Lista Espera Educação Especial
+(
+0045693
+)).
+5
+.
+4
+.
+Em 22/11/2021, o 
+Encarregado do Governo do Distrito Federal
+encaminhou, pelo E-mail (
+0045695
+), o OYcio nº 2/2021 - SEE/GAB/UGLGPD
+(
+0045696
+) com a manifestação da Encarregada Setorial da SEEDF. Nessa
+ocasião, a autuada informou que o serviço de inscrição no Programa Educação
+Precoce não estava disponível no i-Educar ou em qualquer outro sistema
+informaVzado da Secretaria de Educação. Ao detectar inconsistências na
+espera de crianças para ingressar no Programa – como a duplicidade de
+inscrição em mais de uma unidade escolar, extenso tempo de espera, falta de
+transparência quanto aos critérios de classiﬁcação para o chamamento e
+ingresso e demanda represada –, a autuada optou pela criação do formulário
+de inscrição em lista de espera on-line. Essa iniciaVva, portanto, teve o
+objetivo de assegurar os direitos dos estudantes; favorecer a lisura, unificação,
+validação dos dados, organização da oferta e diminuição do tempo de espera
+em lista; favorecer a acessibilidade, a clareza do processo de classiﬁcação e
+ordenamento e aumento da oferta, visto que as famílias poderiam se
+inscrever em mais de uma opção; organizar a demanda; e diminuir o tempo de
+espera.
+5
+.
+5
+.
+Ainda no OYcio nº 2/2021 - SEE/GAB/UGLGPD (
+0045696
+), a
+autuada explicou que o link mencionado pela CGF, que exporia os dados dos
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 6
+[PAGINA 7]
+inscritos, correspondia a “uma alteração de ‘
+viewform
+’ para ‘
+viewanaly
+’ [...]”.
+Acrescentou que “[a] possibilidade de acesso aos dados, veriﬁca-se na
+conﬁguração do google 
+forms
+, que traz no seu ‘default’ essa opção
+automaVcamente selecionada, contudo o acesso ao formulário não
+disponibiliza a base de dados aos que se inscrevem ou tem acesso ao link.
+Essa ação depende de intencionalidade e conhecimento aprofundado dos
+serviços da plataforma google”. A autuada enfaVzou, ademais, que não
+disponibilizou ou divulgou tal link; que estava adotando medidas para incluir
+o Programa Educação Precoce no sistema I-Educar; e que estava realizando
+adequações à LGPD, tais como construção de termo de consenVmento e
+elaboração de RIPD.
+5
+.
+6
+.
+Por ﬁm, a autuada esclareceu que, diante do problema
+apresentado, alteraram a conﬁguração do link de inscrição para não permiVr a
+visualização das respostas, conforme impressão de página Anexo Lista Espera
+Educação Especial (
+0045697
+), e passaram a fazer o download e a exclusão das
+respostas diariamente. A indisponibilidade de acesso às respostas foi
+confirmada pela CGF, no âmbito da Certidão (
+0045698
+).
+5
+.
+7
+.
+Em 16/12/2021, foi enviado à autuada o OYcio nº
+136/2021/CGF/ANPD/PR (
+0045699
+), por meio do qual foi a ela conferido o
+prazo de 5 (cinco) dias úteis para realizar a comunicação do incidente de
+segurança à ANPD e aos titulares, nos termos do art. 48.
+5
+.
+8
+.
+Em sua resposta, datada de 11/01/2022 (E-mail
+encaminhamento de CIS (
+0045704
+)), a autuada formalizou o comunicado do
+incidente à ANPD (Formulário de Incidente de Segurança - ANPD (
+0045701
+)),
+no qual informou que tomou conhecimento de sua ocorrência ao receber o
+oYcio da CGF e que adotou medidas para tornar indisponíveis os dados
+pessoais da resposta do formulário. A autuada relatou, também, que não
+comunicou o incidente de forma imediata após a ciência porque está em fase
+de adaptação à LGPD e porque havia incerteza de que os dados foram de fato
+publicados, de modo que, para “evitar um pânico exagerado”, optou por
+tratar a questão internamente.
+5
+.
+9
+.
+Por meio do Despacho (
+0045703
+), a Coordenação-Geral de
+Tecnologia e Pesquisa (CGTP) analisou o incidente e o considerou grave por
+ter afetado dados sensíveis – incluindo de saúde – de um número signiﬁcaVvo
+de Vtulares, menores de idade em grande parte. Entendeu, diante da
+evidência de que os dados estavam publicamente disponíveis, e da ausência
+de monitoramento adequado de acesso, que o controlador devia assumir que
+a conﬁdencialidade dos dados foi compromeVda no incidente. Por essa razão,
+recomendou a comunicação do incidente aos Vtulares e considerou
+insuﬁcientes as medidas técnicas e administraVvas prevenVvas tomadas pelo
+controlador, bem como as adotadas para prevenir novos incidentes de mesma
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 7
+[PAGINA 8]
+natureza.
+5
+.
+10
+.
+Diante da ausência de comunicado do incidente de segurança
+aos titulares, a CGF emitiu a Nota Técnica nº 40/2022/CGF/ANPD (
+0045705
+) em
+07/04/2022, na qual avaliou que, apesar de a autuada ter tomado medidas
+correVvas pontuais para restringir o acesso público às respostas do
+formulário, a SEEDF não idenVﬁcou adequadamente os riscos relacionados ao
+incidente de segurança e as medidas técnicas e administraVvas necessárias
+para garanVr a segurança da base de dados afetada. Por esse moVvo, reiterou
+à autuada que apresentasse: i) a comprovação da comunicação individual do
+incidente a todos os Vtulares de dados afetados; ii) o RIPD da aVvidade de
+tratamento relacionada ao incidente; iii) o registro da operação de tratamento
+de dados pessoais (ROT) relacionada ao incidente; e iv) o plano de gestão de
+incidentes de segurança da informação e privacidade, caso Vvesse. O OYcio nº
+113/2022/CGF/ANPD/PR (
+0045706
+), que encaminhou a mencionada Nota
+Técnica, conferiu o prazo de 10 dias úteis para o cumprimento dessas
+determinações. A autuada recebeu os documentos no dia 18/04/2022,
+conforme Comprovante recebimento 03 (SEI nº 
+0045722
+).
+5
+.
+11
+.
+Em razão do silêncio da autuada, em 06/05/2022 foi emiVdo o
+Aviso nº 19/2022/CGF/ANPD (
+0045711
+), determinando a junção ao processo,
+no prazo de 10 (dez) dias úteis, da “comprovação da comunicação individual
+do incidente a todos os Vtulares de dados afetados". A inVmação ocorreu no
+dia 10/05/2022, conforme comprovantes de recebimento 01 e 02 (SEI nº
+0045720
+ e nº 
+0045721
+). Decorrido o prazo esVpulado no Aviso, a autuada
+permaneceu silente no processo.
+5
+.
+12
+.
+Em 08/06/2022, foi elaborada a Nota Técnica Técnica nº
+57/2022/CGF/ANPD (
+0049033
+), a qual recomendou a instauração de processo
+administraVvo sancionador, uma vez que, embora cumprida a obrigação de
+comunicar o incidente de segurança à ANPD, tal comunicação não foi feita aos
+Vtulares de dados afetados, apesar de reiteradas determinações à autuada
+para que o fizesse. Ademais, diante do silêncio da autuada, entendeu-se haver
+fortes indícios de descumprimento das obrigações de manter registro das
+operações de tratamento e de elaborar RIPD quando solicitado por esta
+Autoridade. Por ﬁm, ao não apresentar seu plano de tratamento de
+incidentes, ou informar sobre sua eventual inexistência, teria ocorrido
+descumprimento ao dever de fornecer cópia de documentos relevantes no
+prazo determinado pela ANPD, o que pode conﬁgurar obstrução à aVvidade
+de fiscalização.
+5
+.
+13
+.
+Acolhendo a mencionada Nota Técnica, o Despacho Decisório nº
+5/2022/CGF/ANPD (
+0049034
+) instaurou o Processo AdministraVvo Sancionador
+(PAS) nº 
+00261.001192/2022-14
+ em 08/06/2022. Em 10/06/2022, foi exarado o
+Auto de infração nº 5/2022/CGF/ANPD (
+0049035
+). No entanto, em razão do
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 8
+[PAGINA 9]
+insucesso da inVmação, foi lavrado novo auto de infração – Auto de infração
+nº 6/2022/CGF/ANPD (
+0049042
+) – em 08/07/2022, este devidamente recebido
+pela autuada no mesmo dia, formalizando a sua inVmação neste PAS (Recibo
+SEEDF – OYcio 184/2022/CGF/ANPD/PR (
+0049046
+) e Recibo C/C GDF - OFI
+184/2022/CGF/ANPD/PR (
+0049047
+)).
+5
+.
+14
+.
+Conforme o Auto de infração nº 6/2022/CGF/ANPD (
+0049042
+),
+os disposi-vos infringidos têm como fundamento a ausência de comunicação
+de incidente de segurança aos -tulares – art. 48 da LGPD; a não u-lização de
+sistema adequado ao tratamento de dados pessoais – art. 49 da LGPD; a
+ausência de comprovação de registro das operações de tratamento de dados
+pessoais – art. 37 da LGPD; a ausência de envio do relatório de impacto à
+proteção de dados pessoais referente a suas operações de tratamento – art.
+38 da LGPD; e o não atendimento às requisições da ANPD – art. 5º do
+Regulamento de Fiscalização
+.
+5
+.
+15
+.
+Com a instauração do PAS, o Processo de Apuração de Incidente
+de Segurança (PAI) nº 
+00261.001472/2021-41
+ foi sobrestado.
+5
+.
+16
+.
+Em 22/07/2022, sobreveio defesa tempesVva consubstanciada
+nos seguintes documentos: i) E-mail (
+0049049
+); ii) Documento Imagem
+impossibilidade protocolo (
+0049050
+); iii) Defesa AdministraVva (
+0049051
+); e iv)
+Anexo defesa administrativa (
+0049052
+).
+5
+.
+17
+.
+Não houve produção de provas conforme o disposto no art. 48
+do Regulamento de Fiscalização.
+5
+.
+18
+.
+Em 27/10/2022, o Despacho (
+0049053
+) sobrestou o PAS até que
+fosse publicado o Regulamento de Dosimetria. O trâmite regular do processo
+foi retomado em 19/04/2023 pelo Despacho (
+0049054
+).
+5
+.
+19
+.
+Em 18/05/2023, foi realizada a análise quanto à publicidade dos
+documentos do processo por meio do Despacho Decisório nº
+20/2023/CGF/ANPD (
+0049055
+), com comunicação à autuada no mesmo dia (E-
+mail (
+0049056
+)).
+5
+.
+20
+.
+Em 19/07/2023, a autuada foi inVmada para apresentar
+alegações ﬁnais (ANPD - OYcio nº 7/2023/FIS/CGF/ANPD (
+0049057
+) e CerVdão
+de InVmação Cumprida (
+0049058
+)). Em 28/07/2023, a SEEDF solicitou prazo
+adicional (OYcio nº 2/2023 - SEE/GAB/UGLGPD (
+0049061
+)), pedido deferido
+nos termos solicitados pela autuada (Despacho (
+0049063
+), ANPD - OYcio nº
+12/2023/FIS/CGF/ANPD (
+0049064
+) e CerVdão de InVmação Cumprida
+(
+0049065
+)). Em 04/08/2023, a SEEDF apresentou tempesVvamente as
+alegações ﬁnais (Alegações Finais - OYcio nº 3592/2023 - SEE/GAB/AESP
+(
+0049066
+) e Recibo Eletrônico de Protocolo (
+0049067
+)).
+5
+.
+21
+.
+É o relatório.
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 9
+[PAGINA 10]
+ 
+6
+.
+PRELIMINARES
+Competência
+6
+.
+1
+.
+A Lei nº 13.709/18, Lei Geral de Proteção de Dados (LGPD), art.
+5º, I, considera dado pessoal toda "informação relacionada a pessoa natural
+idenVﬁcada ou idenVﬁcável". Os dados envolvidos no incidente de segurança
+aqui tratado – CPF, nome completo, data de nascimento, diagnósVco, data de
+encaminhamento médico, responsável pela criança, números de telefone e
+endereço – são dados pessoais (alguns até mesmo sensíveis), pois consistem
+em informação relacionada a pessoa natural identificada ou identificável.
+6
+.
+2
+.
+A leitura do processo revelou que a aVvidade desenvolvida pela
+SEEDF conﬁgura tratamento de dados pessoais, já que realizava a coleta, o
+armazenamento e a análise desses dados para gerir as inscrições no Programa
+Educação Precoce.
+6
+.
+3
+.
+A LGPD, ainda, deﬁne a ﬁgura do controlador no art. 5º, VI,
+como a "pessoa natural ou jurídica, de direito público ou privado, a quem
+competem as decisões referentes ao tratamento de dados pessoais". Tendo
+em vista que a SEEDF efetuou o tratamento de dados pessoais para
+operacionalizar uma políVca pública de educação, resta estabelecido que a ela
+competem as decisões referentes ao tratamento de dados pessoais, moVvo
+pelo qual é controladora.
+6
+.
+4
+.
+A circunstância de a aVvidade realizada pela SEEDF na gestão do
+Programa Educação Precoce estar inserida nas disposições da LGPD implica a
+competência de atuação ANPD, deﬁnida pelo art. 5º, XIX da mencionada Lei,
+como "órgão da administração pública responsável por zelar, implementar e
+ﬁscalizar o cumprimento desta Lei em todo o território nacional". Cabe à
+ANPD, de acordo com o art. 55-J, "I - zelar pela proteção dos dados pessoais,
+nos termos da legislação", bem como "IV - ﬁscalizar e aplicar sanções em caso
+de tratamento de dados realizado em descumprimento à legislação, mediante
+processo administraVvo que assegure o contraditório, a ampla defesa e o
+direito de recurso" e "XX - deliberar, na esfera administraVva, em caráter
+terminaVvo, sobre a interpretação desta Lei, as suas competências e os casos
+omissos".
+6
+.
+5
+.
+No âmbito da ANPD, a Coordenação-Geral de Fiscalização (CGF)
+é a responsável por idenVﬁcar as infrações à LGPD. De acordo com o
+Regimento Interno da ANPD:
+Art. 17. São competências da Coordenação-Geral de Fiscalização,
+sem prejuízo de outras previstas na Lei nº 13.709, de 2018, no
+Decreto nº 10.474, de 2020, e na legislação aplicável:
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 10
+[PAGINA 11]
+I - ﬁscalizar e aplicar as sanções previstas no arVgo 52 da Lei nº
+13.709, de 2018, mediante processo administraVvo que assegure o
+contraditório, a ampla defesa e o direito de recurso;
+[...]
+III - promover ações de ﬁscalização sobre as ações de tratamento de
+dados pessoais efetuadas pelos agentes de tratamento, incluído o
+Poder Público;
+[...]
+VII - receber as noVﬁcações de ocorrência de incidente de segurança
+que possa acarretar risco ou dano relevante aos Vtulares e dar o
+tratamento necessário;
+[...]
+IX - requisitar aos agentes de tratamento de dados a apresentação
+de Relatório de Impacto à Proteção de Dados Pessoais[.]
+ 
+6
+.
+6
+.
+O art. 48 do Regimento Interno da ANPD determina, ademais,
+que as "aVvidades da ANPD obedecerão, além dos princípios estabelecidos na
+Lei nº 13.709, de 2018, aos princípios da legalidade, moVvação, moralidade,
+eﬁciência, celeridade, interesse público, impessoalidade, igualdade, devido
+processo legal, ampla defesa, contraditório, razoabilidade, proporcionalidade,
+imparcialidade, publicidade, economicidade, segurança jurídica, entre outros".
+Esta é, portanto, a jusVﬁcaVva para análise da aVvidade desenvolvida pela
+SEEDF em processo administraVvo próprio, pois é necessário observar as
+diretrizes e os princípios incidentes sobre a atuação administraVva no
+cumprimento da atribuição de fiscalização.
+6
+.
+7
+.
+O Regulamento de Fiscalização da ANPD dispõe sobre a
+estruturação das aVvidades previstas no art. 17 do Regimento Interno da
+ANPD. De acordo com o art. 2º do Regulamento, a ﬁscalização volta-se à
+orientação, à prevenção e à repressão das infrações à LGPD, de sorte a,
+conforme o art. 3º, proteger os direitos dos Vtulares de dados, promover a
+implementação da legislação de proteção de dados pessoais e zelar pelo
+cumprimento das disposições da LGPD.
+6
+.
+8
+.
+Por força do art. 4º, I, do mencionado Regulamento, a SEEDF é
+considerada agente regulado pela ANPD, haja vista ser um agente de
+tratamento – no caso, controladora 
+[item 6.3]
+. Cumpre especiﬁcar as
+atividades a que os agentes regulados estão submetidos:
+Art. 5º Os agentes regulados submetem-se à ﬁscalização da ANPD e
+têm os seguintes deveres, dentre outros:
+I - fornecer cópia de documentos, Ysicos ou digitais, dados e
+informações relevantes para a avaliação das aVvidades de
+tratamento de dados pessoais, no prazo, local, formato e demais
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 11
+[PAGINA 12]
+condições estabelecidas pela ANPD;
+II - permiVr o acesso às instalações, equipamentos, aplicaVvos,
+facilidades, sistemas, ferramentas e recursos tecnológicos,
+documentos, dados e informações de natureza técnica, operacional e
+outras relevantes para a avaliação das aVvidades de tratamento de
+dados pessoais, em seu poder ou em poder de terceiros;
+III - possibilitar que a ANPD tenha conhecimento dos sistemas de
+informação uVlizados para tratamento de dados e informações, bem
+como de sua rastreabilidade, atualização e subsVtuição,
+disponibilizando os dados e as informações oriundos destes
+instrumentos;
+IV - submeter-se a auditorias realizadas ou determinadas pela ANPD;
+V - manter os documentos Ysicos ou digitais, os dados e as
+informações durante os prazos estabelecidos na legislação e em
+regulamentação especíﬁca, bem como durante todo o prazo de
+tramitação de processos administraVvos nos quais sejam
+necessários; e
+VI - disponibilizar, sempre que requisitado, representante apto a
+oferecer suporte à atuação da ANPD, com conhecimento e
+autonomia para prestar dados, informações e outros aspectos
+relativos a seu objeto.
+6
+.
+9
+.
+Pelo exposto, ﬁca estabelecida a competência da ANPD no caso
+concreto para avaliar a conduta da SEEDF, controladora de dados e agente
+regulado, à luz da LGPD.
+Outras questões preliminares
+6
+.
+10
+.
+A autuada não arguiu questões preliminares de mérito em sua
+defesa, e tampouco esta CGF veriﬁcou a existência de tais questões a serem
+trazidas a este Relatório de Instrução.
+ 
+7
+.
+ANÁLISE
+Circunstâncias da infração e da autoria
+7
+.
+1
+.
+Os documentos apresentados aos autos são suﬁcientes para
+aﬁrmar que houve um incidente de segurança durante a operação do
+formulário criado e uVlizado pela autuada para organizar os pedidos de
+inscrição do Programa Educação Precoce. A CGF realizou a impressão da tela
+com os dados expostos no site da autuada, mostrando que era possível
+acessar dados pessoais e dados pessoais sensíveis (CPF, nome completo, data
+de nascimento, diagnósVco, data de encaminhamento médico, responsável
+pela criança, números de telefone e endereço) de 3.030 respondentes (ver
+Anexo SEE-DF Educação Especial (
+0045692
+) e Anexo SEE-DF Lista Espera
+Educação Especial (
+0045693
+)). A publicação indevida de dados pessoais,
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 12
+[PAGINA 13]
+incluindo diversos dados cadastrais dos alunos de grupos vulneráveis e de
+seus responsáveis, conﬁgura a ocorrência de um incidente de segurança capaz
+de acarretar risco ou dano relevante aos Vtulares dos referidos dados.
+Ademais, o incidente foi conﬁrmado pela autuada na defesa administraVva e
+nas alegações ﬁnais (Defesa AdministraVva (
+0049051
+) e Alegações Finais -
+Ofício nº 3592/2023 - SEE/GAB/AESP (
+0049066
+)).
+7
+.
+2
+.
+A parVr da constatação desse incidente, a autuada apresentou
+comunicação formal à ANPD (E-mail encaminhamento de CIS (
+0045704
+) e
+Formulário de Incidente de Segurança - ANPD (
+0045701
+)). No entanto, durante
+todo o Processo de Apuração de Incidente de Segurança (PAI), a CGF
+determinou à SEEDF a adoção de medidas relacionadas ao incidente, no que
+não foi atendida. Entre essas determinações, destaca-se a comunicação do
+incidente aos Vtulares de dados, a qual foi realizada somente no escopo deste
+processo sancionador; e a apresentação de registro de operação de
+tratamento, a apresentação de RIPD e a resposta quanto a eventual plano de
+tratamento de incidentes, os quais nunca foram apresentados a esta
+Autoridade.
+7
+.
+3
+.
+Restam comprovados, assim, os fatos que ensejaram a
+instauração deste PAS e a autoria por parte da autuada.
+ 
+Conduta: não manter registro das operações de tratamento de dados
+pessoais (ROT) - art. 37 da LGPD
+Defesa apresentada pela autuada
+7
+.
+4
+.
+Juntamente com sua Defesa AdministraVva (
+0049051
+), a
+autuada protocolou um documento inVtulado “Registro de Operação de
+Tratamento dos Dados Afetados pelo Incidente, conforme previsto no art. 37
+da LGPD” (Anexo defesa administraVva (
+0049052
+), pp. 3-5). Nele, a autuada
+informou que, após conhecimento do incidente de segurança, realizou
+avaliação interna junto às áreas técnicas envolvidas para obtenção das
+informações necessárias ao tratamento do incidente, ocasião em que
+idenVﬁcou que a exposição dos dados resultou da alteração de 
+viewform
+ para
+viewanaly
+ no comando ﬁnal do link criado para o formulário. Após esse
+diagnósVco, a autuada informa que tornou indisponível o acesso às respostas
+do formulário e efetuou o download e a posterior exclusão das respostas
+enviadas. Reforçou que o formulário não foi alvo de divulgação em canais
+oﬁciais, e que não houve registros sobre o uso indevido das informações do
+formulário, de modo que não vislumbrava consequências ou prejuízos para os
+Vtulares dos dados ou para a própria SEEDF (Anexo defesa administraVva
+(
+0049052
+), p. 3).
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 13
+[PAGINA 14]
+7
+.
+5
+.
+O mesmo 
+documento informou sobre medidas adotadas
+concomitantemente à gestão do incidente, com destaque para a antecipação
+de etapas visando a implementar um novo sistema de gestão de dados
+educacionais para uniﬁcar os diversos sistemas uVlizados pela comunidade
+escolar; a deﬁnição de estratégias para a implementação da LGPD; a
+insVtuição da Comissão Gestora de Proteção de Dados e Implementação da
+LGPD; a deﬁnição de um ﬂuxo processual para tratamento das demandas
+relacionadas à proteção de dados pessoais; a realização de capacitação piloto
+em LGPD para servidores recém-empossados; e a realização da primeira fase
+de campanha sobre sensibilização quanto à LGPD. Outras ações estariam
+previstas para o futuro, entre as quais a capacitação sobre LGPD para todos os
+servidores do órgão; a inclusão de cláusula de proteção de dados em todos os
+ajustes contratuais da autuada; e o aperfeiçoamento constante das ações de
+prevenção a incidentes envolvendo dados pessoais (Anexo defesa
+administrativa (
+0049052
+), p. 4).
+Subsunção do fato ao tipo infracional correspondente
+7
+.
+6
+.
+A ANPD solicitou à autuada o envio do ROT na Nota Técnica nº
+40/2022/CGF/ANPD (
+0045705
+) (ver 
+[item 5.10]
+), pedido nunca respondido no
+âmbito do PAI. Na defesa apresentada neste PAS, contudo, a autuada enviou
+o documento acima mencionado, inVtulado “Registro de Operação de
+Tratamento dos Dados Afetados pelo Incidente, conforme previsto no art. 37
+da LGPD” (Anexo defesa administrativa (
+0049052
+), pp. 3-5)
+[1]
+.
+7
+.
+7
+.
+Esse documento, no entanto, conforme detalhado no 
+[item 7.4]
+e no 
+[item 7.5]
+, oferece apontamentos apenas sobre o incidente de segurança
+e as medidas adotadas após a ciência de sua ocorrência. Ele em nada registra
+informações elementares de operações de tratamento, tais como os dados
+pessoais coletados, a forma de armazenamento, o uso conferido a esses
+dados, entre outras informações básicas.
+7
+.
+8
+.
+Embora a ANPD não tenha, ainda, oferecido orientações mais
+precisas sobre o registro de operações de tratamento
+[2]
+, o art. 37 é claro
+quanto à obrigação do controlador de catalogar minimamente as operações
+realizadas com dados pessoais – e é uma obrigação que independe do relato
+relacionado a incidentes de segurança.
+7
+.
+9
+.
+Cabe mencionar que a Secretaria de Governo Digital (SGD),
+atualmente vinculada ao Ministério da Gestão e da Inovação em Serviços
+Públicos e integrante do então Ministério da Economia quando o incidente se
+tornou conhecido (novembro de 2021), vem construindo guias e modelos que,
+antes da existência da ANPD, poderiam servir de orientação sobre diversos
+aspectos relacionados à gestão de dados pessoais
+[3]
+. Entre os documentos da
+SGD, está o “Guia de Elaboração de Inventário de Dados Pessoais”, cuja
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 14
+[PAGINA 15]
+primeira versão foi publicada em 23/09/2020
+[4]
+. Uma pesquisa rápida e
+superﬁcial eventualmente realizada pela autuada sobre registro de operações
+de tratamento poderia levá-la a este documento e a vários outros que
+explicam a ﬁnalidade desse registro e orientam minimamente sobre a sua
+elaboração.
+7
+.
+10
+.
+Ressalte-se, porém, que, 
+independentemente da existência de
+modelos e de orientações especíﬁcas, o art. 37 da LGPD é explícito ao
+estabelecer o registro de operações de tratamento como uma obrigação
+autônoma
+, que em nada se confunde com comunicados de incidentes de
+segurança. Nesse senVdo, tal registro, por mais simples que seja, deve
+apresentar informações desvinculadas e independentes da análise de
+incidentes de segurança, não estando em nada relacionado ao detalhamento
+desses incidentes e às medidas adotadas após a sua ocorrência –
+detalhamento este que corresponde exatamente ao apresentado pela
+autuada.
+7
+.
+11
+.
+Dessa forma, não é possível aceitar, 
+materialmente
+, as páginas 3
+a 5 do Anexo defesa administraVva (
+0049052
+) como um ROT - apesar de ser
+esse o nome a ele atribuído pela autuada - por dois moVvos: ele não oferece
+registros das operações de tratamento de dados realizado no âmbito do
+procedimento de inscrição no Programa Educação Precoce 
+por meio da
+ferramenta Google 
+Forms
+; e ele se restringe a análises relacionadas ao
+incidente de segurança, sendo que o escopo de um ROT é diferente,
+independente e autônomo em relação ao relato de incidentes dessa natureza.
+7
+.
+12
+.
+Importante destacar que, caso a autuada Vvesse apresentado o
+documento quando foi instada para tanto no âmbito do processo anterior ao
+presente PAS (ou seja, em eventual resposta à Nota Técnica nº
+40/2022/CGF/ANPD (
+0045705
+)), a ANPD teria oferecido orientações sobre
+como construir um ROT aderente à LGPD, ao invés de sancioná-la pela
+ausência desse registro. Isso porque o processo de ﬁscalização, quando ainda
+não iniciada a aVvidade repressiva, prioriza a adoção de medidas de
+orientação e de prevenção, nos termos da atuação responsiva indicada no art.
+15 do Regulamento de Fiscalização, em especial em seus §§ 2º e 3º. Regulados
+que dialogam com a ANPD e apresentam postura colaboraVva se beneﬁciam
+de orientações voltadas a conduzir à conformidade o tratamento de dados
+que realizam. Isso porque a Autoridade pode valer-se das medidas
+prevenVvas, listadas no art. 32 do Regulamento de Fiscalização, para oferecer
+ao regulado a oportunidade de corrigir eventuais desconformidades à LGPD. O
+objeVvo maior da LGPD e, por conseguinte, da ANPD é que os dados pessoais
+sejam tratados de acordo com os parâmetros legais; e o diálogo, a interação e
+a construção dialéVca com os regulados, por seu caráter educaVvo e
+colaboraVvo, estão entre as maneiras mais efeVvas para assegurar que essa
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 15
+[PAGINA 16]
+finalidade seja alcançada.
+7
+.
+13
+.
+Por outro lado, o silêncio do regulado, a sua postura não
+colaboraVva ou a práVca de atos que diﬁcultem ou obstruam a aVvidade de
+ﬁscalização culminam na aVvidade repressiva da ANPD. Nesse Vpo de
+procedimento, a conduta do regulado é avaliada tal qual apresentada à
+Autoridade em sua defesa e alegações ﬁnais, sem a possibilidade de
+orientações prévias à decisão administraVva. A postura do regulado e o nível
+de colaboração que ele oferece à ANPD anteriormente ao processo
+sancionador são essenciais para determinar o Vpo de resposta que obterá
+desta Autoridade.
+7
+.
+14
+.
+Dito de outro modo, o ROT apresentado pela autuada no
+âmbito do PAS não cumpre o estabelecido na LGPD e, portanto, caracteriza
+violação à Lei. No entanto, caso esse mesmo documento Vvesse sido enviado
+à ANPD no escopo do processo prévio ao sancionador, esta Autoridade
+priorizaria a condução da autuada à conformidade por meio de orientações e
+medidas prevenVvas, o que poderia – a depender da sua responsividade – ter
+evitado a configuração de infração à LGPD.
+7
+.
+15
+.
+Por todo o exposto, ﬁrma-se o entendimento de que a autuada
+não apresentou o ROT, do que se depreende que ela não mantém esses
+registros, conforme exige o art. 37. Assim, 
+restou caracterizada a violação ao
+art. 37 por ausência de registro das operações de tratamento de dados
+pessoais realizados no âmbito da inscrição para o Programa Educação Precoce
+por meio do formulário Google 
+Forms
+.
+Classificação da infração
+7
+.
+16
+.
+Conforme relatado acima, a autuada incorreu em violação à
+obrigação estabelecida no art. 37 da LGPD. Cabe, então, classiﬁcar a infração
+como leve, média ou grave, conforme indica o art. 8º do Regulamento de
+Dosimetria:
+Art. 8º As infrações são classiﬁcadas, segundo a gravidade e a
+natureza das infrações e dos direitos pessoais afetados, em:
+I - leve;
+II - média; ou
+III - grave.
+§ 1º A infração será considerada leve quando não veriﬁcada
+nenhuma das hipóteses relacionadas nos §§ 2º ou 3º deste artigo.
+§ 2º A infração será considerada média quando puder afetar
+signiﬁcaVvamente interesses e direitos fundamentais dos Vtulares
+de dados pessoais, caracterizada nas situações em que a atividade de
+tratamento puder impedir ou limitar, de maneira signiﬁcaVva, o
+exercício de direitos ou a uVlização de um serviço, assim como
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 16
+[PAGINA 17]
+ocasionar danos materiais ou morais aos Vtulares, tais como
+discriminação; violação à integridade Ysica; ao direito à imagem e à
+reputação; fraudes ﬁnanceiras ou uso indevido de idenVdade, desde
+que não seja classificada como grave.
+§ 3º A infração será considerada grave quando:
+I - veriﬁcada a hipótese estabelecida no § 2º deste arVgo e
+cumulativamente, pelo menos, uma das seguintes:
+a) envolver tratamento de dados pessoais em larga escala,
+caracterizado quando abranger número signiﬁcaVvo de Vtulares,
+considerando-se, ainda, o volume de dados envolvidos, bem como a
+duração, a frequência e a extensão geográﬁca do tratamento
+realizado;
+b) o infrator auferir ou pretender auferir vantagem econômica em
+decorrência da infração cometida;
+c) a infração implicar risco à vida dos titulares;
+d) a infração envolver tratamento de dados sensíveis ou de dados
+pessoais de crianças, de adolescentes ou de idosos;
+e) o infrator realizar tratamento de dados pessoais sem amparo em
+uma das hipóteses legais previstas na LGPD;
+f) o infrator realizar tratamento com efeitos discriminatórios ilícitos
+ou abusivos; ou
+g) veriﬁcada a adoção sistemáVca de práVcas irregulares pelo
+infrator;
+II - constituir obstrução à atividade de fiscalização.
+7
+.
+17
+.
+No presente caso, não estão presentes provas apontando que o
+comeVmento de infração – ou seja, a ausência de registro das operações de
+tratamento – tenha impedido ou limitado o exercício de direitos ou a
+uVlização de serviço, nem que tenha contribuído para a potencial ocorrência
+de danos materiais ou morais aos Vtulares, fraudes ﬁnanceiras ou uso
+indevido de idenVdade. Esses requisitos são necessários para que uma
+infração seja classiﬁcada como média, nos termos do art. 8º, §2º do
+Regulamento de Dosimetria. Ou seja: a não apresentação do ROT não
+prejudicou os titulares de dados ou agravou a situação.
+7
+.
+18
+.
+Ademais, para ser considerada grave, uma infração deve reunir
+as caracterísVcas de média e, cumulaVvamente, atender a uma das alíneas do
+inciso I do §3º do art. 8º, ou consVtuir obstrução à aVvidade de ﬁscalização,
+conforme indica o inciso II. No caso em apreço, a infração ao art. 37 tampouco
+é grave, uma vez que não cumpre o requisito de ser, inicialmente, média.
+7
+.
+19
+.
+Assim, 
+a ofensa ao art. 37 da LGPD, no caso em análise, ﬁca
+conﬁgurada como leve
+, nos termos do art. 8º, §1º do Regulamento de
+Dosimetria, por seu caráter residual, uma vez que não foram veriﬁcadas as
+hipóteses previstas nos §§2º e 3º do art. 8º.
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 17
+[PAGINA 18]
+Definição do tipo de sanção administrativa
+7
+.
+20
+.
+O art. 9º, I, do Regulamento de Dosimetria, indica que a sanção
+de advertência é adequada quando a infração for leve e não for caracterizada
+reincidência especíﬁca. No caso, a infração é leve e não há reincidência
+específica.
+7
+.
+21
+.
+Inexistem circunstâncias agravantes e atenuantes (arts. 12 e 13
+do Regulamento de Dosimetria) quanto a esta infração.
+7
+.
+22
+.
+Fica, portanto, deﬁnida a sanção de advertência para a violação
+ao art. 37 da LGPD
+.
+7
+.
+23
+.
+Afasta-se a imposição de medida correVva porque o objeto
+deste Processo AdministraVvo Sancionador é o tratamento de dados pessoais
+realizado por meio da ferramenta Google 
+Forms
+ para a inscrição no Programa
+Educação Precoce, com especial destaque para o incidente de segurança
+decorrente da operacionalização desse formulário. Parte das informações
+constantes em um ROT (a forma de coleta e de retenção, a frequência e as
+medidas de segurança técnicas e administraVvas, por exemplo) estão
+relacionadas ao instrumento que viabiliza o tratamento. A análise quanto ao
+tratamento de dados pessoais, portanto, está estritamente relacionada à
+ferramenta utilizada para realizá-lo.
+7
+.
+24
+.
+Conforme se veriﬁca no portal da SEEDF (ver Anexo 1.
+Orientações inscrição Programa Educação Precoce (
+0059144
+)), a inscrição no
+Programa Educação Precoce não é mais efetuada por meio do formulário do
+Google. Logo, o ROT relacionado a tal tratamento de dados pessoais, na
+atualidade, contém informações que não guardam relação com o objeto de
+invesVgação do presente PAS. Assim, embora a elaboração do ROT permaneça
+como obrigação ao agente de tratamento, a apresentação desse documento
+agora, após a desconVnuidade do Google 
+Forms
+, torna-se uma determinação
+inócua como medida corretiva, para os fins e o escopo deste processo
+[5]
+.
+ 
+Conduta: não elaborar RIPD após solicitação da ANPD - art. 38 da LGPD
+Defesa apresentada pela autuada
+7
+.
+25
+.
+O RIPD foi solicitado pela primeira vez no OYcio nº
+108/2021/CGF/ANPD/PR (
+0045691
+), cuja ciência oﬁcial pela autuada ocorreu
+em 22 de novembro de 2021 (ver 
+[item 5.3]
+ e 
+[item 5.4]
+).
+7
+.
+26
+.
+Em sua Defesa AdministraVva, a autuada informou que,
+paralelamente às medidas adotadas quanto a este incidente de segurança,
+teria empenhado esforços para melhorar a implementação e a estruturação
+do setor responsável pela LGPD. Entre essas medidas, estariam “[...] ações
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 18
+[PAGINA 19]
+referentes às informações e ao levantamento de maturidade de privacidade
+de dados e de maturidade de segurança, inventários de dados pessoais, assim
+como a elaboração de Relatório de Impacto de Proteção de Dados (RIPD)
+constam como procedimentos já inseridos no projeto de adequação à LGPD da
+SEEDF” (Defesa Administrativa 
+0049051
+, p. 2).
+7
+.
+27
+.
+Nas Alegações Finais, apresentadas em agosto de 2023, a
+autuada reforçou que a elaboração do RIPD está entre as medidas que serão
+adotadas no 
+âmbito do projeto de adequação à LGPD (Alegações Finais -
+Ofício nº 3592/2023 - SEE/GAB/AESP (
+0049066
+), p. 6).
+Subsunçãodo fato ao tipo infracional correspondente
+7
+.
+28
+.
+O art. 38 prevê a possibilidade de a ANPD requisitar relatório de
+impacto à proteção de dados pessoais (RIPD). Este documento foi
+expressamente solicitado por esta CGF no item 25, b, da Nota Técnica nº
+40/2022/CGF/ANPD (
+0045705
+). Nos termos do art. 5º, XVII, da LGPD, o RIPD é
+documento elaborado pelo controlador que contém a descrição dos processos
+de tratamento de dados pessoais que podem gerar riscos às liberdades civis e
+aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de
+mitigação de risco.
+7
+.
+29
+.
+No presente caso, a autuada não apresentou o RIPD nem no
+escopo do PAI, nem no atual processo sancionador. Em sua defesa, a autuada
+informou que o RIPD está entre as medidas que serão adotadas em projeto
+mais amplo de adequação à LGPD (ver 
+[item 7.26]
+  e 
+[item 7.27]
+), indicando
+que o documento de fato não foi elaborado, a despeito de transcorridos mais
+de vinte meses entre a solicitação desta Autoridade e as alegações finais.
+7
+.
+30
+.
+Fica, assim, caracterizada a infração ao art. 38 da LGPD, em
+razão da não apresentação de RIPD após solicitação da ANPD
+.
+Classificação da infração
+7
+.
+31
+.
+No presente caso, não estão presentes provas apontando que o
+comeVmento da infração – a não apresentação do RIPD – tenha afetado
+signiﬁcaVvamente os interesses e direitos fundamentais dos Vtulares de
+dados, prejudicado ou agravado a situação desses titulares; logo, essa infração
+não pode ser classiﬁcada como média. Consequentemente, por não cumprir o
+requisito cumulaVvo estabelecido no art. 8º, § 3º, a infração também não
+pode ser considerada grave.
+7
+.
+32
+.
+Logo, em vista de seu caráter residual, 
+a infração ao art. 38 da
+LGPD, no presente caso, fica configurada como leve
+.
+Definição do tipo de sanção administrativa
+7
+.
+33
+.
+O art. 9º, I, do Regulamento de Dosimetria indica que a sanção
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 19
+[PAGINA 20]
+de advertência é adequada quando a infração for leve e não for caracterizada
+reincidência especíﬁca. No caso, a infração é leve e não há reincidência
+específica.
+7
+.
+34
+.
+Inexistem circunstâncias agravantes e atenuantes (arts. 12 e 13
+do Regulamento de Dosimetria) quanto a esta infração.
+7
+.
+35
+.
+Fica, portanto, deﬁnida a sanção de advertência para a violação
+ao art. 38 da LGPD
+.
+7
+.
+36
+.
+Conforme explicado no 
+[item 7.23]
+ e no 
+[item 7.24]
+, a inscrição
+no Programa Educação Precoce não mais uVliza a ferramenta Google 
+Forms
+,
+elemento basilar do objeto deste PAS. Dessa forma, não há qualquer beneYcio
+em solicitar a apresentação de um RIPD já superado, ou seja, relaVvo a um
+tratamento de dados que já não é feito da maneira problemáVca que
+ocasionou a abertura do presente PAS. Por outro lado, a eventual
+apresentação de RIPD relaVvo ao tratamento de dados da maneira como
+efetuado atualmente implicaria à ANPD avaliar uma forma de tratamento de
+dados pessoais disVnta daquela que moVvou a instauração do presente
+processo - ou seja, seria uma medida inócua. Afasta-se, portanto, a imposição
+de medida correVva, uma vez que a elaboração de RIPD sobre o tratamento
+atual aportaria informações que extrapolam os limites de análise deste PAS
+[6]
+.
+ 
+Conduta: não comunicar aos ,tulares a ocorrência de incidente de segurança
+que possa lhes acarretar risco ou dano relevante – art. 48 da LGPD
+Defesa apresentada pela autuada
+7
+.
+37
+.
+A comunicação individualizada do incidente aos -tulares de
+dados ocorreu em 21/07/2022
+ 
+(Defesa AdministraVva (
+0049051
+), pp. 8 e
+seguintes). A autuada relatou que a demora em realizar o comunicado teria
+decorrido de diﬁculdades no senVdo de: i) localizar os Vtulares dos dados; ii)
+operacionalizar tecnicamente o envio em massa de e-mails aos Vtulares; e iii)
+avaliar o conteúdo da comunicação diante das restrições impostas pelo
+período eleitoral (Defesa AdministraVva 
+0049051
+, p. 5, e Alegações Finais -
+Ofício nº 3592/2023 - SEE/GAB/AESP (
+0049066
+), p. 4).
+7
+.
+38
+.
+A autuada alega que apresentou à ANPD pedidos de
+prorrogação para realizar o comunicado individualizado aos Vtulares de dados
+(Defesa AdministraVva 
+0049051
+, p. 4). No entanto, no melhor conhecimento
+desta CGF, dois dos documentos mencionados – os de IDs 76646362 e
+87043448 – não foram localizados nem no PAI (
+00261.001472/2021-41
+), nem
+no presente PAS (
+00261.001192/2022-14
+), nem em consulta à base de
+documentos do sistema de processo eletrônico (SUPER/PR) uVlizado pela
+ANPD. Do mesmo modo, o documento de ID 90240133, protocolado no PAI,
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 20
+[PAGINA 21]
+informa sobre os moVvos pelos quais a autuada entendia não ser cabível a
+comunicação individualizada, não havendo pedido de prorrogação de prazo
+para que esta fosse realizada.
+7
+.
+39
+.
+N o 
+mencionado documento 90240133, a autuada argumenta
+que não precisaria realizar a comunicação do incidente aos Vtulares porque o
+formulário não havia sido divulgado ou disponibilizado em canal de
+comunicação ou rede social de sua responsabilidade; ademais, não teriam
+sido idenVﬁcados prejuízos aos Vtulares ou à Administração Pública
+decorrentes do incidente (OYcio Vazamento de Dados - Portal I-Educar
+(
+0045725
+)). A suposta ausência de prejuízo é uVlizada, pela autuada, como
+argumento para a não aplicação de penalidade no caso em apreço (Alegações
+Finais - Ofício nº 3592/2023 - SEE/GAB/AESP (
+0049066
+)).
+Subsunção do fato ao tipo infracional correspondente
+7
+.
+40
+.
+A LGPD determina, no art. 48, que cabe ao controlador
+comunicar à ANPD e ao Vtular a ocorrência de incidente de segurança que
+possa acarretar risco ou dano relevante aos Vtulares. Nos termos do §1º do
+mencionado arVgo, a comunicação deverá ser feita em prazo razoável, a ser
+regulamentado pela ANPD. Ainda que pendente a regulamentação do prazo
+para a comunicação do incidente, o §2º do art. 48 da LGPD confere à ANPD o
+poder de determinar ao controlador providências para a salvaguarda dos
+direitos dos titulares, tais como medidas para reverter ou mitigar os efeitos do
+incidente e a ampla divulgação do fato em meios de comunicação.
+7
+.
+41
+.
+A autuada tomou conhecimento do incidente ao ser oﬁciada
+pela ANPD, o que, processualmente, ocorreu em 
+22/11/2021
+, com a sua
+primeira manifestação no processo 
+[item 5.4]
+. Por mais que não haja norma
+geral e abstrata a respeito, no caso concreto, a CGF indicou reiteradamente o
+prazo que seria razoável para realizar a comunicação do incidente aos
+Vtulares: em 
+16/12/2021
+, determinou a comunicação em até cinco dias
+úteis 
+[item 5.7]
+; em 
+07/04/2022
+, definiu o prazo de dez dias úteis (
+[item 5.10]
+);
+e, por ﬁm, em sede de medida prevenVva emiVda em 
+06/05/2022
+, foi
+novamente conferido o prazo de dez dias úteis 
+[item 5.11]
+. 
+A comunicação aos
+-tulares, no entanto, ocorreu somente em 21/07/2022
+ 
+[item 7.37]
+, já no
+âmbito deste PAS e decorridos oito meses da primeira determinação de que o
+comunicado fosse emitido.
+7
+.
+42
+.
+A autuada alegou que a demora em realizar a comunicação
+individual decorreu de diﬁculdades técnicas e de etapas adicionais de
+aprovação de conteúdo do comunicado por causa de restrições
+eleitorais 
+[item 7.37]
+. Ressalte-se, porém, que oito meses foi um período
+demasiadamente longo para a superação de tais medidas técnicas,
+especialmente considerando que o incidente esteve relacionado a um
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 21
+[PAGINA 22]
+formulário que exigia um e-mail de contato de quem o preenchia – logo, a
+autuada sempre teve em seu poder a informação sobre os Vtulares afetados e
+os seus e-mails de contato. Já as restrições do período eleitoral apenas
+ocorreram em razão da excessiva demora na adoção de providências por parte
+da autuada – ou seja, foi um elemento adicional que surgiu em decorrência de
+sua própria inércia.
+7
+.
+43
+.
+As jus-ﬁca-vas apresentadas, portanto, não são aceitáveis,
+razoáveis ou cabíveis
+ por três moVvos principais: a autuada Vnha à sua
+disposição o e-mail de contato para o qual enviar mensagens individuais aos
+Vtulares; a quanVdade de Vtulares afetados, embora signiﬁcaVva, permiVria o
+envio de mensagens ainda que manualmente, caso não houvesse
+disponibilidade de soluções que tornassem mais ágil essa aVvidade; e, por
+ﬁm, as restrições do período eleitoral incidiram sobre a matéria apenas
+porque a autuada incorreu em aVvidade irregular, pois tal limitação não
+exisVria se o comunicado Vvesse sido feito anteriormente, conforme havia
+sido determinado pela ANPD.
+7
+.
+44
+.
+Por outro lado, registre-se que o conteúdo do comunicado
+contemplou os critérios indicados no §1º do art. 48 da LGPD. Assim, 
+o envio da
+comunicação individualizada com conteúdo adequado aos -tulares afetados
+conﬁgurou cessação da infração após a instauração do PAS e antes de
+prolatada a decisão de primeira instância
+. 
+No presente caso, essa cessação
+ocorreu em 21 de julho de 2022, conforme comprovação apresentada pela
+autuada em sua defesa administraVva (Defesa AdministraVva 
+0049051
+, pp. 8 e
+seguintes).
+7
+.
+45
+.
+É importante enfaVzar que os três argumentos apresentados
+pela autuada (ver 
+[item 7.39]
+) para afastar a conﬁguração da conduta e o
+eventual sancionamento não procedem. O primeiro deles corresponde à
+alegação de que não teria divulgado os dados pessoais por não ter
+disponibilizado as respostas do formulário em seus canais oﬁciais e redes
+sociais. Tal postura, no entanto, não a exime da responsabilidade quanto à
+ocorrência do incidente: apenas indica que não incorreu em aVtudes
+adicionais contrárias à LGPD que poderiam ampliﬁcar o alcance de tal
+incidente.
+7
+.
+46
+.
+A autuada argumentou, ademais, que não foram idenVﬁcados
+prejuízos aos Vtulares em razão do incidente. Nesse aspecto, essencial
+retomar ao texto da LGPD, segundo o qual deve ser realizada a comunicação
+de incidente de segurança que 
+possa
+ acarretar risco ou dano relevante aos
+Vtulares. Não é necessário que o risco ou que o dano se concreVze, pelo
+contrário: a comunicação tem o condão, inclusive, de oferecer aos Vtulares a
+oportunidade e as ferramentas para adotar medidas que contribuam para
+evitar ou mitigar os potenciais riscos ou danos decorrentes do incidente.
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 22
+[PAGINA 23]
+7
+.
+47
+.
+A autuada argumenta, ainda, que o incidente não teria
+ocasionado prejuízos à Administração Pública. Esse é um aspecto que não
+cabe na discussão da LGPD: esta Lei visa a proteger os Vtulares de dados
+pessoais, oferecendo diretrizes e parâmetros para que o tratamento desses
+dados ocorra de maneira adequada. 
+A existência de eventuais prejuízos à
+Administração Pública em decorrência de incidentes de segurança que
+envolvem órgãos públicos como agente de tratamento é irrelevante para
+caracterizar ou afastar violações à LGPD.
+7
+.
+48
+.
+Por todo o exposto, tendo em vista os oito meses transcorridos
+entre o conhecimento do incidente e o envio de comunicado individualizado
+aos Vtulares, e considerando, ademais, que as razões apresentadas pela
+autuada não jusVﬁcam a demora em questão, 
+ﬁca conﬁgurada a violação ao
+art. 48 da LGPD, uma vez que não foi realizada comunicação aos -tulares 
+em
+prazo razoável
+.
+Classificação da infração
+7
+.
+49
+.
+O art. 48, caput e incisos, determina que o controlador deve
+apresentar Comunicação de Incidente de Segurança (CIS) adequada tanto à
+ANPD quanto ao Vtular em prazo razoável. Conforme visto no 
+[item 7.40]
+a 
+[item 7.48]
+, 
+a autuada fez comunicado individual com conteúdo adequado
+aos Vtulares afetados pelo incidente de segurança; no entanto, o prazo de
+envio da comunicação foi irrazoável.
+7
+.
+50
+.
+A falta de CIS ao Vtular em prazo razoável, especialmente
+quando resulta na exposição de dados pessoais em espaço não controlado de
+acesso, inclusive de dados de saúde, pode afetar signiﬁcaVvamente interesses
+e direitos fundamentais dos Vtulares. Isso porque o Vtular não sabe que seus
+dados foram expostos e, com isso, não toma cuidado qualiﬁcado em evitar
+uso indevido de idenVdade, fraudes ﬁnanceiras e outros danos que a
+exposição de dados possa causar. No caso concreto, os dados expostos (CPF,
+nome completo, data de nascimento, diagnósVco, data de encaminhamento
+médico, responsável pela criança, números de telefone e endereço) permitem
+que o Vtular sofra esse Vpo de dano, além de perturbações por ligações
+indevidas e fraudes em processos de autenVcação ou validação de idenVdade
+em serviços específicos.
+7
+.
+51
+.
+Logo, a infração ao art. 48 ora analisada se enquadra nos
+requisitos do art. 8º, §2º, do Regulamento de Dosimetria, atendendo ao
+critério para ser classiﬁcada como média. Além disso, no presente caso, a
+infração de falta de CIS versa sobre dados sensíveis (diagnósVco médico) e de
+crianças e adolescentes. Essas caracterísVcas elevam o 
+grau de classiﬁcação da
+infração 
+que, por esse moVvo,
+ passa a ser considerada como grave, segundo
+art. 8º, §3º, "d", do Regulamento de Fiscalização
+[7]
+.
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 23
+[PAGINA 24]
+Definição do tipo de sanção administrativa
+7
+.
+52
+.
+Para a deﬁnição do Vpo de sanção adequada, o art. 10, II, do
+Regulamento de Dosimetria, indica ser aplicável multa simples quando a
+infração for classiﬁcada como grave. No entanto, o art. 52, §3º da LGPD, ao
+estabelecer as sanções que podem ser impostas a enVdade ou a órgãos
+públicos, afasta, por omissão, a possibilidade de aplicação de multa ou de
+multa diária a esses agentes de tratamento. Por outro lado, o Regulamento de
+Dosimetria deﬁne, em seu art. 9º, que a advertência somente pode ser
+aplicada quando a infração for leve ou média, ou quando houver necessidade
+de imposição de medida corretiva.
+7
+.
+53
+.
+No presente caso, não há que se falar em medida correVva, uma
+vez que o comunicado individualizado aos Vtulares afetados pelo incidente de
+segurança já foi realizado. Igualmente, muito embora seja uma infração grave,
+as outras sanções previstas na LGPD (no caso, os incisos IV, V e VI do art. 52)
+tampouco são adequadas para a infração ora analisada, em função do
+interesse público que jusVﬁca a necessidade do tratamento dos dados. Em
+razão, portanto, de seu caráter residual, deve ser aplicada a sanção de
+advertência no caso em apreço, mesmo diante de infração classiﬁcada como
+grave.
+7
+.
+54
+.
+A esse respeito, importante ressaltar que o Regulamento de
+Dosimetria objeVvou afastar a advertência quando sanção mais séria deveria
+ser aplicada. No entanto, diante da impossibilidade ou da inadequação de
+outra sanção, impedir a aplicação da advertência resultaria em uma infração
+grave quedar sem sanção alguma. Tal solução seria contrária ao sistema de
+dosimetria insVtuído pela ANPD e violaria frontalmente o princípio da
+proporcionalidade, parâmetro basilar na aplicação de sanções, conforme
+estabelece o art. 52, §1º, XI, da LGPD.
+7
+.
+55
+.
+Embora tenha sua análise miVgada no presente processo (uma
+vez que não será aplicada a sanção de multa), as circunstâncias atenuantes e
+agravantes serão registradas, a ﬁm de reconhecer a sua existência no caso
+concreto. A autuada deixou de cumprir a determinação apresentada no Aviso
+nº 19/2022/CGF/ANPD (
+0045711
+) 
+[item 5.11]
+, medida prevenVva adotada no
+âmbito do PAI. IdenVﬁca-se, portanto, a ocorrência de uma 
+circunstância
+agravante
+, nos termos do art. 32, §2º, II, do Regulamento de Fiscalização. Por
+outro lado, houve a cessação da infração com o comunicado individualizado
+aos Vtulares afetados pelo incidente de segurança após a instauração do PAS
+e antes da decisão de primeira instância (
+[item 7.44]
+), o que correspondeu a
+u m a 
+circunstância atenuante
+, em conformidade com o art. 13, I, c, do
+Regulamento de Dosimetria.
+7
+.
+56
+.
+Fica, portanto, cominada a sanção de advertência para a
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 24
+[PAGINA 25]
+infração ao art. 48
+.
+ 
+Conduta: não u,lizar sistemas que atendam aos requisitos de segurança, aos
+padrões de boas prá,cas e de governança e aos princípios da LGPD – art. 49
+da LGPD (incidente de segurança).
+Defesa apresentada pela autuada
+7
+.
+57
+.
+Em defesa administraVva e alegações ﬁnais apresentadas
+tempestivamente, a autuada afirmou que, no contexto da pandemia de Covid-
+19 e da necessidade, por um lado, de distanciamento social e, por outro, de
+assegurar o processo de aprendizagem, foi ﬁrmado termo de colaboração com
+a Plataforma Google como forma de viabilizar a conVnuidade das aVvidades
+pedagógicas e administraVvas de forma virtual. Em razão da situação de
+emergência instaurada, não houve, à época, tempo hábil para a formação do
+corpo técnico quanto à uVlização da mencionada plataforma, de modo que os
+proﬁssionais foram adquirindo o conhecimento na práVca diária das
+ferramentas necessárias à conVnuidade das aVvidades (Defesa AdministraVva
+0049051
+, p. 4, e Alegações Finais - OYcio nº 3592/2023 - SEE/GAB/AESP
+(
+0049066
+), p. 3).
+7
+.
+58
+.
+A autuada aﬁrma que o início do retorno das aulas presenciais
+teria representado desafios adicionais, incluindo a 
+necessidade de alocação de
+proﬁssionais a parVr de suas restrições individuais. Nesse contexto,
+considerando que as inscrições para o Programa Educação Precoce não ocorria
+por nenhum sistema automaVzado, a autuada optou por uVlizar a ferramenta
+Google 
+Forms
+ com o objeVvo de "[...] coletar informações para detectar
+inconsistências na espera de crianças para ingressar no Programa, tais como a
+duplicidade de inscrição em mais de uma unidade escolar, extenso tempo de
+espera, falta de transparências quanto aos critérios e classiﬁcação para o
+chamamento e ingresso, demanda represada e esvaziamento de forma
+setorizada, dentre outros [...]", criando uma lista de espera on-line. O
+formulário, assim, foi criado com "[...] a ﬁnalidade de favorecer a lisura,
+uniﬁcação, validação dos dados, organização da oferta e diminuição do tempo
+de espera em lista" (Defesa AdministraVva 
+0049051
+, p. 4, e Alegações Finais -
+Ofício nº 3592/2023 - SEE/GAB/AESP (
+0049066
+), pp. 1-3).
+7
+.
+59
+.
+O formulário, segundo a autuada, foi formatado a parVr da
+conﬁguração padrão do Google 
+Forms
+. A consulta às 
+respostas foi possível
+pela alteração do ﬁnal do endereço eletrônico do formulário, com a
+subsVtuição de 
+viewform
+ para 
+viewanalytics
+. Nesse contexto, a divulgação das
+informações pessoais teria decorrido de falha humana, pois foi o resultado da
+não uVlização do recurso de segurança devido quando da elaboração do
+formulário (Defesa Administrativa 
+0049051
+, p. 2).
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 25
+[PAGINA 26]
+7
+.
+60
+.
+Tão logo soube do incidente, a autuada aﬁrma que tornou
+indisponíveis os dados do Google 
+Forms
+ e excluiu as respostas do formulário,
+com o objeVvo de minimizar prejuízos aos cidadãos envolvidos (Defesa
+AdministraVva 
+0049051
+, p. 2, e (Alegações Finais - OYcio nº 3592/2023 -
+SEE/GAB/AESP (
+0049066
+), p. 2).
+7
+.
+61
+.
+A 
+autuada registrou que estão sendo adotadas medidas para a
+inserção do Programa Educação Precoce no sistema I-Educar (Alegações Finais
+- Ofício nº 3592/2023 - SEE/GAB/AESP (
+0049066
+), p. 2).
+Subsunção do fato ao tipo infracional correspondente
+7
+.
+62
+.
+Viola o art. 49 da LGPD o sistema uVlizado para tratar dados
+pessoais que não seja estruturado de modo a atender aos requisitos de
+segurança, aos padrões de boas práVcas e de governança e aos princípios
+gerais previstos na lei e às demais normas regulamentares.
+7
+.
+63
+.
+No caso em análise, o incidente de segurança decorreu de uma
+conﬁguração, feita por um usuário, na ferramenta Google 
+Forms
+, que permiVu
+o acesso de pessoas não autorizadas às respostas apresentadas. Tanto que,
+após alterações de conﬁguração realizadas pela autuada, não foi mais possível
+o acesso às respostas, conforme informado pela SEEDF e registrado na
+Certidão (
+0045698
+) (ver 
+[item 5.5]
+​​​​​​
+, 
+[item 5.6]
+ e 
+[item 7.59]
+).
+7
+.
+64
+.
+O incidente, portanto, não decorreu de problemas no sistema
+em si, mas de seu uso de maneira equivocada. Por esse moVvo, a ferramenta
+uVlizada é secundária à presente avaliação: uma vez que o incidente teve por
+origem a forma como foi uVlizada, a exposição de dados não foi ocasionada
+por problemas estruturais nessa ferramenta. Isso não quer dizer que a
+Plataforma Google seja imune a incidentes de segurança; signiﬁca apenas que,
+no caso analisado, o incidente esteve relacionado a outra dimensão – no caso,
+o manuseio pelo usuário – que não as caracterísVcas estruturantes desse
+sistema.
+7
+.
+65
+.
+À época da lavratura do Auto de infração nº 6/2022/CGF/ANPD
+(
+0049042
+), entendeu-se, inicialmente, que o incidente teria ocorrido em
+virtude de falha de sistema, o que representaria uma possível infração ao art.
+49 da LGPD. No entanto, conforme esclarecido acima, após uma análise mais
+deVda de todos os elementos colacionados aos autos, concluiu-se que os
+fatos indicam, na realidade, falha nas medidas administraVvas uVlizadas ao
+manipular o sistema escolhido. 
+A conduta, portanto, deve ser analisada a
+partir do art. 46 da LGPD, e não do art. 49
+.
+7
+.
+66
+.
+É possível à ANPD a alteração do enquadramento da conduta
+sem prejuízo à autuada. Aﬁnal, esta deve apresentar defesa quanto 
+aos fatos
+,
+e não em relação à Vpiﬁcação legal indicada. Isso é evidente, no caso
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 26
+[PAGINA 27]
+concreto, por dois aspectos: (i) pelo relato factual apresentado na Nota
+Técnica que embasou o auto de infração, ao referir-se à exposição de dados a
+parVr de um formulário da Plataforma Google, que é de ampla uVlização em
+todo o mundo e cuja funcionalidade de comparVlhamento de respostas é
+aVvada por padrão (item 4.4 da Nota Técnica Técnica nº 57/2022/CGF/ANPD
+(
+0049033
+)); e (ii) pela defesa da autuada, que enfaVzou as circunstâncias nas
+quais os servidores da SEEDF passaram a uVlizar a Plataforma Google e as
+diﬁculdades ocorridas nesse momento. A defesa da autuada estruturou-se em
+torno do fato relacionado à uVlização da Plataforma, e não da Vpiﬁcação
+apresentada no auto de infração.
+7
+.
+67
+.
+A alteração do Vpo legal está em conformidade com o que
+estabelece o art. 55 da Lei nº 9.784, de 29 de janeiro de 1999, segundo o qual
+“em decisão na qual se evidencie não acarretarem lesão ao interesse público
+nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão
+ser convalidados pela própria Administração”. É dever desta CGF, portanto,
+reVﬁcar eventuais inconsistências idenVﬁcadas nos autos de infração, sempre
+que tal alteração não causar prejuízo ao direito de ampla defesa dos
+autuados. Além de sua ampla aplicação no direito penal – aquele que, por
+natureza, exige maior formalidade
+[8]
+ –, a 
+emendao libelli
+ é práVca em
+processos sancionadores de agências reguladoras
+[9]
+.
+7
+.
+68
+.
+O art. 46 da LGPD estabelece duas categorias de medidas de
+segurança que devem ser adotadas pelos agentes de tratamento para
+proteger os dados pessoais de tratamentos ilícitos: as técnicas e as
+administraVvas. Entre as administraVvas, estão aquelas que dizem respeito,
+entre outros aspectos, às regras de gestão de sistemas informaVzados e de
+orientação aos usuários para realizar o manejo desses sistemas e dos dados
+pessoais a que têm acesso. Esclarecedora, nesse aspecto, a lição trazida por
+Frazão, Tepedino e Oliva
+[10]
+:
+Para que os dados pessoais sejam saVsfatoriamente protegidos,
+além das naturais medidas técnicas, 
+é preciso também que o
+controlador lance mão de expedientes de ordem administra-va
+.
+Um exemplo que pode ser mencionado é o de uma hipotéVca
+empresa que adote todas as medidas técnicas que cumpram
+saVsfatoriamente com os objeVvos de conﬁdencialidade, integridade
+e disponibilidade. Nessa empresa, cada empregado do controlador
+teria sua própria credencial, que, a depender de sua hierarquia,
+permiVria diferentes graus de autorizações de acesso. No entanto,
+por comodidade, diariamente os empregados no exercício de suas
+funções comparVlham as credenciais entre si, superando o sistema
+de segurança. Nessa situação, 
+um equívoco administra-vo se
+mostra apto a comprometer toda a operação de bases de dados
+que gozam das melhores condições de segurança técnica
+.
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 27
+[PAGINA 28]
+Dessa forma, em boa hora determinou o legislador, no art. 46, que
+os agentes de tratamento devem adotar medidas de segurança,
+técnicas e administraVvas. Quanto às medidas administraVvas, os
+disposiVvos trazidos pela lei demandarão um esforço coleVvo de
+todos os atores envolvidos 
+e implicarão a criação de novas ro-nas
+de trabalho, de procedimentos de segurança de informação e
+aumento dos mecanismos de transparência e governança
+. A cultura
+de proteção aos dados pessoais precisará ser cada vez mais
+difundida, em especial entre aqueles que prestam serviços para
+agentes de tratamento (grifos inexistentes no original).
+7
+.
+69
+.
+Nesse senVdo, as duas categorias trazidas no art. 46 são
+intrinsecamente complementares entre si: se, por um lado, é essencial que os
+sistemas comportem conﬁgurações de segurança técnicas que assegurem o
+adequado tratamento de dados pessoais, por outro lado, medidas de
+segurança administraVvas são cruciais para que tais sistemas sejam uVlizados
+adequadamente. Aﬁnal, conforme esclarecem Cots e Oliveira, “[...] nem todo o
+vazamento ou perda de informações se dá pela quebra do sistema de
+segurança, mas muitas vezes se dá por credenciais uVlizadas indevidamente,
+por culpa ou dolo”
+[11]
+.
+7
+.
+70
+.
+Conforme já mencionado, independentemente das
+caracterísVcas de segurança da Plataforma Google – que não é aqui analisada
+–, o incidente decorreu de erro do usuário ao criar o formulário de inscrição
+no Programa Educação Precoce. Tal erro, argumenta a autuada, esteve
+relacionado à ausência de treinamento adequado para a uVlização das novas
+ferramentas que passaram a ser uVlizadas no contexto da pandemia, quando
+as aVvidades virtuais foram inseridas de maneira abrupta na dinâmica do
+órgão e, posteriormente, quando se iniciaram as gestões para o retorno das
+aulas presenciais (
+[item 7.57]
+ e 
+[item 7.58]
+). Portanto, conforme indicado pela
+própria autuada, 
+não foram adotadas as medidas administra-vas necessárias
+à u-lização do sistema em que os dados estavam sendo tratados
+ – ou seja:
+não foi realizado treinamento com os servidores que uVlizaram o Google
+Forms
+ para montar o formulário de inscrição do Programa Educação Precoce.
+7
+.
+71
+.
+Em situações normais, não adotar medidas administraVvas –
+que englobam, entre outras, o treinamento dos usuários de sistemas
+uVlizados no tratamento de dados pessoais – seria violação ao art. 46.
+Ademais, as jusVﬁcaVvas para o uso de determinado sistema e a eventual boa
+intencionalidade que incenVvou a sua uVlização (no caso, aperfeiçoar o
+processo de inscrição em uma políVca pública) não isentam o agente de
+tratamento das responsabilidades impostas pelos arts. 46, 49 e outros da
+LGPD.
+7
+.
+72
+.
+No entanto, a conduta aqui avaliada, de fato, ocorreu em uma
+conjuntura excepcional. Tanto no ambiente privado como no público, e com
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 28
+[PAGINA 29]
+destaque para o setor educacional por sua importância e sensibilidade, a
+pandemia onerou a prestação de serviços e o procedimento regular de
+tomada de decisão. Assim como outros órgãos educacionais, a SEEDF,
+conforme relatou, teve que recorrer a medidas excepcionais para assegurar o
+distanciamento social e, concomitantemente, garanVr a conVnuidade de
+aVvidades pedagógicas durante o ápice da pandemia; e, posteriormente,
+precisou desenvolver estratégias para promover o retorno gradaVvo às
+atividades presenciais de milhares de estudantes.
+7
+.
+73
+.
+Como é de notório conhecimento, a pandemia de Covid-19 foi
+formalmente decretada em março de 2020, e seus longos efeitos seguem
+repercuVndo mesmo após o seu ﬁm oﬁcial, em maio de 2023
+[12]
+. O incidente
+de segurança foi detectado em novembro de 2021, mês em que as aulas no
+Distrito Federal deveriam retornar integralmente, e de maneira escalonada, à
+modalidade presencial: conforme noVciado à época, o Governo do Distrito
+Federal havia decidido pelo modelo híbrido no início de agosto de 2021
+[13]
+ e,
+no início de novembro do mesmo ano, pelo retorno integral ao presencial,
+com a esVmaVva de 460 mil alunos em sala de aula para ﬁnalizar o ano
+letivo
+[14]
+.
+7
+.
+74
+.
+É compreensível, nesse cenário, que a SEEDF tenha abdicado de
+treinar servidores no uso da Plataforma Google como forma de dar celeridade
+a procedimentos que precisavam ser realizados no meio de incertezas que
+pairaram, à época, sobre o retorno das aVvidades presenciais dos estudantes.
+As medidas para esse retorno possivelmente cumularam com as já em
+andamento para assegurar a conVnuidade das aVvidades pedagógicas de
+maneira virtual, além de todas as aVvidades de gestão de equipes em
+momento no qual servidores adoeciam ou exigiam tratamento diferenciado
+por suas condições especíﬁcas de saúde. Nesse contexto, a pandemia de
+Covid-19 corresponde à existência de caso fortuito ou de força maior
+[15]
+ que
+signiﬁcou, no caso concreto, excludente de causalidade, rompendo o nexo
+causal que ensejaria a responsabilização pelo descumprimento do art. 46.
+7
+.
+75
+.
+Essencial ressaltar que, para as demais infrações analisadas
+neste relatório, não ocorreu a quebra da cadeia causal: os comunicados da
+CGF permiVram à autuada tomar conhecimento sobre possíveis
+irregularidades frente à LGPD e ofereceram a ela a oportunidade de adotar
+medidas para retornar à conformidade (ver, em especial, o 
+[item 7.12]
+, o 
+[item
+7.13]
+ e o 
+[item 7.14]
+). A parVr do momento em que é provocada a agir, não
+cabe mais à autuada omiVr-se de suas responsabilidades e obrigações legais,
+uma vez que, em diálogo com a ANPD, poderia ter negociado um cronograma
+para o cumprimento das determinações que fosse adequado tanto à sua
+realidade, quanto à proteção dos direitos dos titulares.
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 29
+[PAGINA 30]
+7
+.
+76
+.
+Fica afastada, assim, a infração do art. 46 em razão do
+rompimento do nexo de causalidade decorrente de caso fortuito ou de força
+maior sobre a conduta da autuada
+.
+ 
+Conduta: não apresentar informações relevantes para a avaliação das
+a,vidades de tratamento de dados pessoais no prazo estabelecido pela
+ANPD – art. 5º do Regulamento de Fiscalização
+Defesa apresentada pela autuada
+7
+.
+77
+.
+A autuada informou que, entre as ações previstas para a
+adequação à LGPD, está “[...] a elaboração de um Plano de Gestão de
+incidentes de segurança da informação e privacidade de dados pessoais, a ser
+amplamente divulgado no âmbito da SEEDF” (Alegações Finais - OYcio nº
+3592/2023 - SEE/GAB/AESP (
+0049066
+), p. 6).
+Subsunção do fato ao tipo infracional correspondente
+7
+.
+78
+.
+A violação do art. 5º do Regulamento de Fiscalização se sustenta
+diante da falta de apresentação dos documentos requeridos pela CGF em sua
+atividade de fiscalização.
+7
+.
+79
+.
+No caso, a Nota Técnica nº 40/2022/CGF/ANPD (
+0045705
+)
+determinou à autuada a apresentação de “plano de gestão de incidentes de
+segurança da informação e privacidade, caso possua”. Ao não apresentar, no
+âmbito do PAI, o seu plano de tratamento de incidentes, ou sequer responder
+sobre possuir um ou não, a autuada descumpriu os deveres impostos pelo art.
+5º do Regulamento de Fiscalização, em especial o de fornecer cópia de
+documentos relevantes no prazo determinado pela ANPD.
+7
+.
+80
+.
+Dessa forma, resta conﬁgurado o descumprimento do art. 5º, I,
+do Regulamento
+.
+Classificação da infração
+7
+.
+81
+.
+É dever do regulado fornecer documentos, dados e informações
+relevantes para a avaliação das aVvidades de tratamento de dados pessoais,
+no prazo, local, formato e demais condições estabelecidas pela ANPD. A não
+manifestação da autuada sobre “plano de gestão de incidentes de segurança
+da informação e privacidade, caso possua”, após determinação da CGF,
+conﬁgura violação ao art. 5º, I, do Regulamento de Fiscalização (
+[item 7.78]
+ a
+[item 7.80]
+).
+7
+.
+82
+.
+No caso concreto, a não apresentação do plano de gestão de
+incidentes consVtuiu obstrução à aVvidade de ﬁscalização, nos termos do art.
+6º do Regulamento de Fiscalização, já que impediu avaliar as medidas técnicas
+adequadas e suficientes para prevenir e mitigar os efeitos do incidente.
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 30
+[PAGINA 31]
+7
+.
+83
+.
+Como esse descumprimento do dever de fornecer documentos
+conﬁgurou obstrução à ﬁscalização, 
+a infração deve ser classiﬁcada como
+grave, de acordo com art. 8º, §3º, II, do Regulamento de Dosimetria
+.
+Definição do tipo de sanção administrativa
+7
+.
+84
+.
+A análise da sanção administraVva para esta infração segue a
+lógica argumentaVva apresentada do 
+[item 7.52]
+ ao 
+[item 7.54]
+: para sanções
+consideradas graves, o art. 10, II, do Regulamento de Dosimetria, indica ser
+aplicável multa simples; no entanto, o art. 52, §3º da LGPD, afasta a aplicação
+de multa para órgãos públicos.
+7
+.
+85
+.
+Por outro lado, o art. 9º do Regulamento de Dosimetria
+estabelece a advertência para infrações leves e médias, ou quando é
+necessária a imposição de medida correVva – o que não se aplica ao presente
+caso: encerrado esse processo, não há necessidade de análise adicional
+quanto ao procedimento de inscrição no Programa Educação Precoce,
+considerando que não está sendo mais uVlizada a ferramenta de coleta de
+dados – o formulário Google – que ensejou a atuação da ANPD (ver Anexo 1.
+Orientações inscrição Programa Educação Precoce (
+0059144
+)).
+7
+.
+86
+.
+Em razão, porém, da impossibilidade de aplicação de outra
+sanção (as previstas nos incisos IV, V e VI do art. 52 da LGPD não são
+adequadas, em razão do interesse público que jusVﬁca o tratamento de
+dados), e do fato de que uma infração grave ﬁcar sem a sanção
+correspondente seria violar o princípio da proporcionalidade, 
+ﬁca cominada a
+sanção de advertência
+.
+7
+.
+87
+.
+Inexistem circunstâncias agravantes e atenuantes (arts. 12 e 13
+do Regulamento de Dosimetria) quanto a esta infração.
+ 
+Adoção de medidas para adequação à LGPD
+7
+.
+88
+.
+Em razão das medidas que vêm sendo implementadas pela
+regulada no senVdo de adequar o tratamento de dados pessoais à LGPD,
+conforme relatado na defesa e nas alegações ﬁnais, e como pode ser
+observado, por exemplo, nos documentos 
+0049070
+, 
+0049071
+, 
+0049072
+,
+0049073
+ e 
+0049075
+, consideram-se ausentes a conveniência e oportunidade
+de encaminhar noicia ao órgão de controle interno do Distrito Federal para
+apuração de eventual falta funcional, nos termos do art. 55-J, XXII.
+ 
+8
+.
+CONCLUSÃO
+8
+.
+1
+.
+Ante o exposto, considerando que o conjunto probatório
+demonstra que a autoria e a materialidade restam devidamente comprovadas
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 31
+[PAGINA 32]
+nos autos, e que os fatos descritos correspondem às infrações Vpiﬁcadas
+pelos enquadramentos indicados no Auto de infração nº 6/2022/CGF/ANPD
+(
+0049042
+), conclui-se pelas seguintes recomendações:
+8
+.
+1
+.
+1
+.
+Por violação ao art. 37 da LGPD, a aplicação da sanção de
+ADVERTÊNCIA à SEEDF, sem a imposição de medida corretiva;
+8
+.
+1
+.
+2
+.
+Por violação ao art. 38 da LGPD, a aplicação da sanção de
+ADVERTÊNCIA à SEEDF, sem a imposição de medida corretiva;
+8
+.
+1
+.
+3
+.
+Por violação ao art. 48 da LGPD, a aplicação da sanção de
+ADVERTÊNCIA à SEEDF, sem a imposição de medida corretiva; e
+8
+.
+1
+.
+4
+.
+Por violação ao art. 5º do Regulamento de Fiscalização, pela
+aplicação da sanção de ADVERTÊNCIA à SEEDF, sem a imposição de medida
+corretiva.
+8
+.
+2
+.
+Por ﬁm, é importante registrar que a classiﬁcação das infrações,
+a deﬁnição das sanções (inclusos agravantes e atenuantes) e a decisão quanto
+à adoção de medidas correVvas restringem-se às circunstâncias deste caso em
+concreto. Tais decisões não vinculam, naturalmente, a análise e o
+posicionamento da CGF em futuros processos sancionadores.
+ 
+9
+.
+ENCAMINHAMENTOS
+9
+.
+1
+.
+O presente Relatório de Instrução deve ser encaminhado ao
+Coordenador-Geral de Fiscalização para decisão, de acordo com art. 55 do
+Regulamento de Fiscalização.
+9
+.
+2
+.
+Após proferida a decisão, a autuada deverá ser inVmada para
+ciência e apresentação de recurso, se for o caso, em até 10 dias úteis, em
+consonância com o art. 58 do Regulamento de Fiscalização.
+9
+.
+3
+.
+A decisão deve ser publicada no DOU, segundo o art. 55 do
+Regulamento de Fiscalização.
+9
+.
+4
+.
+Após trânsito em julgado, este Processo AdministraVvo
+Sancionador deverá ser arquivado, uma vez que inexistem obrigações
+adicionais a serem monitoradas.
+ 
+GABRIELLA VIEIRA OLIVEIRA GONÇALVES
+Especialista em Políticas Públicas e Gestão Governamental
+ 
+ 
+ULLIANA CERVIGNI MARTINELLI
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 32
+[PAGINA 33]
+Coordenadora de Fiscalização, Substituta
+ 
+ 
+ 
+____________________________
+[1]
+ Esta CGF não Vnha, em um primeiro momento, idenVﬁcado o ROT no Anexo defesa
+administraVva (
+0049052
+), moVvo pelo qual enviou à autuada o OYcio nº
+44/2023/FIS/CGF/ANPD (
+0049068
+). Este pedido foi tempesVvamente respondido com a
+apresentação do Documento nº 
+0049074
+, o qual correspondeu ao reenvio do documento
+constante nas páginas 3 a 5 do anexo defesa administrativa (
+0049052
+).
+[2]
+ Em junho de 2023, a ANPD divulgou modelo de registro simpliﬁcado de operações com
+dados pessoais para Agentes de Tratamento de Pequeno Porte (ATPP) – ver noicia
+disponível no link 
+https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-divulga-modelo-
+de-registro-simplificado-de-operacoes-com-dados-pessoais-para-agentes-de-tratamento-
+de-pequeno-porte-atpp
+. O referido modelo, em seus formatos excel e pdf, pode ser
+consultado na página de publicações da ANPD (
+https://www.gov.br/anpd/pt-
+br/documentos-e-publicacoes
+). Até a edição de orientações gerais sobre ROT, esse modelo
+pode ser usado como referência inclusive por agentes de tratamento que não sejam de
+pequeno porte, caso os auxilie na construção desse registro
+[3]
+ Ver a página “Guias e Modelos”, disponível em 
+https://www.gov.br/governodigital/pt-
+br/seguranca-e-protecao-de-dados/guias-e-modelos
+.
+[4]
+ Ver histórico de versões na página 4 do “Guia de Elaboração de Inventário de Dados
+Pessoais”, listado na página 
+https://www.gov.br/governodigital/pt-br/seguranca-e-
+protecao-de-dados/guias-e-modelos
+ e disponível diretamente no link
+https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-
+dados/ppsi/guia_inventario_dados_pessoais.pdf
+.
+[5]
+ Importante ressaltar a diferença entre este caso, no qual houve desconVnuidade da
+ferramenta uVlizada, e o analisado nos Relatórios de Instrução nº 2/2023 (processo
+00261.001969/2022-41
+) e nº 4/2023 (processo 
+00261.001886/2022-51
+), nos quais o
+sistema do qual decorreu o tratamento em desconformidade com a LGPD permaneceram
+em uso - e, portanto, as medidas correVvas estavam inseridas no escopo de análise dos
+respectivos processos sancionadores.
+[6]
+ Importante ressaltar a diferença entre este caso, no qual houve desconVnuidade da
+ferramenta uVlizada, e o analisado nos Relatórios de Instrução nº 2/2023 (processo
+00261.001969/2022-41
+) e nº 4/2023 (processo 
+00261.001886/2022-51
+), nos quais o
+sistema do qual decorreu o tratamento em desconformidade com a LGPD permaneceram
+em uso - e, portanto, as medidas correVvas estavam inseridas no escopo de análise dos
+respectivos processos sancionadores.
+[7]
+ Precedentes neste senVdo constam nos Relatórios de Instrução nº 2/2023 e nº 04/2023,
+respectivamente nos processos 
+00261.001969/2022-41
+ e 
+00261.001886/2022-51
+.
+[8]
+ “O acusado se defende dos fatos que lhe são imputados, e não da classiﬁcação jurídica
+dada na peça acusatória, de sorte que o juiz, sem modiﬁcar a descrição dos elementos
+fáVcos conVdos na denúncia ou queixa, poderá atribuir-lhe deﬁnição jurídica diversa, ainda
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 33
+[PAGINA 34]
+que, em consequência, implique pena mais grave”. HC 227446 AgR, Relator(a): LUIZ FUX,
+Primeira Turma, julgado em 29-05-2023, PROCESSO ELETRÔNICO DJe-s/DIVULG 01-06-2023
+PUBLIC 02-06-2023. Disponível em
+https://jurisprudencia.stf.jus.br/pages/search/sjur480860/false
+. “Não conﬁguram
+ilegalidade ou abuso de poder as hipóteses em que o juiz sentenciante, a parVr de
+elementos decorrentes da instrução probatória, dá aos fatos nova deﬁnição jurídica, nos
+termos do art. 383 do CPP (emendaVo libelli)”. HC 214063 AgR, Relator(a): ANDRÉ
+MENDONÇA, Segunda Turma, julgado em 22-02-2023, PROCESSO ELETRÔNICO DJe-
+s/DIVULG 27-02-2023 PUBLIC 28-02-2023. Disponível em
+https://jurisprudencia.stf.jus.br/pages/search/sjur475161/false
+.
+[9]
+ A Agência Nacional de Telecomunicações (Anatel), por exemplo, tem se posicionado no
+senVdo de que essa alteração é possível quando não prejudica a defesa do autuado: “É o
+caso, por exemplo, da incorreta Vpiﬁcação dos fatos que se encontram devidamente
+circunstanciados nos documentos presentes nos autos e mencionados pela ﬁscalização no
+ato instaurador. Em outras palavras, é a situação em que a ﬁscalização não indica ou indica
+incorretamente o fundamento jurídico que dá suporte aos fatos ou condutas infratoras
+praVcadas pelas prestadoras do STFC, trazendo aos autos, não obstante, o
+circunstanciamento detalhado dos fatos e condutas praVcadas pela prestadora, o que
+permiVu o amplo exercício do direito de defesa (item 57 do Parecer n. 00525/2023/PFE-
+ANATEL/PGF/AGU, no âmbito do processo nº 53500.021612/2022-85.
+[10]
+ FRAZÃO, A; OLIVA, Milena Donato; TEPEDINO, Gustavo. Lei Geral de Proteção de
+Dados Pessoais e suas repercussões no direito brasileiro. Thomson Reuters Brasil; 2019.
+Referência RB-15.5.
+[11]
+ COTS, Márcio; OLIVEIRA, Ricardo. Lei Geral de Proteção de Dados Pessoais (LGPD)
+comentada. São Paulo: Ed. RT, 2018. p. 150.
+[12]
+ A Organização Mundial de Saúde (OMS) decretou a pandemia em 11 de março de 2020
+(
+https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-
+remarks-at-the-media-briefing-on-covid-19---11-march-2020
+) e o seu encerramento em 5
+de maio de 2023 (
+https://www.who.int/director-general/speeches/detail/who-director-
+general-s-opening-remarks-at-the-media-briefing---5-may-2023
+).
+[13]
+ G1. Volta às aulas presenciais: como será o 2º semestre nas escolas no DF. Matéria de
+21/07/2021. Disponível em 
+https://g1.globo.com/df/distrito-
+federal/noticia/2021/07/21/volta-as-aulas-presenciais-como-sera-o-2o-semestre-nas-
+escolas-no-df.ghtml
+ (incluído neste processo como Anexo 2 Noicia G1 - Volta às aulas
+presenciais (
+0059151
+). Veja novo calendário de volta às aulas presenciais das escolas
+públicas do DF. Matéria de 27/07/2021. Disponível em 
+https://g1.globo.com/df/distrito-
+federal/noticia/2021/07/27/veja-novo-calendario-de-volta-as-aulas-presenciais-das-
+escolas-publicas-do-df.ghtml
+ (incluído neste processo como Anexo 3 Noicia G1 - Veja novo
+calendário volta às aulas (
+0059152
+)).
+[14]
+ G1. Escolas públicas do DF voltam às aulas 100% presenciais. Matéria de 03/11/2021.
+Disponível em 
+https://g1.globo.com/df/distrito-federal/noticia/2021/11/03/escolas-
+publicas-do-df-voltam-as-aulas-100percent-presenciais.ghtml
+ (incluído neste processo
+como Anexo 4 Notícia G1 - Escolas públicas do DF presencial (
+0059154
+)).
+[15]
+ Este Relatório de Instrução adota força maior e caso fortuito como sinônimos, tal qual
+vem sido feito por parte da doutrina (ver PETEFFI DA SILVA, RAFAEL. Caso fortuito ou de
+força maior: elementos estruturantes e aplicabilidade em tempos de Covid-19. In:
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 34
+[PAGINA 35]
+CARVALHOSA, Modesto; KUYVEN, Fernando. (Org.). Impactos Jurídicos e Econômicos da
+Covid-19. 1ed.São Paulo: Revista dos Tribunais, 2020. Página RB-7.1. É essencial reforçar
+que o caso fortuito ou de força maior é uma categoria relacional, situada no tempo e no
+espaço, sendo necessário avaliar a sua ocorrência no caso concreto (PETEFFI DA SILVA,
+RAFAEL. Caso fortuito ou de força maior: elementos estruturantes e aplicabilidade em
+tempos de Covid-19. In: CARVALHOSA, Modesto; KUYVEN, Fernando. (Org.). Impactos
+Jurídicos e Econômicos da Covid-19. 1ed. São Paulo: Revista dos Tribunais, 2020. Página RB-
+7.1).
+Documento assinado eletronicamente por 
+Gabriella Vieira Oliveira
+Goncalves
+, 
+Assessor(a)
+, em 26/01/2024, às 09:39, conforme horário oficial
+de Brasília, com fundamento no art. 6º, § 1º, do 
+Decreto nº 8.539, de 8 de
+outubro de 2015
+.
+Documento assinado eletronicamente por 
+Ulliana Cervigni Martinelli
+,
+Coordenador(a), Substituto(a)
+, em 26/01/2024, às 09:41, conforme horário
+oficial de Brasília, com fundamento no art. 6º, § 1º, do 
+Decreto nº 8.539, de
+8 de outubro de 2015
+.
+A autenticidade deste documento pode ser conferida no site 
+https://anpd-
+super.mj.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+, informando o
+código verificador 
+0057714
+ e o código CRC 
+B2898BDA
+.
+SCN Quadra 06, Conjunto A, Ed. Venâncio 3000, Bloco A, 9º andar, 
+- Bairro Asa Norte, Brasília/DF, CEP 70716-900
+Telefone: (61) 2025-8168 e Fax: @fax_unidade@ 
+- https://www.gov.br/anpd/pt-br
+Referência:
+ Caso responda a este documento, indicar expressamente o Processo nº
+00261.001192/2022-14
+SEI nº 0057714
+Relatório de Instrução 2 SEEDF (0057714)         SEI 00261.001192/2022-14 / pg. 35

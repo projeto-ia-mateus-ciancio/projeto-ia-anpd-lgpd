@@ -1,0 +1,55 @@
+{
+  "modelo": [
+    "qwen3:8b"
+  ],
+  "rodadas": 2,
+  "extracoes": 20,
+  "consistencia_jaccard_media": 0.9667,
+  "tokens_entrada_medio": 18973,
+  "segundos_medio": 24.9,
+  "llm_media_por_metrica": {
+    "acuracia fase": {
+      "acuracia": 0.5
+    },
+    "acuracia medida corretiva": {
+      "acuracia": 0.9091
+    },
+    "acuracia multa total": {
+      "acuracia": 1.0
+    },
+    "acuracia papel": {
+      "acuracia": 0.6
+    },
+    "acuracia setor": {
+      "acuracia": 0.8
+    },
+    "artigo com inciso": {
+      "precisao": 0.88,
+      "revocacao": 0.9565,
+      "f1": 0.9167
+    },
+    "artigo e sancao": {
+      "precisao": 0.5002,
+      "revocacao": 0.9583,
+      "f1": 0.6573
+    },
+    "artigo infringido": {
+      "precisao": 0.9167,
+      "revocacao": 1.0,
+      "f1": 0.9565
+    }
+  },
+  "regex": {
+    "artigo infringido": {
+      "precisao": 0.8235,
+      "revocacao": 0.6364,
+      "f1": 0.7179
+    },
+    "artigo e sancao": {
+      "precisao": 0.8,
+      "revocacao": 0.6667,
+      "f1": 0.7273
+    }
+  },
+  "erros_total": 48
+}

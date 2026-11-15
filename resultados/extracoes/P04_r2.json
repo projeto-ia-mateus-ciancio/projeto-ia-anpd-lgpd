@@ -1,0 +1,62 @@
+{
+  "id": "P04",
+  "processo": "00261.001963/2022-73",
+  "rodada": 2,
+  "modelo": "qwen3:8b",
+  "versao_prompt": "v1",
+  "entrada": "texto_paginas_selecionadas",
+  "segundos": 12.0,
+  "uso": {
+    "tokens_entrada": 20108,
+    "tokens_saida": 816
+  },
+  "data_utc": "2026-11-15T19:10:42+00:00",
+  "extracao": {
+    "papel": "controlador",
+    "setor": "publico",
+    "fase": "aplicada_em_despacho",
+    "condutas": [
+      {
+        "dispositivo": "art. 48 da LGPD",
+        "descricao": "Não comunicação individualizada aos titulares afetados pelo incidente de segurança",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "multa_diaria",
+            "valor_reais": null
+          },
+          {
+            "tipo": "multa_simples",
+            "valor_reais": null
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "A comunicação do incidente de segurança por meio de informação pública no site não assegura que todos os usuários afetados venham a tomar conhecimento do ocorrido. Por isso a necessidade de comunicação individual, direta e personalizada, conforme determinado e reiterado pela CGF. A ausência de CIS individual prejudica o alcance da comunicação, e resulta na ausência de adoção de cuidado qualificado por parte de tais titulares; na diminuição da probabilidade de um titular exigir mais segurança da controladora de dados ora autuada; e na maior dificuldade de o titular de exercer seus direitos perante tal, que deve agir de modo a evitar o uso indevido de tamanho volume de dados, em especial pelo envolvimento de dados de saúde e de crianças e adolescentes."
+      },
+      {
+        "dispositivo": "art. 49 da LGPD",
+        "descricao": "Não utilização de sistemas que atendam aos requisitos de segurança, aos padrões de boas práticas e de governança e aos princípios gerais previstos na LGPD",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          },
+          {
+            "tipo": "multa_diaria",
+            "valor_reais": null
+          },
+          {
+            "tipo": "multa_simples",
+            "valor_reais": null
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "A autuada informou que adotava as seguintes medidas de segurança como medidas preventivas à ocorrência do incidente: [...] Ocorre que as medidas indicadas não foram observadas, pois a planilha pôde ser acessada irrestritamente, no próprio site da Secretaria e sem que houvesse uso de quaisquer tipos de controle de acesso."
+      }
+    ],
+    "evidencia_papel": "A SAS é considerada agente regulado pela ANPD, haja vista ser um agente de tratamento – no caso, controladora (item [6.3]). Cumpre especificar os deveres a que os agentes regulados estão submetidos: Art. 5º Os agentes regulados submetem-se à fiscalização da ANPD e têm os seguintes deveres, dentre outros: I - fornecer cópia de documentos, físicos ou digitais, dados e informações relevantes para a avaliação das atividades de tratamento de dados pessoais, no prazo, local, formato e demais condições estabelecidas pela ANPD; II - permitir o acesso às instalações, equipamentos, aplicações, facilidades, sistemas, ferramentas e recursos tecnológicos, documentos, dados e informações de natureza técnica, operacional e outras relevantes para a avaliação das atividades de tratamento de dados pessoais, em seu poder ou em poder de terceiros; III - possibilitar que a ANPD tenha conhecimento dos sistemas de informação utilizados para tratamento de dados pessoais."
+  }
+}

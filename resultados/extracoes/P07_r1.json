@@ -1,0 +1,70 @@
+{
+  "id": "P07",
+  "processo": "00261.001886/2022-51",
+  "rodada": 1,
+  "modelo": "qwen3:8b",
+  "versao_prompt": "v1",
+  "entrada": "texto_paginas_selecionadas",
+  "segundos": 14.2,
+  "uso": {
+    "tokens_entrada": 19043,
+    "tokens_saida": 601
+  },
+  "data_utc": "2026-11-15T19:11:50+00:00",
+  "extracao": {
+    "papel": "controlador",
+    "setor": "publico",
+    "fase": "aplicada_em_despacho",
+    "condutas": [
+      {
+        "dispositivo": "LGPD, art. 38",
+        "descricao": "Não apresentação do Relatório de Impacto à Proteção de Dados Pessoais (RIPD) após solicitação da ANPD.",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "Art. 38. Controlador não apresentou RIPD após solicitação da ANPD."
+      },
+      {
+        "dispositivo": "LGPD, art. 48",
+        "descricao": "Não apresentação do Comunicado Individual ao Titular (CIS) em prazo razoável.",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "Art. 48. Controlador não apresentou CIS ao titular em prazo razoável."
+      },
+      {
+        "dispositivo": "LGPD, art. 49",
+        "descricao": "Sistema não atendeu aos requisitos de segurança.",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "Art. 49. Sistema não atendeu aos requisitos de segurança."
+      },
+      {
+        "dispositivo": "Regulamento de Fiscalização, art. 5º, I",
+        "descricao": "Não apresentação dos documentos requisitados pela ANPD.",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "Art. 5º, I. Agente de tratamento não apresentou documentos requisitados pela ANPD."
+      }
+    ],
+    "evidencia_papel": "Art. 38. Controlador não apresentou RIPD após solicitação da ANPD.\nArt. 48. Controlador não apresentou CIS ao titular em prazo razoável.\nArt. 49. Sistema não atendeu aos requisitos de segurança.\nArt. 5º, I. Agente de tratamento não apresentou documentos requisitados pela ANPD."
+  }
+}

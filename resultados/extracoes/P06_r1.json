@@ -1,0 +1,46 @@
+{
+  "id": "P06",
+  "processo": "00261.001888/2023-21",
+  "rodada": 1,
+  "modelo": "qwen3:8b",
+  "versao_prompt": "v1",
+  "entrada": "texto_paginas_selecionadas",
+  "segundos": 19.8,
+  "uso": {
+    "tokens_entrada": 20346,
+    "tokens_saida": 950
+  },
+  "data_utc": "2026-11-15T19:11:22+00:00",
+  "extracao": {
+    "papel": "controlador",
+    "setor": "publico",
+    "fase": "sugerida_no_relatorio",
+    "condutas": [
+      {
+        "dispositivo": "LGPD, art. 48",
+        "descricao": "Ausência de comunicação de incidente de segurança aos titulares",
+        "sancoes": [
+          {
+            "tipo": "publicizacao",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "O INSS, tendo em vista que foi condenado pela Autoridade Nacional de Proteção de Dados por infração ao dever de comunicar os titulares a ocorrência de incidente de segurança, comunica que tomou conhecimento da ocorrência de incidente de segurança entre os meses de agosto de setembro de 2022. O incidente pode ter comprometido a confidencialidade dos dados pessoais tratados pelo INSS por conta de acesso a volume extraordinário de dados por meio de consultas volumétricas ao sistema. Dentre os dados que podem ter sido afetados, estariam dados de comprovação de identidade oficial, dados financeiros e de saúde (tais como nome, CPF, NIT, identidade, data de nascimento, sexo, ramo de atividade profissional, dados bancários e quantidade de dependentes) de um número indeterminado de beneficiários e segurados do INSS, o que poderia acarretar o risco de furto de identidade, fraudes, assédios comerciais, entre outros danos."
+      },
+      {
+        "dispositivo": "RFANPD, art. 32, §2º",
+        "descricao": "Falta de atendimento de medida preventiva determinada pela ANPD",
+        "sancoes": [
+          {
+            "tipo": "publicizacao",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "O INSS, tendo em vista que foi condenado pela Autoridade Nacional de Proteção de Dados por infração ao dever de comunicar os titulares a ocorrência de incidente de segurança, comunica que tomou conhecimento da ocorrência de incidente de segurança entre os meses de agosto de setembro de 2022. O incidente pode ter comprometido a confidencialidade dos dados pessoais tratados pelo INSS por conta de acesso a volume extraordinário de dados por meio de consultas volumétricas ao sistema. Dentre os dados que podem ter sido afetados, estariam dados de comprovação de identidade oficial, dados financeiros e de saúde (tais como nome, CPF, NIT, identidade, data de nascimento, sexo, ramo de atividade profissional, dados bancários e quantidade de dependentes) de um número indeterminado de beneficiários e segurados do INSS, o que poderia acarretar o risco de furto de identidade, fraudes, assédios comerciais, entre outros danos."
+      }
+    ],
+    "evidencia_papel": "O INSS, tendo em vista que foi condenado pela Autoridade Nacional de Proteção de Dados por infração ao dever de comunicar os titulares a ocorrência de incidente de segurança, comunica que tomou conhecimento da ocorrência de incidente de segurança entre os meses de agosto de setembro de 2022. O incidente pode ter comprometido a confidencialidade dos dados pessoais tratados pelo INSS por conta de acesso a volume extraordinário de dados por meio de consultas volumétricas ao sistema. Dentre os dados que podem ter sido afetados, estariam dados de comprovação de identidade oficial, dados financeiros e de saúde (tais como nome, CPF, NIT, identidade, data de nascimento, sexo, ramo de atividade profissional, dados bancários e quantidade de dependentes) de um número indeterminado de beneficiários e segurados do INSS, o que poderia acarretar o risco de furto de identidade, fraudes, assédios comerciais, entre outros danos."
+  }
+}

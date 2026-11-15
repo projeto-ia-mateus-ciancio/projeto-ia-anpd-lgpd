@@ -1,0 +1,58 @@
+{
+  "id": "P02",
+  "processo": "00261.000456/2022-12",
+  "rodada": 1,
+  "modelo": "qwen3:8b",
+  "versao_prompt": "v1",
+  "entrada": "texto_paginas_selecionadas",
+  "segundos": 14.0,
+  "uso": {
+    "tokens_entrada": 17800,
+    "tokens_saida": 554
+  },
+  "data_utc": "2026-11-15T19:09:46+00:00",
+  "extracao": {
+    "papel": "controlador",
+    "setor": "publico",
+    "fase": "sugerida_no_relatorio",
+    "condutas": [
+      {
+        "dispositivo": "LGPD, art. 23, III",
+        "descricao": "falta de comprovação da indicação do encarregado de dados pessoais",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "a autuada infringiu os arts. 23, III e 38 da LGPD, ensejando a aplicação de 2 (duas) sanções de advertência, cumulada com 2 medidas corretivas para o caso da infringência ao art. 38, LGPD."
+      },
+      {
+        "dispositivo": "LGPD, art. 38",
+        "descricao": "não apresentar RIPD após solicitação da ANPD",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "a autuada infringiu os arts. 23, III e 38 da LGPD, ensejando a aplicação de 2 (duas) sanções de advertência, cumulada com 2 medidas corretivas para o caso da infringência ao art. 38, LGPD."
+      },
+      {
+        "dispositivo": "LGPD, art. 48",
+        "descricao": "não comunicar à autoridade nacional e ao titular a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares",
+        "sancoes": [
+          {
+            "tipo": "advertencia",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "a autuada infringiu os arts. 23, III e 38 da LGPD, ensejando a aplicação de 2 (duas) sanções de advertência, cumulada com 2 medidas corretivas para o caso da infringência ao art. 38, LGPD."
+      }
+    ],
+    "evidencia_papel": "Ministério da Saúde (MS)"
+  }
+}

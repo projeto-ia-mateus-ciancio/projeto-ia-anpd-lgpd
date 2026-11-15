@@ -1,0 +1,84 @@
+{
+  "processos": 10,
+  "documentos": 11,
+  "por_setor": {
+    "Publico": 8,
+    "Privado": 2
+  },
+  "por_ano": {
+    "2023": 4,
+    "2024": 5,
+    "2026": 1
+  },
+  "qualidade_n1": {
+    "motivo_resumido": {
+      "preenchido": 2,
+      "pendente, inferido ou desatualizado": 8
+    },
+    "artigo_lgpd_citado": {
+      "preenchido": 1,
+      "pendente, inferido ou desatualizado": 9
+    },
+    "tipo_sancao": {
+      "preenchido": 2,
+      "pendente, inferido ou desatualizado": 8
+    }
+  },
+  "paginas_total": 360,
+  "paginas_mediana": 35.0,
+  "paginas_min": 5,
+  "paginas_max": 78,
+  "caracteres_total": 909149,
+  "digitalizados": [],
+  "artigos_mais_mencionados": {
+    "art. 48": 204,
+    "art. 49": 74,
+    "art. 55": 65,
+    "art. 38": 51,
+    "art. 52": 43
+  },
+  "similaridade_media": 0.071,
+  "linhas_gabarito": 25,
+  "dispositivos_por_processo_media": 2.44,
+  "artigos_infringidos": {
+    "LGPD art. 48": 6,
+    "LGPD art. 49": 4,
+    "LGPD art. 38": 3,
+    "RFANPD art. 5": 3,
+    "LGPD art. 7": 2,
+    "LGPD art. 6": 1,
+    "LGPD art. 23": 1,
+    "LGPD art. 37": 1,
+    "LGPD art. 41": 1
+  },
+  "sancoes_por_setor": {
+    "advertencia": {
+      "Privado": 1,
+      "Publico": 16
+    },
+    "eliminacao": {
+      "Privado": 1,
+      "Publico": 0
+    },
+    "multa_diaria": {
+      "Privado": 1,
+      "Publico": 0
+    },
+    "multa_simples": {
+      "Privado": 5,
+      "Publico": 0
+    },
+    "publicizacao": {
+      "Privado": 0,
+      "Publico": 1
+    }
+  },
+  "medida_corretiva": {
+    "nao": 17,
+    "sim": 8
+  },
+  "multa_por_processo": {
+    "P01": 153906752.82,
+    "P10": 14400.0
+  }
+}

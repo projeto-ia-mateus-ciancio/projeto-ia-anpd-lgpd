@@ -1,0 +1,26 @@
+﻿id,processo,entidade,setor,ano_lista,papel,fase,dispositivo,tipo_sancao,valor_reais,medida_corretiva,pagina_pdf
+P01,00261.006648/2024-02,ByteDance Brasil Tecnologia Ltda,Privado,2026,controlador,aplicada_em_despacho,LGPD art. 7,multa_simples,63176686.67,nao,1
+P01,00261.006648/2024-02,ByteDance Brasil Tecnologia Ltda,Privado,2026,controlador,aplicada_em_despacho,LGPD art. 7,eliminacao,,nao,2
+P01,00261.006648/2024-02,ByteDance Brasil Tecnologia Ltda,Privado,2026,controlador,aplicada_em_despacho,LGPD art. 7,multa_diaria,137081.49,nao,3
+P01,00261.006648/2024-02,ByteDance Brasil Tecnologia Ltda,Privado,2026,controlador,aplicada_em_despacho,"LGPD art. 6, VIII",multa_simples,63176686.67,nao,2
+P01,00261.006648/2024-02,ByteDance Brasil Tecnologia Ltda,Privado,2026,controlador,aplicada_em_despacho,"LGPD art. 6, X",multa_simples,27416297.99,nao,2
+P02,00261.000456/2022-12,Ministerio da Saude,Publico,2024,controlador,sugerida_no_relatorio,"LGPD art. 23, III",advertencia,,nao,42
+P02,00261.000456/2022-12,Ministerio da Saude,Publico,2024,controlador,sugerida_no_relatorio,LGPD art. 38,advertencia,,sim,42
+P03,00261.001882/2022-73,Ministerio da Saude,Publico,2024,controlador,sugerida_no_relatorio,LGPD art. 48,advertencia,,sim,49
+P03,00261.001882/2022-73,Ministerio da Saude,Publico,2024,controlador,sugerida_no_relatorio,LGPD art. 49,advertencia,,sim,49
+P04,00261.001963/2022-73,Secretaria de Assistencia Social de Pernambuco,Publico,2024,controlador,sugerida_no_relatorio,LGPD art. 48,advertencia,,sim,13
+P04,00261.001963/2022-73,Secretaria de Assistencia Social de Pernambuco,Publico,2024,controlador,sugerida_no_relatorio,LGPD art. 49,advertencia,,sim,14
+P05,00261.001192/2022-14,Secretaria de Educacao do Distrito Federal,Publico,2024,controlador,sugerida_no_relatorio,LGPD art. 37,advertencia,,nao,32
+P05,00261.001192/2022-14,Secretaria de Educacao do Distrito Federal,Publico,2024,controlador,sugerida_no_relatorio,LGPD art. 38,advertencia,,nao,32
+P05,00261.001192/2022-14,Secretaria de Educacao do Distrito Federal,Publico,2024,controlador,sugerida_no_relatorio,LGPD art. 48,advertencia,,nao,32
+P05,00261.001192/2022-14,Secretaria de Educacao do Distrito Federal,Publico,2024,controlador,sugerida_no_relatorio,RFANPD art. 5,advertencia,,nao,32
+P06,00261.001888/2023-21,Instituto Nacional do Seguro Social,Publico,2024,controlador,sugerida_no_relatorio,LGPD art. 48,publicizacao,,nao,33
+P07,00261.001886/2022-51,Secretaria de Saude de Santa Catarina,Publico,2023,controlador,sugerida_no_relatorio,LGPD art. 38,advertencia,,nao,17
+P07,00261.001886/2022-51,Secretaria de Saude de Santa Catarina,Publico,2023,controlador,sugerida_no_relatorio,LGPD art. 48,advertencia,,sim,17
+P07,00261.001886/2022-51,Secretaria de Saude de Santa Catarina,Publico,2023,controlador,sugerida_no_relatorio,LGPD art. 49,advertencia,,nao,17
+P07,00261.001886/2022-51,Secretaria de Saude de Santa Catarina,Publico,2023,controlador,sugerida_no_relatorio,RFANPD art. 5,advertencia,,nao,17
+P09,00261.001969/2022-41,IAMSPE - SP,Publico,2023,controlador,aplicada_em_despacho,LGPD art. 48,advertencia,,sim,1
+P09,00261.001969/2022-41,IAMSPE - SP,Publico,2023,controlador,aplicada_em_despacho,LGPD art. 49,advertencia,,sim,2
+P10,00261.000489/2022-62,Telekall Inforservice,Privado,2023,controlador,aplicada_em_despacho,LGPD art. 41,advertencia,,nao,66
+P10,00261.000489/2022-62,Telekall Inforservice,Privado,2023,controlador,aplicada_em_despacho,LGPD art. 7,multa_simples,7200,nao,66
+P10,00261.000489/2022-62,Telekall Inforservice,Privado,2023,controlador,aplicada_em_despacho,RFANPD art. 5,multa_simples,7200,nao,66

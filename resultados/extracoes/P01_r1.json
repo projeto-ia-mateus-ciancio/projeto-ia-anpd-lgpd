@@ -1,0 +1,86 @@
+{
+  "id": "P01",
+  "processo": "00261.006648/2024-02",
+  "rodada": 1,
+  "modelo": "qwen3:8b",
+  "versao_prompt": "v1",
+  "entrada": "texto_paginas_selecionadas",
+  "segundos": 73.7,
+  "uso": {
+    "tokens_entrada": 20117,
+    "tokens_saida": 1032
+  },
+  "data_utc": "2026-11-15T19:09:17+00:00",
+  "extracao": {
+    "papel": "nao_informado",
+    "setor": "publico",
+    "fase": "sugerida_no_relatorio",
+    "condutas": [
+      {
+        "dispositivo": "LGPD, art. 7º",
+        "descricao": "Tratar dados pessoais de crianças e de adolescentes menores de 18 anos sem a existência de hipótese legal válida com a finalidade de fornecer a experiência do 'feed sem cadastro'",
+        "sancoes": [
+          {
+            "tipo": "multa_simples",
+            "valor_reais": 35760388.68
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "Conduta 1: tratar dados pessoais de crianças e de adolescentes menores de 18 anos sem a existência de hipótese legal válida com a finalidade de fornecer a experiência do “feed sem cadastro” – art. 7º da LGPD."
+      },
+      {
+        "dispositivo": "LGPD, art. 6º, VIII",
+        "descricao": "Deixar de adotar medidas para prevenir o tratamento de dados pessoais de crianças e adolescentes menores de 13 (treze) na experiência do 'feed sem cadastro'",
+        "sancoes": [
+          {
+            "tipo": "multa_simples",
+            "valor_reais": 35760388.68
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "Conduta 2: deixar de adotar medidas para prevenir o tratamento de dados pessoais de crianças e adolescentes menores de 13 (treze) na experiência do “feed sem cadastro” – art. 6º, VIII, da LGPD."
+      },
+      {
+        "dispositivo": "LGPD, art. 7º",
+        "descricao": "Tratar dados pessoais de crianças e de adolescentes menores de 18 anos com a finalidade de realizar o cadastro na plataforma TikTok sem hipótese legal válida, diante da inexistência de um contrato válido",
+        "sancoes": [
+          {
+            "tipo": "multa_simples",
+            "valor_reais": 27416297.99
+          },
+          {
+            "tipo": "eliminacao",
+            "valor_reais": 0.0
+          }
+        ],
+        "medida_corretiva": true,
+        "evidencia": "Conduta 3: tratar dados pessoais de crianças e de adolescentes menores de 18 anos com a finalidade de realizar o cadastro na plataforma Tiktok sem hipótese legal válida, diante da inexistência de um contrato válido – art. 7º da LGPD."
+      },
+      {
+        "dispositivo": "LGPD, art. 6º, VIII",
+        "descricao": "Deixar de adotar medidas eficazes para prevenir o cadastro de crianças e adolescentes menores de 13 (treze) anos à plataforma TikTok",
+        "sancoes": [
+          {
+            "tipo": "multa_simples",
+            "valor_reais": 27416297.99
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "Conduta 4: deixar de adotar medidas eficazes para prevenir o cadastro de crianças e adolescentes menores de 13 (treze) anos à plataforma TikTok – art. 6º, VIII da LGPD."
+      },
+      {
+        "dispositivo": "LGPD, art. 6º, X",
+        "descricao": "Deixar de demonstrar medidas eficazes e capazes de comprovar a observância e o cumprimento de normas de proteção de dados",
+        "sancoes": [
+          {
+            "tipo": "multa_simples",
+            "valor_reais": 27416297.99
+          }
+        ],
+        "medida_corretiva": false,
+        "evidencia": "Conduta 5: deixar de demonstrar medidas eficazes e capazes de comprovar a observância e o cumprimento de normas de proteção de dados - Art. 6º, X da LGPD."
+      }
+    ],
+    "evidencia_papel": "não_informado"
+  }
+}

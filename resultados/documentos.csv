@@ -1,0 +1,12 @@
+﻿id,arquivo,tipo_doc,paginas,caracteres,caracteres_por_pagina,tem_camada_de_texto
+P01,P01_relatorio.pdf,relatorio,42,147281,3506.7,True
+P01,P01_despacho.pdf,despacho,5,7123,1424.6,True
+P02,P02_relatorio.pdf,relatorio,44,91626,2082.4,True
+P03,P03_relatorio.pdf,relatorio,55,119344,2169.9,True
+P04,P04_relatorio.pdf,relatorio,15,76202,5080.1,True
+P05,P05_relatorio.pdf,relatorio,35,74259,2121.7,True
+P06,P06_relatorio.pdf,relatorio,37,85060,2298.9,True
+P07,P07_relatorio.pdf,relatorio,17,57464,3380.2,True
+P08,P08_relatorio.pdf,relatorio,9,23876,2652.9,True
+P09,P09_relatorio.pdf,relatorio,23,74426,3235.9,True
+P10,P10_relatorio.pdf,relatorio,78,152488,1955.0,True

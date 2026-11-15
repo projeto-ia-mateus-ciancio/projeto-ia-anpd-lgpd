@@ -1,0 +1,22 @@
+{
+  "id": "P08",
+  "processo": "00261.000574/2022-21",
+  "rodada": 2,
+  "modelo": "qwen3:8b",
+  "versao_prompt": "v1",
+  "entrada": "texto_paginas_selecionadas",
+  "falha_do_modelo": true,
+  "segundos": 107.5,
+  "uso": {
+    "tokens_entrada": null,
+    "tokens_saida": null
+  },
+  "data_utc": "2026-11-15T19:23:47+00:00",
+  "extracao": {
+    "papel": "nao_informado",
+    "setor": "publico",
+    "fase": "sugerida_no_relatorio",
+    "condutas": [],
+    "evidencia_papel": ""
+  }
+}
